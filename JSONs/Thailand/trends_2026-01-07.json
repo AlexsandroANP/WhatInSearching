@@ -1,0 +1,283 @@
+[
+  {
+    "title": "กรมทางหลวง",
+    "traffic_num": 200,
+    "pub_date": "2026-01-07T00:30:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOS6qUOCOFJuBfpI7-IPQiugG02v3ELWKfrBJvcc0YQdCHbZsMpzasvm6_iQ",
+    "news": [
+      {
+        "title": "ครม.ไฟเขียวสร้างมอเตอร์เวย์ สาย 9 ด้านตะวันตกช่วงบางบัวทอง​ -​ บางปะอิน มูลค่ากว่า 5.6 หมื่นล้าน",
+        "url": "https://www.thaipost.net/general-news/926750/",
+        "source": "ไทยโพสต์",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFOS6qUOCOFJuBfpI7-IPQiugG02v3ELWKfrBJvcc0YQdCHbZsMpzasvm6_iQ"
+      },
+      {
+        "title": "ครม.ไฟเขียวก่อสร้างโครงการทางหลวงพิเศษ M9 วงเงิน 1.5 หมื่นล้าน | ประชาชาติธุรกิจ",
+        "url": "https://today.line.me/th/v3/article/nXPBJRo",
+        "source": "LINE TODAY",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JgQFBR7Fx6q2WDPjI85Le_QTQibgxlXd3sQpADE2A7hx8Ko1p7A_xfdncOU"
+      },
+      {
+        "title": "ครม. ไฟเขียว \"มอเตอร์เวย์ M9 บางบัวทอง-บางปะอิน\" 1.5 หมื่นล้าน",
+        "url": "https://www.posttoday.com/smart-city/736031",
+        "source": "posttoday",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0FaaQNT1EvWUQP4pFtWob9qI-44ad1pMA0S6eHXwQgTpro8vun7PFCNA3PaQ"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "แองเจลิน่าโจลี่",
+    "traffic_num": 200,
+    "pub_date": "2026-01-07T00:10:00-08:00",
+    "picture": "",
+    "news": [],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "เกรซชลิตา",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-06T23:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv_6ovwuT_bmauzMQGLJIMw57vt6hUmnyECAsRvjRrWCJJ7nACG4ApEVp21gQ",
+    "news": [
+      {
+        "title": "แห่ยินดี ดาราสาว เตรียมวิวาห์อีกคู่ ไฮโซหนุ่มตระกูลดัง คุกเข่าขอแต่งงานกลางหิมะ",
+        "url": "https://www.khaosod.co.th/entertainment/news_10088803",
+        "source": "ข่าวสด",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv_6ovwuT_bmauzMQGLJIMw57vt6hUmnyECAsRvjRrWCJJ7nACG4ApEVp21gQ"
+      },
+      {
+        "title": "ว่าที่เจ้าสาวหมื่นล้าน \"เกรซ ชลิตา\" แฟนหนุ่ม \"ไฮโซอาร์ต\" เซอร์ไพรส์ขอแต่งงาน",
+        "url": "https://www.sanook.com/news/9866722/",
+        "source": "Sanook",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM01CRtdl6Gzd8QL6WlsNT10GRJjsbYeL5GDYk5ISVF-zuYNfmCx86LqNgwpQ"
+      },
+      {
+        "title": "แหวนเพชรเม็ดเป้ง! “เกรซ ชลิตา” ถูกแฟนทายาทตระกูลดัง “อาร์ต อิทธิโชติ” คุกเข่าขอแต่งงานกลางหิมะ",
+        "url": "https://mgronline.com/entertainment/detail/9690000001747",
+        "source": "ผู้จัดการออนไลน์",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfw4N8v2PUr02zOaZDfgvYMEiUU4nrSZA8lFFWW-iTSeKdCbeMP7-4bgxzPK8"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "ตลาดหลักทรัพย์",
+    "traffic_num": 200,
+    "pub_date": "2026-01-06T21:30:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP9SWBefCTCPy_e1bA_NXudeMIdJIGuv3DJZ7AZTgrqN7W7XdP16lG3chQwCk",
+    "news": [
+      {
+        "title": "เด็กแนว (เช้า) ” TFG” กอดหุ้นปันผลเด่นสักตัว",
+        "url": "https://www.mitihoon.com/2026/01/06/607637/",
+        "source": "มิติหุ้น",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP9SWBefCTCPy_e1bA_NXudeMIdJIGuv3DJZ7AZTgrqN7W7XdP16lG3chQwCk"
+      },
+      {
+        "title": "ทำไม TFG หลุด SETESG ? กับบททดสอบบรรษัทภิบาล เมื่อคดีเก่าย้อนศรัทธานักลงทุน",
+        "url": "https://www.posttoday.com/business/stockholder/736094",
+        "source": "posttoday",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX0qweTYkXOmFOdQT6uJdHkQsrUQl4ZcdCLxSiiwih6Il_Or-rObzd_Lkr6IE"
+      },
+      {
+        "title": "ก.ล.ต. ปรับ “วินัย เตียวสมบูรณ์กิจ” และพวก 1.2 พันล้าน พบใช้ข้อมูลภายในซื้อขายหุ้น TFG ช่วงปี 59",
+        "url": "https://www.bangkokbiznews.com/finance/stock/1214440",
+        "source": "bangkokbiznews",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRElXpjAvPOmHjOMLHq11O1SbRz2OI5Mfv9Ku2AoNNvqNygz7aqsKotpEVvyGk"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "วิสุทธิ์ไชยณรุณ",
+    "traffic_num": 100,
+    "pub_date": "2026-01-06T21:30:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeQD-4VcxVcaDPjTIZC8DMPDbRp1R0w9VGTo9aEBEbRmP_80TBSnonxP2oAM",
+    "news": [
+      {
+        "title": "เจาะสนามเลือกตั้ง : คลิปเสียงหลุด สาวอ้างติดคุกแทนนักการเมืองดัง",
+        "url": "https://news.ch7.com/detail/848526",
+        "source": "Ch7.com",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeQD-4VcxVcaDPjTIZC8DMPDbRp1R0w9VGTo9aEBEbRmP_80TBSnonxP2oAM"
+      },
+      {
+        "title": "'วิสุทธิ์'แจงคลิปเสียง บอกรู้จักผู้หญิงจริง แต่ยัน!ไม่ได้ทำแบบนั้น",
+        "url": "https://www.naewna.com/politic/938963",
+        "source": "แนวหน้า",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmQDutGYbgn7Csd6oSg8H0tdOKqraFP_lQ_eRvJlKA5wK1qZ1KJZ2ICEWh1xM"
+      },
+      {
+        "title": "Ch7HD",
+        "url": "https://www.facebook.com/Ch7HD/photos/d41d8cd9/1456914752468049/",
+        "source": "Facebook",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzNEM8yQREVQKKA5h0V3OolcHA-gY4xgVSoUNC7F80nZcDU1iWge1uWS1uC6E"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "greenland",
+    "traffic_num": 100,
+    "pub_date": "2026-01-06T21:30:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOkMsWhVQYBW6n7KXaT3oJMuXIZ8ctMIP0XCKHsDCNYfR0sULhNuqaMCKEbtU",
+    "news": [
+      {
+        "title": "US discussing options to acquire Greenland, including use of military - White House",
+        "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOkMsWhVQYBW6n7KXaT3oJMuXIZ8ctMIP0XCKHsDCNYfR0sULhNuqaMCKEbtU"
+      },
+      {
+        "title": "Europe scrambles to respond to US moves towards ‘acquiring’ Greenland – latest updates",
+        "url": "https://www.theguardian.com/world/live/2026/jan/07/europe-greenland-denmark-us-france-trade-weather-latest-news-updates",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRjb1tGkP16V9DI6JSRX2GHKnNp940Isba5oKsE470NISfHvD-mTwSbnnoKg0"
+      },
+      {
+        "title": "Trump latest: European leaders vow to defend Greenland - after White House says US military action 'always an option'",
+        "url": "https://news.sky.com/story/greenland-trump-white-house-live-venezuela-maduro-capture-strikes-colombia-latest-13489831",
+        "source": "Sky News",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE7OK8fQBgTL8h5_bJidXqUj9P_mSrMs9X2ZqaIS9PgMQdss1uIfyA4o6Nf4s"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "kawthoolei",
+    "traffic_num": 500,
+    "pub_date": "2026-01-06T21:20:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqjFVpLaLK9vvIMbXIvdevSYLB5CPS0MIXSf9AASQQDiUnnM8H4VDUgUva6dI",
+    "news": [
+      {
+        "title": "Gen. Nerdah Mya declares ‘Republic of Kawthoolei’ announces independence from Myanmar",
+        "url": "https://www.khaosodenglish.com/news/international/2026/01/07/gen-nerdah-mya-declares-republic-of-kawthoolei-announces-independence-from-myanmar/",
+        "source": "Khaosod English",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqjFVpLaLK9vvIMbXIvdevSYLB5CPS0MIXSf9AASQQDiUnnM8H4VDUgUva6dI"
+      },
+      {
+        "title": "ต่างประเทศ - กะเหรี่ยง ประกาศอิสรภาพ ปลดแอกจากพม่า สถาปนา สาธารณรัฐกอทูเลย์",
+        "url": "https://www.naewna.com/inter/939229",
+        "source": "แนวหน้า",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8N7dplH1Q1fNuQzpBWq_o0MAqdxBkKsNSqFSsorZFQmlSC7Y3-b01qrXZyvE"
+      },
+      {
+        "title": "ลูกชายอดีตผู้นำสหภาพกะเหรี่ยงสถาปนา “สาธารณรัฐกอทูเล” เป็นไทจากเมียนมา!",
+        "url": "https://www.pptvhd36.com/news/%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/265438",
+        "source": "pptvhd36",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5WfNvweXG9SDXjV7fDKz_y6LFD2jYH9Bw4MJ3jdbKBFNDmlzDlrhnU1FMfx0"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "อนุชาติ พวงสำลี",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-06T21:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnIBezxtzzlaZeLoAWoBR6m7bmQ35x5D5P1I6PaIOPOUBbm4Z4mWJkIZ7BeXo",
+    "news": [
+      {
+        "title": "ประวัติ “มุนินทร์ พงศาปาน” อดีตคณบดีนิติศาสตร์ มธ. สู่แคนดิเดต รมว.ยุติธรรม พรรคประชาชน",
+        "url": "https://www.thairath.co.th/news/politic/2906241",
+        "source": "Thairath.co.th",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnIBezxtzzlaZeLoAWoBR6m7bmQ35x5D5P1I6PaIOPOUBbm4Z4mWJkIZ7BeXo"
+      },
+      {
+        "title": "พรรคประชาชนเปิดตัวทีมบริหารคนที่ 3 ปลดล็อกการศึกษาไทย ไม่ให้เป็นความทุกข์ของชาติ",
+        "url": "https://today.line.me/th/v3/article/PG7vORM",
+        "source": "LINE TODAY",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzspbpj3Xc8IPdCIjIxjzeaUjBT1_yncJFo68Mt5FNEVXjKy2GERHG8F9gW8Y"
+      },
+      {
+        "title": "‘ส้ม’ ผสม ‘เทคโนแครต’ ลดเพดาน ชิงเสียง ‘คนกลาง’ สู้ ‘ค่ายน้ำเงิน’",
+        "url": "https://www.bangkokbiznews.com/politics/1215437",
+        "source": "bangkokbiznews",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsMwfdO_9Hpi9nQD-ieV1lHCPtWwKquZwtBEiuhz3FZlKI4Rdz8mCsFJXmJkw"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "pubg",
+    "traffic_num": 500,
+    "pub_date": "2026-01-06T20:40:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzwF64CBwjveC6__Nf44NlCgqPi0YTMkZ0AbYxajI6wdgyT7nziGXYXEqSE9U",
+    "news": [
+      {
+        "title": "Kulübümüzden PUBG MOBILE ile Özel İş Birliği",
+        "url": "https://www.fenerbahce.org/haberler/kulup/2026/1/kulubumuzden-pubg-mobile-ile-ozel-is-birligi",
+        "source": "Fenerbahçe Spor Kulübü",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzwF64CBwjveC6__Nf44NlCgqPi0YTMkZ0AbYxajI6wdgyT7nziGXYXEqSE9U"
+      },
+      {
+        "title": "3 büyükler bu kez oyunda buluştu",
+        "url": "https://www.sozcu.com.tr/3-buyukler-bu-kez-oyunda-bulustu-p279757",
+        "source": "Sözcü Gazetesi",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRFgOrCPvJpNAuQLW-qoJxZ530ZEIxGCZOgjiiES1tC_ELus7UO83rDOnZSOo"
+      },
+      {
+        "title": "PUBG Mobile Sürüm 4.2 Primewood Genesis'i tanıtıyor ve savaş alanını yeniden şekillendiriyor",
+        "url": "https://tr.egw.news/pubg/news/31681/pubg-mobile-version-42-introduces-primewood-genesi-U2iKx0HF-",
+        "source": "EGW.News",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEEzehQxpzMPDT1i0j6MkKPdUgpX90jK414k38tYrqCHwp4UG7lXP4LxXe7Z8"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "กุนซือแมนยู",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-06T20:40:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmN8R6hcJ82nqK9suTd_jDyJWh4p873C80KYT9sUY5a3nXgcIXTeggqCIQkTU",
+    "news": [
+      {
+        "title": "แบ็กโฟร์คืนชีพ-เมนูคัมแบ็ก! คาดไลน์อัพ แมนยู หาก โซลชา หวนคุมทัพ",
+        "url": "https://www.siamsport.co.th/football-international/premierleague/97708/",
+        "source": "Siamsport",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmN8R6hcJ82nqK9suTd_jDyJWh4p873C80KYT9sUY5a3nXgcIXTeggqCIQkTU"
+      },
+      {
+        "title": "ผู้เล่น 4 คนที่เป็นต้นเหตุของความขัดแย้งระหว่าง Amorim และ MU",
+        "url": "https://www.vietnam.vn/th/4-cau-thu-cham-ngoi-mau-thuan-giua-amorim-va-mu",
+        "source": "Vietnam.vn",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWA19qxRyCjamtiSFJkIcJHE95v0lPOQmSKzW6RWTQ_YnjbPd4MWUHpaug9WQ"
+      },
+      {
+        "title": "เฟลทเชอร์ เผยคุยเซอร์อเล็กซ์ ก่อนตัดสินใจคุมแมนยู ชั่วคราว",
+        "url": "https://www.pptvhd36.com/sport/news/265454",
+        "source": "pptvhd36",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sLnmTuhgWlhg9WFfohn4ExdlRVYo0HKZ_5vf6Gh1w3s9X31w6zEx6_wnO4g"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  }
+]

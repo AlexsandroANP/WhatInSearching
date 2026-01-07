@@ -1,87 +1,237 @@
 [
   {
-    "title": "บิ๊กโจ๊ก",
-    "traffic_num": 200,
-    "pub_date": "2026-01-05T19:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1khMloa9iG-aTMRkGuktn_8RxaLAX6lWxrHHYyosQt6HDp0ja3vikFW-2MA",
-    "news": [
-      {
-        "title": "ตำรวจสอบสวนกลาง แถลงข้อเท็จจริงคดีอดีตนายตำรวจใหญ่ ติดสินบนทองคำแท่งน้ำหนักรวม 246 บาท | สวพ.FM91",
-        "url": "https://today.line.me/th/v3/article/NvVK6Nn",
-        "source": "LINE TODAY",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1khMloa9iG-aTMRkGuktn_8RxaLAX6lWxrHHYyosQt6HDp0ja3vikFW-2MA"
-      },
-      {
-        "title": "ชี้ชะตา บิ๊กโจ๊ก 9 ม.ค. ได้กลับมาเป็นตำรวจหรือไม่ หลังศาลปกครองสูงสุดนัดอ่านคำพิพากษา",
-        "url": "https://www.khaosod.co.th/breaking-news/news_10086717",
-        "source": "ข่าวสด",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8Y3GjXUIK2nwEP17EZm_yOhrD6vF36ijnDvEryncb7xM_3qU4KcAhvxlI0zg"
-      },
-      {
-        "title": "ส่งสำนวน \"บิ๊กโจ๊ก\" ติดสินบน ต่อ ป.ป.ช. | 5 ม.ค. 69",
-        "url": "https://www.thaipbs.or.th/program/News16/episodes/112460",
-        "source": "Thai PBS",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2eNV6wa2yEmXxh1WZk_9LOr7qo8p5F3ShGVkH8TlPlRsLpykBSy4TMuRbXkw"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "พิศาล มาณวพัฒน์",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-05T19:40:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTshSQiFCuwId-w-LyYTW_YR1a2cpDOwmQyOl62HSYJ4HwdKK3YX-9PlOBPQcU",
-    "news": [
-      {
-        "title": "ปชน. เปิดตัวว่าที่รมว.ต่างประเทศ อดีตนักการทูตดัง สว.เสียงข้างน้อยโหวตพิธา นายกฯ",
-        "url": "https://www.matichon.co.th/politics/election69/news_5535361",
-        "source": "มติชนออนไลน์",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTshSQiFCuwId-w-LyYTW_YR1a2cpDOwmQyOl62HSYJ4HwdKK3YX-9PlOBPQcU"
-      },
-      {
-        "title": "ปชน. เปิดตัว “มุนินทร์ พงศาปาน” นั่งแคนดิเดต รมว.ยุติธรรม ชูภารกิจปฏิรูประบบยุติธรรม",
-        "url": "https://www.thairath.co.th/news/politic/2905956",
-        "source": "Thairath.co.th",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3RTx3PNdbt_EaCaHU1yeK0WAisTnXREESwNVfCye-rWy57qP1h-dTjl3BXzI"
-      },
-      {
-        "title": "พรรคประชาชนเปิดตัว “รศ.มุนินทร์” อดีตคณบดี นิติฯ มธ. ว่าที่ รมว.ยธ. | ข่าวเวิร์คพอยท์ 23",
-        "url": "https://today.line.me/th/v3/article/RBWzvOw",
-        "source": "LINE TODAY",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWLv_1_hv9LnezS3eHHo2md5OHCnWRoEtxxIsDmF4xJCn2J6LG07hPY0SeiMw"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "ai",
+    "title": "แอลจีเรีย",
     "traffic_num": 500,
-    "pub_date": "2026-01-05T18:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBsThs4-1ywPvv1R4O_tUlnlwIjDT11iea-oktPJFLrfKg6yZoW3Ey3ekcxhU",
+    "pub_date": "2026-01-06T08:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAEnArBuB7IP_T8SQw4aFzsOTznqTLQw63i3oWfyLTMAO5PGn6iMsQlJ0gYA",
     "news": [
       {
-        "title": "Nvidia just laid out what’s next for the tech that made it the world’s most valuable company",
-        "url": "https://www.cnn.com/2026/01/05/tech/vera-rubin-nvidia-ai-ces",
-        "source": "CNN",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBsThs4-1ywPvv1R4O_tUlnlwIjDT11iea-oktPJFLrfKg6yZoW3Ey3ekcxhU"
+        "title": "วิเคราะห์บอล แอลจีเรีย vs ดีอาร์ คองโก 6 ม.ค. 69 : ชิงตั๋วรอบ 8 ทีมแอฟคอน",
+        "url": "https://www.siamsport.co.th/football-international/national-team/97603/",
+        "source": "Siamsport",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNAEnArBuB7IP_T8SQw4aFzsOTznqTLQw63i3oWfyLTMAO5PGn6iMsQlJ0gYA"
       },
       {
-        "title": "Nvidia launches Vera Rubin, its next major AI platform, at CES 2026",
-        "url": "https://finance.yahoo.com/news/nvidia-launches-vera-rubin-its-next-major-ai-platform-at-ces-2026-230045205.html",
-        "source": "Yahoo Finance",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHkEJ4FVw7cUEhNI_Hj6nxIvDBgTt7NgG9dkuJPU369O3ReVihnygzNBxhBoQ"
+        "title": "ดูบอลสด แอลจีเรีย พบ ดีอาร์ คองโก แอฟคอน 2025 รอบ 16 ทีม",
+        "url": "https://sport.trueid.net/detail/bALNJXWwM9bV",
+        "source": "TrueID",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLxxH3Ura_0eqCBiNIO2As4zZnhwGqq9ui4KAgBBzp4Ix5J0N9gn72c201ckM"
       },
+      {
+        "title": "พรีวิว แอฟริกา คัพ ออฟ เนชั่นส์ 2025 : แอลจีเรีย พบ ดีอาร์ คองโก",
+        "url": "https://www.tnnthailand.com/sports/221825/",
+        "source": "TNN",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRWdPeiZ6k27Lhm-CnQRcRfFk0ydcrFta5xCeC00Oxnb2DCOolydWZUQXxRec"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "james marsden",
+    "traffic_num": 200,
+    "pub_date": "2026-01-06T07:50:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxtx0-ObAiUH3uZHwctOZC1EpJsiz2_ZdHc8Dfai924Ag9sOozaBrhv6Bokc8",
+    "news": [
+      {
+        "title": "Next Avengers: Doomsday Trailer Leaks Online, Reveals Unlikely Teamup",
+        "url": "https://www.ign.com/articles/next-avengers-doomsday-trailer-leaks-online-reveals-unlikely-teamup",
+        "source": "IGN",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxtx0-ObAiUH3uZHwctOZC1EpJsiz2_ZdHc8Dfai924Ag9sOozaBrhv6Bokc8"
+      },
+      {
+        "title": "Marvel May Have Just Confirmed Multiple Major X-Men Deaths for the 3rd Time in 9 Years",
+        "url": "https://comicbook.com/movies/feature/marvel-may-have-just-confirmed-multiple-major-x-men-deaths-for-the-3rd-time-in-9-years/",
+        "source": "ComicBook.com",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogQg1qIAKrHgInvpK6W0OP80NRLf5QqEqBbFsFVP3dhgxD3SUFOZvcj8H8To"
+      },
+      {
+        "title": "X-Men Are Back: ‘Avengers: Doomsday’ Teaser Reunites Xavier and Magneto, Cyclops Blasts Huge Eye Beam",
+        "url": "https://variety.com/2026/film/news/x-men-avengers-doomsday-teaser-cyclops-xavier-magneto-1236623852/",
+        "source": "Variety",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST8tVCvCo1sWQPvAfeTIkVATyDdLqiUYkSHo9-0pusV_Y4uesDJ3KnGCPnukk"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "โครงการปิดหนี้ไวไปต่อได้",
+    "traffic_num": 100,
+    "pub_date": "2026-01-06T07:20:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTaq_GvLC8UcGwAlIBHX7uDooEjXEGbgIco91myKnpX4-TZ_tY4cu-Mi0IHLc",
+    "news": [
+      {
+        "title": "ลงทะเบียน “ปิดหนี้ไว ไปต่อได้” เช็กคุณสมบัติ-เงื่อนไข ผู้มีสิทธิเข้าร่วมโครงการ",
+        "url": "https://www.thairath.co.th/news/society/2906052",
+        "source": "Thairath",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTaq_GvLC8UcGwAlIBHX7uDooEjXEGbgIco91myKnpX4-TZ_tY4cu-Mi0IHLc"
+      },
+      {
+        "title": "ปิดหนี้ไว ไปต่อได้ เปิดลงทะเบียน เริ่ม 5 ม.ค. 69 โอกาสเคลียร์หนี้เสีย",
+        "url": "https://money.kapook.com/view297728.html",
+        "source": "kapook.com",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfkImqF13hOen5HG8lofCLQlLmvu7ssSvgJd0ird8TueohRmysLbn3idUvBjo"
+      },
+      {
+        "title": "เมื่อ “ความยั่งยืน” ไม่ได้เป็นแค่ เป้าหมาย อีกต่อไป แต่คือ “โอกาสใหม่” ของทุกคนที่พร้อมจะเปลี่ยนอนาคต",
+        "url": "https://mgronline.com/business/detail/9690000001313",
+        "source": "ผู้จัดการออนไลน์",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTscp3_y6AGmG0PpoGmJvRDh6hx7rUJvzaZwSPfmpzDeb-CBCBQ4aJudxPpJA"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "ทวง",
+    "traffic_num": 100,
+    "pub_date": "2026-01-06T06:30:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2TDM95p_P-3sa1Mxr8TyQIlmDmSeC7MLmssUi7efj7dCfOFyGPEazogK22v8",
+    "news": [
+      {
+        "title": "“ต๊ะ นารากร” ลุยเชียงใหม่ขอคะแนนเสียง ชาวบ้านขอช่วยแก้เศรษฐกิจ-ปากท้อง",
+        "url": "https://www.thairath.co.th/news/politic/2905907",
+        "source": "Thairath.co.th",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2TDM95p_P-3sa1Mxr8TyQIlmDmSeC7MLmssUi7efj7dCfOFyGPEazogK22v8"
+      },
+      {
+        "title": "สนามเลือกตั้ง สส.เชียงใหม่ คาดแข่งขันดุเดือด | จับตารอบทิศ | 5 ม.ค. 69",
+        "url": "https://www.thaipbs.or.th/program/KeepAround/episodes/112451",
+        "source": "Thai PBS",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRouEUy9UXza2pOIZM87k2ZzcQzshWawEYdRRywhErPseq7Uzb_qtg_Rdn8ZuQ"
+      },
+      {
+        "title": "ท็อป ขอคะแนนกลุ่มชาติพันธุ์ เขต ทต.ป่าป้อง ดอยสะเก็ดเชียงใหม่",
+        "url": "https://www.chiangmainews.co.th/social/3859839/",
+        "source": "เชียงไหม่นิวส์",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUfgmzK-fy3zv-cstAG_qc5zfFw41HVrNbadkxHGFOu04KQ2OzyEDk-q2RZA"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "rb salzburg vs bayern",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-06T06:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs66ru0G6fbLUGSLvy99DLBmGx1wmhWGqBuG9mqVQmPlO5dQ0QDIqcuX-eSkY",
+    "news": [
+      {
+        "title": "Testkracher - LIVE: Red Bull Salzburg gegen Bayern München",
+        "url": "https://www.krone.at/4006301",
+        "source": "Kronen Zeitung",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs66ru0G6fbLUGSLvy99DLBmGx1wmhWGqBuG9mqVQmPlO5dQ0QDIqcuX-eSkY"
+      },
+      {
+        "title": "Jonas Urbig: „So kommt man gerne ins neue Jahr!“",
+        "url": "https://onefootball.com/de/news/jonas-urbig-so-kommt-man-gerne-ins-neue-jahr-42188605",
+        "source": "OneFootball",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEtVuoqOH8VFzsWpPW8jsPhD7_sc8esVl88zoc7jAPpByYgGLmAEquwj1pzZw"
+      },
+      {
+        "title": "Superjoker Karl dreht auf: Bayern fertigt Salzburg ab",
+        "url": "https://www.eurosport.de/fussball/bundesliga/2025-2026/fc-bayern-munchen-sieg-red-bull-salzburg-testspiel-lennart-karl-superjoker-felipe-chavez-trifft_sto23256362/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-AQhiMA4D3Gy9Mj_SAnKOJF42-SHdYTNZVAwPaBn0bxX5y3Q-IE1PCMhfck"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "ปิซา พบ โคโม่",
+    "traffic_num": 5000,
+    "pub_date": "2026-01-06T05:30:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkehK2s8qNImydtvrVYjTpHsXRPd-0x3c5O7_hfqme_AZT7tiP72RaZe9XSxM",
+    "news": [
+      {
+        "title": "Serie A: Why is Pisa v Como taking place on Tuesday afternoon?",
+        "url": "https://www.bbc.com/sport/football/articles/cgez95e9xnvo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkehK2s8qNImydtvrVYjTpHsXRPd-0x3c5O7_hfqme_AZT7tiP72RaZe9XSxM"
+      },
+      {
+        "title": "Where to watch Serie A, live stream, schedule: Parma vs. Inter, AC Milan vs. Genoa and more",
+        "url": "https://www.cbssports.com/soccer/news/where-to-watch-serie-a-live-stream-schedule-2026-ac-milan-parma-inter/",
+        "source": "CBS Sports",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZgsN7sTOOTImDDqc-6JaEG7nfAEqn0bJ5s7OB4iv4qemAgMfvd44sOqJQFA"
+      },
+      {
+        "title": "Pisa-Como: Match Preview",
+        "url": "https://comofootball.com/en/pisa-como-matchpreview/",
+        "source": "Como 1907",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrJpqUAI1lQxzaqY98tMav1sqJvT9L_3afa0ut6C2m0bDeSFU2mgL7yFKW5Vg"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "mickey rourke",
+    "traffic_num": 100,
+    "pub_date": "2026-01-06T05:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYDBNmWQwCc9IR39PBlBd4BHFKKGmjI37gEbq8gfNZCtGjW9G4e_qmUby4dDw",
+    "news": [
+      {
+        "title": "‘I wouldn’t take a nickel of charity’: Mickey Rourke denounces fundraiser set up in his name",
+        "url": "https://www.theguardian.com/film/2026/jan/06/mickey-rourke-denounces-gofundme-appeal",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYDBNmWQwCc9IR39PBlBd4BHFKKGmjI37gEbq8gfNZCtGjW9G4e_qmUby4dDw"
+      },
+      {
+        "title": "Actor Mickey Rourke faces eviction from L.A. home over $60,000 in unpaid rent",
+        "url": "https://www.latimes.com/entertainment-arts/business/story/2025-12-30/actor-mickey-rourke-faces-eviction-from-la-home-unpaid-rent",
+        "source": "Los Angeles Times",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkM3cCTeAKWiwAgiSLBA80M_zMHwhkSZPfrc0esmsiYPRuBgjTakEx1dI1I7A"
+      },
+      {
+        "title": "Mickey Rourke launches fundraiser to pay $89,000 in rent",
+        "url": "https://www.abc.net.au/news/2026-01-06/mickey-rourke-crowd-funding-to-avoid-eviction/106203308",
+        "source": "Australian Broadcasting Corporation",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW7pVKKTiimeWdpsZwxJ9wytPh9ceKagX_3N3aWRi58p7Ke0j2b2ohzbRpFrM"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "nvidia",
+    "traffic_num": 500,
+    "pub_date": "2026-01-06T04:20:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvecUCokgKa9zgpnjnD1A9Lr0DIQkEId4iMUnw3NUMhEPvWY9kvb1YiBDgXD4",
+    "news": [
       {
         "title": "Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes",
         "url": "https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html",
         "source": "The New York Times",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEwev6B27CCYYXpTZlqZpGIoQV1Hz8i_GMQq0ISwizA2Ul_sRCrQoPwZVsjZM"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvecUCokgKa9zgpnjnD1A9Lr0DIQkEId4iMUnw3NUMhEPvWY9kvb1YiBDgXD4"
+      },
+      {
+        "title": "Why Elon Musk And Tesla Aren't 'Losing Sleep' Over Nvidia's Self-Driving Announcement",
+        "url": "https://www.investors.com/news/tesla-elon-musk-not-losing-sleep-over-nvidia-self-driving-announcement/",
+        "source": "Investor's Business Daily",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT308HVyEixbQbZ5Lt1JhhCsjNliCpwMBMSXur50FCEFb0bdnRhNZaCAvwm6-o"
+      },
+      {
+        "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer",
+        "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+        "source": "NVIDIA Newsroom",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREp_5jjmKcx5Wm3BrHF-928PNZei5rODagk98wyEXmf1KvTbXG7sGwTFd81mc"
       }
     ],
     "regions": [
@@ -90,88 +240,28 @@
     "country": "Thailand"
   },
   {
-    "title": "team",
-    "traffic_num": 100,
-    "pub_date": "2026-01-05T18:00:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEcuQe4mFwNnshFksdRntreBYcGz9QL40Igl71aVLN5wQoqgBuJaz-4JyXYpc",
-    "news": [
-      {
-        "title": "Who's most likely to win Super Bowl LX: Ranking all 14 playoff contenders",
-        "url": "https://www.nfl.com/news/who-s-most-likely-to-win-super-bowl-lx-ranking-all-14-playoff-contenders",
-        "source": "NFL.com",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEcuQe4mFwNnshFksdRntreBYcGz9QL40Igl71aVLN5wQoqgBuJaz-4JyXYpc"
-      },
-      {
-        "title": "Projecting each NFL playoff team’s odds to win Super Bowl, with wild-card matchup analysis - The Athletic",
-        "url": "https://www.nytimes.com/athletic/6931898/2026/01/05/nfl-playoff-chances-matchups-super-bowl-odds/",
-        "source": "The New York Times",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5lUuGD2ZJiJVZTLxjq2LCog_1Nl_s84MPlNhSRx9nc8n7t3gf7OHhkHCRb4"
-      },
-      {
-        "title": "Seahawks, once long shots, now SB betting fave",
-        "url": "https://www.espn.com/nfl/story/_/id/47512888/once-longshot-seahawks-now-betting-fave-win-super-bowl-lx",
-        "source": "ESPN",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx2IBHXUrmovjDYd35y1mBVvv9NlaeFrflY0GHHebD9RQqcMkZwqBzOyiQB2U"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "กพ 2569",
+    "title": "กพ",
     "traffic_num": 2000,
-    "pub_date": "2026-01-05T17:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6UtPJE163ncRYXUewK21SGaWebHPkM7293v1AeyQrMYUndXHn__fFdwOPQfo",
+    "pub_date": "2026-01-06T04:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-XQW4MkyexKR2fT_duotxy-cxcaKFbiahztUob67VKQoxwfy89uKAVLBIxgg",
     "news": [
       {
-        "title": "วิธีลงทะเบียนใช้สิทธิ \"ประชามติ\" นอกเขต ปี 2569 ออนไลน์ง่ายๆ ผ่านแอป ThaiD",
-        "url": "https://www.sanook.com/hitech/1620507/",
-        "source": "Sanook",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6UtPJE163ncRYXUewK21SGaWebHPkM7293v1AeyQrMYUndXHn__fFdwOPQfo"
-      },
-      {
-        "title": "'สมชัย' ซัดแรง! ประชามติพ่วงเลือกตั้ง แต่เผางบเฉียด 3,000 ล้าน | THE ROOM 44 CHANNEL",
-        "url": "https://today.line.me/th/v3/article/pe1lX77",
-        "source": "LINE TODAY",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSAbEISYCDminYjEooXSkBl15k6s2WB5gmRpaIlj0odqtgG7WmWKDvqAy8Too"
-      },
-      {
-        "title": "ประชามติชี้ชะตาประเทศไทย จะเปลี่ยนไปหรือเหมือนเดิม",
-        "url": "https://policywatch.thaipbs.or.th/article/government-257",
-        "source": "Policy Watch",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYnZgSkJJhBv-iET1p01T1Jk1xW3AqBXTXgvOwmo0UOM4s_oUo25ioWeQfAo0"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "คําขวัญวันเด็ก 2569 ล่าสุด",
-    "traffic_num": 500,
-    "pub_date": "2026-01-05T17:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRovyqmrsS1UB87VgksiJadJK3-cSYUCekb9ep--H9yDc4AawDO82N_t6yPvg",
-    "news": [
-      {
-        "title": "คำขวัญวันเด็ก 2569 ล่าสุด รวมคำขวัญวันเด็กทุกปี พร้อมประวัติน่ารู้",
-        "url": "https://www.thairath.co.th/lifestyle/calendar/2905875",
+        "title": "กำหนดการเปิดรับสมัครสอบ \"ก.พ. 69\" ภาค ก. รอบ e-Exam และรอบ Paper & Pencil",
+        "url": "https://www.thairath.co.th/news/society/2905264",
         "source": "Thairath",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRovyqmrsS1UB87VgksiJadJK3-cSYUCekb9ep--H9yDc4AawDO82N_t6yPvg"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-XQW4MkyexKR2fT_duotxy-cxcaKFbiahztUob67VKQoxwfy89uKAVLBIxgg"
       },
       {
-        "title": "‘ชัชชาติ’ โพสต์คำขวัญวันเด็ก 69 คำฮิตติดเทรนด์บนโลกออนไลน์",
-        "url": "https://www.dailynews.co.th/news/5465424/",
-        "source": "เดลินิวส์",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZoYqxHWTwfF0R_giF7_Rt8YhasjYR2sBJ50tVNc4KNUT_lZoGurFV4v4NCfY"
+        "title": "สอบก.พ.69 วันที่ 7 ม.ค.แนะขั้นตอนการสมัครสอบภาค ก.e-Exam",
+        "url": "https://www.thansettakij.com/general-news/648271",
+        "source": "thansettakij",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQR1pOPJ4gWS-r2Z6cIYctS3Sf3xNV--JVdTGyWfInF1lnj2sqUK243A8yA1U"
       },
       {
-        "title": "ข่าวออนไลน์ วันที่ 3 ม.ค. 69",
-        "url": "https://pr-bangkok.com/?p=562395",
-        "source": "กรุงเทพมหานคร, ประชาสัมพันธ์",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTExZuSI3a9rSYo-ItkTSiPHOyT5q0tlKI1gzBRGb9lwCIgya4_n5OOR6Eg1U"
+        "title": "เช็กวันรับสมัครจริง เปิด กรอกข้อมูลล่วงหน้า สอบก.พ.69 กัน เว็บล่ม",
+        "url": "https://www.bangkokbiznews.com/news/news-update/1214501",
+        "source": "bangkokbiznews",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ92oGBkwu3Eq84eTeQZ8ix-UxSubDuGQziLuntyvUiuhTJqPP5Iqj7vIHjMKo"
       }
     ],
     "regions": [
@@ -180,118 +270,28 @@
     "country": "Thailand"
   },
   {
-    "title": "line",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-05T17:40:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSilXZULLFuN-Wy58h7qCaVBRuSUhBX6ZNTVtfEOGwHY2ZU4joZF8dYevU_k-o",
-    "news": [
-      {
-        "title": "“Whose Line Is It Anyway?” star suffers medical emergency involving scary eye diagnosis",
-        "url": "https://www.yahoo.com/entertainment/tv/articles/whose-line-anyway-star-suffers-211048439.html",
-        "source": "Yahoo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSilXZULLFuN-Wy58h7qCaVBRuSUhBX6ZNTVtfEOGwHY2ZU4joZF8dYevU_k-o"
-      },
-      {
-        "title": "‘Whose Line Is It Anyway?’ Colin Mochrie undergoes emergency surgery",
-        "url": "https://www.ctvnews.ca/entertainment/article/canadian-comedian-colin-mochrie-postpones-shows-for-emergency-surgery/",
-        "source": "CTV News",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0PmPepFkp8lQWf_QBTguODaZ-8SftKd3iI-NelzagS51OPSlYTJOUunoMEi0"
-      },
-      {
-        "title": "Beloved comedian postpones shows, undergoes emergency surgery",
-        "url": "https://www.cleveland.com/nation/2026/01/beloved-comedian-postpones-shows-undergoes-emergency-surgery.html",
-        "source": "Cleveland.com",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZD9uuHJXTvPgpv9RyL6-p6mlfnu4vU75tGWduXPQWkKerQU9cWlaLR_81vak"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "ธอส",
-    "traffic_num": 200,
-    "pub_date": "2026-01-05T17:30:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyZ5dmHZPO1M2cPHw6L4cFNTyYT-igA7Qk-hRBeLI2PiFr8X30yXouDiZbphM",
-    "news": [
-      {
-        "title": "รัฐบาลเร่งช่วยเหลือประชาชน 7 จังหวัดชายแดน บสย. เยียวยาลูกค้า-ลูกหนี้ พักชำระค่างวด 6 เดือน",
-        "url": "https://www.thairath.co.th/news/politic/2905922",
-        "source": "Thairath.co.th",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyZ5dmHZPO1M2cPHw6L4cFNTyYT-igA7Qk-hRBeLI2PiFr8X30yXouDiZbphM"
-      },
-      {
-        "title": "ออมสิน ปิดบัญชียกหนี้ให้ครอบครัว/ทายาทวีรบุรุษชายแดนไทย-กัมพูชา",
-        "url": "https://www.efinancethai.com/LastestNews/LatestNewsMain.aspx?id=RVA5N2xjRDdIR1k9",
-        "source": "efinanceThai",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrMvbtqMHnkCGsZvk9KeQb24qMLhQMsEiN7Ebhp9IXzORptRJaEvAlPkXy0ss"
-      },
-      {
-        "title": "ธอส. พักชำระเงินงวดนานสูงสุด 1 ปี พร้อมลดดอกเบี้ย กู้สร้าง / ซ่อมบ้าน ฟื้นฟูคุณภาพชีวิต ผ่านมาตรการช่วยเหลือและบรรเทาความเดือดร้อนให้กับลูกค้าในพื้นที่ชายแดนไทย–กัมพูชา อ่านต่อในคอมเมนต์ #สวพ91 #กู้สร้างซ่อมบ้าน #ชายแดนไทยกัมพูชา",
-        "url": "https://www.facebook.com/fm91trafficpro/photos/%E0%B8%98%E0%B8%AD%E0%B8%AA-%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%A7%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94-1-%E0%B8%9B%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2-%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99-%E0%B8%9F%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9F%E0%B8%B9%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%8A/1320470596779216/",
-        "source": "Facebook",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsbnI2shu73Qg1GXDHscjxuuio-D0liN5SXr0H-CBerQl6vAwkv4t4MS7DE0I"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "wordle",
-    "traffic_num": 100,
-    "pub_date": "2026-01-05T16:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbcyA93OL21Iwey7K--kzjF4gh0nTjpYi1WFoo5c3uG2GGoNECazJYH_ZWgqw",
-    "news": [
-      {
-        "title": "Today’s Wordle Hints for Jan. 5, 2026",
-        "url": "https://www.nytimes.com/2026/01/04/crosswords/wordle-review-1661.html",
-        "source": "The New York Times",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbcyA93OL21Iwey7K--kzjF4gh0nTjpYi1WFoo5c3uG2GGoNECazJYH_ZWgqw"
-      },
-      {
-        "title": "Wordle hint today: Clues for January 5 2026 NYT puzzle #1661",
-        "url": "https://ftw.usatoday.com/story/tech/gaming/2026/01/05/wordle-hint-today-clues-january-5-2026/88016516007/",
-        "source": "USA Today",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH-d3r6lp-iiTw6LK4POjFz2GDfWOdVL7c_aIh-UwlYLexljIETrmpYTyV_YI"
-      },
-      {
-        "title": "Today’s Wordle Answer is FILLY",
-        "url": "https://news.ssbcrack.com/todays-wordle-answer-is-filly/",
-        "source": "SSBCrack News",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCDk_WK87deON7kRkFN6T9m9LmfML7sok7YNx6lgqbSpTr1XEepraNfnNxRMc"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "กรีนแลนด์",
+    "title": "devil hunter code",
     "traffic_num": 500,
-    "pub_date": "2026-01-05T16:00:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgDAWSLBWsdJRO3F1Xmtf5Yed5giYcJNdSWrToaoaHoofejl5eBlcsyBY4UII",
+    "pub_date": "2026-01-06T04:00:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxKX2PICEmmp0LtndZ9g2-nQKNYif3m99EjqZStc62850ZnMDMQSvUquUh5DU",
     "news": [
       {
-        "title": "ทรัมป์ยืนยัน สหรัฐฯ ต้องการกรีนแลนด์ หลังเปิดฉากบุกเวเนฯ ช็อกโลก",
-        "url": "https://www.huasengheng.com/news/news050169-1/",
-        "source": "ฮั่วเซ่งเฮง",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgDAWSLBWsdJRO3F1Xmtf5Yed5giYcJNdSWrToaoaHoofejl5eBlcsyBY4UII"
+        "title": "Roblox: Devil Hunter codes latest rewards and how to claim",
+        "url": "https://rollingout.com/2026/01/05/roblox-devil-hunter-codes-latest-rewards/",
+        "source": "Rolling Out",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxKX2PICEmmp0LtndZ9g2-nQKNYif3m99EjqZStc62850ZnMDMQSvUquUh5DU"
       },
       {
-        "title": "เพจดังวิเคราะห์เดือด! ทรัมป์จ่อยึด \"กรีนแลนด์\" ต่อจากเวเนฯ ชี้เป้ากู้วิกฤตหนี้-นาโต้ไม่กล้าแลก",
-        "url": "https://mgronline.com/onlinesection/detail/9690000001091",
-        "source": "ผู้จัดการออนไลน์",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHcQSKn0ZIZwh5P2KQ2CTXyMhw80uJmFR66EsvuqbdvB0Er6Bov_E3qWDrN8k"
+        "title": "Devil Hunter fiend guide",
+        "url": "https://www.pockettactics.com/devil-hunter-fiend",
+        "source": "Pocket Tactics",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjR487SXh0GOBZxFHf3CMkfSSEe6fmTATMG-XkXelrR9tJJmDudOIOeN62xYs"
       },
       {
-        "title": "“นายกฯ เดนมาร์ก” เตือน “ทรัมป์” หยุดข่มขู่ยึดกรีนแลนด์ หลังสหรัฐจับ ปธน.เวเนซุเอลา",
-        "url": "https://today.line.me/th/v3/article/LXN5200",
-        "source": "LINE TODAY",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxhSJ3qVGoy5IuvRxCrMGER-VvlHCuunbWC4LF4pTKff2g3qbIPD5oMdurQuE"
+        "title": "Say Hello to the Hottest New Game on Roblox and Use These Devil Hunter Codes to Get the Best Possible Start",
+        "url": "https://gamerant.com/roblox-devil-hunter-codes-trello-official-discord-server-links/",
+        "source": "Game Rant",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRuLsZPf8I2cYu9YxAh8baQK2W1WoXmVgZnxqcbmfDT9Ry91fPZaIt65HnWLs"
       }
     ],
     "regions": [
