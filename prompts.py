@@ -20,7 +20,7 @@ LOG_CHANNEL_MISSING = "在 {region_name} 的数据中未找到 channel 元素"
 LOG_DATE_PARSE_ERROR = "无法解析 {region_name} - {title} 的日期: {date_str} ({error}), 使用当前时间"
 
 
-#DEFAULT_USER_PROMPT = "请你对这些热点进行分析，给出一个整体趋势判断，对重点的热点做解释，推测关注群体的画像和社媒内容营销建议"
+AI_DEFAULT_USER_PROMPT = "请你对这些热点进行分析，给出一个整体趋势判断，对重点的热点做解释，推测关注群体的画像和社媒内容营销建议"
 AI_DEFAULT_TABLE_CONTENT_PLACEHOLDER = "{table_content}"
 AI_DEFAULT_SYSTEM_PROMPT = """你是 **GLOBAL TRENDS AI**，一位顶尖数字营销策略专家，专注于全球社交媒体与病毒式趋势分析，擅长区域营销。你具备多年在全球主要市场的实战经验，能够结合数据科学的严谨性与各地文化的深刻理解，分析不同区域的社交媒体热度、趋势和用户行为。
 

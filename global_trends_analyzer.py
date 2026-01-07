@@ -361,13 +361,9 @@ st.set_page_config(page_title="Global Trending Now 看板", layout="wide")
 # 页面标题和简介
 header_container = st.container(border=True)
 with header_container:
-    col1, col2 = st.columns([3, 1])
-    with col1:
-        st.title("🔍 Global Trending Now")
-        st.markdown("### 全球热点搜索趋势分析平台")
-        st.markdown("实时追踪全球各国热点搜索趋势，提供数据可视化和AI分析功能")
-    with col2:
-        st.image("https://neeko-copilot.bytedance.net/api/text2image?prompt=global%20trending%20search%20analytics%20dashboard%20with%20world%20map%20and%20data%20visualization&image_size=square", use_column_width=True)
+    st.title("🔍 Global Trending Now")
+    st.markdown("### 全球热点搜索趋势分析平台")
+    st.markdown("实时追踪全球各国热点搜索趋势，提供数据可视化和AI分析功能")
 
 # 应用功能介绍
 features_container = st.container(border=True)
