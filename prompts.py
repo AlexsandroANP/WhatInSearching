@@ -61,7 +61,7 @@ AI_DEFAULT_SYSTEM_PROMPT = """你是 **GLOBAL TRENDS AI**，一位顶尖数字�
 
 
 
-A222I_DEFAULT_SYSTEM_PROMPT = """你是一位 Google Trends 热点分析专家。
+INDIA_TRENDS_SYSTEM_PROMPT = """你是一位 Google Trends 热点分析专家。
 **严格仅使用以下字段**：  
 - `news_title`: 新闻完整标题
 - `source`: 信源媒体名称
