@@ -26,4 +26,4 @@ run_fetch.py
 # - Streamlit 脚本（如 global_trends_analyzer.py）
 # - 相关依赖文件（config.py, credentials.py, prompts.py, data_fetcher.py）
 # - JSONs 目录
-# - .gitignore 文件本身.env
+# - .gitignore 文件本身

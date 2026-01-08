@@ -208,8 +208,6 @@ def load_and_process_file_for_date(target_date, results_list):
                             "Country": country # 添加国家信息
                         })
 
-@st.cache_data
-
 def load_data_by_date_range(start_date, end_date, _progress_callback=None):
     """根据日期范围加载数据"""
     all_extracted_data_list = []
@@ -415,6 +413,8 @@ if 'ai_messages' not in st.session_state:
     st.session_state['ai_messages'] = []
 if 'token_count' not in st.session_state:
     st.session_state['token_count'] = 0
+if 'total_token_count' not in st.session_state:
+    st.session_state['total_token_count'] = 0
 if 'ai_client' not in st.session_state:
     st.session_state['ai_client'] = None
 
@@ -691,12 +691,29 @@ if st.session_state['data']:
         # 检查是否有筛选条件
         has_active_filters = (country_filter != "所有国家") or region_filter or (min_traffic_filter > 0)
         
-        st.session_state['df_filtered'] = df_current
-        # 显示筛选结果通知
-        if has_active_filters:
-            st.toast(f"✅ 筛选完成！共找到 {len(df_current)} 条记录", icon="🔍")
+        # 检查筛选条件是否发生变化
+        if 'last_filter_state' not in st.session_state:
+            st.session_state['last_filter_state'] = {}
+        
+        current_filter_state = {
+            'country': country_filter,
+            'region': region_filter,
+            'min_traffic': min_traffic_filter
+        }
+        
+        # 只有当筛选条件实际变化时才显示通知
+        if current_filter_state != st.session_state['last_filter_state']:
+            st.session_state['df_filtered'] = df_current
+            # 显示筛选结果通知
+            if has_active_filters:
+                st.toast(f"✅ 筛选完成！共找到 {len(df_current)} 条记录", icon="🔍")
+            else:
+                st.toast("✅ 已显示所有数据", icon="📊")
+            # 更新筛选状态
+            st.session_state['last_filter_state'] = current_filter_state
         else:
-            st.toast("✅ 已显示所有数据", icon="📊")
+            # 筛选条件未变化，仅更新数据
+            st.session_state['df_filtered'] = df_current
     
     # 显示筛选结果统计
     filter_stats = []
@@ -1164,8 +1181,8 @@ if st.session_state['data']:
                         # 发送测试消息
                         st.write("📝 准备测试消息...")
                         test_messages = [
-                            {"role": "system", "content": "你是一个测试助手，只需要回复'测试成功！'即可"},
-                            {"role": "user", "content": "测试消息：请回复'测试成功！'"}
+                            {"role": "system", "content": "用户正在尝试测试模型连通性中，ta 需要一声回应"},
+                            {"role": "user", "content": "hello~ 听得到吗？"}
                         ]
                         
                         # 调用模型
@@ -1249,13 +1266,15 @@ if st.session_state['data']:
                 token_info_container = st.container(border=True)
                 with token_info_container:
                     st.markdown("### 📊 Token 估算信息")
-                    col1, col2, col3 = st.columns(3)
+                    col1, col2, col3, col4 = st.columns(4)
                     with col1:
                         st.metric("系统提示词", f"{system_tokens:,}")
                     with col2:
                         st.metric("用户输入", f"{user_tokens:,}")
                     with col3:
-                        st.metric("总计", f"{total_tokens:,}")
+                        st.metric("首轮总计", f"{total_tokens:,}")
+                    with col4:
+                        st.metric("对话累计", f"{st.session_state['total_token_count']:,}")
                     
                     # 显示 Token 使用情况的进度条
                     max_tokens = DEFAULT_MAX_TOKENS
@@ -1263,16 +1282,16 @@ if st.session_state['data']:
                     st.progress(progress)
                     
                     if total_tokens > max_tokens:
-                        st.error(f"⚠️ 超过 {max_tokens:,} tokens 限制！可能影响分析效果。")
+                        st.error(f"⚠️ 首轮 Token 超过 {max_tokens:,} 限制！可能影响分析效果。")
                     else:
                         remaining = max_tokens - total_tokens
-                        st.success(f"✅ 剩余 Token: {remaining:,}")
+                        st.success(f"✅ 首轮剩余 Token: {remaining:,}")
 
                 
         # 启动分析按钮
         if st.button("🚀 启动 AI 分析", type="primary"):
             if total_tokens > DEFAULT_MAX_TOKENS:
-                st.warning(f"⚠️ 超过 {DEFAULT_MAX_TOKENS} tokens 限制！可能影响分析效果。")
+                st.warning(f"⚠️ 首轮 Token 超过 {DEFAULT_MAX_TOKENS} 限制！可能影响分析效果。")
                 if st.button("❗ 确认继续分析", type="secondary", key="confirm_overlimit"):
                     with st.status("正在启动 AI 分析...", expanded=True) as status:
                         try:
@@ -1286,6 +1305,9 @@ if st.session_state['data']:
                                 {"role": "system", "content": DEFAULT_SYSTEM_PROMPT},
                                 {"role": "user", "content": user_prompt_with_table} # 包含表格
                             ]
+                            
+                            # 将初始 token 数量累加到 total_token_count 中
+                            st.session_state['total_token_count'] = total_tokens
                             
                             st.write("🚀 启动分析流程...")
                             st.session_state['ai_active'] = True
@@ -1311,6 +1333,9 @@ if st.session_state['data']:
                             {"role": "system", "content": DEFAULT_SYSTEM_PROMPT},
                             {"role": "user", "content": user_prompt_with_table} # 包含表格
                         ]
+                        
+                        # 将初始 token 数量累加到 total_token_count 中
+                        st.session_state['total_token_count'] = total_tokens
                         
                         st.write("🚀 启动分析流程...")
                         st.session_state['ai_active'] = True
@@ -1421,6 +1446,18 @@ if st.session_state['data']:
                             st.session_state['ai_messages'].append({"role": "assistant", "content": full_response})
                             print(f"DEBUG: 会话状态消息长度: {len(st.session_state['ai_messages'])}")
                             print(f"DEBUG: 最后一条消息: {st.session_state['ai_messages'][-1]}")
+                            
+                            # 计算并累计新的对话token
+                            try:
+                                # 计算AI回复的token
+                                assistant_tokens = estimate_tokens(full_response, ai_model)
+                                # 计算最后一条用户消息的token
+                                last_user_message = messages[-1]['content']
+                                user_tokens = estimate_tokens(last_user_message, ai_model)
+                                # 累计到总token数
+                                st.session_state['total_token_count'] += user_tokens + assistant_tokens
+                            except Exception as e:
+                                print(f"DEBUG: 计算对话token失败: {e}")
                             
                             status.update(label="AI 分析完成", state="complete", expanded=False)
                             st.toast("✅ AI 分析完成！", icon="📊")
