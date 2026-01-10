@@ -5,6 +5,8 @@
 requests>=2.31.0
 urllib3>=2.1.0
 python-dotenv>=1.0.0
+pytz>=2023.3.post1  # 时区处理
+schedule>=1.2.1  # 定时任务
 
 # 数据处理和可视化
 pandas>=2.2.0

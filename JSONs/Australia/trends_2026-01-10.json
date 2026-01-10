@@ -1,57 +1,27 @@
 [
   {
-    "title": "merrylands shooting",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T16:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOzjzqg8iPHVpPDxxCxs1KwZUNYXNkfbcqD-nxEAlo1boWVtHyWpVkllc3lA",
-    "news": [
-      {
-        "title": "Man shot dead in unit block",
-        "url": "https://www.news.com.au/national/breaking-news/man-shot-dead-in-western-sydney-unit-block-sparking-nsw-police-operation/news-story/eaf56993f1cae73c68696883c2096cfb",
-        "source": "News.com.au",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOzjzqg8iPHVpPDxxCxs1KwZUNYXNkfbcqD-nxEAlo1boWVtHyWpVkllc3lA"
-      },
-      {
-        "title": "Man shot dead in Sydney's west",
-        "url": "https://www.9news.com.au/national/man-shot-dead-in-sydneys-west/08568cfa-02c3-4f5a-88ca-289a27f1b10f",
-        "source": "9News.com.au",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygRKBrmm3_PqAgg2TApHjpSirttNJxa6h2WpLqo46HAgN3wa1M8OGZfUHC9U"
-      },
-      {
-        "title": "Man, 44, shot dead in western Sydney",
-        "url": "https://www.smh.com.au/national/nsw/man-44-shot-dead-in-western-sydney-20260110-p5nt0o.html",
-        "source": "The Sydney Morning Herald",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSRs8rD4nQDCwWLIBuMF5Dn7GfsQLRHnSlYq_j_k5cE2RumOYu4FSv2S6DRmw"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "belinda bencic",
+    "title": "wolves vs shrewsbury",
     "traffic_num": 200,
-    "pub_date": "2026-01-09T16:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAfr3PqU0iU-Lto18yLoPNN2VHxzXJWluAMQctaEx3ukAWW2t8rzeI_c6BYs",
+    "pub_date": "2026-01-10T04:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTw0FosKu7f1XJxr3yc1KBF7WwzcjlggupwbVIZnAGp665zh1LLlz6Nd7fHw",
     "news": [
       {
-        "title": "Tennis star Belinda Bencic keeps fitness training in the family",
-        "url": "https://www.goodmorningamerica.com/video/129052099",
-        "source": "Good Morning America",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAfr3PqU0iU-Lto18yLoPNN2VHxzXJWluAMQctaEx3ukAWW2t8rzeI_c6BYs"
+        "title": "Wolverhampton's Stafford Road closed after 'serious crash'",
+        "url": "https://www.bbc.com/news/articles/ckgn5rk8j27o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTw0FosKu7f1XJxr3yc1KBF7WwzcjlggupwbVIZnAGp665zh1LLlz6Nd7fHw"
       },
       {
-        "title": "Tennis star Belinda Bencic keeps fitness training in the family",
-        "url": "https://www.msn.com/en-us/sports/tennis/tennis-star-belinda-bencic-keeps-fitness-training-in-the-family/vi-AA1TTFQG",
-        "source": "MSN",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzfidoI4TNRG4tkIm8mAEjh7j_M3tZowGdXBeTTla8mpvwEtxQqSRlLT4imvo"
+        "title": "How to watch Wolves vs Shrewsbury | Men's First-Team | News",
+        "url": "https://www.wolves.co.uk/news/mens-first-team/20260110-how-to-watch-wolves-vs-shrewsbury/",
+        "source": "Wolverhampton Wanderers FC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3vVa5LEFYOlgD_7ffOtu3orR-RHuL2yLdwROfqeIJbdECtlhz7pXLj2arKt4"
       },
       {
-        "title": "Switzerland Argentina United Cup 2026 Wednesday | United Cup | Tennis",
-        "url": "https://www.unitedcup.com/en/media/news/switzerland-argentina-united-cup-2026-wednesday",
-        "source": "United Cup",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXkMVuWchRPgWyo5M4pNyDInDmE-yuwNzPlN4296cHmLqCm4y26ybgGiJXFpA"
+        "title": "Edwards on 'momentum', formation change & Lima",
+        "url": "https://www.aol.com/articles/edwards-momentum-formation-change-lima-160148871.html",
+        "source": "AOL.com",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3oxdT7q490xcPMy_G8jMANz0__O8oJKsWCEEd6rDMU7kFVBkYc7Pj2lWyGk"
       }
     ],
     "regions": [
@@ -60,808 +30,712 @@
     "country": "Australia"
   },
   {
-    "title": "celtics vs raptors",
+    "title": "everton",
     "traffic_num": 200,
-    "pub_date": "2026-01-09T15:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRau-pXtysnIoZzfACUwbpEjHqn_89nNgGVQuCeVocUU-lNHWPHAoKNvcyQrs8",
+    "pub_date": "2026-01-10T04:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_gvJ8JSw7mO_LsqoY1INKfpDh9UhtZRaS5tDZQBiUX_i1jYrAtbVSWMXWH58",
     "news": [
       {
-        "title": "Celtics vs. Raptors Prediction, Odds, Picks - Jan. 9",
-        "url": "https://www.foxsports.com/articles/nba/celtics-vs-raptors-prediction-odds-picks-jan-9",
-        "source": "FOX Sports",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRau-pXtysnIoZzfACUwbpEjHqn_89nNgGVQuCeVocUU-lNHWPHAoKNvcyQrs8"
-      },
-      {
-        "title": "NBA Matchups: January 9",
-        "url": "https://establishtherun.com/nba-matchups-january-9-2/",
-        "source": "Establish The Run",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnRndAVg7QKY-1JbwB_-83Eaa-ppJfkSjfB9fe7EsNu3TjDp_5TwhhpaMJ_kQ"
-      },
-      {
-        "title": "Toronto Raptors (23-15) at Boston Celtics (23-13) Game #37 1/9/26",
-        "url": "https://www.celticsblog.com/boston-celtics-game-previews/128835/toronto-raptors-23-15-at-boston-celtics-23-13-game-37-1-9-26",
-        "source": "CelticsBlog",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8gwmnuZcXnPSYVZZb9l2kIORkx1Pd9jrESW3VZnNSzfhCkQcI5WxoKqTMO3E"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "fa cup results",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T15:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGt9WW-C8BOk-XqS2oVi7EHmXOvdJxH6jVeki_3vtGhyOufnKZcaVb1dsWx1M",
-    "news": [
-      {
-        "title": "Liverpool may have just confirmed three starters against Barnsley as potential hints dropped",
-        "url": "https://www.liverpoolworld.uk/sport/football/liverpool/liverpool-may-have-just-confirmed-three-starters-against-barnsley-5469843",
-        "source": "LiverpoolWorld",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGt9WW-C8BOk-XqS2oVi7EHmXOvdJxH6jVeki_3vtGhyOufnKZcaVb1dsWx1M"
-      },
-      {
-        "title": "“WE’RE REALLY EXCITED TO TEST OURSELVES AGAINST ONE OF THE BEST TEAMS IN THE WORLD” – REDS READY FOR ANFIELD CHALLENGE",
-        "url": "https://www.barnsleyfc.co.uk/news/2026/january/09/reds-ready-for-anfield-challenge/",
-        "source": "Barnsley FC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTo63MmsCuo1MPChAPQpl2Guwm9wRjmDiRL4H10IZXqQXrlp5PQpiXe7WTmAQs"
-      },
-      {
-        "title": "COMMENT: Victory would be biggest Anfield shock of all",
-        "url": "https://www.barnsleychronicle.com/article/34260/comment-victory-would-be-biggest-anfield-shock-of-all",
-        "source": "Barnsley Chronicle",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQD93P4fSO4_EXnEAOMS6yceGVYlqQLYu-XwmU-LUhNHnSiwIz-9X0_NNn_bfU"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "louise adler",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T14:40:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMngyTjIGn30sGb78kujMl0mZ_upd05JpvNOYwtnV0Nj4a_F7IGDJNxj9Exqc",
-    "news": [
-      {
-        "title": "Palestinian author calls for apology as dozens quit Adelaide Writers' Week",
-        "url": "https://www.abc.net.au/news/2026-01-09/sa-palestinian-author-calls-for-apology-over-writers-week-axing/106212878",
-        "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMngyTjIGn30sGb78kujMl0mZ_upd05JpvNOYwtnV0Nj4a_F7IGDJNxj9Exqc"
-      },
-      {
-        "title": "Star British author Zadie Smith joins dozens of authors boycotting Adelaide Writers’ Week",
-        "url": "https://www.theage.com.au/culture/books/star-british-author-zadie-smith-joins-dozens-of-authors-boycotting-adelaide-writers-week-20260108-p5nspc.html",
-        "source": "The Age",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpvW5A_mAnQB24-ADlocuz2zDDfyM9fOiG9D3Er1J5TspxVSjxnaZv1QaXGsg"
-      },
-      {
-        "title": "As authors abandon Adelaide Writers’ Week after cancelling of Randa Abdel-Fattah, is free speech in tatters?",
-        "url": "https://theconversation.com/as-authors-abandon-adelaide-writers-week-after-cancelling-of-randa-abdel-fattah-is-free-speech-in-tatters-273020",
-        "source": "The Conversation",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE8pX-SIK_so3lDkfDlZwqiQNM2hQ52gU9tdpVITrRepRcwnN9Mog5AyNtX8o"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "fa cup games",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T14:40:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwRDUi1Idm9DnEN4SKU02EevsoOdoCsguoyqK9sAK3C7RkktfLrM7GwGFkzuA",
-    "news": [
-      {
-        "title": "FA Cup third round: 10 things to look out for this weekend",
-        "url": "https://www.theguardian.com/football/2026/jan/09/fa-cup-third-round-10-things-to-look-out-for-this-weekend",
+        "title": "Moyes eyes Europe on anniversary of Everton return: ‘This has been good for me’",
+        "url": "https://www.theguardian.com/football/2026/jan/09/everton-moyes-eyes-europe-as-he-marks-anniversary-of-return",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwRDUi1Idm9DnEN4SKU02EevsoOdoCsguoyqK9sAK3C7RkktfLrM7GwGFkzuA"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_gvJ8JSw7mO_LsqoY1INKfpDh9UhtZRaS5tDZQBiUX_i1jYrAtbVSWMXWH58"
       },
       {
-        "title": "Must-see FA Cup games: Wrexham take on Premier League side, Rosenior's Chelsea debut",
-        "url": "https://www.espn.com.au/football/story/_/id/47539954/must-see-games-fa-cup-third-round-wrexham-chelsea-rosenior",
+        "title": "Year of David Moyes at Everton: ‘I want this club back in Europe again’",
+        "url": "https://www.thetimes.com/sport/football/article/david-moyes-everton-manager-turns-club-around-gl5pqggqf",
+        "source": "The Times",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMInq5eAENmBXYEhhwKPh5qbT_7yNgJygtRMo64lN23_5dIXmkOTwPI6Vk7s"
+      },
+      {
+        "title": "David Moyes eyes Europe return before the first anniversary of his return, appreciates fans’ support",
+        "url": "https://www.toffeeweb.com/season/25-26/news/47148.html",
+        "source": "ToffeeWeb",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlkF8NfsOrAk-Gx-cypOvia1SB6RyLqLuoNyWxvZ24WhSfVkA2C6upAdwUOIM"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "perth glory",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T04:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGAHe8a34loA8-LAd3uWUlvQ32wJeAHX70mgLoFfv1SReNO3WuMgAPm6N5S1E",
+    "news": [
+      {
+        "title": "Perth surge into top four as glorious home form continues",
+        "url": "https://thewest.com.au/sport/perth-glory/a-league-women-perth-glory-celebrate-fourth-straight-home-win-to-move-into-top-four-c-21258969",
+        "source": "The West Australian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGAHe8a34loA8-LAd3uWUlvQ32wJeAHX70mgLoFfv1SReNO3WuMgAPm6N5S1E"
+      },
+      {
+        "title": "Perth Glory’s Stephen Peters and Teresa Morrissey preview home matchup against Western Sydney Wanderers",
+        "url": "https://impetusfootball.org/2026/01/07/perth-glorys-stephen-peters-and-teresa-morrissey-preview-home-matchup-against-western-sydney-wanderers/",
+        "source": "Impetus Football",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpeUsw_dfjNDAgVDRLTKuQb5eJFI9_Pq8AIJ1I5MTsOfEusnJDinMYqYnouyA"
+      },
+      {
+        "title": "Abrahams: “We’re Starting to Get Some Confidence Back” Ahead of Perth Clash",
+        "url": "https://wswanderersfc.com.au/news/abrahams-were-starting-to-get-some-confidence-back-ahead-of-perth-clash/",
+        "source": "Western Sydney Wanderers",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5mY3CrmUFhAR_iN_zNeLtvvdjzWKER8INbguCaxnOv-PqMPgBXUcOd2XKzY4"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "christian harrison",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T04:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfOlaVqIf5XXX1OzicVSuAwDGzgv3vntaU2iT95WPs438KsxxluDDgGeguKuM",
+    "news": [
+      {
+        "title": "Gauff's 2 wins send Americans to United Cup semis",
+        "url": "https://www.espn.com/tennis/story/_/id/47535538/coco-gauff-wins-give-us-lead-vs-greece-united-cup-quarterfinals",
         "source": "ESPN",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKMtLKdNXdQtmI3OnaBblicMknE8h2gMWv5uX30ZdbqGTjSz1jary_FkdkjlA"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfOlaVqIf5XXX1OzicVSuAwDGzgv3vntaU2iT95WPs438KsxxluDDgGeguKuM"
       },
       {
-        "title": "These are the FA Cup third round games being shown on TV this weekend",
-        "url": "https://www.nationalworld.com/sport/football/fa-cup-third-round-which-games-on-tv-this-weekend-which-channels-are-they-on-5468123",
-        "source": "NationalWorld",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuHBLOxqdAgmFLxJsLixsneVaijLwe6kbLdww2S_wJuU7jbC8YdR4WjNdtZw"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "bobs farm",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T14:30:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqLh3zqtykc2B4GKLzb1ntpNy-LuPbq6TbmG_j-bBrdOARvgfC4vlUuxW9tig",
-    "news": [
-      {
-        "title": "Holiday horror as 4yo boy dies in pool",
-        "url": "https://www.news.com.au/national/young-boy-dies-after-being-pulled-unresponsive-from-pool-in-bobs-farm/news-story/0c05bf4e5acd063c147081ea68700b0c",
-        "source": "News.com.au",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqLh3zqtykc2B4GKLzb1ntpNy-LuPbq6TbmG_j-bBrdOARvgfC4vlUuxW9tig"
-      },
-      {
-        "title": "Little boy dies after being pulled unconscious from Bobs Farm pool in Port Stephens",
-        "url": "https://7news.com.au/news/little-boy-dies-after-being-pulled-unconscious-from-bobs-farm-pool-in-port-stephens-c-21262820",
-        "source": "7NEWS",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVAAby9Mb5l2PR3AIfNCn1TRoFIrg425YURgJ61UmPoUcYahS9uAKA9A9H1L0"
-      },
-      {
-        "title": "Tragedy as 4yo boy dies in drowning",
-        "url": "https://au.news.yahoo.com/tragedy-4yo-boy-dies-drowning-210646018.html",
-        "source": "Yahoo News Australia",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5opVblWt0H0awoi1USL77qctM5PbTYH-OYYIXLvvr8hdW9-s0NXJZ7TQSb7M"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "dina broadhurst",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T14:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTehlDR0NH6SeLhEIWwRfCzCYT0UrBkMRK8aH1rSkK78DoBjYxc4sj3uYFrziU",
-    "news": [
-      {
-        "title": "Unusual reason for queue in Sydney",
-        "url": "https://www.news.com.au/entertainment/music/tours/huge-queues-scorch-in-heat-to-meet-english-rock-sensation-yungblud-in-sydneys-vibrant-newtown/news-story/bd470b39b2a9cae72783bf4fee17afcd",
-        "source": "News.com.au",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTehlDR0NH6SeLhEIWwRfCzCYT0UrBkMRK8aH1rSkK78DoBjYxc4sj3uYFrziU"
-      },
-      {
-        "title": "Fans awaiting for singer Yungblud meet and greet in Sydney",
-        "url": "https://www.townsvillebulletin.com.au/entertainment/fans-awaiting-for-singer-yungblud-meet-and-greet-in-sydney/video/f52dee2d90a5a83950bef350a8aefa6f",
-        "source": "Townsville Bulletin",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRe0_nvaLtSKuIDmpeJhgaDhWNU7As4kWWOp6OdR2ESTuupRlTpkv-8CwhuhPQ"
-      },
-      {
-        "title": "Naked pop star Yungblud parties with 50-year-old Dina Broadhurst",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15447501/Naked-Yungblud-parties-socialite-Dina-Broadhurst-Sydney-yacht.html",
-        "source": "Daily Mail",
-        "picture": ""
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "wwe",
-    "traffic_num": 500,
-    "pub_date": "2026-01-09T13:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW1sB3DMEYxYDiU5NFMph6KqGrngv79NleYDS2lnJi4nf-fUSe_338CbAVs8",
-    "news": [
-      {
-        "title": "WWE SmackDown results, highlights (Jan. 9): Drew McIntyre dethrones Cody Rhodes in shocker; Jacob Fatu returns",
-        "url": "https://sports.yahoo.com/wrestling/breaking-news/article/wwe-smackdown-results-highlights-jan-9-drew-mcintyre-dethrones-cody-rhodes-in-shocker-jacob-fatu-returns-221613306.html",
-        "source": "Yahoo Sports",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW1sB3DMEYxYDiU5NFMph6KqGrngv79NleYDS2lnJi4nf-fUSe_338CbAVs8"
-      },
-      {
-        "title": "WWE SmackDown SPOILERS from Berlin",
-        "url": "https://www.cagesideseats.com/wwe/409666/wwe-smackdown-spoiler-results-berlin-germany-cody-rhodes-drew-mcintyre-title-three-stages-hell",
-        "source": "Cageside Seats",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROpwV4oGHXZtFmL38Vee07ZuIAERZC5Uy3DdrHVra8YjHAH4OQmcD4DLAOj3g"
-      },
-      {
-        "title": "Spoiler Report For WWE SmackDown: 1/9/2026",
-        "url": "https://www.wrestlinginc.com/2072134/wwe-smackdown-spoiler-report-january-9-2026/",
-        "source": "Wrestling Inc.",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRreYCBwk7MQ9csUBs42U4-CvrSsdKQsxiS2_j_uQG0WjBvs3UsV_8g3XA-Zts"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "getafe vs real sociedad",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T13:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfh-Hy5UFvWm_vK0tjVZwrtWezSYjZa9OpuEbmDlrSQ9S8xaUtLxPiXSQG5A",
-    "news": [
-      {
-        "title": "American coach Matarazzo gets first win as Real Sociedad sneak late win at Getafe",
-        "url": "https://www.kare11.com/article/syndication/associatedpress/american-coach-matarazzo-gets-first-win-as-real-sociedad-sneak-late-win-at-getafe/616-25b35376-9d6b-4a2a-ab94-630080cc346c",
-        "source": "kare11.com",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfh-Hy5UFvWm_vK0tjVZwrtWezSYjZa9OpuEbmDlrSQ9S8xaUtLxPiXSQG5A"
-      },
-      {
-        "title": "Getafe - Real Sociedad live",
-        "url": "https://www.marca.com/en/soccer/laliga-ea-sports/getafe-real-sociedad/2026/01/09/01_0101_20260109_1450_188-live.html",
-        "source": "MARCA",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI"
-      },
-      {
-        "title": "Getafe vs Real Sociedad Prediction, 1/9/2026 Soccer Pick, Tips and Odds",
-        "url": "https://www.docsports.com/free-picks/soccer/2026/getafe-vs-real-sociedad-prediction-1-9-2026-soccer-pick-tips-and-odds.html",
-        "source": "Doc's Sports",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBBSYqFN3jm3Ic3QdVbTssvzxHc9zmEswdQuhv77le6mhm6vUxb8huU3NKhs"
-      }
-    ],
-    "regions": [
-      "Australia(all region)"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "merrylands shooting",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T16:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOzjzqg8iPHVpPDxxCxs1KwZUNYXNkfbcqD-nxEAlo1boWVtHyWpVkllc3lA",
-    "news": [
-      {
-        "title": "Man shot dead in unit block",
-        "url": "https://www.news.com.au/national/breaking-news/man-shot-dead-in-western-sydney-unit-block-sparking-nsw-police-operation/news-story/eaf56993f1cae73c68696883c2096cfb",
-        "source": "News.com.au",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOzjzqg8iPHVpPDxxCxs1KwZUNYXNkfbcqD-nxEAlo1boWVtHyWpVkllc3lA"
-      },
-      {
-        "title": "Man shot dead in Sydney's west",
-        "url": "https://www.9news.com.au/national/man-shot-dead-in-sydneys-west/08568cfa-02c3-4f5a-88ca-289a27f1b10f",
-        "source": "9News.com.au",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygRKBrmm3_PqAgg2TApHjpSirttNJxa6h2WpLqo46HAgN3wa1M8OGZfUHC9U"
-      },
-      {
-        "title": "Man, 44, shot dead in western Sydney",
-        "url": "https://www.smh.com.au/national/nsw/man-44-shot-dead-in-western-sydney-20260110-p5nt0o.html",
-        "source": "The Sydney Morning Herald",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSRs8rD4nQDCwWLIBuMF5Dn7GfsQLRHnSlYq_j_k5cE2RumOYu4FSv2S6DRmw"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "bobs farm",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T14:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqLh3zqtykc2B4GKLzb1ntpNy-LuPbq6TbmG_j-bBrdOARvgfC4vlUuxW9tig",
-    "news": [
-      {
-        "title": "Holiday horror as 4yo boy dies in pool",
-        "url": "https://www.news.com.au/national/young-boy-dies-after-being-pulled-unresponsive-from-pool-in-bobs-farm/news-story/0c05bf4e5acd063c147081ea68700b0c",
-        "source": "News.com.au",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqLh3zqtykc2B4GKLzb1ntpNy-LuPbq6TbmG_j-bBrdOARvgfC4vlUuxW9tig"
-      },
-      {
-        "title": "Little boy dies after being pulled unconscious from Bobs Farm pool in Port Stephens",
-        "url": "https://7news.com.au/news/little-boy-dies-after-being-pulled-unconscious-from-bobs-farm-pool-in-port-stephens-c-21262820",
-        "source": "7NEWS",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVAAby9Mb5l2PR3AIfNCn1TRoFIrg425YURgJ61UmPoUcYahS9uAKA9A9H1L0"
-      },
-      {
-        "title": "Tragedy as 4yo boy dies in drowning",
-        "url": "https://au.news.yahoo.com/tragedy-4yo-boy-dies-drowning-210646018.html",
-        "source": "Yahoo News Australia",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5opVblWt0H0awoi1USL77qctM5PbTYH-OYYIXLvvr8hdW9-s0NXJZ7TQSb7M"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "wwe",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T14:30:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW1sB3DMEYxYDiU5NFMph6KqGrngv79NleYDS2lnJi4nf-fUSe_338CbAVs8",
-    "news": [
-      {
-        "title": "WWE SmackDown results, highlights (Jan. 9): Drew McIntyre dethrones Cody Rhodes in shocker; Jacob Fatu returns",
-        "url": "https://sports.yahoo.com/wrestling/breaking-news/article/wwe-smackdown-results-highlights-jan-9-drew-mcintyre-dethrones-cody-rhodes-in-shocker-jacob-fatu-returns-221613306.html",
-        "source": "Yahoo Sports",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqW1sB3DMEYxYDiU5NFMph6KqGrngv79NleYDS2lnJi4nf-fUSe_338CbAVs8"
-      },
-      {
-        "title": "WWE SmackDown SPOILERS from Berlin",
-        "url": "https://www.cagesideseats.com/wwe/409666/wwe-smackdown-spoiler-results-berlin-germany-cody-rhodes-drew-mcintyre-title-three-stages-hell",
-        "source": "Cageside Seats",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROpwV4oGHXZtFmL38Vee07ZuIAERZC5Uy3DdrHVra8YjHAH4OQmcD4DLAOj3g"
-      },
-      {
-        "title": "Spoiler Report For WWE SmackDown: 1/9/2026",
-        "url": "https://www.wrestlinginc.com/2072134/wwe-smackdown-spoiler-report-january-9-2026/",
-        "source": "Wrestling Inc.",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRreYCBwk7MQ9csUBs42U4-CvrSsdKQsxiS2_j_uQG0WjBvs3UsV_8g3XA-Zts"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "eintracht frankfurt vs dortmund",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T13:30:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMgtgAAepsKTEy8oMKqC93RmVHvux-3kI7hO0EBx2coDQneLU-zFXlXJb81w",
-    "news": [
-      {
-        "title": "German Bundesliga LIVE: Eintracht Frankfurt vs Borussia Dortmund - TV coverage & live text updates",
-        "url": "https://www.bbc.com/sport/football/live/c4g0p94g2ndt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMgtgAAepsKTEy8oMKqC93RmVHvux-3kI7hO0EBx2coDQneLU-zFXlXJb81w"
-      },
-      {
-        "title": "Match Preview: BVB Resume Action in Frankfurt",
-        "url": "https://www.fearthewall.com/bvb-league/22900/match-preview-bvb-resume-action-in-frankfurt",
-        "source": "Fear The Wall",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxBVaneCAvVEozE-u020vYyOK8WLvDwg_m23W42h4azqsQbTjv67oGI9baUE"
-      },
-      {
-        "title": "Dortmund vs Frankfurt Prediction, Pick, Bundesliga Odds, for Friday, January 9",
-        "url": "https://www.actionnetwork.com/soccer/dortmund-vs-frankfurt-prediction-pick-bundesliga-odds-for-friday-january-9",
-        "source": "Action Network",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBtWSH2KI0ju6JKHzMYhd-rVyvt2lkpDdOQxUhuvOHxmxKtOfdN14ytvx_ZSg"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "fa cup fixtures",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T12:20:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZRHcwZ_wH1sYCIDNzSuUziVj3pVSeB6DxirXRZ-Ait8ub42qNUIxzvlzTbw4",
-    "news": [
-      {
-        "title": "FA Cup buildup, Martinelli ‘deeply sorry’, transfers and fixture latest – football news as it happened",
-        "url": "https://www.theguardian.com/football/live/2026/jan/09/fa-cup-buildup-martinelli-deeply-sorry-transfer-news-and-fixture-latest-football-live",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZRHcwZ_wH1sYCIDNzSuUziVj3pVSeB6DxirXRZ-Ait8ub42qNUIxzvlzTbw4"
-      },
-      {
-        "title": "Coaches from across English football speak ahead of FA Cup weekend",
-        "url": "https://onefootball.com/en/news/coaches-from-across-english-football-speak-ahead-of-fa-cup-weekend-42201693",
-        "source": "OneFootball",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQm5lzM83kqVzBJrQrfp3NXNLVaZ42VBhXzU-xH6frZOO_U5yp5ZSprRlxIlY"
-      },
-      {
-        "title": "FA Cup news conferences: Howe speaking before Rosenior, Guardiola & Fletcher",
-        "url": "https://www.aol.com/articles/fa-cup-news-conferences-howe-095618468.html",
-        "source": "AOL.com",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjyAQol3ucTy0fSW181J4CmfK7gHKywE-ZFvxxKCPiEbHAzZ-EanjhCo_Jtvo"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "cameroon vs morocco",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T11:50:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy1RcbCti1v8PX062IeA87Z6oIKMDTWw48-fSYP57vlG9v4F2Sl6rmMLxHhkc",
-    "news": [
-      {
-        "title": "Morocco sail into Afcon semi-finals as Díaz sparks fine win over Cameroon",
-        "url": "https://www.theguardian.com/football/2026/jan/09/cameroon-morocco-africa-cup-of-nations-quarter-final-match-report",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy1RcbCti1v8PX062IeA87Z6oIKMDTWw48-fSYP57vlG9v4F2Sl6rmMLxHhkc"
-      },
-      {
-        "title": "Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal",
-        "url": "https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals",
-        "source": "Al Jazeera",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ820ZboAsYbjMfYX-_zqXE8cWf1Ekane0d9quyNiuAmjjpXVON4v8VojL9Khs"
-      },
-      {
-        "title": "MATCH STATS: Cameroon vs Morocco – TotalEnergies CAF Africa Cup of Nations Morocco 2025 Quarter-final",
-        "url": "https://www.cafonline.com/afcon2025/news/match-stats-cameroon-vs-morocco-totalenergies-caf-africa-cup-of-nations-morocco-2025-quarter-final/",
-        "source": "Confédération Africaine de Football",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnwKSmb5BoF8LzgEYI2vLPERzoP024JBS8QvuEq0jCB6Z_RBaVBnY_5hn3uq8"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "tropical cyclone forecast",
-    "traffic_num": 500,
-    "pub_date": "2026-01-09T11:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI",
-    "news": [
-      {
-        "title": "‘Prepare now’: Brisbane rain dump on the cards as north prepares for cyclone",
-        "url": "https://www.brisbanetimes.com.au/national/queensland/it-almost-doesn-t-matter-whether-it-s-a-cyclone-rain-dump-in-brisbane-on-the-cards-20260109-p5nst1.html",
-        "source": "Brisbane Times",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI"
-      },
-      {
-        "title": "AUDIO: Queensland braces for cyclone",
-        "url": "https://www.abc.net.au/news/2026-01-10/naus_cyclonewbk_1001/106216066",
-        "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNS9xjnzjDTbEVc-vDdFe8ZllynjYcBz3ejL8nZ-ijTwC_1qSRSl2z_ULloU"
-      },
-      {
-        "title": "NBL Statement: Game postponed",
-        "url": "https://www.nbl.com.au/news/nbl-statement-game-postponed",
-        "source": "NBL",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7ZQ0zZcBZHCxgb5xJHZ_IsLNVi0dAXxdh-Ex3Y68MqZr9Hys5Nne-2dRc6hI"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "brooklyn beckham",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T11:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0",
-    "news": [
-      {
-        "title": "Brooklyn Beckham warned parents David and Victoria to only contact him through his lawyers at the height of their family feud",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15447271/Brooklyn-Beckham-warned-parents-David-Victoria-contact-lawyers-height-family-feud.html",
-        "source": "Daily Mail",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0"
-      },
-      {
-        "title": "‘Speak to my lawyers’: Beckham feud hits brutal new low",
-        "url": "https://thenightly.com.au/culture/beckhams-at-war-brooklyn-sends-victoria-and-david-legal-letter-ordering-contact-only-through-lawyers--c-21256841",
-        "source": "The Nightly",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWmjJznjO7Y1-Gu7eO3mLN1Yx20uLDU_ioOsrXhRGYLmfB-TXuu1ku_WBfY5c"
-      },
-      {
-        "title": "Beckham Feud heats up as David and Victoria served with legal notices",
-        "url": "https://celebrity.nine.com.au/latest/beckham-fued-legal-notice-development/977d2b62-6f2e-4d11-a690-e033e25398e2",
-        "source": "9Honey Celebrity",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPXc3KgyF70ztryMkiuDleNdrHqR944UNBTBtTxBlvAJwlkFInQ0ZfqO9w3aI"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "mali vs senegal",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T11:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_x4cPzXabSxP1hK7HCCQGqONUw-0t8nPR3Z7SJfrt-BZ4HUM-qmjKsRiInXU",
-    "news": [
-      {
-        "title": "Afcon 2025: Mali 0-1 Senegal - Iliman Ndiaye sends Teranga Lions into sem-finals",
-        "url": "https://www.bbc.com/sport/football/live/cqxy89rx08qt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_x4cPzXabSxP1hK7HCCQGqONUw-0t8nPR3Z7SJfrt-BZ4HUM-qmjKsRiInXU"
-      },
-      {
-        "title": "Mali 0 Senegal 1 – An unconvincing win? Ndiaye’s best game so far? What was Bissouma thinking?",
-        "url": "https://www.nytimes.com/athletic/6948912/2026/01/09/mali-senegal-afcon-analysis/",
-        "source": "The New York Times",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8uoIV4LAH0VTBGprSOnqkIK69I9dW0yQulZZi3GWYczKkdI2Lk_Qm5eT4_0"
-      },
-      {
-        "title": "MATCH STATS: Mali vs Senegal – TotalEnergies CAF Africa Cup of Nations Morocco 2025 Quarter-final",
-        "url": "https://www.cafonline.com/afcon2025/news/match-stats-mali-vs-senegal-totalenergies-caf-africa-cup-of-nations-morocco-2025-quarter-final/",
-        "source": "Confédération Africaine de Football",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxlVX1sVbB61pUqc6GkotMZstB445ODMWTyv_JNq50xWRjqxAHW-6KPGpYGZc"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "wrexham vs nottm forest",
-    "traffic_num": 5000,
-    "pub_date": "2026-01-09T11:00:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW8RJ3C5gYusBrW7dK_L_nr7vFrO7pX-ezZ6EY2rnccWkZNt3vofYCPVRyrsQ",
-    "news": [
-      {
-        "title": "FA Cup LIVE: Four third-round ties under way, including Wrexham v Nottingham Forest",
-        "url": "https://www.bbc.com/sport/football/live/ckgmr9r5yp2t",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW8RJ3C5gYusBrW7dK_L_nr7vFrO7pX-ezZ6EY2rnccWkZNt3vofYCPVRyrsQ"
-      },
-      {
-        "title": "‘Instant classic’: Wild FA Cup scenes as cult club rocks PL side in shootout stunner",
-        "url": "https://www.foxsports.com.au/football/fa-cup-2026-football-scores-wrexham-beat-nottingham-forest-on-penalties-break-drought-against-premier-league-teams-video/news-story/4f82d878b2f4e59f0f490f767f8fa2c8",
-        "source": "Fox Sports",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZGAF0UXTDXk5fT1vjelOw1Jcc5ZS6sNXcd_mVTAu4sIdAGm6I7Na5kYr9bEI"
-      },
-      {
-        "title": "Reynolds' Wrexham stun Nottingham Forest in FA Cup",
-        "url": "https://www.canberratimes.com.au/story/9148911/reynolds-wrexham-stun-nottingham-forest-in-fa-cup/",
-        "source": "The Canberra Times",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe-e6_tGUQGhlKuIjd8b6AaR_k3xGEfxcMcpGgkrXqISYqGgSDZFlF8uaaanA"
-      }
-    ],
-    "regions": [
-      "New South Wales"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "nina dobrev",
-    "traffic_num": 500,
-    "pub_date": "2026-01-09T12:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoSz6KauolC9ccyTCGQWaGWa94oPwTzgChOIgnx40y3peP_9xdT6X6b24j2s",
-    "news": [
-      {
-        "title": "Nina Dobrev Embraces a Strong Drop Waist in Vintage Hervé Léger",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/nina-dobrev-embraces-strong-drop-190000501.html",
-        "source": "Yahoo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoSz6KauolC9ccyTCGQWaGWa94oPwTzgChOIgnx40y3peP_9xdT6X6b24j2s"
-      },
-      {
-        "title": "Nina Dobrev Turns Heads in Lacy Off-The-Shoulder Black Gown at Star-Studded Event",
-        "url": "https://www.aol.com/articles/nina-dobrev-turns-heads-lacy-194900954.html",
-        "source": "AOL.com",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_rcVVPLtpobVF0rT2dFVHFdnNklv-z88UTsQ4FNXVmfdD6w8Hnuf2YO1qUiQ"
-      },
-      {
-        "title": "Shaun White's ex Nina Dobrev stole the show in Hervé Léger",
-        "url": "https://www.sportingnews.com/us/culture/entertainment/news/shaun-whites-ex-nina-dobrev-stole-show-herv%C3%A9-l%C3%A9ger/6b5598dd88647a88544bf94b",
-        "source": "Sporting News AU",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVDJzgRPvMP3bgorx-lzkxTBkrwSdX4DvO-pvPe4CDVEeYaXVYoUmO7Jih7mM"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "rhode beauty",
-    "traffic_num": 500,
-    "pub_date": "2026-01-09T11:40:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-wGZK-gSvxsxbFInGgwRO7RqZXf3rRUsFhuqjNkM76trex5e19A7LGk88mUU",
-    "news": [
-      {
-        "title": "Hailey Bieber’s Rhode is officially coming to Australia",
-        "url": "https://www.vogue.com.au/beauty/news/rhode-australia-mecca/news-story/99e583828eeb46236d34327549068755",
-        "source": "Vogue Australia",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-wGZK-gSvxsxbFInGgwRO7RqZXf3rRUsFhuqjNkM76trex5e19A7LGk88mUU"
-      },
-      {
-        "title": "The skincare giant making its Down Under debut",
-        "url": "https://www.perthnow.com.au/news/australia/rhode-iconic-global-beauty-brand-announces-long-awaited-australia-and-new-zealand-debut-c-21253919",
-        "source": "PerthNow",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVviMjrSbva6alPhODeyqQUjl8fXCR7Lm2pI6jBf62T9LPx_tvF6GaMqn-Xqk"
-      },
-      {
-        "title": "Worst kept secret: Rhode Beauty is officially coming Down Under",
-        "url": "https://style.nine.com.au/latest/rhode-beauty-australia-hailey-bieber-confirms-coming-to-mecca/26ebbd85-46f0-436e-8834-5d0f844b954a",
-        "source": "Nine",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtWKpgbiqbtglVEDujvOFx2MRZCf_VbmVGdLTTA3ZpHue35lO0medCUqPknQ"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "bom",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T10:40:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSzEvgOd_f-teQcaab4mD4F-becq5Tm1LdPv8Eau3QmZh5O5G69qk0ngrSstA",
-    "news": [
-      {
-        "title": "“Bloody hot”: The Territory’s north and south brace for heatwave",
-        "url": "https://www.ntnews.com.au/business/northern-territory/bom-forecasts-temperatures-up-to-45-degrees-as-territorywide-heatwave-hits/news-story/650cd895d6257abf620e3e93b3e0f865",
-        "source": "NT News",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSzEvgOd_f-teQcaab4mD4F-becq5Tm1LdPv8Eau3QmZh5O5G69qk0ngrSstA"
-      },
-      {
-        "title": "Australia fires: Victoria told to brace for 'property loss or worse'",
-        "url": "https://www.bbc.com/news/articles/cevnxz24rldo",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvStbyviKHPZBLnKyjrruOo-3d1gDJHEAjUKsqUUdiRVk1TKwYN4_3DmQ2RN4"
-      },
-      {
-        "title": "Live: Trio missing in Victorian fires found safe, as heatwave intensifies across NSW",
-        "url": "https://www.abc.net.au/news/2026-01-10/state-of-disaster-declared-bushfires-victoria/106215462",
-        "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQakCYeKCz8S68WBsQyQKB6aWVmFE8kFFa8qnS11Yg2NHliQYrbmhomwe1Zqgg"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "rio tinto glencore merger talks",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T10:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTna0tQjc5ZkL2gI591JiELvf14_VydvmAojyGbOvP6EI4XMhVXfegvzmyZOaQ",
-    "news": [
-      {
-        "title": "Rio’s ‘simple’ pledge dissolves in $96b Glencore gamble",
-        "url": "https://www.afr.com/chanticleer/rio-s-simple-pledge-dissolves-in-96b-glencore-gamble-20260108-p5nsn6",
-        "source": "AFR",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTna0tQjc5ZkL2gI591JiELvf14_VydvmAojyGbOvP6EI4XMhVXfegvzmyZOaQ"
-      },
-      {
-        "title": "Stock of the day: Rio Tinto",
-        "url": "https://www.ig.com/au/news-and-trade-ideas/stock-of-the-day--rio-tinto-260109",
-        "source": "ig.com",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQye5IAWBDAkrYd_pZN_Uz1GqWKtiMfN7V8_I6xm1qKqcP1ShJ92lCBro74MC4"
-      },
-      {
-        "title": "Rio Tinto in merger talks with Glencore but total takeover not the only option",
-        "url": "https://www.abc.net.au/news/2026-01-09/rio-tinto-in-talks-to-take-over-glencore-mega-miner-merger/106213252",
-        "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgyn1JMdrIEzw1Bdpgz9KBeo3l4_wlY6SdsyUVmPtHDXdijwEMaL3jS3EkrfU"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "tropical cyclone forecast",
-    "traffic_num": 5000,
-    "pub_date": "2026-01-09T06:40:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI",
-    "news": [
-      {
-        "title": "‘Prepare now’: Brisbane rain dump on the cards as north prepares for cyclone",
-        "url": "https://www.brisbanetimes.com.au/national/queensland/it-almost-doesn-t-matter-whether-it-s-a-cyclone-rain-dump-in-brisbane-on-the-cards-20260109-p5nst1.html",
-        "source": "Brisbane Times",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI"
-      },
-      {
-        "title": "AUDIO: Queensland braces for cyclone",
-        "url": "https://www.abc.net.au/news/2026-01-10/naus_cyclonewbk_1001/106216066",
-        "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNS9xjnzjDTbEVc-vDdFe8ZllynjYcBz3ejL8nZ-ijTwC_1qSRSl2z_ULloU"
-      },
-      {
-        "title": "NBL Statement: Game postponed",
-        "url": "https://www.nbl.com.au/news/nbl-statement-game-postponed",
-        "source": "NBL",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7ZQ0zZcBZHCxgb5xJHZ_IsLNVi0dAXxdh-Ex3Y68MqZr9Hys5Nne-2dRc6hI"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "one nation polling",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T06:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLslIi8MeV3XOOyjIoPnHvzkSjqb1BcfTy_klVNBfgto-W7yQuq26mGPcM5I8",
-    "news": [
-      {
-        "title": "Poll shows One Nation Reaching New Heights",
-        "url": "https://demosau.com/news/one-nation-vote-soars-post-bondi-tragedy/",
-        "source": "DemosAU",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLslIi8MeV3XOOyjIoPnHvzkSjqb1BcfTy_klVNBfgto-W7yQuq26mGPcM5I8"
-      },
-      {
-        "title": "‘Truly extraordinary numbers’: One Nation draws level with Coalition in new polling",
-        "url": "https://www.skynews.com.au/opinion/truly-extraordinary-numbers-one-nation-draws-level-with-coalition-in-new-polling/video/6b3fb624b0f70fb5687c63b789cbaf59",
-        "source": "Sky News Australia",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQskZ5YuXOThjkl7dMhgj7xH7OTL1fujRJ355oJrDNm1yncpw6yqUSXkGD6KDo"
-      },
-      {
-        "title": "Albanese and Ley hammered in poll as voters flock to One Nation",
-        "url": "https://www.dailytelegraph.com.au/news/nsw/one-nation-triples-support-as-voters-abandon-major-parties-in-wake-of-bondi-attack/news-story/c37062f5d16737e2371c32829471503d",
-        "source": "The Daily Telegraph",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlE6TOsdHZWJEz-r56CqC3uT1C64LN2YUgjN7ZeBCH5O8dff0mKuEEONDQFSw"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "nasa astronauts",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T05:40:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgpHwlD6LuDoxgBj92AeCVoBfafX0zNegDTQe7MDmf5yHwHQkSV59yBcSdXFk",
-    "news": [
-      {
-        "title": "Astronaut's 'serious medical condition' forces Nasa to end space station mission early",
-        "url": "https://www.bbc.com/news/articles/cd9e2y7nkv8o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgpHwlD6LuDoxgBj92AeCVoBfafX0zNegDTQe7MDmf5yHwHQkSV59yBcSdXFk"
-      },
-      {
-        "title": "Nasa orders its first-ever space station medical evacuation after astronaut falls ill",
-        "url": "https://www.theguardian.com/science/2026/jan/08/nasa-spacewalk-medical-issue-astronaut",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNEEht86vaeHtcIrjmh74ysX44geHWRm7Nz-jWOT223vQssSTiIT-IVyXHAqY"
-      },
-      {
-        "title": "NASA to Rush Astronauts Home after Medical Incident on ISS in Unprecedented Move",
-        "url": "https://www.scientificamerican.com/article/in-unprecedented-move-nasa-to-rush-astronauts-home-after-medical-incident-on/",
-        "source": "Scientific American",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr1gwAjPWmDPtyAo9UI1osqt2pTaNs_-ujhNVqQy5CeUX_dUP2SPFGSs0xJ0I"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "ariana grande",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T03:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh764uWL7snmrVIzh1vTt1bVH-ZarSMpv5HMPWXJit9nZUXVuvPb5E9jBmq5M",
-    "news": [
-      {
-        "title": "Ariana Grande Says Playing Glinda ‘Required Everything’ and Why Acting Now Comes First",
-        "url": "https://variety.com/2026/film/awards/ariana-grande-defends-cynthia-erivo-wicked-for-good-awards-snubs-1236626867/",
-        "source": "Variety",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRh764uWL7snmrVIzh1vTt1bVH-ZarSMpv5HMPWXJit9nZUXVuvPb5E9jBmq5M"
-      },
-      {
-        "title": "Ariana Grande Reacts to Cynthia Erivo’s Actor Awards Snub for ‘Wicked: For Good’",
-        "url": "https://www.justjared.com/2026/01/09/ariana-grande-reacts-to-cynthia-erivos-actor-awards-snub-for-wicked-for-good/",
-        "source": "Just Jared",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAPj4wCCEuH7P4ZsgY8S96HiNTMY28sOv_YjHA5IUvZ0OeRxMEuilffvC_Uk"
-      },
-      {
-        "title": "Ariana Grande pays emotional tribute to ‘Wicked’ cast after Actors Awards nod",
-        "url": "https://jang.com.pk/en/56816-ariana-grande-pays-emotional-tribute-to-wicked-cast-after-actors-awards-nod-news",
-        "source": "Jang",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOkKy_3An_Iq6cYC9zpk24TbmPoJI3yeePs90FkmebhvxfEoR7ln247C6uMo"
-      }
-    ],
-    "regions": [
-      "Queensland"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "majchrzak",
-    "traffic_num": 500,
-    "pub_date": "2026-01-09T03:00:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4HdVS9vUMb8UUgiL3fUxNU7jRbA0kHzaZcjMJZu-RWnn8DxbJ8PZwSEOPr2M",
-    "news": [
-      {
-        "title": "Medvedev finds his range, stays on course for Brisbane title",
-        "url": "https://www.atptour.com/en/news/medvedev-majchrzak-brisbane-2026-friday",
+        "title": "Fritz faces resurgent Tsitsipas as United Cup QFs begin in Perth",
+        "url": "https://www.atptour.com/en/news/united-cup-2026-perth-qf-preview",
         "source": "ATP Tour",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4HdVS9vUMb8UUgiL3fUxNU7jRbA0kHzaZcjMJZu-RWnn8DxbJ8PZwSEOPr2M"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScLllcbmWCODJRvoL-sp0Wmp6C0gYu-JAjcr2jy28C85jZXLuwe-A4w6Q5yyk"
+      },
+      {
+        "title": "Preview: Team USA faces Greece as United Cup knockouts begin in Perth",
+        "url": "https://www.wtatennis.com/news/4429310/preview-team-usa-faces-greece-as-united-cup-knockouts-begin-in-perth",
+        "source": "WTA Tennis",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8mIGGmP-4E-FLd--fZHYXXC82ZESD2sMkPlwnLJQ0MxRkA89vCyIaNrbMaf8"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "tom hardy",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T03:50:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmszFMTwCpE9JDV040CamH3zDUk5ZTHTr8t3dhg-KmLqPncEDf8dp3rZ3aw8A",
+    "news": [
+      {
+        "title": "Steven Knight says Taboo season 2 with Tom Hardy could still happen, nine years on",
+        "url": "https://www.radiotimes.com/tv/drama/taboo-season-2-steven-knight-exclusive-newsupdate/",
+        "source": "Radio Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmszFMTwCpE9JDV040CamH3zDUk5ZTHTr8t3dhg-KmLqPncEDf8dp3rZ3aw8A"
+      },
+      {
+        "title": "Tom Hardy's insane 27-item rider revealed after it was accidentally leaked",
+        "url": "https://www.ladbible.com/entertainment/celebrity/tom-hardy-27-item-rider-sent-wrong-person-835254-20260109",
+        "source": "LADbible",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJhiiClTf6jcxll9TfB7iqEJzNNkh8sh9iuUJa4jhix3ko0ABR_Vd4wJUqcdk"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "macclesfield vs crystal palace",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T03:40:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHd3jhGHmsGeM-xUVEj69mX3SS4Olt4srwjPKLAC7bRb6QUfV-_HEl5xV6g04",
+    "news": [
+      {
+        "title": "Macclesfield v Crystal Palace: FA Cup third round – live",
+        "url": "https://www.theguardian.com/football/live/2026/jan/10/macclesfield-v-crystal-palace-fa-cup-third-round-live",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHd3jhGHmsGeM-xUVEj69mX3SS4Olt4srwjPKLAC7bRb6QUfV-_HEl5xV6g04"
+      },
+      {
+        "title": "FA Cup third round: Macclesfield's 'massive occasion' against Crystal Palace tinged with sadness",
+        "url": "https://www.bbc.com/sport/football/articles/clyndjxl0xlo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFveDWY5b6_kFyBcFIiyGaAij4dt5rcfkcJmchaLpiKzwuQNn5nQ_Msdpznag"
+      },
+      {
+        "title": "David vs Goliath: Macclesfield's FA Cup Dream Clash",
+        "url": "https://www.devdiscourse.com/article/sports-games/3765231-david-vs-goliath-macclesfields-fa-cup-dream-clash",
+        "source": "Devdiscourse",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3t-L0TDnJnVyg4VVu4joXWrN3adMgozG4r3y_KwP-AOXXJvhkaRcZg74F7eQ"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "everton vs sunderland",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T03:30:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws",
+    "news": [
+      {
+        "title": "Everton vs Sunderland: Confirmed team news",
+        "url": "https://www.bbc.com/sport/football/articles/c98nm7n27lvo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws"
+      },
+      {
+        "title": "FA Cup LIVE SCORES: 3rd round latest as Everton face Sunderland, City vs Exeter",
+        "url": "https://www.thesun.co.uk/sport/37819706/fa-cup-live-scores-results-everton-newcastle-man-city-updates/",
+        "source": "The Sun",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZPWa6R-7XsAmLtjMU_WcgRbPYGKAbATi_pKCOmo9CIYlou_ZShnRGrCRBW8Q"
+      },
+      {
+        "title": "The six-figure prize money Sunderland and Kyril Louis-Dreyfus could pocket if they beat Everton in FA Cup",
+        "url": "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-everton-fa-cup-prize-money-5469740",
+        "source": "Sunderland Echo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-TpPATeWQVvyZWtU3GGLaoVJ4VTGt7LHMFVu8M1xX4OFKTtF5HUIPqlOIgY"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "glenn maxwell",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T03:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTTxJpSUPwTGiK56stKMIEe4GPFOtz6nGJU6vJN5HQ1ELon6hUraUmfAlzP68",
+    "news": [
+      {
+        "title": "Is Glenn Maxwell’s form a worry as Stars lose again?",
+        "url": "https://www.smh.com.au/sport/cricket/is-glenn-maxwell-s-form-a-worry-as-stars-lose-again-20260108-p5nspe.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTTxJpSUPwTGiK56stKMIEe4GPFOtz6nGJU6vJN5HQ1ELon6hUraUmfAlzP68"
+      },
+      {
+        "title": "Struggling Renegades enigma fails again following bizarre Marvel moment — BBL LIVE",
+        "url": "https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/live-big-bash-2026-melbourne-renegades-v-melbourne-stars-live-scores-updates-stats-video-stream-result-news-blog/news-story/08a362f4334db1263fbdd48ef97742d9",
+        "source": "Fox Sports",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpG2DGi4zBkIlYSFG3LhT_wsaR7wOkLApRfLKkDds_JpCjMm77OQRMvt9VEM"
+      },
+      {
+        "title": "LIVE Melbourne derby Big Bash: Sam Harper smashes six into top level of Marvel as Stars close in on winn",
+        "url": "https://www.smh.com.au/sport/cricket/live-melbourne-derby-big-bash-renegades-stars-go-head-to-head-20260110-p5nt20.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpYWuFM0gdZ3uw5o2EA9J4tnB93BxNGKRWP4x4It0Ysnil9ScDBbPLuvEMqY"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "ostapenko",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T03:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6r2iCGV7IYllmeAFK7RarEQQ5tAANK_2M5mFfviM2qmWIwFQ0hv9RNruNAFM",
+    "news": [
+      {
+        "title": "S Hsieh J Ostapenko vs L Kichenok N Kichenok-Match Highlights_2026-01-09T02-38-48.mp4",
+        "url": "https://wwos.nine.com.au/videos/tennis/s-hsieh-j-ostapenko-vs-l-kichenok-n-kichenok-match-highlights-2026-01-09-t-02-38-48-mp-4/cmk69pkw400040hs527iqmt5m",
+        "source": "Nine",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6r2iCGV7IYllmeAFK7RarEQQ5tAANK_2M5mFfviM2qmWIwFQ0hv9RNruNAFM"
+      },
+      {
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "url": "https://www.skysports.com/tennis/watch/4894401541594248112/brisbane-international-presented-by-evie-2026",
+        "source": "Sky Sports",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT09x8Y8NOvHkNI9XDD4GYpPVwSYYMm7SMY3RETj6fj39-J24XQvv0PuiyWbcs"
+      },
+      {
+        "title": "Hsieh advances in Australian Open warm-up",
+        "url": "https://www.taipeitimes.com/News/sport/archives/2026/01/08/2003850243",
+        "source": "Taipei Times",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6dup1TV9ZcnS5GWyo2r-Q-zif4Gi2pUAlLFt2HRDgiV-A95l2SL7WeBgXD8"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "harry brook",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T03:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbx0wkAYJLmd3MfO_D4A7Q9KNgY5BG9yTvF5xfSbblXsDFmMkssrriG_HEI0c",
+    "news": [
+      {
+        "title": "Harry Brook fined $60k for nightclub scuffle before pre-Ashes match",
+        "url": "https://www.abc.net.au/news/2026-01-09/harry-brook-scuffle-with-bouncer-before-new-zealand-odi/106212164",
+        "source": "Australian Broadcasting Corporation",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbx0wkAYJLmd3MfO_D4A7Q9KNgY5BG9yTvF5xfSbblXsDFmMkssrriG_HEI0c"
+      },
+      {
+        "title": "Switch Hit: Crash and (b)urn",
+        "url": "https://www.espn.com.au/cricket/story/_/id/47561925/switch-hit-podcast-ashes-2025-26-crash-burn",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWHqocsW-ddSxm7lYLbMWLh3Z7P8Vxtctct7Y7TBQ7Tyk5qjeuhps9K0XxFrc"
+      },
+      {
+        "title": "The Ashes: England cricket concern over culture and drinking",
+        "url": "https://www.bbc.com/sport/cricket/articles/c33874p4xg3o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeP_-Jo54p1DvIcrQfQ7f7PDyXkX0qWqwf56kCpiyKyFR2x8emJ_Ye9BBCT8E"
+      }
+    ],
+    "regions": [
+      "Australia(all region)"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "macclesfield vs crystal palace",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T04:20:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHd3jhGHmsGeM-xUVEj69mX3SS4Olt4srwjPKLAC7bRb6QUfV-_HEl5xV6g04",
+    "news": [
+      {
+        "title": "Macclesfield v Crystal Palace: FA Cup third round – live",
+        "url": "https://www.theguardian.com/football/live/2026/jan/10/macclesfield-v-crystal-palace-fa-cup-third-round-live",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHd3jhGHmsGeM-xUVEj69mX3SS4Olt4srwjPKLAC7bRb6QUfV-_HEl5xV6g04"
+      },
+      {
+        "title": "FA Cup third round: Macclesfield's 'massive occasion' against Crystal Palace tinged with sadness",
+        "url": "https://www.bbc.com/sport/football/articles/clyndjxl0xlo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFveDWY5b6_kFyBcFIiyGaAij4dt5rcfkcJmchaLpiKzwuQNn5nQ_Msdpznag"
+      },
+      {
+        "title": "David vs Goliath: Macclesfield's FA Cup Dream Clash",
+        "url": "https://www.devdiscourse.com/article/sports-games/3765231-david-vs-goliath-macclesfields-fa-cup-dream-clash",
+        "source": "Devdiscourse",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3t-L0TDnJnVyg4VVu4joXWrN3adMgozG4r3y_KwP-AOXXJvhkaRcZg74F7eQ"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "everton vs sunderland",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T04:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws",
+    "news": [
+      {
+        "title": "Everton vs Sunderland: Confirmed team news",
+        "url": "https://www.bbc.com/sport/football/articles/c98nm7n27lvo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws"
+      },
+      {
+        "title": "FA Cup LIVE SCORES: 3rd round latest as Everton face Sunderland, City vs Exeter",
+        "url": "https://www.thesun.co.uk/sport/37819706/fa-cup-live-scores-results-everton-newcastle-man-city-updates/",
+        "source": "The Sun",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZPWa6R-7XsAmLtjMU_WcgRbPYGKAbATi_pKCOmo9CIYlou_ZShnRGrCRBW8Q"
+      },
+      {
+        "title": "The six-figure prize money Sunderland and Kyril Louis-Dreyfus could pocket if they beat Everton in FA Cup",
+        "url": "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-everton-fa-cup-prize-money-5469740",
+        "source": "Sunderland Echo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-TpPATeWQVvyZWtU3GGLaoVJ4VTGt7LHMFVu8M1xX4OFKTtF5HUIPqlOIgY"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "people we meet on vacation cast",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T03:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4aVweqEfhRObyGQ0S8EgrW0nYv8Rqb57ryYJWquN661jlZ94L83dtRVDIerk",
+    "news": [
+      {
+        "title": "What Emily Henry, Author of ‘People We Meet on Vacation,’ Brings on Vacation",
+        "url": "https://www.nytimes.com/wirecutter/reviews/what-emily-henry-brings-on-vacation/",
+        "source": "The New York Times",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4aVweqEfhRObyGQ0S8EgrW0nYv8Rqb57ryYJWquN661jlZ94L83dtRVDIerk"
+      },
+      {
+        "title": "The Biggest Ways Netflix’s People We Meet on Vacation Movie Differs From the Book",
+        "url": "https://time.com/7345036/people-we-meet-on-vacation-movie-book-differences/",
+        "source": "Time Magazine",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRauLbmTrJoTsYcoOtYFmJkwi7XzQs-eQD7d_8Cs9IF19-2JO6cum_lFsmAjlA"
+      },
+      {
+        "title": "People We Meet on Vacation film review — When Harry Met Sally . . . without the zingers or chemistry",
+        "url": "https://www.ft.com/content/dc37fc48-0bef-4218-91a3-29b900e4aae4",
+        "source": "Financial Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPOFIuBiA5vvlCkt1CMX2TmpFXjIwS6fQh39LUo7lHs_N62x2CPpqywKWKajs"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "coco gauff ranking",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T02:50:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVZ_vhEKFwixlnDi3nngKtqKkz6SMD9eXZeoWc8w3oW_OFWZbEz9DYlegg_g",
+    "news": [
+      {
+        "title": "Hot shot: Marta Kostyuk breaks in Brisbane with absurd angled pass",
+        "url": "https://www.wtatennis.com/videos/4431474/hot-shot-marta-kostyuk-breaks-in-brisbane-with-absurd-angled-pass",
+        "source": "WTA Tennis",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVZ_vhEKFwixlnDi3nngKtqKkz6SMD9eXZeoWc8w3oW_OFWZbEz9DYlegg_g"
+      },
+      {
+        "title": "Ukrainian underdog sets up Sabalenka final with 55-minute annihilation",
+        "url": "https://www.abc.net.au/news/2026-01-10/brisbane-international-semi-finals/106216472",
+        "source": "Australian Broadcasting Corporation",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSKaS-5RpWS05CBjAWkGYm-v3EvQKfTdMivLngngRccuvJPP0Xfka4qSWWkVM"
+      },
+      {
+        "title": "WTA Rankings: How Coco Gauff benefits from Amanda Anisimova's shock loss",
+        "url": "https://www.tennis365.com/tennis-features/wta-rankings-what-amanda-anisimova-brisbane-loss-means-coco-gauff",
+        "source": "Tennis365",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKErLCmNpX1-SwtnSgGcnESFiQSQhxMN5Egtbe-Ilcfn541vvhcpYj3hop0R8"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "perth glory vs central coast mariners",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T02:20:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bUhW86Brmgw0cxvkeVTP5RCicaYt2bFLo4HfFUvxi0_7yA9hBQCcLC4MOHU",
+    "news": [
+      {
+        "title": "ALM Match Preview: \"Fortress HBF\" the focus for Griffiths and co",
+        "url": "https://perthglory.com.au/news/alm-match-preview-fortress-hbf-the-focus-for-griffiths-and-co/",
+        "source": "Perth Glory",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bUhW86Brmgw0cxvkeVTP5RCicaYt2bFLo4HfFUvxi0_7yA9hBQCcLC4MOHU"
+      },
+      {
+        "title": "Perth Glory vs Central Coast Mariners Predictions & Betting Tips - 10/1/26",
+        "url": "https://insights.betfred.com/football/australian-a-league/perth-glory-vs-central-coast-mariners-prediction-betting-tips-odds-100126/",
+        "source": "Betfred Insights",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcp6-ks5m9gmxtFhWK4SwRy6OelBvghg37jBvzQC3lARGBJcBu3sPEbTRJfOE"
+      },
+      {
+        "title": "Perth Glory – Central Coast Mariners: match prediction and bet on the A-League game, January 10, 2026",
+        "url": "https://tribuna.com/en/news/2026-01-09-perth-glory-central-coast-mariners-match-prediction-and-bet-on-the-aleague-game-january-1/",
+        "source": "Tribuna.com",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3dJXRCM_2h2mT1AQdwRkmzW9Dci8iXrOHgpMgmNqASyq85m__FYx9mUlhyzI"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "الطقس غدًا",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T02:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQljYrNRzFqbxI5Wy0QoRW7aUxdr_2fDLXWG6M0H0lDB3M65s7KKkX8h5zAfF0",
+    "news": [
+      {
+        "title": "حالة الطقس اليوم السبت 10 يناير 2026.. أجواء شتوية والصغري بالقاهرة 11 درجة",
+        "url": "https://www.youm7.com/story/2026/1/10/%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D9%82%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-10-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-2026-%D8%A3%D8%AC%D9%88%D8%A7%D8%A1-%D8%B4%D8%AA%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%8A/7262810",
+        "source": "اليوم السابع",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQljYrNRzFqbxI5Wy0QoRW7aUxdr_2fDLXWG6M0H0lDB3M65s7KKkX8h5zAfF0"
+      },
+      {
+        "title": "من الشمال إلى جنوب الصعيد، الأرصاد تحذر من 4 ظواهر جوية تضرب البلاد اليوم",
+        "url": "https://www.vetogate.com/5570165",
+        "source": "فيتو",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSitfCF3QmR6satMQfZnAW358qrsvGZn-ccbzfXaWVm9yQ39yd5E-Womj613WM"
+      },
+      {
+        "title": "4 ظواهر جوية تضرب البلاد.. بيان مهم بشأن حالة الطقس غدًا السبت (تفاصيل)",
+        "url": "https://www.almasryalyoum.com/news/details/4171018",
+        "source": "المصري اليوم",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWEFgqOQFtDFAugzQ8-E0qTK6sCW5wgh7GQNPGXGBixnn1AdM2II4UvQzDhGA"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "내일 날씨",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKaxBDgaQkcWD6KDJx1yTZ5aGacgdLtZG0jxcwKjnzRlqxjfrAzcjOUK05t6g",
+    "news": [
+      {
+        "title": "내일 아침 최저 영하 15도 '강추위'…충청·남부 지방에 많은 눈",
+        "url": "https://news.nate.com/view/20260110n08890",
+        "source": "네이트",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKaxBDgaQkcWD6KDJx1yTZ5aGacgdLtZG0jxcwKjnzRlqxjfrAzcjOUK05t6g"
+      },
+      {
+        "title": "주말 강풍에 많은 눈…밤부터 매서운 한파",
+        "url": "https://v.daum.net/v/20260110151047110",
+        "source": "Daum",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPo8OHfCultiTt8nRbZ560Nuwge9zHgiAD_7TgDQ0xBb5aORSU3dZTfHSUUKs"
+      },
+      {
+        "title": "오후부터 경기 북동부 눈…이 시각 포천",
+        "url": "https://v.daum.net/v/20260110133544251",
+        "source": "Daum",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuJMVvMrcXmwfNmJFILaoc9ave_7FzhegAIv2vL4bUhFJGrV16eeymVd6zep8"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "wta rankings",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T01:50:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6SRxjbXBEGIUFhQdy7QrtTSSXohO9gmihz-cm3yv0cGoN-5-f2WMZkHNDyqk",
+    "news": [
+      {
+        "title": "By the numbers: Eala punches Auckland quarterfinal ticket in 63 minutes",
+        "url": "https://www.wtatennis.com/news/4430443/by-the-numbers-eala-punches-auckland-quarterfinal-ticket-in-63-minutes",
+        "source": "WTA Tennis",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6SRxjbXBEGIUFhQdy7QrtTSSXohO9gmihz-cm3yv0cGoN-5-f2WMZkHNDyqk"
+      },
+      {
+        "title": "Philippines tennis star Alex Eala progresses to ASB Classic semifinals",
+        "url": "https://www.espn.com/tennis/story/_/id/47557354/philippines-tennis-star-alex-eala-progresses-wta-tour-asb-classic-semifinals",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS24ONFrn4ROtUgFvGXBc1FrpxIfr00-WJHHn-Cq_9P44OWkuPYsV4MY7xYgr8"
+      },
+      {
+        "title": "Filipino phenom Alexandra Eala marches into ASB Classic semifinals",
+        "url": "https://www.stuff.co.nz/sport/360922540/filipino-phenom-alexandra-eala-marches-asb-classic-semifinals",
+        "source": "Stuff",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJAEzc30LmRM-fi251z6N0Ii_EvHfjKiO9soJvB5KkJPnU_HmUsGt_ME0nIiI"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "iga swiatek",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T01:20:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_9nfmx5joh3JHPFPqnMZYvdW5GMh8SIr8gIIQfX1jYOWC1PEHr7-dyanHLU",
+    "news": [
+      {
+        "title": "Poland Australia United Cup quarterfinal 2026 | United Cup | Tennis",
+        "url": "https://www.unitedcup.com/en/media/news/poland-australia-united-cup-quarterfinal-2026",
+        "source": "United Cup",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_9nfmx5joh3JHPFPqnMZYvdW5GMh8SIr8gIIQfX1jYOWC1PEHr7-dyanHLU"
+      },
+      {
+        "title": "In-form Australians face giant Polish task",
+        "url": "https://www.tennis.com.au/fan-zone/news/2026/01/09/in-form-australians-face-giant-polish-task",
+        "source": "Tennis Australia",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1_fSIxcKOnDjdfMcx2IxHA1Hsw97fJfU2Zj3RVZQ2XT01sImZQFyv_K-VgQQ"
+      },
+      {
+        "title": "Superstar teaches Aussie young gun a cruel lesson",
+        "url": "https://www.adelaidenow.com.au/sport/tennis/poles-apart-maya-joint-thumped-by-iga-swiatek-in-cruel-united-cup-blow-for-australia/news-story/16c633cea297d583363aae379f83e3d3",
+        "source": "The Advertiser",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDZqT-xCeI9x9sm07i1o8zPUD1zv0R74gaFBtHYKHizYiKevxOhsygIYJgfb4"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "medvedev",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T01:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFfSuh8c7DLSZgeChCWouyHdJ0IZ7_2JbhNgB_ihggG7PCoTazPOzVemhytE",
+    "news": [
+      {
+        "title": "Medvedev masters Michelsen, earns another Brisbane final shot",
+        "url": "https://www.atptour.com/en/news/medvedev-michelsen-brisbane-2026-sfs",
+        "source": "ATP Tour",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFfSuh8c7DLSZgeChCWouyHdJ0IZ7_2JbhNgB_ihggG7PCoTazPOzVemhytE"
+      },
+      {
+        "title": "2026 Brisbane International Highlights: Daniil Medvedev v Alex Michelsen",
+        "url": "https://www.smh.com.au/sport/tennis/2026-brisbane-international-highlights-daniil-medvedev-v-alex-michelsen-20260110-p5nt33.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFZXKtVKB_gqwI4KaLpiG1jVpYY-mTKIavkpSGsS_DrgoZa2dzhIsikeZsFJw"
       },
       {
         "title": "Daniil Medvedev vs Kamil Majchrzak-Match Highlights_2026-01-09T13-21-04.mp4",
         "url": "https://wwos.nine.com.au/videos/tennis/daniil-medvedev-vs-kamil-majchrzak-match-highlights-2026-01-09-t-13-21-04-mp-4/cmk6wn1x7000p0hobnsawp3p0",
         "source": "Nine",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRVHfBSfY3FtIoNKIbAZ4ZB5g65wckUg45kXGk-rRG2MqUdXUxmQKYAqN4rwk"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs5QmnbrBZWkdr5PqDbLbGFOohbJpUvkgPuZz6ug1NWuv8atmvVvOudZ8bfxY"
+      }
+    ],
+    "regions": [
+      "New South Wales"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "tom blyth",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T04:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BRDBSlVfs-aLwGQl31nXWMBIQdTSkPZhEpFBRvg-TJ0MVcmEWgtR53gKYbM",
+    "news": [
+      {
+        "title": "What Time Does ‘People We Meet On Vacation’ Come Out In Australia?",
+        "url": "https://www.marieclaire.com.au/life/entertainment/people-we-meet-on-vacation-movie-release-date-time/",
+        "source": "Marie Claire",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BRDBSlVfs-aLwGQl31nXWMBIQdTSkPZhEpFBRvg-TJ0MVcmEWgtR53gKYbM"
       },
       {
-        "title": "Milestone man Medvedev leads Brisbane semifinalists",
-        "url": "https://www.tennis.com.au/brisbane-international/news/2026/01/milestone-man-medvedev-leads-brisbane-semifinalists",
+        "title": "People We Meet on Vacation review – Netflix travel romcom is a dull journey | Romance films",
+        "url": "https://www.theguardian.com/film/2026/jan/08/people-we-meet-on-vacation-netflix-review",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHEsCECN_hnEkD5PO_3QUzSGbRS7UNNxkQkO8UfWUsPWe-mnPJKdZgsHxxBL0"
+      },
+      {
+        "title": "Exactly What Time Emily Henry's 'People We Meet On Vacation' Adaptation Drops In Australia",
+        "url": "https://www.elle.com.au/culture/entertainment/people-we-meet-on-vacation-emily-henry-release-date-time/",
+        "source": "ELLE Australia",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTszkq8DQeAowctuWNSVI9epf7AnmaD3vP_UIGibYIdM206_2Kp2d6UmtyWxy4"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "ostapenko",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T03:30:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6r2iCGV7IYllmeAFK7RarEQQ5tAANK_2M5mFfviM2qmWIwFQ0hv9RNruNAFM",
+    "news": [
+      {
+        "title": "S Hsieh J Ostapenko vs L Kichenok N Kichenok-Match Highlights_2026-01-09T02-38-48.mp4",
+        "url": "https://wwos.nine.com.au/videos/tennis/s-hsieh-j-ostapenko-vs-l-kichenok-n-kichenok-match-highlights-2026-01-09-t-02-38-48-mp-4/cmk69pkw400040hs527iqmt5m",
+        "source": "Nine",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6r2iCGV7IYllmeAFK7RarEQQ5tAANK_2M5mFfviM2qmWIwFQ0hv9RNruNAFM"
+      },
+      {
+        "title": "Sports News, Transfers, Scores | Watch Live Sport",
+        "url": "https://www.skysports.com/tennis/watch/4894401541594248112/brisbane-international-presented-by-evie-2026",
+        "source": "Sky Sports",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT09x8Y8NOvHkNI9XDD4GYpPVwSYYMm7SMY3RETj6fj39-J24XQvv0PuiyWbcs"
+      },
+      {
+        "title": "Hsieh advances in Australian Open warm-up",
+        "url": "https://www.taipeitimes.com/News/sport/archives/2026/01/08/2003850243",
+        "source": "Taipei Times",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6dup1TV9ZcnS5GWyo2r-Q-zif4Gi2pUAlLFt2HRDgiV-A95l2SL7WeBgXD8"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "iga swiatek",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:40:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_9nfmx5joh3JHPFPqnMZYvdW5GMh8SIr8gIIQfX1jYOWC1PEHr7-dyanHLU",
+    "news": [
+      {
+        "title": "Poland Australia United Cup quarterfinal 2026 | United Cup | Tennis",
+        "url": "https://www.unitedcup.com/en/media/news/poland-australia-united-cup-quarterfinal-2026",
+        "source": "United Cup",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_9nfmx5joh3JHPFPqnMZYvdW5GMh8SIr8gIIQfX1jYOWC1PEHr7-dyanHLU"
+      },
+      {
+        "title": "In-form Australians face giant Polish task",
+        "url": "https://www.tennis.com.au/fan-zone/news/2026/01/09/in-form-australians-face-giant-polish-task",
         "source": "Tennis Australia",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSubfzkVC1cHneyUBNo4HboXSGXY4zr8vfn60jE9quckPzRFNGHWMFL6HlEBfk"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1_fSIxcKOnDjdfMcx2IxHA1Hsw97fJfU2Zj3RVZQ2XT01sImZQFyv_K-VgQQ"
+      },
+      {
+        "title": "Superstar teaches Aussie young gun a cruel lesson",
+        "url": "https://www.adelaidenow.com.au/sport/tennis/poles-apart-maya-joint-thumped-by-iga-swiatek-in-cruel-united-cup-blow-for-australia/news-story/16c633cea297d583363aae379f83e3d3",
+        "source": "The Advertiser",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDZqT-xCeI9x9sm07i1o8zPUD1zv0R74gaFBtHYKHizYiKevxOhsygIYJgfb4"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "australian open",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T02:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMNAt9HkeovbooUhm_BmxvythtnPC8emXpl3bG9VxsiaH4XcnLkbqGuQLjgCM",
+    "news": [
+      {
+        "title": "Fonseca to miss Adelaide due to back injury",
+        "url": "https://www.atptour.com/en/news/fonseca-adelaide-2026-withdrawal",
+        "source": "ATP Tour",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMNAt9HkeovbooUhm_BmxvythtnPC8emXpl3bG9VxsiaH4XcnLkbqGuQLjgCM"
+      },
+      {
+        "title": "Joao Fonseca delays 2026 debut, withdraws from Brisbane with lower back injury",
+        "url": "https://www.tennis.com/news/articles/joao-fonseca-delays-2026-debut-withdraws-brisbane-lower-back-injury",
+        "source": "Tennis.com",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsEYXLxj2Ucal9Ek2VfjmsvwiWJVrflp4_PBKXWt7nWw9PngJH33cIDNC_Das"
+      },
+      {
+        "title": "Adelaide International: Brazil teenager Fonseca out of Australian Open warm-up",
+        "url": "https://sportstar.thehindu.com/tennis/joao-fonseca-withdraws-adelaide-international-doubtful-australian-open/article70493637.ece",
+        "source": "Sportstar",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfgqAWESydreTSG-vyYnaH07yAQObCzCbjRKmi870lqg_CxVWQnf89EV8VPM"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "coco gauff",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T01:50:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOfD9jUF095eGOncSpc7rWwMvW-b85LGRJ0fx0kjcPfQm3m2hfzJVvE5r3i0",
+    "news": [
+      {
+        "title": "Highlights: Gauff surges past Swiatek, levels USA and Poland in United Cup 2026 SF",
+        "url": "https://www.atptour.com/en/video/highlights-gauff-surges-past-swiatek-levels-usa-and-poland-in-united-cup-2026-sf",
+        "source": "ATP Tour",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOfD9jUF095eGOncSpc7rWwMvW-b85LGRJ0fx0kjcPfQm3m2hfzJVvE5r3i0"
+      },
+      {
+        "title": "Coco reigns to keep USA's United Cup title hopes alive",
+        "url": "https://www.canberratimes.com.au/story/9149028/coco-reigns-to-keep-usas-united-cup-title-hopes-alive/",
+        "source": "The Canberra Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLzhNevx47uyvx9yvIxgkMk8JVu6M2IuX-dv0h72_BN7JmX2ixFy8B8f0OUm8"
+      },
+      {
+        "title": "Preview: Gauff vs. Swiatek and Bencic vs. Mertens headline United Cup final four",
+        "url": "https://www.wtatennis.com/news/4431714/preview-gauff-vs-swiatek-and-bencic-vs-mertens-headline-united-cup-final-four",
+        "source": "WTA Tennis",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL6JIdpWP2V76YWvHCFxNDB3q5UH3o6TLpOqFyNKFmSulq2jgoifXaab12vQ4"
       }
     ],
     "regions": [
@@ -871,27 +745,27 @@
   },
   {
     "title": "medvedev",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T02:40:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4HdVS9vUMb8UUgiL3fUxNU7jRbA0kHzaZcjMJZu-RWnn8DxbJ8PZwSEOPr2M",
+    "traffic_num": 2000,
+    "pub_date": "2026-01-10T01:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFfSuh8c7DLSZgeChCWouyHdJ0IZ7_2JbhNgB_ihggG7PCoTazPOzVemhytE",
     "news": [
       {
-        "title": "Medvedev finds his range, stays on course for Brisbane title",
-        "url": "https://www.atptour.com/en/news/medvedev-majchrzak-brisbane-2026-friday",
+        "title": "Medvedev masters Michelsen, earns another Brisbane final shot",
+        "url": "https://www.atptour.com/en/news/medvedev-michelsen-brisbane-2026-sfs",
         "source": "ATP Tour",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4HdVS9vUMb8UUgiL3fUxNU7jRbA0kHzaZcjMJZu-RWnn8DxbJ8PZwSEOPr2M"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFfSuh8c7DLSZgeChCWouyHdJ0IZ7_2JbhNgB_ihggG7PCoTazPOzVemhytE"
+      },
+      {
+        "title": "2026 Brisbane International Highlights: Daniil Medvedev v Alex Michelsen",
+        "url": "https://www.smh.com.au/sport/tennis/2026-brisbane-international-highlights-daniil-medvedev-v-alex-michelsen-20260110-p5nt33.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFZXKtVKB_gqwI4KaLpiG1jVpYY-mTKIavkpSGsS_DrgoZa2dzhIsikeZsFJw"
       },
       {
         "title": "Daniil Medvedev vs Kamil Majchrzak-Match Highlights_2026-01-09T13-21-04.mp4",
         "url": "https://wwos.nine.com.au/videos/tennis/daniil-medvedev-vs-kamil-majchrzak-match-highlights-2026-01-09-t-13-21-04-mp-4/cmk6wn1x7000p0hobnsawp3p0",
         "source": "Nine",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRVHfBSfY3FtIoNKIbAZ4ZB5g65wckUg45kXGk-rRG2MqUdXUxmQKYAqN4rwk"
-      },
-      {
-        "title": "Milestone man Medvedev leads Brisbane semifinalists",
-        "url": "https://www.tennis.com.au/brisbane-international/news/2026/01/milestone-man-medvedev-leads-brisbane-semifinalists",
-        "source": "Tennis Australia",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSubfzkVC1cHneyUBNo4HboXSGXY4zr8vfn60jE9quckPzRFNGHWMFL6HlEBfk"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSs5QmnbrBZWkdr5PqDbLbGFOohbJpUvkgPuZz6ug1NWuv8atmvVvOudZ8bfxY"
       }
     ],
     "regions": [
@@ -900,136 +774,148 @@
     "country": "Australia"
   },
   {
-    "title": "eintracht frankfurt vs dortmund",
-    "traffic_num": 100,
-    "pub_date": "2026-01-09T14:00:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMgtgAAepsKTEy8oMKqC93RmVHvux-3kI7hO0EBx2coDQneLU-zFXlXJb81w",
+    "title": "his and hers",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T01:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7y7f69iIDtaQF1TgBTaXaY5oLIbs8eyK2Htv8FeYxlTiiy8ykkYA1Ykb1-Y8",
     "news": [
       {
-        "title": "German Bundesliga LIVE: Eintracht Frankfurt vs Borussia Dortmund - TV coverage & live text updates",
-        "url": "https://www.bbc.com/sport/football/live/c4g0p94g2ndt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjMgtgAAepsKTEy8oMKqC93RmVHvux-3kI7hO0EBx2coDQneLU-zFXlXJb81w"
+        "title": "This new Netflix show is righteously unhinged and clever with its dumbness",
+        "url": "https://www.smh.com.au/culture/tv-and-radio/this-new-netflix-show-is-righteously-unhinged-and-clever-with-its-dumbness-20260107-p5ns9m.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7y7f69iIDtaQF1TgBTaXaY5oLIbs8eyK2Htv8FeYxlTiiy8ykkYA1Ykb1-Y8"
       },
       {
-        "title": "Match Preview: BVB Resume Action in Frankfurt",
-        "url": "https://www.fearthewall.com/bvb-league/22900/match-preview-bvb-resume-action-in-frankfurt",
-        "source": "Fear The Wall",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxBVaneCAvVEozE-u020vYyOK8WLvDwg_m23W42h4azqsQbTjv67oGI9baUE"
+        "title": "Breaking Down The Shocking Ending of 'His and Hers'",
+        "url": "https://time.com/7344607/his-and-hers-netflix-ending/",
+        "source": "Time Magazine",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPI5bTNHDavsNut1MaZUkaxab29wqdRuilW4KnmomzZcD2MBsili5QxNCPWY"
       },
       {
-        "title": "Dortmund vs Frankfurt Prediction, Pick, Bundesliga Odds, for Friday, January 9",
-        "url": "https://www.actionnetwork.com/soccer/dortmund-vs-frankfurt-prediction-pick-bundesliga-odds-for-friday-january-9",
-        "source": "Action Network",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBtWSH2KI0ju6JKHzMYhd-rVyvt2lkpDdOQxUhuvOHxmxKtOfdN14ytvx_ZSg"
-      }
-    ],
-    "regions": [
-      "Victoria"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "cameroon vs morocco",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T12:30:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy1RcbCti1v8PX062IeA87Z6oIKMDTWw48-fSYP57vlG9v4F2Sl6rmMLxHhkc",
-    "news": [
-      {
-        "title": "Morocco sail into Afcon semi-finals as Díaz sparks fine win over Cameroon",
-        "url": "https://www.theguardian.com/football/2026/jan/09/cameroon-morocco-africa-cup-of-nations-quarter-final-match-report",
+        "title": "His & Hers review – this glossy thriller is ideal new year TV",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jan/08/his-hers-review-netflix-jon-bernthal-tessa-thompson-thriller",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRy1RcbCti1v8PX062IeA87Z6oIKMDTWw48-fSYP57vlG9v4F2Sl6rmMLxHhkc"
-      },
-      {
-        "title": "Diaz scores again as Morocco edge out Cameroon in AFCON 2025 quarterfinal",
-        "url": "https://www.aljazeera.com/sports/2026/1/9/morocco-edge-out-cameroon-to-reach-afcon-2025-semifinals",
-        "source": "Al Jazeera",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ820ZboAsYbjMfYX-_zqXE8cWf1Ekane0d9quyNiuAmjjpXVON4v8VojL9Khs"
-      },
-      {
-        "title": "MATCH STATS: Cameroon vs Morocco – TotalEnergies CAF Africa Cup of Nations Morocco 2025 Quarter-final",
-        "url": "https://www.cafonline.com/afcon2025/news/match-stats-cameroon-vs-morocco-totalenergies-caf-africa-cup-of-nations-morocco-2025-quarter-final/",
-        "source": "Confédération Africaine de Football",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnwKSmb5BoF8LzgEYI2vLPERzoP024JBS8QvuEq0jCB6Z_RBaVBnY_5hn3uq8"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2zO8bv4fmepooTbje5HCpMhAq4AZQMQ9Y2vKQ017_4Pnw1mNIQaPpwfxr8Y8"
       }
     ],
     "regions": [
-      "Victoria"
+      "Queensland"
     ],
     "country": "Australia"
   },
   {
-    "title": "tropical cyclone forecast",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T12:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI",
+    "title": "renegades vs melbourne stars",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T00:30:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpG2DGi4zBkIlYSFG3LhT_wsaR7wOkLApRfLKkDds_JpCjMm77OQRMvt9VEM",
     "news": [
       {
-        "title": "‘Prepare now’: Brisbane rain dump on the cards as north prepares for cyclone",
-        "url": "https://www.brisbanetimes.com.au/national/queensland/it-almost-doesn-t-matter-whether-it-s-a-cyclone-rain-dump-in-brisbane-on-the-cards-20260109-p5nst1.html",
-        "source": "Brisbane Times",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdcPj95gEfANGPr0zn4kzZQFjOO5LDqe3akOzJz54tn6S2EjMNBewfjEqy-JI"
+        "title": "Struggling Renegades enigma fails again following bizarre Marvel moment — BBL LIVE",
+        "url": "https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/live-big-bash-2026-melbourne-renegades-v-melbourne-stars-live-scores-updates-stats-video-stream-result-news-blog/news-story/08a362f4334db1263fbdd48ef97742d9",
+        "source": "Fox Sports",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpG2DGi4zBkIlYSFG3LhT_wsaR7wOkLApRfLKkDds_JpCjMm77OQRMvt9VEM"
       },
       {
-        "title": "AUDIO: Queensland braces for cyclone",
-        "url": "https://www.abc.net.au/news/2026-01-10/naus_cyclonewbk_1001/106216066",
+        "title": "LIVE Melbourne derby Big Bash: Sam Harper smashes six into top level of Marvel as Stars close in on winn",
+        "url": "https://www.smh.com.au/sport/cricket/live-melbourne-derby-big-bash-renegades-stars-go-head-to-head-20260110-p5nt20.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpYWuFM0gdZ3uw5o2EA9J4tnB93BxNGKRWP4x4It0Ysnil9ScDBbPLuvEMqY"
+      },
+      {
+        "title": "MATCH DAY INFO: Derby fever to grip Marvel Stadium",
+        "url": "https://www.melbournerenegades.com.au/news/4431302/derby-fever-to-grip-marvel-stadium",
+        "source": "Melbourne Renegades",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElwgK5PIoIJQ6XhAOsI9Bie9VB5VELTMd4r3v0Gm2aGG84NlNkOMXS52bOv0"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "cyclone koji",
+    "traffic_num": 10000,
+    "pub_date": "2026-01-09T22:50:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtxbiMRLMtrL6zkYVnogWvPWGm4nn31GovRM8LFQB35DM_saVDp2G-YHYozPU",
+    "news": [
+      {
+        "title": "When will Tropical Cyclone Koji hit the Australian coastline?",
+        "url": "https://www.abc.net.au/news/2026-01-10/tropical-cyclone-koji-tracker-north-queensland/106213640",
         "source": "Australian Broadcasting Corporation",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNS9xjnzjDTbEVc-vDdFe8ZllynjYcBz3ejL8nZ-ijTwC_1qSRSl2z_ULloU"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtxbiMRLMtrL6zkYVnogWvPWGm4nn31GovRM8LFQB35DM_saVDp2G-YHYozPU"
       },
       {
-        "title": "NBL Statement: Game postponed",
-        "url": "https://www.nbl.com.au/news/nbl-statement-game-postponed",
+        "title": "NBL Statement: Game rescheduled",
+        "url": "https://www.nbl.com.au/news/nbl-statement-game-rescheduled",
         "source": "NBL",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7ZQ0zZcBZHCxgb5xJHZ_IsLNVi0dAXxdh-Ex3Y68MqZr9Hys5Nne-2dRc6hI"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtizT29sgwRP8aJjVI1eqxOr7DqaZUUp7PJM7TBIA2HGbC1J-GDC_HubJ_UMs"
+      },
+      {
+        "title": "Tropical Cyclone Koji set to cross Queensland coast as a Category 2 storm",
+        "url": "https://www.9news.com.au/national/queensland-cyclone-warning-severe-weather-forecast-heavy-rain-updates/41d13e7e-3d9c-43f8-9326-da96909c22b6",
+        "source": "9News.com.au",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAgiCso40blTrH1sLA72mlA6xFKWVSresbHRUVZGO8eJ-vUT9lhDvYlJHewLU"
       }
     ],
     "regions": [
-      "Victoria"
+      "Queensland"
     ],
     "country": "Australia"
   },
   {
-    "title": "brooklyn beckham",
-    "traffic_num": 200,
-    "pub_date": "2026-01-09T12:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0",
-    "news": [
-      {
-        "title": "Brooklyn Beckham warned parents David and Victoria to only contact him through his lawyers at the height of their family feud",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15447271/Brooklyn-Beckham-warned-parents-David-Victoria-contact-lawyers-height-family-feud.html",
-        "source": "Daily Mail",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0"
-      },
-      {
-        "title": "‘Speak to my lawyers’: Beckham feud hits brutal new low",
-        "url": "https://thenightly.com.au/culture/beckhams-at-war-brooklyn-sends-victoria-and-david-legal-letter-ordering-contact-only-through-lawyers--c-21256841",
-        "source": "The Nightly",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWmjJznjO7Y1-Gu7eO3mLN1Yx20uLDU_ioOsrXhRGYLmfB-TXuu1ku_WBfY5c"
-      },
-      {
-        "title": "Beckham Feud heats up as David and Victoria served with legal notices",
-        "url": "https://celebrity.nine.com.au/latest/beckham-fued-legal-notice-development/977d2b62-6f2e-4d11-a690-e033e25398e2",
-        "source": "9Honey Celebrity",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPXc3KgyF70ztryMkiuDleNdrHqR944UNBTBtTxBlvAJwlkFInQ0ZfqO9w3aI"
-      }
-    ],
-    "regions": [
-      "Victoria"
-    ],
-    "country": "Australia"
-  },
-  {
-    "title": "epa air quality",
+    "title": "melbourne victory vs western sydney wanderers fc",
     "traffic_num": 100,
-    "pub_date": "2026-01-09T12:20:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_m3S7QddsuorxQnnkr5u0HLT4u0OQ_gUUzQl4mG0EWcbX0zjIkFt66ONLLtY",
+    "pub_date": "2026-01-09T22:40:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS93ryaXo9PiVFRFCGvY7yeee048WRNwN-aZAckDAho_0W7Ov06GdSpAVw2ugo",
     "news": [
       {
-        "title": "Early report shows South Memphis air pollution exceeds EPA standards",
-        "url": "https://www.commercialappeal.com/story/news/local/2026/01/06/shelby-county-air-quality-flu-shots/87996664007/",
-        "source": "The Commercial Appeal",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_m3S7QddsuorxQnnkr5u0HLT4u0OQ_gUUzQl4mG0EWcbX0zjIkFt66ONLLtY"
+        "title": "Victory welcome Wanderers to Melbourne",
+        "url": "https://melbournevictory.com.au/news/victory-welcome-wanderers-to-melbourne/",
+        "source": "Melbourne Victory Football Club",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS93ryaXo9PiVFRFCGvY7yeee048WRNwN-aZAckDAho_0W7Ov06GdSpAVw2ugo"
+      },
+      {
+        "title": "Ins & Outs: Wanderers v Victory",
+        "url": "https://wswanderersfc.com.au/news/ins-outs-wanderers-v-victory-8/",
+        "source": "Western Sydney Wanderers",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_D2dus17zdRHUinxTWgQxdR1F86Bt0HLnwT_uj9UK1ifi991rk9u0B5-VRMs"
+      },
+      {
+        "title": "WSW snag pressure-relieving win over Mata's Victory",
+        "url": "https://www.canberratimes.com.au/story/9149031/wsw-snag-pressure-relieving-win-over-matas-victory/",
+        "source": "The Canberra Times",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROcbgsOrbxBF1uKWNPH85wgT_28_KYwDd2gV6vOdWsK4dZzyq6ZbOgtKjWnys"
+      }
+    ],
+    "regions": [
+      "Queensland"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "everton vs sunderland",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T04:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws",
+    "news": [
+      {
+        "title": "Everton vs Sunderland: Confirmed team news",
+        "url": "https://www.bbc.com/sport/football/articles/c98nm7n27lvo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA6yrkdWw--EXS0tJi7jZVc7r3P1Bqrsx6oLW_KBqRVR7GN8zWqY-dTl8K7Ws"
+      },
+      {
+        "title": "FA Cup LIVE SCORES: 3rd round latest as Everton face Sunderland, City vs Exeter",
+        "url": "https://www.thesun.co.uk/sport/37819706/fa-cup-live-scores-results-everton-newcastle-man-city-updates/",
+        "source": "The Sun",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZPWa6R-7XsAmLtjMU_WcgRbPYGKAbATi_pKCOmo9CIYlou_ZShnRGrCRBW8Q"
+      },
+      {
+        "title": "The six-figure prize money Sunderland and Kyril Louis-Dreyfus could pocket if they beat Everton in FA Cup",
+        "url": "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-everton-fa-cup-prize-money-5469740",
+        "source": "Sunderland Echo",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-TpPATeWQVvyZWtU3GGLaoVJ4VTGt7LHMFVu8M1xX4OFKTtF5HUIPqlOIgY"
       }
     ],
     "regions": [
@@ -1038,28 +924,28 @@
     "country": "Australia"
   },
   {
-    "title": "bendigo advertiser",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T12:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaa3eqxEUJg3XwXWdAL3L6aXXiy15e4c_47UlNtAxl_3QQD0Mc_4drMYEnmng",
+    "title": "glenn maxwell",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T03:20:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTTxJpSUPwTGiK56stKMIEe4GPFOtz6nGJU6vJN5HQ1ELon6hUraUmfAlzP68",
     "news": [
       {
-        "title": "Fires latest: one person believed dead as Ravenswood fire continues to burn",
-        "url": "https://www.bendigoadvertiser.com.au/story/9146848/live-blog-follow-the-latest-fire-updates-from-central-victoria/",
-        "source": "Bendigo Advertiser",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaa3eqxEUJg3XwXWdAL3L6aXXiy15e4c_47UlNtAxl_3QQD0Mc_4drMYEnmng"
+        "title": "Is Glenn Maxwell’s form a worry as Stars lose again?",
+        "url": "https://www.smh.com.au/sport/cricket/is-glenn-maxwell-s-form-a-worry-as-stars-lose-again-20260108-p5nspe.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTTxJpSUPwTGiK56stKMIEe4GPFOtz6nGJU6vJN5HQ1ELon6hUraUmfAlzP68"
       },
       {
-        "title": "Crews works to bring Ravenswood/Harcourt fire under control",
-        "url": "https://castlemainemail.com.au/latest-news/2026/01/09/crews-works-to-bring-ravenswood-harcourt-fire-under-control/",
-        "source": "Castlemaine Mail",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT51iD5C-YU202AQaL_7MrYunDjygnmDUcybKeBC3cblx1_t15xzSTDsyLQscQ"
+        "title": "Struggling Renegades enigma fails again following bizarre Marvel moment — BBL LIVE",
+        "url": "https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/live-big-bash-2026-melbourne-renegades-v-melbourne-stars-live-scores-updates-stats-video-stream-result-news-blog/news-story/08a362f4334db1263fbdd48ef97742d9",
+        "source": "Fox Sports",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpG2DGi4zBkIlYSFG3LhT_wsaR7wOkLApRfLKkDds_JpCjMm77OQRMvt9VEM"
       },
       {
-        "title": "UPDATE | ‘Leave immediately’ and ‘watch and act’ warnings issued for towns in Moira Shire",
-        "url": "https://www.cobramcourier.com.au/news/fire-warning-issued-for-cobram-yarroweyah-grassfire-not-yet-under-control/",
-        "source": "Cobram Courier",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWcitrJahAEVBT16ywF4BwL01g-DxyDm6RAP4WLTXJz6mP46ZiHzYuUtBAxHs"
+        "title": "LIVE Melbourne derby Big Bash: Sam Harper smashes six into top level of Marvel as Stars close in on winn",
+        "url": "https://www.smh.com.au/sport/cricket/live-melbourne-derby-big-bash-renegades-stars-go-head-to-head-20260110-p5nt20.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpYWuFM0gdZ3uw5o2EA9J4tnB93BxNGKRWP4x4It0Ysnil9ScDBbPLuvEMqY"
       }
     ],
     "regions": [
@@ -1068,28 +954,28 @@
     "country": "Australia"
   },
   {
-    "title": "nina dobrev",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T11:20:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoSz6KauolC9ccyTCGQWaGWa94oPwTzgChOIgnx40y3peP_9xdT6X6b24j2s",
+    "title": "harry brook",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T03:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbx0wkAYJLmd3MfO_D4A7Q9KNgY5BG9yTvF5xfSbblXsDFmMkssrriG_HEI0c",
     "news": [
       {
-        "title": "Nina Dobrev Embraces a Strong Drop Waist in Vintage Hervé Léger",
-        "url": "https://www.yahoo.com/entertainment/celebrity/articles/nina-dobrev-embraces-strong-drop-190000501.html",
-        "source": "Yahoo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoSz6KauolC9ccyTCGQWaGWa94oPwTzgChOIgnx40y3peP_9xdT6X6b24j2s"
+        "title": "Harry Brook fined $60k for nightclub scuffle before pre-Ashes match",
+        "url": "https://www.abc.net.au/news/2026-01-09/harry-brook-scuffle-with-bouncer-before-new-zealand-odi/106212164",
+        "source": "Australian Broadcasting Corporation",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbx0wkAYJLmd3MfO_D4A7Q9KNgY5BG9yTvF5xfSbblXsDFmMkssrriG_HEI0c"
       },
       {
-        "title": "Nina Dobrev Turns Heads in Lacy Off-The-Shoulder Black Gown at Star-Studded Event",
-        "url": "https://www.aol.com/articles/nina-dobrev-turns-heads-lacy-194900954.html",
-        "source": "AOL.com",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_rcVVPLtpobVF0rT2dFVHFdnNklv-z88UTsQ4FNXVmfdD6w8Hnuf2YO1qUiQ"
+        "title": "Switch Hit: Crash and (b)urn",
+        "url": "https://www.espn.com.au/cricket/story/_/id/47561925/switch-hit-podcast-ashes-2025-26-crash-burn",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWHqocsW-ddSxm7lYLbMWLh3Z7P8Vxtctct7Y7TBQ7Tyk5qjeuhps9K0XxFrc"
       },
       {
-        "title": "Shaun White's ex Nina Dobrev stole the show in Hervé Léger",
-        "url": "https://www.sportingnews.com/us/culture/entertainment/news/shaun-whites-ex-nina-dobrev-stole-show-herv%C3%A9-l%C3%A9ger/6b5598dd88647a88544bf94b",
-        "source": "Sporting News AU",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVDJzgRPvMP3bgorx-lzkxTBkrwSdX4DvO-pvPe4CDVEeYaXVYoUmO7Jih7mM"
+        "title": "The Ashes: England cricket concern over culture and drinking",
+        "url": "https://www.bbc.com/sport/cricket/articles/c33874p4xg3o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeP_-Jo54p1DvIcrQfQ7f7PDyXkX0qWqwf56kCpiyKyFR2x8emJ_Ye9BBCT8E"
       }
     ],
     "regions": [
@@ -1098,28 +984,22 @@
     "country": "Australia"
   },
   {
-    "title": "rhode beauty",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T07:40:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-wGZK-gSvxsxbFInGgwRO7RqZXf3rRUsFhuqjNkM76trex5e19A7LGk88mUU",
+    "title": "gracedale park",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T03:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFiCrgds8Pv5FCKOsLxszrg1LX_NM5eQ_0ZrRL2oMi9fQGmrR02GVUC9GLJ8w",
     "news": [
       {
-        "title": "Hailey Bieber’s Rhode is officially coming to Australia",
-        "url": "https://www.vogue.com.au/beauty/news/rhode-australia-mecca/news-story/99e583828eeb46236d34327549068755",
-        "source": "Vogue Australia",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-wGZK-gSvxsxbFInGgwRO7RqZXf3rRUsFhuqjNkM76trex5e19A7LGk88mUU"
+        "title": "Cricket fan killed in tragic accident",
+        "url": "https://www.news.com.au/national/elderly-cricket-spectator-killed-by-falling-tree-at-gracedale-park-in-melbourne/news-story/2678aa05292d2415e594d08ce740042b",
+        "source": "News.com.au",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFiCrgds8Pv5FCKOsLxszrg1LX_NM5eQ_0ZrRL2oMi9fQGmrR02GVUC9GLJ8w"
       },
       {
-        "title": "The skincare giant making its Down Under debut",
-        "url": "https://www.perthnow.com.au/news/australia/rhode-iconic-global-beauty-brand-announces-long-awaited-australia-and-new-zealand-debut-c-21253919",
-        "source": "PerthNow",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVviMjrSbva6alPhODeyqQUjl8fXCR7Lm2pI6jBf62T9LPx_tvF6GaMqn-Xqk"
-      },
-      {
-        "title": "Worst kept secret: Rhode Beauty is officially coming Down Under",
-        "url": "https://style.nine.com.au/latest/rhode-beauty-australia-hailey-bieber-confirms-coming-to-mecca/26ebbd85-46f0-436e-8834-5d0f844b954a",
-        "source": "Nine",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjtWKpgbiqbtglVEDujvOFx2MRZCf_VbmVGdLTTA3ZpHue35lO0medCUqPknQ"
+        "title": "Tragedy at local cricket match as falling tree kills elderly man",
+        "url": "https://www.heraldsun.com.au/news/victoria/cricket-spectator-killed-by-falling-tree-at-gracedale-park-ringwood-east/news-story/e4885fd25647e3a9f2ce55f42f3c53e9",
+        "source": "Herald Sun",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnz_vauS6P6xrNWpc5IkMepE9NeUf1CeNfzJYWWmXSzKAwcpLbpOWwf8VnkPE"
       }
     ],
     "regions": [
@@ -1128,28 +1008,28 @@
     "country": "Australia"
   },
   {
-    "title": "one nation polling",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T06:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLslIi8MeV3XOOyjIoPnHvzkSjqb1BcfTy_klVNBfgto-W7yQuq26mGPcM5I8",
+    "title": "perth glory vs central coast mariners",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:50:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bUhW86Brmgw0cxvkeVTP5RCicaYt2bFLo4HfFUvxi0_7yA9hBQCcLC4MOHU",
     "news": [
       {
-        "title": "Poll shows One Nation Reaching New Heights",
-        "url": "https://demosau.com/news/one-nation-vote-soars-post-bondi-tragedy/",
-        "source": "DemosAU",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLslIi8MeV3XOOyjIoPnHvzkSjqb1BcfTy_klVNBfgto-W7yQuq26mGPcM5I8"
+        "title": "ALM Match Preview: \"Fortress HBF\" the focus for Griffiths and co",
+        "url": "https://perthglory.com.au/news/alm-match-preview-fortress-hbf-the-focus-for-griffiths-and-co/",
+        "source": "Perth Glory",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bUhW86Brmgw0cxvkeVTP5RCicaYt2bFLo4HfFUvxi0_7yA9hBQCcLC4MOHU"
       },
       {
-        "title": "‘Truly extraordinary numbers’: One Nation draws level with Coalition in new polling",
-        "url": "https://www.skynews.com.au/opinion/truly-extraordinary-numbers-one-nation-draws-level-with-coalition-in-new-polling/video/6b3fb624b0f70fb5687c63b789cbaf59",
-        "source": "Sky News Australia",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQskZ5YuXOThjkl7dMhgj7xH7OTL1fujRJ355oJrDNm1yncpw6yqUSXkGD6KDo"
+        "title": "Perth Glory vs Central Coast Mariners Predictions & Betting Tips - 10/1/26",
+        "url": "https://insights.betfred.com/football/australian-a-league/perth-glory-vs-central-coast-mariners-prediction-betting-tips-odds-100126/",
+        "source": "Betfred Insights",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcp6-ks5m9gmxtFhWK4SwRy6OelBvghg37jBvzQC3lARGBJcBu3sPEbTRJfOE"
       },
       {
-        "title": "Albanese and Ley hammered in poll as voters flock to One Nation",
-        "url": "https://www.dailytelegraph.com.au/news/nsw/one-nation-triples-support-as-voters-abandon-major-parties-in-wake-of-bondi-attack/news-story/c37062f5d16737e2371c32829471503d",
-        "source": "The Daily Telegraph",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlE6TOsdHZWJEz-r56CqC3uT1C64LN2YUgjN7ZeBCH5O8dff0mKuEEONDQFSw"
+        "title": "Perth Glory – Central Coast Mariners: match prediction and bet on the A-League game, January 10, 2026",
+        "url": "https://tribuna.com/en/news/2026-01-09-perth-glory-central-coast-mariners-match-prediction-and-bet-on-the-aleague-game-january-1/",
+        "source": "Tribuna.com",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3dJXRCM_2h2mT1AQdwRkmzW9Dci8iXrOHgpMgmNqASyq85m__FYx9mUlhyzI"
       }
     ],
     "regions": [
@@ -1158,28 +1038,148 @@
     "country": "Australia"
   },
   {
-    "title": "sl vs pak",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-09T04:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg23AKAb9Q6mL0bao9LH0Ez_hKnZPpjrvQXC_cUP4srq_vQZnAmZWf0S3MFkU",
+    "title": "sem phoenix vs wildcats",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T02:20:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTen81tgabdLx9zY3pgWFZDIF9D3sZ9OlY9B1TuajjnfG-ycSm5YWaH7D7uUSs",
     "news": [
       {
-        "title": "Hesson pleased with Pakistan's show 'outside of a little untidiness in the field'",
-        "url": "https://www.espncricinfo.com/story/sl-vs-pak-1st-t20i-mike-hesson-pleased-with-shadab-khan-and-abrar-ahmed-but-not-the-fielding-effort-1518529",
-        "source": "ESPNcricinfo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg23AKAb9Q6mL0bao9LH0Ez_hKnZPpjrvQXC_cUP4srq_vQZnAmZWf0S3MFkU"
+        "title": "Windler, Doolittle combine for 51 as Wildcats pick up huge road win",
+        "url": "https://www.espn.com.au/nbl/story/_/id/47568211/nbl-windler-doolittle-star-perth-wildcats-upset-south-east-melbourne-phoenix",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTen81tgabdLx9zY3pgWFZDIF9D3sZ9OlY9B1TuajjnfG-ycSm5YWaH7D7uUSs"
       },
       {
-        "title": "Shadab Khan makes impressive comeback and propels Pakistan to 6-wicket win over Sri Lanka",
-        "url": "https://www.king5.com/article/syndication/associatedpress/shadab-khan-makes-impressive-comeback-and-propels-pakistan-to-6-wicket-win-over-sri-lanka/616-c8118152-8b3d-45ce-bcbb-e6bee50df4ca",
-        "source": "KING5.com",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfh-Hy5UFvWm_vK0tjVZwrtWezSYjZa9OpuEbmDlrSQ9S8xaUtLxPiXSQG5A"
+        "title": "The Championship gap Perth must close",
+        "url": "https://www.nbl.com.au/news/winning-key-moments-crucial-for-perth-wildcats",
+        "source": "NBL",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbMAKBHV_p-uG2v-6ndEvHutH6-HlAlfxLJg_diNZR2LqtuonybyvUGUHID4"
       },
       {
-        "title": "Pakistan cruise past Sri Lanka in T20I opener",
-        "url": "https://uk.sports.yahoo.com/news/pakistan-cruise-past-sri-lanka-171525744.html",
-        "source": "Yahoo Sports UK",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZX09di6TvvOOJYXbQb_PCiMr8kusr8F-6TKrjctyyqXJsBK8sU9-ka8D8Mlo"
+        "title": "Wildcats must improve their 2-7 record versus top four teams",
+        "url": "https://thewest.com.au/sport/perth-wildcats/perth-wildcats-coach-john-rillie-addresses-the-teams-record-against-top-four-nbl-teams-ahead-of-phoenix-clash-c-21243963",
+        "source": "The West Australian",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqV8i_5d4iqY6zz3faePWFTPiDQMzgB1e3bzD1QaOkMuGpLULAWL4_WOvXhiQ"
+      }
+    ],
+    "regions": [
+      "Victoria"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "brendan doggett",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyLYK72eeGNXlYrqXIS8RWrGVGGruIZKLpaQzKir-uSF5w3EUb-HWPpMTTfU",
+    "news": [
+      {
+        "title": "Doggett’s ‘mixed emotions’ on summer debut",
+        "url": "https://www.news.com.au/sport/cricket/the-ashes-202526-brendan-doggett-reflects-on-his-debut-test-summer-for-australia/news-story/ec98083854bcf0130901730c941ec1b1",
+        "source": "News.com.au",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyyLYK72eeGNXlYrqXIS8RWrGVGGruIZKLpaQzKir-uSF5w3EUb-HWPpMTTfU"
+      },
+      {
+        "title": "Struggling Renegades enigma fails again following bizarre Marvel moment — BBL LIVE",
+        "url": "https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/live-big-bash-2026-melbourne-renegades-v-melbourne-stars-live-scores-updates-stats-video-stream-result-news-blog/news-story/08a362f4334db1263fbdd48ef97742d9",
+        "source": "Fox Sports",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfpG2DGi4zBkIlYSFG3LhT_wsaR7wOkLApRfLKkDds_JpCjMm77OQRMvt9VEM"
+      },
+      {
+        "title": "LIVE Melbourne derby Big Bash: Sam Harper smashes six into top level of Marvel as Stars close in on winn",
+        "url": "https://www.smh.com.au/sport/cricket/live-melbourne-derby-big-bash-renegades-stars-go-head-to-head-20260110-p5nt20.html",
+        "source": "The Sydney Morning Herald",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpYWuFM0gdZ3uw5o2EA9J4tnB93BxNGKRWP4x4It0Ysnil9ScDBbPLuvEMqY"
+      }
+    ],
+    "regions": [
+      "Victoria"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "cyril",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9e1fX3yM6Gfhb6PfBztdAX0vk2gA-7qLgqWzsMj8JJrtw6wYS7ay1UW61aY",
+    "news": [
+      {
+        "title": "The Floor : le verdict sans appel pour Cyril Féraud",
+        "url": "https://toutelatele.ouest-france.fr/the-floor-cyril-feraud-sauve-l-honneur-sur-france-2-182428",
+        "source": "Toutelatele",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm9e1fX3yM6Gfhb6PfBztdAX0vk2gA-7qLgqWzsMj8JJrtw6wYS7ay1UW61aY"
+      },
+      {
+        "title": "The Floor, à la conquête du sol : 3ème numéro ce soir sur France 2 (10 janvier 2026)",
+        "url": "https://www.stars-actu.fr/2026/01/the-floor-a-la-conquete-du-sol-3eme-numero-ce-soir-sur-france-2-10-janvier-2026/",
+        "source": "Stars Actu",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyQh2h96HfPZx4I3KsHNhJRw9ydKl1MMEs7o_6wOhm66x-Ui2UY4-wasDC1Us"
+      },
+      {
+        "title": "The Floor : un candidat déstabilisé par la Lozère sur France 2",
+        "url": "https://www.lalozerenouvelle.com/actualite-6823-the-floor-un-candidat-destabilise-par-la-lozere-sur-france-2",
+        "source": "lalozerenouvelle.com",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeudqgcXPyRdus2prrakt0YyTBAa3wJomJhGuqNvKAwuv8xYLHWYYPo2QzqJk"
+      }
+    ],
+    "regions": [
+      "Victoria"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "hamnet",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T02:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMh8_L7os2qM7SG9IrAs3pp1_T2ffNkOsOqSWhc96Qj9Yv5NT_K24toA4qk1A",
+    "news": [
+      {
+        "title": "Opinion | What Great Art Saves When Nothing Else Lasts",
+        "url": "https://www.nytimes.com/2026/01/05/opinion/hamnet-art-shakespeare.html",
+        "source": "The New York Times",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMh8_L7os2qM7SG9IrAs3pp1_T2ffNkOsOqSWhc96Qj9Yv5NT_K24toA4qk1A"
+      },
+      {
+        "title": "Hamnet: by centring Anne Hathaway, this sensuous film gives Shakespeare’s world new life",
+        "url": "https://theconversation.com/hamnet-by-centring-anne-hathaway-this-sensuous-film-gives-shakespeares-world-new-life-272969",
+        "source": "The Conversation",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC9al7RIhs2DBeu5apxOdNDGCoj3IfDd7IebIFZZusTzrHK9SSOLpj9m8jRck"
+      },
+      {
+        "title": "Hamnet film review — Shakespeare family tragedy gets an awards-friendly gloss",
+        "url": "https://www.ft.com/content/b8fcd9a6-e65d-4333-b547-2c3550d9cf84",
+        "source": "Financial Times",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF5npELeNXBgtxrx5K9XwF4gOFlXxfi6OlbGUekLsAsCohiBcAcaSx-j4K0RQ"
+      }
+    ],
+    "regions": [
+      "Victoria"
+    ],
+    "country": "Australia"
+  },
+  {
+    "title": "marcus stoinis",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T01:40:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSku59wjk1Icxvql-__r81EYjn6fMWaLxVWNQv7hS_mL9HfI73CmNKYAOKal9I",
+    "news": [
+      {
+        "title": "Watch: Australia's Marcus Stoinis Gives Fiery Send-Off To Pakistan's Babar Azam During BBL Game",
+        "url": "https://sports.ndtv.com/cricket/australias-marcus-stoinis-gives-fiery-send-off-to-pakistans-babar-azam-during-bbl-game-watch-10542594",
+        "source": "NDTV Sports",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSku59wjk1Icxvql-__r81EYjn6fMWaLxVWNQv7hS_mL9HfI73CmNKYAOKal9I"
+      },
+      {
+        "title": "Cricket News | ⚡BBL 2025-26: Babar Azam's Poor Form Continues As Pakistan Batter Scores 14 Runs",
+        "url": "https://www.latestly.com/quickly/sports/cricket/bbl-2025-26-babar-azam-s-poor-form-continues-as-pakistan-batter-scores-14-runs-7267515.html",
+        "source": "LatestLY",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-REY5qrnNnbbHLpPb4dKzkgSxETy9c8Q-EDs7f8veh6tTvBFBZcpUPj13oNM"
+      },
+      {
+        "title": "Marcus Stoinis comes clean on four-word send-off to superstar Babar Azam during Stars’ loss to Sixers",
+        "url": "https://7news.com.au/sport/cricket/marcus-stoinis-comes-clean-on-four-word-send-off-to-superstar-babar-azam-during-stars-loss-to-sixers-c-21252401",
+        "source": "7NEWS",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWfZj_VA3M41OQKhJAl0GmLHH6WHYSN0nkfG9XonuDeNNPh633i7AE6H2gJA0"
       }
     ],
     "regions": [
