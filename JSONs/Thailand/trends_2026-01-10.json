@@ -1,147 +1,27 @@
 [
   {
-    "title": "man city",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T08:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTykLfwyjTq4HJ4xrjiDojkgQ5_ZzoQUWtIL2BSCj0xInvFpaaQ8EdL7xqZrwY",
-    "news": [
-      {
-        "title": "Antoine Semenyo: Pep Guardiola on Manchester City signing Bournemouth forward",
-        "url": "https://www.bbc.com/sport/football/videos/cdxj2wldzvlo",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTykLfwyjTq4HJ4xrjiDojkgQ5_ZzoQUWtIL2BSCj0xInvFpaaQ8EdL7xqZrwY"
-      },
-      {
-        "title": "Semenyo completes circuitous rise from schoolboy rejection to Manchester City arrival",
-        "url": "https://www.theguardian.com/football/2026/jan/09/antoine-semenyo-bournemouth-manchester-city-transfer-premier-league",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMeyXzbwcnDr160V-b4W8klSNbc9Yer2QJy3k5DkThxHN833Lyckc0pkIKWS0"
-      },
-      {
-        "title": "FPL new signings: Where does Semenyo fit in at Man City?",
-        "url": "https://www.fantasyfootballscout.co.uk/2026/01/09/fpl-new-signings-where-does-semenyo-fit-in-at-man-city/",
-        "source": "Fantasy Football Scout",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBYezX8kBKTrKG4qOuYZccB18n-qKIo1G7cBtKaK31wLeR3tSk0PhlqfYt6PI"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "fulham vs middlesbrough",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T07:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjI9QOuL0mJ0OSgfbrvFkTDcgITF_bdigtApTBACKrBSlU6BVvKLYIXWtlGds",
-    "news": [
-      {
-        "title": "Kim Hellberg's Middlesbrough team selection plan explained for Fulham FA Cup tie",
-        "url": "https://www.thenorthernecho.co.uk/sport/25754975.kim-hellbergs-middlesbrough-selection-plan-fulham-fa-cup-tie/",
-        "source": "The Northern Echo",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjI9QOuL0mJ0OSgfbrvFkTDcgITF_bdigtApTBACKrBSlU6BVvKLYIXWtlGds"
-      },
-      {
-        "title": "No Boro LIVE Video Streaming For Fulham Match",
-        "url": "https://www.mfc.co.uk/news/2026/january/08/no-boro-live-video-streaming-for-fulham-match/",
-        "source": "Middlesbrough FC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbr3dgjVuXZBfM1a_l4mnEvb308yaMe7tCklkPjRxDYvgRlF8Sveaohf2HbbI"
-      },
-      {
-        "title": "Boro boss Hellberg returning to Fulham 25 years after ‘special’ first trip",
-        "url": "https://www.thesun.co.uk/sport/37867399/middlesbrough-kim-hellberg-fulham-fa-cup/",
-        "source": "The Sun",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe9WduWddB6WGipBasnKux3UlKWHeIXEWvqb0P6Sk5Dxu9GcwTPdcGPOtywlE"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "ฟูแล่ม",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-10T07:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVgB8y8h2s1CApZEUZMUFvFLz6EvuA4eDeULhAgrKAwyIJqErHP6_xdc9HskI",
-    "news": [
-      {
-        "title": "ไม่ใช่ไร้วินัย! แม็คฟาร์เลน ป้อง กูกูเรย่า หลังโดนแดงเกม เชลซี แพ้ ฟูแล่ม",
-        "url": "https://www.siamsport.co.th/football-international/premierleague/97767/",
-        "source": "Siamsport",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVgB8y8h2s1CApZEUZMUFvFLz6EvuA4eDeULhAgrKAwyIJqErHP6_xdc9HskI"
-      },
-      {
-        "title": "แม็คฟาร์เลน กุนซือขัดตามทัพเชลซี ชี้ปัจจัยสำคัญทำพ่ายฟูแล่ม ร่วงที่ 8 พรีเมียร์ลีก",
-        "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2906459",
-        "source": "www.thairath.co.th",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2b2O65rn111gt1LR0vMuirkcv8xgdVn34LSat3mOXfZyzi9YPlpdGnlZNm5M"
-      },
-      {
-        "title": "แม็คฟาร์เลนยัน 'โรซีเนียร์' ไม่มีส่วนวางแท็กติกแพ้ฟูแล่ม | Soccersuck",
-        "url": "https://today.line.me/th/v3/article/DRXlO3m",
-        "source": "LINE TODAY",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTP6gT1wscJT2E6PsyWJe1y33BOFgMKHh6_kC8AkqBXtYgomOx8Sr4MqmJL7yU"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "code violet",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T06:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL1pVJDFTZL3SjWDG0Q5B_ZyL9W1jHaCxHz9y4l-rXIo867FdqhK5OC_57x8E",
-    "news": [
-      {
-        "title": "Code Violet Review",
-        "url": "https://www.ign.com/articles/code-violet-review",
-        "source": "IGN",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL1pVJDFTZL3SjWDG0Q5B_ZyL9W1jHaCxHz9y4l-rXIo867FdqhK5OC_57x8E"
-      },
-      {
-        "title": "First PS5 Exclusive of 2026 Is a Huge Mess",
-        "url": "https://www.playstationlifestyle.net/2026/01/09/ps5-exclusive-2026-code-violet-bombed/",
-        "source": "PlayStation LifeStyle",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpP26t5IK0umDVdN6jiXLEu6pNxNNhK7TO4BD0tRHxUDdbrlSF4dWCnfr0_GI"
-      },
-      {
-        "title": "Review: Code Violet (PS5) - Gooner Shooter Can't Get It Up",
-        "url": "https://www.pushsquare.com/reviews/ps5/code-violet",
-        "source": "Push Square",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwduE9xfJvH_bHFtLoaRkM2I0hDSHriLsyxOB2080jaRSOVjyJpf6R99xnKMk"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "มอนซ่า",
+    "title": "ดาวพฤหัสบดีใกล้โลก",
     "traffic_num": 200,
-    "pub_date": "2026-01-10T06:40:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCp57bF2bMdkC_2D-IQIWZZLWSXG_2Gt6c2t9T1PW0HLeDt-PgUjOG5l13MO8",
+    "pub_date": "2026-01-10T10:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyQFKyq4vakSkQhfJhle7z7MPyqlymGglCVMzmARvXGj-cHhG6Yd210Qmo6k",
     "news": [
       {
-        "title": "Moretto: Milan ‘ready to close the deal’ for Monza midfielder – the details",
-        "url": "https://sempremilan.com/milan-ready-close-deal-monza-sardo",
-        "source": "SempreMilan",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCp57bF2bMdkC_2D-IQIWZZLWSXG_2Gt6c2t9T1PW0HLeDt-PgUjOG5l13MO8"
+        "title": "ชวนชม/รู้จัก “ดาวพฤหัสบดี” ดาวเคราะห์ดวงใหญ่ที่สุดแห่งระบบสุริยะ ในช่วงเวลาที่ใกล้โลกมากที่สุดในรอบปี",
+        "url": "https://mgronline.com/science/detail/9690000002615",
+        "source": "ผู้จัดการออนไลน์",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqyQFKyq4vakSkQhfJhle7z7MPyqlymGglCVMzmARvXGj-cHhG6Yd210Qmo6k"
       },
       {
-        "title": "OFFICIAL STATEMENT: JACOPO SARDO",
-        "url": "https://sports.yahoo.com/articles/official-statement-jacopo-sardo-170000067.html",
-        "source": "Yahoo Sports",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6-njl6s7blDyf0-t8TYfoppTBhRFh8c1bsmGhktsPBXVrE3R-OJ2jjd3YvEY"
+        "title": "5 ปรากฏการณ์ทางดาราศาสตร์ที่ไม่ควรพลาดในปี 2026",
+        "url": "https://www.msn.com/th-th/news/other/5-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%8F%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%B5-2026/ar-AA1TG0oh",
+        "source": "MSN",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1ubxDlokvG78cDvj-7q15_LI9eVwfxC8PGC7-xjQktgw4UzRpZ0-gHvFodNQ"
       },
       {
-        "title": "COMUNICATO UFFICIALE: JACOPO SARDO",
-        "url": "https://onefootball.com/en/news/comunicato-ufficiale-jacopo-sardo-42203790",
-        "source": "OneFootball",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkaHqNmVRJfJhB7xQTtMOChZ8Ah8C-s2fRq_y09ZI8Kje73pk8K1ocUXsblSs"
+        "title": "10 ปรากฏการณ์ดาราศาสตร์สุดว้าวปี 2569 ที่สายดูดาวห้ามพลาด",
+        "url": "https://www.thaitv5hd.com/web/content.php?id=60379",
+        "source": "สถานีวิทยุโทรทัศน์กองทัพบก",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDGIVxOcG4TmbCW8kcYW6RbtuKCRVnZz-wcglVTqq-qNqXH6q7WV9BVQLjpic"
       }
     ],
     "regions": [
@@ -150,58 +30,28 @@
     "country": "Thailand"
   },
   {
-    "title": "newcastle vs bournemouth",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T06:30:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8",
-    "news": [
-      {
-        "title": "Newcastle United vs AFC Bournemouth: FA Cup stats & head-to-head",
-        "url": "https://www.bbc.com/sport/football/live/cm2xejwpg17t",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8"
-      },
-      {
-        "title": "\"It's our aim\": Cherries 'want new players for Brighton game' says Iraola",
-        "url": "https://www.bournemouthecho.co.uk/sport/25752801.andoni-iraola-bournemouth-want-new-players-brighton-game/",
-        "source": "Bournemouth Echo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfQ8G7yZplib3W6EFB_UvAWHJ4LKBugcKlP-Bm7keOXTGkbnHxZ_HI7ilhKwE"
-      },
-      {
-        "title": "Newcastle United reveal new FA Cup policy as Eddie Howe makes promise",
-        "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-reveal-new-fa-33198519",
-        "source": "Chronicle Live",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP9K2G8Qw835ZpDvHLSWWip40Wr_Kx7ShWb09cYoY24XTAKT199A9PthPQ7GA"
-      }
-    ],
-    "regions": [
-      "Thailand(all region)"
-    ],
-    "country": "Thailand"
-  },
-  {
-    "title": "shell",
+    "title": "algerie nigeria",
     "traffic_num": 100,
-    "pub_date": "2026-01-10T06:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUKVdiANC_jr2DF5sSH8n8gkRLGANxq-CiU9i2zEX6TiGyO_qmS3-c2zNMG9I",
+    "pub_date": "2026-01-10T10:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60",
     "news": [
       {
-        "title": "Shell gewinnt fünfjährigen LNG-Liefervertrag von Petrovietnam Gas",
-        "url": "https://de.marketscreener.com/boerse-nachrichten/shell-gewinnt-fuenfjaehrigen-lng-liefervertrag-von-petrovietnam-gas-ce7e59dcde89f224",
-        "source": "MarketScreener Deutschland",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUKVdiANC_jr2DF5sSH8n8gkRLGANxq-CiU9i2zEX6TiGyO_qmS3-c2zNMG9I"
+        "title": "Algérie 0-2 Nigeria, CAN : résumé du match (10/01/2026)",
+        "url": "https://www.lequipe.fr/Football/match-direct/can/2025/algerie-nigeria-live/670794",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60"
       },
       {
-        "title": "Shell Aktie: Vietnam-Deal stützt",
-        "url": "https://www.boerse-express.com/news/articles/shell-aktie-vietnam-deal-stuetzt-855803",
-        "source": "Börse Express",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXJjPJ5zmzXSBUcssZpEkONnJVcL5ZlFB0lu2t2mPx61As3wLpwiBloxJ4qio"
+        "title": "L’Algérie en CAN : revivez tous ses quarts de finale en vidéo !",
+        "url": "https://foot-africa.com/actualites/lalgerie-en-can-revivez-tous-ses-quarts-de-finale-en-video-1036652/",
+        "source": "Foot Africa",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb66DG0Hddrx73cKEFGfzq5CKSR5EKHm4pme2KMhNTZHuo2lK2Sb9ryyxi-9I"
       },
       {
-        "title": "Shell-Aktie: Langfristiger LNG-Deal mit Vietnam gesichert!",
-        "url": "https://www.finanztrends.de/news/shell-aktie-langfristiger-lng-deal-mit-vietnam-gesichert/",
-        "source": "Finanztrends",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVURNAN2t703o-AafypIRmG6XoZb6nqgUm-hkoXpbAXfI4Yqk7R6JJBEG5Lb4"
+        "title": "CAN 2025, Nigéria : l’ouverture du score d’Osimhen contre l’Algérie",
+        "url": "https://www.footmercato.net/a4372453580623386575-can-2025-nigeria-louverture-du-score-dosimhen-contre-lalgerie",
+        "source": "Foot Mercato",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYXV2ONltLlcPVBM_WJKBC8W8fDigHOvn4iggMP1UB2a4GEfvzfgeib0IywVc"
       }
     ],
     "regions": [
@@ -210,28 +60,118 @@
     "country": "Thailand"
   },
   {
-    "title": "man city vs exeter city",
-    "traffic_num": 2000,
-    "pub_date": "2026-01-10T06:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKtxkz-yJtwLq5ix_gx5_L2aFv9i3m9d--MeKwV_2dOXVlqtc2Dik4gqWngG4",
+    "title": "โรม่า",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T09:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlUiZQ_97UceobuGgaQg5P3vyI3DHnCXv2PxyHnCVZQKZkaqi8EJzlYg_1tfY",
+    "news": [
+      {
+        "title": "สนใจ!! นาโปลี พร้อมรับช่วงต่อ โรม่า เล็งสอย 'อีแวน' หากถูกส่งกลับ",
+        "url": "https://sport.trueid.net/detail/PMeyzwYEXK0M",
+        "source": "TrueID",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlUiZQ_97UceobuGgaQg5P3vyI3DHnCXv2PxyHnCVZQKZkaqi8EJzlYg_1tfY"
+      },
+      {
+        "title": "นาโปลี พร้อมรับช่วงต่อ โรม่า! เล็งสอย อีแวน หากถูกส่งกลับ",
+        "url": "https://www.tnnthailand.com/sports/222313/",
+        "source": "TNN",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbbN2Y6Rn1bXwV49hFRG93X5WRcv6j2idbRjmCKT1ItVuxAnL6g5sFFwwC-4Y"
+      },
+      {
+        "title": "นาโปลี เล็งคว้า ดอฟบิค แนวรุก โรม่า เสริมแกร่ง",
+        "url": "https://truevisions.co.th/sports/27743/",
+        "source": "TrueVisions",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL42_ba5jVqfwEdgds_PIpci6TgRRI2tDCIoemJKIWddH5UNa42wdjfe3biW8"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "วันเด็ก 2569 คําคม",
+    "traffic_num": 20000,
+    "pub_date": "2026-01-10T09:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRovyqmrsS1UB87VgksiJadJK3-cSYUCekb9ep--H9yDc4AawDO82N_t6yPvg",
+    "news": [
+      {
+        "title": "คำขวัญวันเด็ก 2569 ล่าสุด รวมคำขวัญวันเด็กทุกปี พร้อมประวัติน่ารู้",
+        "url": "https://www.thairath.co.th/lifestyle/calendar/2905875",
+        "source": "Thairath",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRovyqmrsS1UB87VgksiJadJK3-cSYUCekb9ep--H9yDc4AawDO82N_t6yPvg"
+      },
+      {
+        "title": "กกท.จัดงานวันเด็กปี 69 เยาวชนกว่า 2,000 คนร่วมกิจกรรม ภายใต้แนวคิดรักชาติไทย ใส่ใจโลก",
+        "url": "https://www.siamsport.co.th/other-sports/sports-world/97915/",
+        "source": "Siamsport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2__NiGfguq1qWiUSDsxvW-yjoUAF5RBQBZVuxr95lY42pniYKQzSHbQxM2Y"
+      },
+      {
+        "title": "กรมธนารักษ์ เปิดจำหน่ายวันนี้ \"เหรียญที่ระลึกวันเด็ก ปี 2569\" ราคา 20 บาท",
+        "url": "https://www.posttoday.com/general-news/736235",
+        "source": "posttoday",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu4_lVFSc8BIGP1weeBSb43lpqaocCw1l7XoTpoZm0wp69eZBedlx6seH6F_Q"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "grok",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T09:20:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfjMFvZ42_UE6nTpSdZXwFWtlQ5sgCpwXIHWlw4INZ5MHmTjHLQh4hfaNuD3E",
+    "news": [
+      {
+        "title": "Grok, Elon Musk’s A.I., Is Generating Sexualized Images of Real People, Fueling Outrage",
+        "url": "https://www.nytimes.com/2026/01/09/technology/grok-deepfakes-ai-x.html",
+        "source": "The New York Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfjMFvZ42_UE6nTpSdZXwFWtlQ5sgCpwXIHWlw4INZ5MHmTjHLQh4hfaNuD3E"
+      },
+      {
+        "title": "Elon Musk attacks ‘fascist’ UK government over potential X ban",
+        "url": "https://www.thetimes.com/uk/politics/article/elon-musk-uk-government-grok-x-qcwrt2ccw?gaa_at=eafs&gaa_n=AWEtsqelUFDlZC-ny3u2CARpVpA_51lf2SXWkiejTPQxi9HLWS_78s2QRRLJ&gaa_ts=6962a071&gaa_sig=XJaFZxNVCtZPDEtlJWrcxEEu6luw9MYGKgvozxxiBm1haZgpZX6MIOrCqDLzeWyZSH3xCLNyhUyzJHW3YBcMdw%3D%3D",
+        "source": "The Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9TnnZG2txWVEdYT7CCv8zp-BcF1I0XZrWbL83C4OjVVmjUq59axfjfGmRw2M"
+      },
+      {
+        "title": "Senators urged Apple and Google to remove X and Grok from app stores over sexual deepfakes",
+        "url": "https://www.nbcnews.com/tech/internet/senators-urged-apple-google-remove-x-grok-app-stores-rcna253048",
+        "source": "NBC News",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixwmxd0lVq8DxVtYtge4yjGSGQZRQA4lLX_fudhu5pX0DUoOVPpajfcFWufw"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "tottenham vs aston villa",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T09:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDcGHpgavkZLyInOckEloCGCXi_Ed0O6c-hlT9PkLerXRtaYSeiYiuxm4gck",
     "news": [
       {
         "title": "FA Cup LIVE: Build-up, team-news, live text and score updates from the third round of the FA Cup",
         "url": "https://www.bbc.com/sport/football/live/cvg8m2rmldjt",
         "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKtxkz-yJtwLq5ix_gx5_L2aFv9i3m9d--MeKwV_2dOXVlqtc2Dik4gqWngG4"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDcGHpgavkZLyInOckEloCGCXi_Ed0O6c-hlT9PkLerXRtaYSeiYiuxm4gck"
       },
       {
-        "title": "Semenyo and McAidoo to make City debuts against Exeter",
-        "url": "https://www.mancity.com/news/mens/city-v-exeter-team-news-63903647",
-        "source": "Manchester City FC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtEO8tKAUO29ZaY2hyQ9alQmd_tRqgWooImXKaMRad5Nl_phrg8RAjZnbM44"
+        "title": "Tottenham v Aston Villa: FA Cup third round – live",
+        "url": "https://www.theguardian.com/football/live/2026/jan/10/tottenham-v-aston-villa-fa-cup-third-round-live",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbkYZ9nmYz4L1qC8qoQ0IUc6y6Tb6aA-FLz6piGGDGSFOjgSmAUrCv9JBDKa8"
       },
       {
-        "title": "'We saw Cristiano Ronaldo get nutmegged, now we want to beat Man City to make our point'",
-        "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/we-saw-cristiano-ronaldo-nutmegged-33200259",
-        "source": "Manchester Evening News",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQsyFRtF0joicXGjytgdrUy9q1k30diFxSl4RW8hRuhQ0wrQdnohlZoxnKeUE"
+        "title": "Preview: Spurs meet Villa in all-Premier League FA Cup tie",
+        "url": "https://www.fotmob.com/topnews/25130-preview-spurs-meet-villa-all-premier-league-fa-cup-tie?utm_source=fotmob",
+        "source": "FotMob",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6cWCKyGDppFMi-Sbo8Obm7Jszcrkjebomasyb4CjCbwlBhTlhbhdMSB3NEc"
       }
     ],
     "regions": [
@@ -240,28 +180,28 @@
     "country": "Thailand"
   },
   {
-    "title": "ปิซ่า",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T06:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQok-MQ6DHPSEZWJ4Dp4neJEymm47EbnBNfF5ILuRdSMNVtWHWH0UQqYwIFo40",
+    "title": "เลเวอร์คูเซ่น พบ ชตุทท์การ์ท",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T09:00:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgiKzspdPMEK6MPwCm7fKPzje2w0TMckaj6k81F3wTW3dICgsJPEHDfnIozBQ",
     "news": [
       {
-        "title": "Preview: Udinese vs. Pisa - prediction, team news, lineups",
-        "url": "https://www.sportsmole.co.uk/football/udinese/preview/udinese-vs-pisa-prediction-team-news-lineups_589488.html",
-        "source": "Sports Mole",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQok-MQ6DHPSEZWJ4Dp4neJEymm47EbnBNfF5ILuRdSMNVtWHWH0UQqYwIFo40"
+        "title": "พรีวิว บุนเดสลีกา เยอรมนี 2025-26 : ไบเออร์ เลเวอร์คูเซ่น พบ สตุ๊ตการ์ท",
+        "url": "https://www.tnnthailand.com/sports/222292/",
+        "source": "TNN",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgiKzspdPMEK6MPwCm7fKPzje2w0TMckaj6k81F3wTW3dICgsJPEHDfnIozBQ"
       },
       {
-        "title": "Runjaic: \"We want to play like we did against Torino\"",
-        "url": "https://www.udinese.it/news/squad/runjaic-we-want-to-play-like-we-did-against-torino",
-        "source": "Udinese",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOT035ZYsvpS3n5-V1L6CzjFZPeszKVkiPLSWsTmIz2Ec8pl-lbxJelLuHOg"
+        "title": "LIVE : ดูบอลสด เลเวอร์คูเซ่น พบ สตุ๊ตการ์ท ฟุตบอลบุนเดสลีกา เวลา 00.30 น.",
+        "url": "https://www.sportingnews.com/th/football/news/live-watch-leverkusen-vs-stuttgart-bundesliga/dc4ad7efcf8193f478d512c4",
+        "source": "Sporting News",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK4jopatHxliJYnbEBoFnUdDCipXJQ-LAMCNguk_3x4IH4XACoL2HbTqcDJrE"
       },
       {
-        "title": "Udinese vs Pisa: predictions, stats, tips & odds",
-        "url": "https://www.squawka.com/en/news/match-preview-udinese-vs-pisa-10-01-26-serie-a/",
-        "source": "Squawka",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMcvh99icpJPbqs8XQp7cka7tLCMPm5ph_wBnJ3UWw3GDX85B5DTOwq1m8SY"
+        "title": "เลเวอร์คูเซ่น พบ สตุ๊ตการ์ท ดูบอลสด ฟุตบอลบุนเดสลีกา 2025/26 วันที่ 10 ม.ค. 69",
+        "url": "https://thethaiger.com/th/news/1513861/",
+        "source": "Thaiger",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-HkJcXQoWrRKFLwmrbsuSsZDDVXpNGjtXHTlqOlokwfkQ-bL4RPihnHkLUXE"
       }
     ],
     "regions": [
@@ -270,28 +210,82 @@
     "country": "Thailand"
   },
   {
-    "title": "nicola peltz",
+    "title": "สเปอร์ส พบ แอสตันวิลลา",
+    "traffic_num": 5000,
+    "pub_date": "2026-01-10T08:50:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZMtCuk-zYn0ErR5gTID1GA2hR2LwPStLnag09qcz0Ja9Pl1azgAg7ADAUM2U",
+    "news": [
+      {
+        "title": "วิเคราะห์บอล สเปอร์ส vs แอสตัน วิลล่า 10 ม.ค. 69 วิลล่าลุ้นบุกย้ำแค้น",
+        "url": "https://www.siamsport.co.th/football-international/fa-cup/97882/",
+        "source": "Siamsport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZMtCuk-zYn0ErR5gTID1GA2hR2LwPStLnag09qcz0Ja9Pl1azgAg7ADAUM2U"
+      },
+      {
+        "title": "ถ่ายทอดสดเอฟเอ คัพ สเปอร์ส พบ แอสตัน วิลล่า ดูบอลสดฟรี Monomax 00.45 น.",
+        "url": "https://www.thansettakij.com/sport/648635",
+        "source": "thansettakij",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRugPdxqMFXbKZQTuyRmOnljbB67fW5Lmr4PAxon5qeVdFHb_eddLpszpxR8E"
+      },
+      {
+        "title": "วิเคราะห์บอล ดูบอลสด สเปอร์ส พบ แอสตัน วิลล่า เอฟเอ คัพ อังกฤษ FA Cup",
+        "url": "https://www.bangkokbiznews.com/news/sport/1215977",
+        "source": "bangkokbiznews",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZ3MCW4g4U0Pq8pHy5SPuTNCX6nk1dmle2B0wOotRcptBUIiXJBadyCZZkT4"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "สภาพอากาศหนาว",
+    "traffic_num": 100000,
+    "pub_date": "2026-01-10T08:50:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xBSoHuJlaturAfF6k0mGdpiUWyv3RNXuVOuKkAqUPwuO1FlIPSi4cAkDylk",
+    "news": [
+      {
+        "title": "ในประเทศ - มาแล้ว! กรมอุตุฯคาดหมายอากาศ 7 วันข้างหน้า ตั้งแต่ 9-15 ม.ค.69",
+        "url": "https://www.naewna.com/local/939817",
+        "source": "แนวหน้า",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1xBSoHuJlaturAfF6k0mGdpiUWyv3RNXuVOuKkAqUPwuO1FlIPSi4cAkDylk"
+      },
+      {
+        "title": "หนาวรับวันเด็ก! ไทยตอนบนอุณหภูมิลดฮวบ-ลมแรง เตือนเฝ้าระวังฝุ่น PM2.5",
+        "url": "https://theactive.thaipbs.or.th/news/pollution-20260110",
+        "source": "The Active",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQjJr-eDxf3bCu3NiR0Za3dtJezvN_wIgKPbJFRiOkWFdOXXOQqMiQlfvasI"
+      },
+      {
+        "title": "กรมอุตุฯ พยากรณ์อากาศ 7 วันข้างหน้า อากาศหนาวถึงวันไหน",
+        "url": "https://www.khaosod.co.th/breaking-news/news_10091307",
+        "source": "ข่าวสด",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU3QkvRDFu9mUD6fjtt1aiTEYdcEaLwTctg13S7ZsX16pWJLaL3jgeRlO0ipE"
+      }
+    ],
+    "regions": [
+      "Thailand(all region)"
+    ],
+    "country": "Thailand"
+  },
+  {
+    "title": "โรมา พบ ซาสซูโอโล่",
     "traffic_num": 500,
-    "pub_date": "2026-01-10T05:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0",
+    "pub_date": "2026-01-10T08:50:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQtKsSniMZ9wj9WcJLjebahn4sWGOSvC9D759ST1w0TUPeBFIrcZzM82hQqV4",
     "news": [
       {
-        "title": "Brooklyn Beckham warned parents David and Victoria to only contact him through his lawyers at the height of their family feud",
-        "url": "https://www.dailymail.co.uk/tvshowbiz/article-15447271/Brooklyn-Beckham-warned-parents-David-Victoria-contact-lawyers-height-family-feud.html",
-        "source": "Daily Mail",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu_BfR7zYblrqTOGtgkf76pjaBcGkciHbXC3c1eSrTv5fDW1Pa83iLxvY0XI0"
+        "title": "โรม่า VS ซาสซูโอโล่ : พรีวิว กัลโช่ เซเรีย อา 2025/26 (ลิ้งก์ดูบอลสด)",
+        "url": "https://sport.trueid.net/detail/gEByn4P1OgyZ",
+        "source": "TrueID",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQtKsSniMZ9wj9WcJLjebahn4sWGOSvC9D759ST1w0TUPeBFIrcZzM82hQqV4"
       },
       {
-        "title": "Famous family feud: What is going on with the Beckhams?",
-        "url": "https://www.itv.com/news/2026-01-09/famous-family-feud-what-is-going-on-with-the-beckhams",
-        "source": "ITVX",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTin80Run9nRWdkljigmjTGXSUYQkXcoQknIgA0Cf_SPe9Ozf9ImZ6M0iTcGc8"
-      },
-      {
-        "title": "Why is Brooklyn Beckham feuding with his parents? What we know",
-        "url": "https://ftw.usatoday.com/story/entertainment/pop-culture/2026/01/09/brooklyn-beckham-feud-parents/88100405007/",
-        "source": "USA Today",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7s_OEAqcg1DFBOgTUuTlD7bUcdFHprt0pCP4I30s-Xe-RfA2Qo-GX5XHmoG4"
+        "title": "'ดีบาล่า,เฟอร์กูสัน' นำทัพโรม่าปะทะซาสซู...ปรีวิวเซเรีย อา | Soccersuck",
+        "url": "https://today.line.me/th/v3/article/x2kRWx1",
+        "source": "LINE TODAY",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcBf6BGo3RKmnT9YKR-wDociounzF-J-OIwfOoZe2jeSeUtMRiiX_65E95hYw"
       }
     ],
     "regions": [

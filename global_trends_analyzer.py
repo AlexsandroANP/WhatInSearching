@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import requests
+from ison_parser import dumps
 
 # 导入配置模块
 from config import get_config
@@ -351,6 +352,52 @@ def generate_simple_markdown_table(df_filtered, max_rows=100000):
         lines.append(line)
 
     return "\n".join(lines)
+
+
+def generate_ison_content(df_filtered, max_rows=100000):
+    """
+    生成 ISON 格式的内容
+    """
+    if df_filtered.empty:
+        return "table.empty"
+
+    # 限制行数以减少 token
+    df_to_use = df_filtered.head(max_rows)
+
+    # 重命名列以符合要求
+    df_simple = df_to_use.rename(columns={
+        "标题": "news_title",
+        "信源": "source",
+        "搜索词": "title",
+        "流量": "traffic_num",
+        "发布日期": "pub_date",
+        "地区": "regions",
+        "国家": "country"
+    })
+
+    # 转换日期格式和流量格式
+    df_simple["pub_date"] = df_simple["pub_date"].astype(str)
+    df_simple["traffic_num"] = df_simple["traffic_num"].astype(int)
+
+    # 生成 ISON 格式
+    ison_lines = []
+    ison_lines.append("table.trends")
+    ison_lines.append("news_title source title traffic_num:int pub_date regions country")
+
+    for _, row in df_simple.iterrows():
+        # 处理可能包含空格的字段，使用引号包围
+        news_title = f'"{row["news_title"]}"' if ' ' in str(row["news_title"]) else str(row["news_title"])
+        source = f'"{row["source"]}"' if ' ' in str(row["source"]) else str(row["source"])
+        title = f'"{row["title"]}"' if ' ' in str(row["title"]) else str(row["title"])
+        traffic_num = int(row["traffic_num"])
+        pub_date = str(row["pub_date"])
+        regions = f'"{row["regions"]}"' if ' ' in str(row["regions"]) else str(row["regions"])
+        country = f'"{row["country"]}"' if ' ' in str(row["country"]) else str(row["country"])
+        
+        line = f"{news_title} {source} {title} {traffic_num} {pub_date} {regions} {country}"
+        ison_lines.append(line)
+
+    return "\n".join(ison_lines)
 
 
 # --- Streamlit 应用 ---
@@ -1050,7 +1097,8 @@ if st.session_state['data']:
                     'api_key': DEFAULT_API_KEY,
                     'endpoint': DEFAULT_ENDPOINT,
                     'model': DEFAULT_MODEL,
-                    'supplier': DEFAULT_SUPPLIER
+                    'supplier': DEFAULT_SUPPLIER,
+                    'compression_format': 'markdown'
                 }
             if 'model_options' not in st.session_state:
                 st.session_state['model_options'] = get_provider_default_models(DEFAULT_SUPPLIER)
@@ -1159,6 +1207,17 @@ if st.session_state['data']:
                     current_endpoint = st.session_state['ai_config']['endpoint']
                     current_api_key = st.session_state['ai_config']['api_key']
                     refresh_model_list(current_endpoint, current_api_key)
+            
+            # 压缩格式选择
+            compression_format = st.selectbox(
+                "压缩格式选择", 
+                ["markdown", "ison"], 
+                index=["markdown", "ison"].index(st.session_state['ai_config'].get('compression_format', 'markdown')),
+                key="compression_format",
+                help="选择发送给 AI 的数据压缩格式：markdown 为传统表格格式，ison 为更高效的压缩格式"
+            )
+            if compression_format != st.session_state['ai_config'].get('compression_format'):
+                st.session_state['ai_config']['compression_format'] = compression_format
         
         # 模型测试按钮
         if st.button("🧪 测试模型连通性", key="test_model"):
@@ -1234,18 +1293,22 @@ if st.session_state['data']:
         ai_endpoint = st.session_state['ai_config'].get('endpoint', DEFAULT_ENDPOINT)
         ai_api_key = st.session_state['ai_config'].get('api_key', DEFAULT_API_KEY)
         ai_model = st.session_state['ai_config'].get('model', DEFAULT_MODEL)
+        compression_format = st.session_state['ai_config'].get('compression_format', 'markdown')
 
         if df_current.empty:
                 st.error("当前筛选条件下无数据可供分析")
         elif not ai_api_key.strip():
             st.error("请先填写 API Key")
         else:
-            # 生成简化表格（用于发送给 AI）
-            markdown_table = generate_simple_markdown_table(df_current)
-            # st.write("```" +markdown_table+ "```")
+            # 根据选择的压缩格式生成内容
+            if compression_format == 'ison':
+                content = generate_ison_content(df_current)
+            else:
+                content = generate_simple_markdown_table(df_current)
+            
             # 拼接发送给 AI 的内容
-            user_prompt_with_table = DEFAULT_USER_PROMPT + "\n\n" + markdown_table
-            # user_prompt_with_table = "just for test you googit "  # 测试用
+            user_prompt_with_table = DEFAULT_USER_PROMPT + "\n\n" + content
+            
             # 估算 Token
             with st.spinner("正在估算 Token 数量..."):
                 try:
@@ -1297,6 +1360,15 @@ if st.session_state['data']:
                         try:
                             st.write("🔧 初始化 AI 客户端...")
                             client = OpenAI(base_url=ai_endpoint, api_key=ai_api_key)
+                            
+                            # 再次生成内容以确保使用最新的压缩格式
+                            if compression_format == 'ison':
+                                content = generate_ison_content(df_current)
+                            else:
+                                content = generate_simple_markdown_table(df_current)
+                            
+                            # 拼接发送给 AI 的内容
+                            user_prompt_with_table = DEFAULT_USER_PROMPT + "\n\n" + content
                             st.session_state['ai_client'] = client
                             
                             st.write("📝 准备分析数据...")

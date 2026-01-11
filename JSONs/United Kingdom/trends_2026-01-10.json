@@ -1,207 +1,87 @@
 [
   {
-    "title": "boxing tonight",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuncVc8GWxxxxEgF4tLkrlMu8VwQT6R0FMbQK039unzYi_qubck4BGz79vrsE",
+    "title": "is traitors on tonight",
+    "traffic_num": 10000,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCsjo0KJjDvT5UvsS0Xltj5PddXStVbUbSFThwopZ-N1a5-pbzI748Pa9xOI",
     "news": [
       {
-        "title": "Kabayel vs Knyba start time, undercard and how to watch tonight",
-        "url": "https://www.independent.co.uk/sport/boxing/kabayel-knyba-uk-time-card-tv-channel-b2895986.html",
-        "source": "The Independent",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuncVc8GWxxxxEgF4tLkrlMu8VwQT6R0FMbQK039unzYi_qubck4BGz79vrsE"
-      },
-      {
-        "title": "Agit Kabayel thankful to Riyadh Season; calls on sanctioning bodies to make 'great fights'",
-        "url": "https://www.boxingscene.com/articles/agit-kabayel-thankful-to-riyadh-season-calls-on-sanctioning-bodies-to-make-great-fights",
-        "source": "Boxing Scene",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOGSQCjSNt_wVNe0hBkeLd9pPGaMdMAuxhV88rn9anTl0KT5i1JX98Xa5MAQ4"
-      },
-      {
-        "title": "Avila Perspective Chap 359 Heavyweights, Super Lights and More",
-        "url": "https://tss.ib.tv/boxing/avila-perspective-chap-359-heavyweights-super-lights-and-more/",
-        "source": "The Sweet Science",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkKY02tmSDyyOGtKl6MUtzGXlp5HHkVOrBUmZbNhqhkx6piqIzJS8Se6le0oo"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "algerie nigeria",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60",
-    "news": [
-      {
-        "title": "DIRECT. Algérie-Nigeria (CAN 2025) en direct",
-        "url": "https://www.lequipe.fr/Football/match-direct/can/2025/algerie-nigeria-live/670794",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60"
-      },
-      {
-        "title": "Live Algérie - Nigeria (0-2) Quarts de finale de Coupe d'Afrique des Nations 2025 Morocco 10/01",
-        "url": "https://www.footmercato.net/live/1530726450857634764-algerie-vs-nigeria",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmD7yB3x-GWMl3NlJM1X1lr4WS_YXoPjj06dCajITd5ev6PQXy85ISlV-sPAc"
-      },
-      {
-        "title": "Streaming Algérie Nigeria (CAN 2025) : où voir le match gratuit en HD ?",
-        "url": "https://www.01net.com/bons-plans/streaming-algerie-nigeria-ou-regarder-le-match-gratuit-en-hd.html",
-        "source": "01net.com",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6VCYodTiHwlnhrjiQvUP8Jf4nJ780pFkTaONxtoYmZro9_oC4vru7VASNtFU"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "roma",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW_cU4ENysRV_QKxTGoyo6BtpPPx3F0PnDc1NuhoS6CTQLBFMsEjwt00MIR-M",
-    "news": [
-      {
-        "title": "LIVE Alle 18 Roma-Sassuolo: Gasperini in emergenza, Grosso con Pinamonti e Laurienté",
-        "url": "https://www.gazzetta.it/Calcio/Serie-A/10-01-2026/roma-sassuolo-live-risultato-e-gol-in-diretta-serie-a.shtml",
-        "source": "La Gazzetta dello Sport",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW_cU4ENysRV_QKxTGoyo6BtpPPx3F0PnDc1NuhoS6CTQLBFMsEjwt00MIR-M"
-      },
-      {
-        "title": "I convocati giallorossi per Roma-Sassuolo",
-        "url": "https://www.asroma.com/it/notizie/74630/i-convocati-giallorossi-per-roma-sassuolo",
-        "source": "AS Roma",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0GQxk-ew7mh9N5vlx80L6yBhhMLhHhiOD4cP1UFrzCQ2UPILgCeINfTOT5Ks"
-      },
-      {
-        "title": "Roma, Wesley recuperato: il brasiliano convocato per il Sassuolo",
-        "url": "https://www.fantacalcio.it/news/calcio-italia/10_01_2026/roma-wesley-recuperato-il-brasiliano-convocato-per-il-sassuolo-487282",
-        "source": "Fantacalcio",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrTeDohx-dFaT3A1Gzr4e08VC8V3FB2oouEI5AXcO_11ICm02Nru5W74Lu-8M"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "roma fc",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqwlCoF-vaBySrrgtgyZyamxCwh8HMg7BLddtC8iq--UvKXm4Z_SxtljNfC90",
-    "news": [
-      {
-        "title": "‘Scoring goals’ - Paul Barber on transfer plans at Brighton and a ‘talented and important’ player",
-        "url": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/scoring-goals-paul-barber-on-transfer-plans-at-brighton-and-a-talented-and-important-player-5466115",
-        "source": "SussexWorld",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqwlCoF-vaBySrrgtgyZyamxCwh8HMg7BLddtC8iq--UvKXm4Z_SxtljNfC90"
-      },
-      {
-        "title": "Ferguson wants to stay at Roma until June",
-        "url": "https://romapress.net/ferguson-wants-to-stay-at-roma-until-june/",
-        "source": "RomaPress",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROemr_OIwZI-CO5b8v-gduQsvoWsjyXbrnvYavyOnWjw6bq9du8xbRdEQC_xc"
-      },
-      {
-        "title": "Celtic have no chance of signing Evan Ferguson in January",
-        "url": "https://www.67hailhail.com/opinion/celtic-have-no-chance-of-signing-evan-ferguson-in-january/",
-        "source": "67 Hail Hail",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeuL-TwubWGUwvp01cveEa4SBXiVbziImKwLK33txwi0-yiPjv9NylakXlng0"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "yeovil town",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiviuBI4MTqta3pcPAGJ0ND1BLNAPK4s-mq6bhd-WuzlCjlAo4OvUSkVrXR6E",
-    "news": [
-      {
-        "title": "Dakarai Mafico Joins Yeovil Town on Loan from Cardiff City",
-        "url": "https://ytfc.net/2026/01/dakarai-mafico-joins-yeovil-town-on-loan-from-cardiff-city/",
-        "source": "Yeovil Town Football Club",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiviuBI4MTqta3pcPAGJ0ND1BLNAPK4s-mq6bhd-WuzlCjlAo4OvUSkVrXR6E"
-      },
-      {
-        "title": "Teenage midfielder boosts Glovers",
-        "url": "https://gloverscast.co.uk/teenage-midfielder-boosts-glovers/",
-        "source": "Gloverscast",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA0BAuK3ZrhhSt3Be38qHRL4Q0PnH1n9FkOzJQZXGZeGrY2btsNXHegWcccfU"
-      },
-      {
-        "title": "Cardiff City talent leaves on loan, exit confirmed and Man Utd striker gets green light",
-        "url": "https://www.walesonline.co.uk/sport/football/transfer-news/cardiff-city-talent-leaves-loan-33202698",
-        "source": "Wales Online",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0doyQLxeDebtinPTOVdDZvZM7oay08AQiERIrqr2I05HqTps7XrN2W8pxn-4"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "love island",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzhPY9_vUl-V8wRzk_3cqz_9PzdZctjfoykGWPnLLiOy2hj06sfHRCIk_67Pg",
-    "news": [
-      {
-        "title": "Love Island All Stars 2026 Tactics: Here's how all 12 former islanders will approach the show - compared to last time",
-        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/love-island-all-stars-2026-tactics-heres-how-all-12-former-islanders-will-approach-the-show-compared-to-last-time-5465242",
-        "source": "The Scotsman",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzhPY9_vUl-V8wRzk_3cqz_9PzdZctjfoykGWPnLLiOy2hj06sfHRCIk_67Pg"
-      },
-      {
-        "title": "Love Island All Stars 2026 - Pre-Programme Voting Terms and Conditions",
-        "url": "https://www.itv.com/terms/articles/love-island-all-stars-2026-pre-programme-voting-terms-and-conditions",
-        "source": "ITVX",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSRhR_nmErhHTSJYoMFK5SYjCrOda19lFlSL8JGNjMf-3jQxKZqCZPrkgGWQ"
-      },
-      {
-        "title": "\"LOVE ISLAND: ALL STARS\" RETURNS TO PEACOCK AS SEASON THREE PREMIERES ON JANUARY 14",
-        "url": "http://www.thefutoncritic.com/news/2026/01/09/love-island-all-stars-returns-to-peacock-as-season-three-premieres-on-january-14-445015/20260109peacock02/",
-        "source": "The Futon Critic",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoBoC6RvMQXlSX0wbkCivmX7WIMKj_bhDa2CvYw5fdxfjwFLy_DulxJPI4hN8"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "spurs fixtures",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8vpj1NmlX1v-IxcZG5D9i5rO3L-87R65PRlcvvx55enMcF-4i8h0CTekyuqI",
-    "news": [
-      {
-        "title": "Ex-Tottenham and England forward Chivers dies aged 80",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0r4q22pe4lo",
+        "title": "'Secret traitor' revealed in dramatic uncloaking on The Traitors",
+        "url": "https://www.bbc.co.uk/news/articles/cm2j7jzvzxmo",
         "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8vpj1NmlX1v-IxcZG5D9i5rO3L-87R65PRlcvvx55enMcF-4i8h0CTekyuqI"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCsjo0KJjDvT5UvsS0Xltj5PddXStVbUbSFThwopZ-N1a5-pbzI748Pa9xOI"
       },
       {
-        "title": "Martin Chivers, footballer whose prolific goalscoring helped bring silverware to Tottenham – obituary",
-        "url": "https://www.telegraph.co.uk/obituaries/2026/01/08/martin-chivers-prolific-striker-spurs-england-died-obituary/",
-        "source": "The Telegraph",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWfNjSnTmzLj3rYtxpYZbwmWSnZCGq_l1uIM6277bvnnyC5tCGff3_nIqvXYk"
+        "title": "Who’s In ‘The Traitors’ Season 4 Cast? Meet The 23 New Contestants",
+        "url": "https://www.forbes.com/sites/monicamercuri/2026/01/08/whos-in-the-traitors-season-4-cast-meet-the-23-new-contestants/",
+        "source": "Forbes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaFvRLtxtGnqcy0CujoiDRJPKe4wvO0MZf8RYv0mYt6XQyefHa7OT32MHZV4"
       },
       {
-        "title": "Benali: 'It has been a sad week of football with news of Chivers, Yorath and Keegan'",
-        "url": "https://www.dailyecho.co.uk/sport/25753617.southampton-legend-benali-sad-week-chivers-keegan-news/",
+        "title": "When is The Traitors finale? BBC confirms date of final extra long episode",
+        "url": "https://www.cosmopolitan.com/uk/entertainment/a69944377/when-is-the-traitors-season-4-finale/",
+        "source": "Cosmopolitan",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxSC7PM0oFPEx2VnYqRdKhl99d2viFbCTQ03bjijd-j8HbrArMJ27GOo_fNo"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "thomas frank",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmkt6eAUzHSAck_zX3EAeVJaTAG1F293EYcLjtyngjsWijevLDRv02fdn4OYQ",
+    "news": [
+      {
+        "title": "Frank reaches crisis point at Spurs - was he doomed from the start?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c77k8gr6dn5o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmkt6eAUzHSAck_zX3EAeVJaTAG1F293EYcLjtyngjsWijevLDRv02fdn4OYQ"
+      },
+      {
+        "title": "Spurs supporters hit out at club, Thomas Frank over 'fall in ambition'",
+        "url": "https://www.espn.co.uk/football/story/_/id/47563539/spurs-supporters-hit-club-thomas-frank-fall-ambition",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdsKgV_Bjs8_HkszNAUEYcdEqZgBXVjzGTMX4l6b64Vv9x8sWGDNlqAeQ-oA"
+      },
+      {
+        "title": "Progressive? Master developer? Thomas Frank failing to deliver on strengths",
+        "url": "https://www.thetimes.com/sport/football/article/cracks-everywhere-injuries-rising-will-spurs-board-give-frank-time-wmhwgp5bl?gaa_at=eafs&gaa_n=AWEtsqeU_3cCxxsDm-7Nm9QseBSep-lvI3CJ8n5hSyfGEyNZ1bn4xvg0UHrG&gaa_ts=69629f32&gaa_sig=mDrnIAmeQj4jJUOQ-_MS-crE51idYvRJas8kVUZ_dRKbJVfc9NxWFzKfnX6E3xGmlgupDYoVSAYCaXZ8O-nkMQ%3D%3D",
+        "source": "The Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV9OiZS-bnqszCoinMdsZmdb4ygCIQ0J0xWVGI3reg1thmIeK9jUVj48XuEhI"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "chris packham",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM5-lDipGTzLLiorvrQxqkMiMUspJJLz10TDNfUAqxZd-qQquzftqz89JBnwI",
+    "news": [
+      {
+        "title": "Chris Packham issues public appeal to dog lovers across Hampshire",
+        "url": "https://www.dailyecho.co.uk/news/25752324.tv-presenter-chris-packham-issues-appeal-dog-lovers/",
         "source": "Daily Echo",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaVI7TGV4oAUIpaDqtSbr7tjD_pbD52Xc_QbuguraorURYwgNWZd3rQRsRoTA"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM5-lDipGTzLLiorvrQxqkMiMUspJJLz10TDNfUAqxZd-qQquzftqz89JBnwI"
+      },
+      {
+        "title": "Could you help train a Hearing Dog like Pasha?",
+        "url": "https://www.yorkmix.com/could-you-help-train-a-hearing-dog-like-pasha/",
+        "source": "YorkMix",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rVj4lMFc1qRhVV55wlgQXr1L1pEYpSEZ8zOrF2Y6BR3zeaSyo02c6S0a2OQ"
+      },
+      {
+        "title": "Dog food accounts for 1% of UK greenhouse gas emissions, study finds",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/jan/08/dog-food-accounts-for-1-of-uk-greenhouse-gas-emissions-study-finds",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0hAPumq8h90skAqpJnsYNsCbWQTzt1bXkEoJ8NSjjNbMEfT-QZk_FwSa3drM"
       }
     ],
     "regions": [
@@ -210,28 +90,28 @@
     "country": "United Kingdom"
   },
   {
-    "title": "anthony gordon",
+    "title": "kamara",
     "traffic_num": 200,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF_xrXkaXJBVH7VjOOo8nffn8dJ217Lqaj5P9mN58Z5SMSOHMw7wE9_vAFyzk",
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKfHpTSKLqe_erbgdi2FoB3VkXAi17VxRXLcV_o0s_2gXSn9iDykXzJ-wRiHo",
     "news": [
       {
-        "title": "Newcastle news: Harvey Barnes v Anthony Gordon – Who should Eddie Howe start on the left wing?",
-        "url": "https://www.thesportsnewsblitz.com/news/newcastle-news-harvey-barnes-v-anthony-gordon-who-should-eddie-howe-start-on-the-left-wing",
-        "source": "Sports News Blitz",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF_xrXkaXJBVH7VjOOo8nffn8dJ217Lqaj5P9mN58Z5SMSOHMw7wE9_vAFyzk"
+        "title": "🤕 Villa suffer early key player injury blow against Tottenham",
+        "url": "https://ca.sports.yahoo.com/news/villa-suffer-early-key-player-180200419.html",
+        "source": "Yahoo Sports Canada",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKfHpTSKLqe_erbgdi2FoB3VkXAi17VxRXLcV_o0s_2gXSn9iDykXzJ-wRiHo"
       },
       {
-        "title": "Jamie Carragher slams Newcastle United star who is ‘having a poor season’",
-        "url": "https://www.geordiebootboys.com/news/jamie-carragher-slams-newcastle-united-star-who-is-having-a-poor-season/",
-        "source": "Geordie Boot Boys",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVwwnNGPwNcl1F99U1UQQ1OLLf9WYkMJpG7TSWx9MfksUzsQ3pngL7f-vdi4Q"
+        "title": "Aston Villa suffer fresh injury blow minutes into Tottenham FA Cup clash",
+        "url": "https://www.birminghammail.co.uk/sport/football/football-news/aston-villa-suffer-fresh-injury-33207403",
+        "source": "Birmingham Live",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGal8HkQ55aKT8Fepmc9TWDP-PhbnS1gP_zxUXQ7PddZFLKONJlvMsVh1zfs"
       },
       {
-        "title": "‘I was disappointed’ - Harvey Barnes admits Newcastle United frustration after being asked Anthony Gordon question",
-        "url": "https://www.newcastleworld.com/sport/football/newcastle-united/newcastle-united-news-anthony-gordon-harvey-barnes-5467162",
-        "source": "NewcastleWorld",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB35sIZMShnXk9vRHo-pcTkn39YmqLvUbbkYFcgz5umf2ZNp9tRYQm3ONh7Vo"
+        "title": "What Saints Are Saying After Alvin Kamara's Injury-Plagued Season",
+        "url": "https://www.si.com/nfl/saints/onsi/saints-news/what-saints-are-saying-after-alvin-kamara-s-injury-plagued-season-pat3",
+        "source": "Sports Illustrated",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR9razyq-Zbtwwl5RHlmS_u2cIkj-XQWq9i73LzDKpvE_o9LzogEW3C5roxow"
       }
     ],
     "regions": [
@@ -240,388 +120,508 @@
     "country": "United Kingdom"
   },
   {
-    "title": "stoke score",
+    "title": "maximilian ibrahimović",
     "traffic_num": 100,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8izgLxERQxlwvaonSb2FiG3aMTXVoMgFW4oiWRXCvaSnD6aGLn8YL0AaaUtU",
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbziPvXjzIj28X05cdr8tRhpxuwzDbPC_5HbOlOMHIyR7Kzg_HMf3sVSBU2kY",
     "news": [
       {
-        "title": "Stoke vs. Coventry (10 Jan, 2026) Live Score",
-        "url": "https://www.espn.co.uk/football/match/_/gameId/762507",
-        "source": "ESPN",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8izgLxERQxlwvaonSb2FiG3aMTXVoMgFW4oiWRXCvaSnD6aGLn8YL0AaaUtU"
-      },
-      {
-        "title": "U18s match report: Liverpool beat Stoke City 4-2 with incredible comeback",
-        "url": "https://www.liverpoolfc.com/news/u18s-match-report-liverpool-beat-stoke-city-4-2-incredible-comeback",
-        "source": "Liverpool FC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf87xlLAP3MijlH8bqM7XeOWP_a3iCUT5lkIrH5VS6n9nLJ1QCJ7WjwIE6FgE"
-      },
-      {
-        "title": "Liverpool score stunning injury-time winner as striker gets hat-trick of assists",
-        "url": "https://www.thisisanfield.com/2026/01/liverpool-u18s-4-2-stoke-city-u18s-match-report/",
-        "source": "This Is Anfield",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbsuIeUXt3Ldb0J3L6cln5f21LkrAsfum-bMW1bD2OBmrLI_1hAGZTAKf6zL8"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "bristol city vs watford",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBty9SBBd_inBiCtzsYNkt1Pc6BJkslEEj3U0fw1rsRhD-ANLxjxj53cevPk",
-    "news": [
-      {
-        "title": "Bristol City vs Watford: FA Cup stats & head-to-head",
-        "url": "https://www.bbc.co.uk/sport/football/live/cr4kr73pvlkt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBty9SBBd_inBiCtzsYNkt1Pc6BJkslEEj3U0fw1rsRhD-ANLxjxj53cevPk"
-      },
-      {
-        "title": "iFollow: FA Cup Streaming Details & Hull Update",
-        "url": "https://www.watfordfc.com/news/2026/january/08/how-to-stream-bristol-city-watford-fa-cup/",
-        "source": "Watford FC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPVKdEu5YH0MO1e4oS2iSrkNU0GX6V0O7ZaNZ06Ocp3cG9l9kRouGf8tYmwA"
-      },
-      {
-        "title": "Preview: Watford (Emirates FA Cup)",
-        "url": "https://www.bcfc.co.uk/news/preview-watford-emirates-fa-cup/",
-        "source": "Bristol City FC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi20xImpSqlViZbC39y91XlCtCpItclHPCAeP_EP79FM6aSy40hlORPqpS_BY"
-      }
-    ],
-    "regions": [
-      "United Kingdom(ALL Regions)"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "calvin bassey",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGNd1RmAGhhUzl2fpynlNWbE6v1Ib-LoBaN1ZxRXVjXwag6XQPAxRCZKw1wKY",
-    "news": [
-      {
-        "title": "Inter eye move for Bassey but Fulham make January transfer decision – report",
-        "url": "https://football-italia.net/inter-move-bassey-fulham-january-decision/",
-        "source": "Football Italia",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGNd1RmAGhhUzl2fpynlNWbE6v1Ib-LoBaN1ZxRXVjXwag6XQPAxRCZKw1wKY"
-      },
-      {
-        "title": "Transfer: Inter Milan line up move for Bassey",
-        "url": "https://dailypost.ng/2026/01/10/transfer-inter-milan-line-up-move-for-bassey/",
-        "source": "Daily Post Nigeria",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlrjeIzdl4wdcf4euuZ0zzEhwbCuOpE6pV4G8MxC-WnEJZwhOUCViIj6Oq5lU"
-      },
-      {
-        "title": "Transfer: Nigeria’s AFCON 2025 star attracts Inter Milan interest",
-        "url": "https://soccernet.ng/2026/01/transfr-nigeria-inter-milan-fulham-bassey.html",
-        "source": "Soccernet.ng",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_OEUkIUgHPNdTwEfKh3zKamR0ekyphXI7HkiwiG8lOnd2fnT3RMFUg_kFqc8"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "anthony gordon",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF_xrXkaXJBVH7VjOOo8nffn8dJ217Lqaj5P9mN58Z5SMSOHMw7wE9_vAFyzk",
-    "news": [
-      {
-        "title": "Newcastle news: Harvey Barnes v Anthony Gordon – Who should Eddie Howe start on the left wing?",
-        "url": "https://www.thesportsnewsblitz.com/news/newcastle-news-harvey-barnes-v-anthony-gordon-who-should-eddie-howe-start-on-the-left-wing",
-        "source": "Sports News Blitz",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRF_xrXkaXJBVH7VjOOo8nffn8dJ217Lqaj5P9mN58Z5SMSOHMw7wE9_vAFyzk"
-      },
-      {
-        "title": "Jamie Carragher slams Newcastle United star who is ‘having a poor season’",
-        "url": "https://www.geordiebootboys.com/news/jamie-carragher-slams-newcastle-united-star-who-is-having-a-poor-season/",
-        "source": "Geordie Boot Boys",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVwwnNGPwNcl1F99U1UQQ1OLLf9WYkMJpG7TSWx9MfksUzsQ3pngL7f-vdi4Q"
-      },
-      {
-        "title": "‘I was disappointed’ - Harvey Barnes admits Newcastle United frustration after being asked Anthony Gordon question",
-        "url": "https://www.newcastleworld.com/sport/football/newcastle-united/newcastle-united-news-anthony-gordon-harvey-barnes-5467162",
-        "source": "NewcastleWorld",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB35sIZMShnXk9vRHo-pcTkn39YmqLvUbbkYFcgz5umf2ZNp9tRYQm3ONh7Vo"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "yeovil town",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiviuBI4MTqta3pcPAGJ0ND1BLNAPK4s-mq6bhd-WuzlCjlAo4OvUSkVrXR6E",
-    "news": [
-      {
-        "title": "Dakarai Mafico Joins Yeovil Town on Loan from Cardiff City",
-        "url": "https://ytfc.net/2026/01/dakarai-mafico-joins-yeovil-town-on-loan-from-cardiff-city/",
-        "source": "Yeovil Town Football Club",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiviuBI4MTqta3pcPAGJ0ND1BLNAPK4s-mq6bhd-WuzlCjlAo4OvUSkVrXR6E"
-      },
-      {
-        "title": "Teenage midfielder boosts Glovers",
-        "url": "https://gloverscast.co.uk/teenage-midfielder-boosts-glovers/",
-        "source": "Gloverscast",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTA0BAuK3ZrhhSt3Be38qHRL4Q0PnH1n9FkOzJQZXGZeGrY2btsNXHegWcccfU"
-      },
-      {
-        "title": "Cardiff City talent leaves on loan, exit confirmed and Man Utd striker gets green light",
-        "url": "https://www.walesonline.co.uk/sport/football/transfer-news/cardiff-city-talent-leaves-loan-33202698",
-        "source": "Wales Online",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0doyQLxeDebtinPTOVdDZvZM7oay08AQiERIrqr2I05HqTps7XrN2W8pxn-4"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "bury fc",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThW7pwVc61V6etfECq68ebbLNG6WQiFA1t-1gbakfK70bbC-Xh62DS57hw-EE",
-    "news": [
-      {
-        "title": "Heartfelt tributes after sudden death of Bury dad and football coach, 31",
-        "url": "https://www.burytimes.co.uk/news/25749870.heartfelt-tributes-tomichael-craig-erik-ball-died-aged-31/",
-        "source": "The Bury Times",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThW7pwVc61V6etfECq68ebbLNG6WQiFA1t-1gbakfK70bbC-Xh62DS57hw-EE"
-      },
-      {
-        "title": "Preston North End 0-1 Wigan Athletic: League One Latics beat Championship opposition",
-        "url": "https://www.bbc.co.uk/sport/football/live/ckgnx7vgnznt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJi3cbBFkxX3AB5dxn9ZcrGwT_Mly_Czv3lQrcUClq51lm5WjEnjsvkrpC8zE"
-      },
-      {
-        "title": "Ryan Lowe | Preston North End (A) Reaction",
-        "url": "https://wiganathletic.com/news/2026/january/09/Ryan-Lowe-Preston-North-End-A-Reaction/",
-        "source": "Wigan Athletic FC -",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCIPvL0ftibW_L8WOqy5HrfVxoVaPFfBBbrak-XgMzjNa8joGl-jq26Aocyuk"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "love island",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzhPY9_vUl-V8wRzk_3cqz_9PzdZctjfoykGWPnLLiOy2hj06sfHRCIk_67Pg",
-    "news": [
-      {
-        "title": "Love Island All Stars 2026 Tactics: Here's how all 12 former islanders will approach the show - compared to last time",
-        "url": "https://www.scotsman.com/arts-and-culture/film-and-tv/love-island-all-stars-2026-tactics-heres-how-all-12-former-islanders-will-approach-the-show-compared-to-last-time-5465242",
-        "source": "The Scotsman",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzhPY9_vUl-V8wRzk_3cqz_9PzdZctjfoykGWPnLLiOy2hj06sfHRCIk_67Pg"
-      },
-      {
-        "title": "Love Island All Stars 2026 - Pre-Programme Voting Terms and Conditions",
-        "url": "https://www.itv.com/terms/articles/love-island-all-stars-2026-pre-programme-voting-terms-and-conditions",
-        "source": "ITVX",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSRhR_nmErhHTSJYoMFK5SYjCrOda19lFlSL8JGNjMf-3jQxKZqCZPrkgGWQ"
-      },
-      {
-        "title": "\"LOVE ISLAND: ALL STARS\" RETURNS TO PEACOCK AS SEASON THREE PREMIERES ON JANUARY 14",
-        "url": "http://www.thefutoncritic.com/news/2026/01/09/love-island-all-stars-returns-to-peacock-as-season-three-premieres-on-january-14-445015/20260109peacock02/",
-        "source": "The Futon Critic",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoBoC6RvMQXlSX0wbkCivmX7WIMKj_bhDa2CvYw5fdxfjwFLy_DulxJPI4hN8"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "bristol city vs watford",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBty9SBBd_inBiCtzsYNkt1Pc6BJkslEEj3U0fw1rsRhD-ANLxjxj53cevPk",
-    "news": [
-      {
-        "title": "Bristol City vs Watford: FA Cup stats & head-to-head",
-        "url": "https://www.bbc.co.uk/sport/football/live/cr4kr73pvlkt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBty9SBBd_inBiCtzsYNkt1Pc6BJkslEEj3U0fw1rsRhD-ANLxjxj53cevPk"
-      },
-      {
-        "title": "iFollow: FA Cup Streaming Details & Hull Update",
-        "url": "https://www.watfordfc.com/news/2026/january/08/how-to-stream-bristol-city-watford-fa-cup/",
-        "source": "Watford FC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPVKdEu5YH0MO1e4oS2iSrkNU0GX6V0O7ZaNZ06Ocp3cG9l9kRouGf8tYmwA"
-      },
-      {
-        "title": "Preview: Watford (Emirates FA Cup)",
-        "url": "https://www.bcfc.co.uk/news/preview-watford-emirates-fa-cup/",
-        "source": "Bristol City FC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTi20xImpSqlViZbC39y91XlCtCpItclHPCAeP_EP79FM6aSy40hlORPqpS_BY"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "algerie nigeria",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60",
-    "news": [
-      {
-        "title": "DIRECT. Algérie-Nigeria (CAN 2025) en direct",
-        "url": "https://www.lequipe.fr/Football/match-direct/can/2025/algerie-nigeria-live/670794",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTRb2DO5RKR9izqeiQI4aVsNKLuSVa3lId8wLtb37e6Xfo9xREqvz3COrY60"
-      },
-      {
-        "title": "Live Algérie - Nigeria (0-2) Quarts de finale de Coupe d'Afrique des Nations 2025 Morocco 10/01",
-        "url": "https://www.footmercato.net/live/1530726450857634764-algerie-vs-nigeria",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmD7yB3x-GWMl3NlJM1X1lr4WS_YXoPjj06dCajITd5ev6PQXy85ISlV-sPAc"
-      },
-      {
-        "title": "Streaming Algérie Nigeria (CAN 2025) : où voir le match gratuit en HD ?",
-        "url": "https://www.01net.com/bons-plans/streaming-algerie-nigeria-ou-regarder-le-match-gratuit-en-hd.html",
-        "source": "01net.com",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6VCYodTiHwlnhrjiQvUP8Jf4nJ780pFkTaONxtoYmZro9_oC4vru7VASNtFU"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "hereford fc",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32NlAppJ297nLR2TF6pLROcEw2TM7JF6PNhW5GCsA9Mnl2BpOdubsHysT4yE",
-    "news": [
-      {
-        "title": "Squad Update from Paul Caddis",
-        "url": "https://herefordfc.co.uk/2026/01/squad-update-from-paul-caddis/",
-        "source": "Hereford FC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32NlAppJ297nLR2TF6pLROcEw2TM7JF6PNhW5GCsA9Mnl2BpOdubsHysT4yE"
-      },
-      {
-        "title": "PREVIEW: Hereford FC Vs. AFC Fylde",
-        "url": "https://herefordfc.co.uk/2026/01/preview-hereford-fc-vs-afc-fylde/",
-        "source": "Hereford FC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KYY3QXQM-4yn4xUUnBqCUEgWFFhoPF_8n8Ex6uTzWRmEkXD4lVR5ap2qERA"
-      },
-      {
-        "title": "RECAP: Hereford bow out of FA Trophy on penalties",
-        "url": "https://www.herefordtimes.com/sport/local/25755132.afc-fylde-beat-hereford-penalties-fa-trophy/",
-        "source": "The Hereford Times",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp2y-E8TdtETdYn0YHI2C06ATmWBb1n5CGQmnlQloI8RZ2hThY0Icej0DsMcE"
-      }
-    ],
-    "regions": [
-      "England"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "cardiff",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjDSkojhcmQtndVcWBsBpIg4jkJoNp7cqEhGXkCAgfeLpRtL_eah_BHzcvuzY",
-    "news": [
-      {
-        "title": "Cardiff City say transfer embargo over late accounts will be 'removed'",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clygqrrpzy2o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjDSkojhcmQtndVcWBsBpIg4jkJoNp7cqEhGXkCAgfeLpRtL_eah_BHzcvuzY"
-      },
-      {
-        "title": "EFL league leaders slapped with shock transfer embargo after missing deadline to file accounts",
-        "url": "https://www.thesun.co.uk/sport/37870023/efl-cardiff-city-january-transfer-embargo-sheffield-wednesday/",
+        "title": "Zlatan Ibrahimovic's son Maximilian, 19, 'in transfer talks to join another of his dad's former clubs' from AC Milan",
+        "url": "https://www.thesun.co.uk/sport/37869305/zlatan-ibrahimovic-son-maximilian-ac-milan-ajax-transfer/",
         "source": "The Sun",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuDa87kMC1ceAyYTKgi2L5g_ty0bpBaSgFqhXskkFVTsJho_uU9_eAx4NPii4"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbziPvXjzIj28X05cdr8tRhpxuwzDbPC_5HbOlOMHIyR7Kzg_HMf3sVSBU2kY"
       },
       {
-        "title": "Cardiff City placed under transfer embargo",
-        "url": "https://www.walesonline.co.uk/sport/football/transfer-news/cardiff-city-placed-under-transfer-33205710",
-        "source": "Wales Online",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWbf2SAVAT5sDMqYWWDXdMM9KHa6M_AmlckepL1cD18Az7168ascfnk1UuAP8"
+        "title": "Romano: Ajax ‘have asked’ Milan about loaning Maximilian Ibrahimovic – the latest",
+        "url": "https://sempremilan.com/romano-ajax-asked-milan-ibrahimovic-loan",
+        "source": "SempreMilan",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR57LcxB0L4ueLcq2aKC84MjZyhkWN-l-CZzQvNDRjT5GmpJjg-f0-AZeLZNH0"
+      },
+      {
+        "title": "Ajax close in on deal for Ibrahimovic's son, Maximilian - sources",
+        "url": "https://tribuna.com/en/news/2026-01-09-ajax-close-in-on-deal-for-ibrahimovics-son-maximilian-sources/",
+        "source": "Tribuna.com",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX3paXgEuW1mBtCigBjPkE6yE10bkHllsToq5NGp4CFA5xwiJ2mVh71rVFeto"
       }
     ],
     "regions": [
-      "England"
+      "United Kingdom(ALL Regions)"
     ],
     "country": "United Kingdom"
   },
   {
-    "title": "stoke score",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8izgLxERQxlwvaonSb2FiG3aMTXVoMgFW4oiWRXCvaSnD6aGLn8YL0AaaUtU",
+    "title": "richarlison",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBVJ_fHbcli3Vh6qdDPcGRAZnMEV7lnBn-SMJ3gY9Yv3oCdmuKKiQfoUBjAAU",
     "news": [
       {
-        "title": "Stoke vs. Coventry (10 Jan, 2026) Live Score",
-        "url": "https://www.espn.co.uk/football/match/_/gameId/762507",
-        "source": "ESPN",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8izgLxERQxlwvaonSb2FiG3aMTXVoMgFW4oiWRXCvaSnD6aGLn8YL0AaaUtU"
+        "title": "Richarlison in foul-mouthed blast at claims he wants to leave club in summer",
+        "url": "https://www.thesun.co.uk/sport/37869642/richarlison-tottenham-premier-league/",
+        "source": "The Sun",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBVJ_fHbcli3Vh6qdDPcGRAZnMEV7lnBn-SMJ3gY9Yv3oCdmuKKiQfoUBjAAU"
       },
       {
-        "title": "U18s match report: Liverpool beat Stoke City 4-2 with incredible comeback",
-        "url": "https://www.liverpoolfc.com/news/u18s-match-report-liverpool-beat-stoke-city-4-2-incredible-comeback",
-        "source": "Liverpool FC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf87xlLAP3MijlH8bqM7XeOWP_a3iCUT5lkIrH5VS6n9nLJ1QCJ7WjwIE6FgE"
+        "title": "Richarlison denies Tottenham exit, vows to stay with club - CHOSUNBIZ",
+        "url": "https://biz.chosun.com/en/en-sports/2026/01/10/QD6Z6POUNFEAVKZRHU4H3VP3NI/",
+        "source": "Chosunbiz",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfDh8g2sHlTwUmNb_sp_t3r8DIRnIJs2Ke2ntZdleDusNTkR5gcLj3xwe-wwA"
       },
       {
-        "title": "Liverpool score stunning injury-time winner as striker gets hat-trick of assists",
-        "url": "https://www.thisisanfield.com/2026/01/liverpool-u18s-4-2-stoke-city-u18s-match-report/",
-        "source": "This Is Anfield",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbsuIeUXt3Ldb0J3L6cln5f21LkrAsfum-bMW1bD2OBmrLI_1hAGZTAKf6zL8"
+        "title": "Tottenham player only wants exit after World Cup – May fit with buying side’s idea",
+        "url": "https://sportwitness.co.uk/tottenham-player-only-wants-exit-after-world-cup-may-fit-with-buying-sides-idea/",
+        "source": "Sport Witness",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF7K7HKP_nkd4NSG3jda3RrTLB0c32dnniNZ70NcrNp7xg2P1hreZXeD4y-zc"
       }
     ],
     "regions": [
-      "England"
+      "United Kingdom(ALL Regions)"
     ],
     "country": "United Kingdom"
   },
   {
-    "title": "tottenham vs aston villa",
+    "title": "aia",
     "traffic_num": 200,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY",
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGd5pUv_seDq8W0bhozFGRR4C3nAUKaSSuN5E1Q05lAEEyHyRpyNg6g5dqqRQ",
     "news": [
       {
-        "title": "Confirmed line-ups: Spurs vs Aston Villa",
-        "url": "https://www.tottenhamhotspur.com/news/2026/january/confirmed-line-ups-spurs-vs-aston-villa-fa-cup-tottenham-hotspur/",
-        "source": "Tottenham Hotspur",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY"
+        "title": "AIA Collaborative Magazine Release Party",
+        "url": "https://mckinleypark.news/component/rseventspro/event/27260-aia-collaborative-magazine-release-party?Itemid=101",
+        "source": "McKinley Park News",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGd5pUv_seDq8W0bhozFGRR4C3nAUKaSSuN5E1Q05lAEEyHyRpyNg6g5dqqRQ"
       },
       {
-        "title": "Why Frank may need more than FA Cup magic to save his Tottenham job",
-        "url": "https://www.standard.co.uk/sport/football/tottenham-frank-sack-fa-cup-b1265741.html",
-        "source": "London Evening Standard",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCTPWlgj5LsJUKCFRdhyOBgAC0MTTWUcxEBpqrp-Sw9W0_o-EG-svv_4OBSPQ"
+        "title": "Local students and senior citizens can now enjoy special discounts at the AIA Carnival",
+        "url": "https://www.timeout.com/hong-kong/news/aia-carnival-launches-special-offers-for-local-students-and-senior-citizens-010926",
+        "source": "Time Out Worldwide",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjpG6jNeEEBGa5igK6rL60Th7b65FfY7tvWlbUJNadkEQqVFUbQU_ckh5khQQ"
       },
       {
-        "title": "Team news for Spurs FA Cup tie",
-        "url": "https://www.avfc.co.uk/news/2026/january/09/prematch-team-news-for-spurs-tie/",
+        "title": "Sharing the season: AIA Carnival’s winter treats for students and seniors",
+        "url": "https://www.thestandard.com.hk/travel-and-leisure/article/321006/Sharing-the-season-AIA-Carnivals-winter-treats-for-students-and-seniors",
+        "source": "The Standard (HK)",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR59B5asYhquPjFCQeMMu2eD5qUOS4XTT0F9Iz__lzswaICxt_k-MUAg-_A2_w"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "benetton rugby",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq9AskzYmy6oWK8kwnr0kTSnQtkrQ8Z4fYpxX3JhrjPZE9n3rRhG_7au6zNL0",
+    "news": [
+      {
+        "title": "Challenge Cup: Dragons boss Tiatia ready for Treviso return",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2l9p34n23o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq9AskzYmy6oWK8kwnr0kTSnQtkrQ8Z4fYpxX3JhrjPZE9n3rRhG_7au6zNL0"
+      },
+      {
+        "title": "Dlamini starts Benetton Euro clash",
+        "url": "https://dragonsrfc.wales/news/2026/january/dlamini-starts-benetton-euro-clash.html",
+        "source": "Dragons RFC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkDhsRDE1b_b1GVXXdyblRcrJA_rcTLHPmY__Vy5R3DkEGc6SHLVyI9Z2c4o"
+      },
+      {
+        "title": "Benetton v Dragons LIVE: Kick-off time, TV channel and score updates",
+        "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/benetton-v-dragons-live-kick-33206503",
+        "source": "Wales Online",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4v0PjleNis-Ez3jAFxE3w2r2xCr-UFnjo9NJK1pDB0-z8yTJ2AE93n0R_JUg"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "tielemans",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgmSgkEYKgCMYhL28wyjDlW-RYqF_cUZGKkccisXX9k0_MsahHgB8brex0zxw",
+    "news": [
+      {
+        "title": "Crystal Palace 0-0 Aston Villa: Premier League title hopefuls held while Palace's winless run continues",
+        "url": "https://www.bbc.co.uk/sport/football/live/cdx4y6qr91lt",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgmSgkEYKgCMYhL28wyjDlW-RYqF_cUZGKkccisXX9k0_MsahHgB8brex0zxw"
+      },
+      {
+        "title": "Ezri Konsa: It’s a good point",
+        "url": "https://www.avfc.co.uk/news/2026/january/08/postmatch-konsa--it-s-a-good-point/",
         "source": "Aston Villa Football Club",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGIEP-sXDm0Yijn0TgAFtY8jYPOt-wJoe1AOpt7BIWy5suC9AtvxZ-trTmaw8"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4m-5Hq1C9Nhl10dsG0lpwJmEGOxMVPh9piJRAcXL3rhWNJiIvcvSB82D0Gbc"
+      },
+      {
+        "title": "Emery rages at Crystal Palace draw as Glasner extends record against Aston Villa",
+        "url": "https://www.theguardian.com/football/2026/jan/07/crystal-palace-aston-villa-premier-league-match-report",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCBxswIQgHTCxV_H-bQBYX6IvD4J5CgkD-JhGnjUGlvGReclYXVG-zE9Bud5k"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "afcon 2025 fixtures",
+    "traffic_num": 20000,
+    "pub_date": "2026-01-10T10:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOM5O3RAc68JwKny_zr-NcTQ2lO2ZmxXRns2npLBXme9uVAb6dpt-9Pa21tk",
+    "news": [
+      {
+        "title": "Afcon 2025: Cameroon 0-2 Morocco - Host nation through to semi-finals",
+        "url": "https://www.bbc.co.uk/sport/football/live/cpdynxqdzzzt",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOM5O3RAc68JwKny_zr-NcTQ2lO2ZmxXRns2npLBXme9uVAb6dpt-9Pa21tk"
+      },
+      {
+        "title": "Morocco coach angrily rejects AFCON ref bias for hosts before semifinals",
+        "url": "https://www.aljazeera.com/sports/2026/1/10/morocco-coach-angrily-rejects-afcon-ref-bias-ahead-of-semifinals",
+        "source": "Al Jazeera",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSts6tCS9DUFxCnAQR1aejry8LoOeGzwSS-ynVpIbfZZizA7NdiyJ2n56OwJpg"
+      },
+      {
+        "title": "Morocco through, but Cameroon exit AFCON",
+        "url": "https://www.manutd.com/en/news/detail/noussair-mazraoui-and-morocco-into-afcon-semi-finals-by-beating-cameroon",
+        "source": "Official Manchester United Website",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT53geiXxedqT-Zb0NCWQ0gyhOP8I3dijdO3oyScM0OcXG2ZCXoRmEBgCIktGE"
+      }
+    ],
+    "regions": [
+      "United Kingdom(ALL Regions)"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "thomas frank",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmkt6eAUzHSAck_zX3EAeVJaTAG1F293EYcLjtyngjsWijevLDRv02fdn4OYQ",
+    "news": [
+      {
+        "title": "Frank reaches crisis point at Spurs - was he doomed from the start?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c77k8gr6dn5o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmkt6eAUzHSAck_zX3EAeVJaTAG1F293EYcLjtyngjsWijevLDRv02fdn4OYQ"
+      },
+      {
+        "title": "Spurs supporters hit out at club, Thomas Frank over 'fall in ambition'",
+        "url": "https://www.espn.co.uk/football/story/_/id/47563539/spurs-supporters-hit-club-thomas-frank-fall-ambition",
+        "source": "ESPN",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdsKgV_Bjs8_HkszNAUEYcdEqZgBXVjzGTMX4l6b64Vv9x8sWGDNlqAeQ-oA"
+      },
+      {
+        "title": "Progressive? Master developer? Thomas Frank failing to deliver on strengths",
+        "url": "https://www.thetimes.com/sport/football/article/cracks-everywhere-injuries-rising-will-spurs-board-give-frank-time-wmhwgp5bl?gaa_at=eafs&gaa_n=AWEtsqeU_3cCxxsDm-7Nm9QseBSep-lvI3CJ8n5hSyfGEyNZ1bn4xvg0UHrG&gaa_ts=69629f32&gaa_sig=mDrnIAmeQj4jJUOQ-_MS-crE51idYvRJas8kVUZ_dRKbJVfc9NxWFzKfnX6E3xGmlgupDYoVSAYCaXZ8O-nkMQ%3D%3D",
+        "source": "The Times",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV9OiZS-bnqszCoinMdsZmdb4ygCIQ0J0xWVGI3reg1thmIeK9jUVj48XuEhI"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "is traitors on tonight",
+    "traffic_num": 10000,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCsjo0KJjDvT5UvsS0Xltj5PddXStVbUbSFThwopZ-N1a5-pbzI748Pa9xOI",
+    "news": [
+      {
+        "title": "'Secret traitor' revealed in dramatic uncloaking on The Traitors",
+        "url": "https://www.bbc.co.uk/news/articles/cm2j7jzvzxmo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVCsjo0KJjDvT5UvsS0Xltj5PddXStVbUbSFThwopZ-N1a5-pbzI748Pa9xOI"
+      },
+      {
+        "title": "Who’s In ‘The Traitors’ Season 4 Cast? Meet The 23 New Contestants",
+        "url": "https://www.forbes.com/sites/monicamercuri/2026/01/08/whos-in-the-traitors-season-4-cast-meet-the-23-new-contestants/",
+        "source": "Forbes",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxaFvRLtxtGnqcy0CujoiDRJPKe4wvO0MZf8RYv0mYt6XQyefHa7OT32MHZV4"
+      },
+      {
+        "title": "When is The Traitors finale? BBC confirms date of final extra long episode",
+        "url": "https://www.cosmopolitan.com/uk/entertainment/a69944377/when-is-the-traitors-season-4-finale/",
+        "source": "Cosmopolitan",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxSC7PM0oFPEx2VnYqRdKhl99d2viFbCTQ03bjijd-j8HbrArMJ27GOo_fNo"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "tk carter",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeCbCYjtFHXpaZaQ_QuJMxgGmvwc9COTAEVzOp16x5A3aXuUCAJMT9r3RfD0k",
+    "news": [
+      {
+        "title": "T.K. Carter Dies: ‘The Thing’ & ‘Punky Brewster’ Actor Was 69",
+        "url": "https://deadline.com/2026/01/tk-carter-dies-69-1236678497/",
+        "source": "Deadline",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeCbCYjtFHXpaZaQ_QuJMxgGmvwc9COTAEVzOp16x5A3aXuUCAJMT9r3RfD0k"
+      },
+      {
+        "title": "‘Space Jam’ Actor T.K. Carter Found Dead In Home After Welfare Check",
+        "url": "https://www.yahoo.com/entertainment/celebrity/articles/space-jam-actor-t-k-173029845.html",
+        "source": "Yahoo",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCpHQ5hQT8cvKZnUNzYY6C2QONtWRQFs_29L85L4y56WyZMp9g7hGEx9RyBR0"
+      },
+      {
+        "title": "T.K. Carter, ‘The Thing’ And ‘Punky Brewster’ Actor, Dies At 69",
+        "url": "https://www.forbes.com/sites/marcberman1/2026/01/10/tk-carter-the-thing-and-punky-brewster-actor-dies-at-69/",
+        "source": "Forbes",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGXPcX1iuiEKkVtempgrqwGp8Lmqs8I1JvbCJWd5lQWdq_kQ5Gq_et4uM7u-w"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "leinster rugby",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T10:20:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8ysZ5qVLefMIEfBObBRD7kkwlPA8XZPhDiMOUGkdNNbfxBgWGVWPTqUkxnY",
+    "news": [
+      {
+        "title": "Champions Cup: Props to miss Leinster's La Rochelle game as Munster's Irish internationals return",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx2l93586l8o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8ysZ5qVLefMIEfBObBRD7kkwlPA8XZPhDiMOUGkdNNbfxBgWGVWPTqUkxnY"
+      },
+      {
+        "title": "Suddenly, Leinster look a little short on firepower for La Rochelle grudge match",
+        "url": "https://www.irishtimes.com/sport/rugby/2026/01/10/suddenly-leinster-look-a-little-short-on-firepower-for-la-rochelle-grudge-match/",
+        "source": "The Irish Times",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeV_j0XVkrcPKG1mGhF_ZgveddtvIpizLns_eRbiCaDBIGDqBIEuMogM8OmJI"
+      },
+      {
+        "title": "Leinster v La Rochelle: TV time, teams and all you need to know as Leo Cullen’s men hit by multiple injuries",
+        "url": "https://www.independent.ie/sport/rugby/champions-cup/leinster-v-la-rochelle-tv-time-teams-and-all-you-need-to-know-as-leo-cullens-men-hit-by-multiple-injuries/a1653271645.html",
+        "source": "The Irish Independent",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTl0Q0AUzpawqWcrYOfLp4W5xVIH68ZwdGzUegDRjlhtUqxphiEQ3z1ftKrkCM"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "richarlison",
+    "traffic_num": 500,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBVJ_fHbcli3Vh6qdDPcGRAZnMEV7lnBn-SMJ3gY9Yv3oCdmuKKiQfoUBjAAU",
+    "news": [
+      {
+        "title": "Richarlison in foul-mouthed blast at claims he wants to leave club in summer",
+        "url": "https://www.thesun.co.uk/sport/37869642/richarlison-tottenham-premier-league/",
+        "source": "The Sun",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBVJ_fHbcli3Vh6qdDPcGRAZnMEV7lnBn-SMJ3gY9Yv3oCdmuKKiQfoUBjAAU"
+      },
+      {
+        "title": "Richarlison denies Tottenham exit, vows to stay with club - CHOSUNBIZ",
+        "url": "https://biz.chosun.com/en/en-sports/2026/01/10/QD6Z6POUNFEAVKZRHU4H3VP3NI/",
+        "source": "Chosunbiz",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfDh8g2sHlTwUmNb_sp_t3r8DIRnIJs2Ke2ntZdleDusNTkR5gcLj3xwe-wwA"
+      },
+      {
+        "title": "Tottenham player only wants exit after World Cup – May fit with buying side’s idea",
+        "url": "https://sportwitness.co.uk/tottenham-player-only-wants-exit-after-world-cup-may-fit-with-buying-sides-idea/",
+        "source": "Sport Witness",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF7K7HKP_nkd4NSG3jda3RrTLB0c32dnniNZ70NcrNp7xg2P1hreZXeD4y-zc"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "aia",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGd5pUv_seDq8W0bhozFGRR4C3nAUKaSSuN5E1Q05lAEEyHyRpyNg6g5dqqRQ",
+    "news": [
+      {
+        "title": "AIA Collaborative Magazine Release Party",
+        "url": "https://mckinleypark.news/component/rseventspro/event/27260-aia-collaborative-magazine-release-party?Itemid=101",
+        "source": "McKinley Park News",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGd5pUv_seDq8W0bhozFGRR4C3nAUKaSSuN5E1Q05lAEEyHyRpyNg6g5dqqRQ"
+      },
+      {
+        "title": "Local students and senior citizens can now enjoy special discounts at the AIA Carnival",
+        "url": "https://www.timeout.com/hong-kong/news/aia-carnival-launches-special-offers-for-local-students-and-senior-citizens-010926",
+        "source": "Time Out Worldwide",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjpG6jNeEEBGa5igK6rL60Th7b65FfY7tvWlbUJNadkEQqVFUbQU_ckh5khQQ"
+      },
+      {
+        "title": "Sharing the season: AIA Carnival’s winter treats for students and seniors",
+        "url": "https://www.thestandard.com.hk/travel-and-leisure/article/321006/Sharing-the-season-AIA-Carnivals-winter-treats-for-students-and-seniors",
+        "source": "The Standard (HK)",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR59B5asYhquPjFCQeMMu2eD5qUOS4XTT0F9Iz__lzswaICxt_k-MUAg-_A2_w"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "avranches vs strasbourg",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJBGCsOKBVw1IUT4Rid2rdy7A93cm5R3nMuWb0XIQYJ-xiUb0l9j-LJWP778",
+    "news": [
+      {
+        "title": "Preview: Avranches vs Strasbourg - prediction, team news, lineups",
+        "url": "https://www.sportsmole.co.uk/football/avranches/coupe-de-france/preview/avranches-vs-strasbourg-prediction-team-news-lineups_589443.html",
+        "source": "Sports Mole",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJBGCsOKBVw1IUT4Rid2rdy7A93cm5R3nMuWb0XIQYJ-xiUb0l9j-LJWP778"
+      },
+      {
+        "title": "Anthony Beuve, gardien amateur d'Avranches devenu pro des tirs au but : « On a une idée de l'endroit où on voudrait que le joueur tire et on est un peu en avance par rapport à lui »",
+        "url": "https://www.lequipe.fr/Football/Article/Anthony-beuve-gardien-amateur-d-avranches-devenu-pro-des-tirs-au-but-on-a-une-idee-de-l-endroit-ou-on-voudrait-que-le-joueur-tire-et-on-est-un-peu-en-avance-par-rapport-a-lui/1632430",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rPsFnqX_1nKM7kVSy1lMrRJUvE4Vv0Rjv-59E4nrAym65etp_X__rHsGFKo"
+      },
+      {
+        "title": "En direct Coupe de France. Le Racing Club de Strasbourg déroule à Avranches",
+        "url": "https://www.dna.fr/sport/2026/01/10/un-ticket-pour-les-8es-de-finale-en-jeu-les-debuts-de-gary-o-neil-sur-le-banc-suivez-en-direct-la-rencontre-entre-avraches-et-le-racing-club-de-strasbourg-coup-d-envoi-a-18h",
+        "source": "DNA - Les Dernières Nouvelles d'Alsace",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJcRA9WW0u09rwQqRDYX9D_qDWO30QYoh-C-ZlcFzv80bSobSBaMwJK21mJzc"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "semi ajayi",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T10:10:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJMjwck-xik8FR2EjiPVE3-U1flxhmvLYUt0yiTclKaIZc3Hz267Z4piWMbXw",
+    "news": [
+      {
+        "title": "Semi Ajayi: Hull City defender helps to steer Nigeria into Afcon semi-finals",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c78e7zj9dm5o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJMjwck-xik8FR2EjiPVE3-U1flxhmvLYUt0yiTclKaIZc3Hz267Z4piWMbXw"
+      },
+      {
+        "title": "Hull City star Semi Ajayi's verdict after reaching Nigeria landmark at AFCON",
+        "url": "https://www.hulldailymail.co.uk/sport/football/football-news/hull-city-star-semi-ajayis-10742915",
+        "source": "Hull Live",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1QJM9iJSAnSJFenws0QX3YIEQhmZP2v3qR0vBCyuikKi5UtEhGFRTZQIIA6k"
+      },
+      {
+        "title": "'Bassey is there' - Ex-Super Eagles defender backs Fulham ace to stop Algeria dangerman Mahrez",
+        "url": "https://allnigeriasoccer.com/bassey-is-there-ex-super-eagles-defender-backs-fulham-ace-to-stop-algeria-dangerman-mahrez",
+        "source": "AllNigeriaSoccer",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQloBH5MsJGHRN_ZBbpCMZIAP3LJaIPeh9W-9aFyiONWDW5t6DAfSWAt-43rZo"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "spurs game",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T10:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7cIPA_gcsonX-4S5vBg54yHY2qD3aIyiUuwrrWebQDX3kHoM3EijZJk5Agbs",
+    "news": [
+      {
+        "title": "Game Preview: San Antonio Spurs vs. Boston Celtics",
+        "url": "https://www.poundingtherock.com/spurs-game-previews/92815/game-preview-san-antonio-spurs-vs-boston-celtics",
+        "source": "Pounding The Rock",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7cIPA_gcsonX-4S5vBg54yHY2qD3aIyiUuwrrWebQDX3kHoM3EijZJk5Agbs"
+      },
+      {
+        "title": "San Antonio Spurs vs Boston Celtics Prediction, Pick, Odds -- 1/10",
+        "url": "https://www.actionnetwork.com/nba/san-antonio-spurs-vs-boston-celtics-prediction-pick-odds-saturday-january-10",
+        "source": "Action Network",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxXADTq3Ppu74t9MZqJu2p3t3m76os-vlVQmMjs1biOTBOUdXFuhWioWetIeo"
+      },
+      {
+        "title": "How to watch Spurs vs. Celtics: TV channel and streaming options for January 10",
+        "url": "https://www.nytimes.com/athletic/6959859/2026/01/10/spurs-vs-celtics-stream-how-to-watch-jan-10/",
+        "source": "The New York Times",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfafH6hDkiJcIdxelBq36je7L91nBs4aN-rfBRloIdcmz9AHGbqVpR87Zu9r0"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "frank onyeka",
+    "traffic_num": 100,
+    "pub_date": "2026-01-10T10:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS83oA_O7dJfQpMDKwLlzMzE2v5cteLWsR4GtdfQukM3PRXIOxBcTmbsBllrDQ",
+    "news": [
+      {
+        "title": "AFCON 2025: 'That’s what has helped us' - Frank Onyeka on why Nigeria is winning matches",
+        "url": "https://dailypost.ng/2026/01/10/afcon-2025-thats-what-has-helped-us-frank-onyeka-on-why-nigeria-is-winning-matches/",
+        "source": "Daily Post Nigeria",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS83oA_O7dJfQpMDKwLlzMzE2v5cteLWsR4GtdfQukM3PRXIOxBcTmbsBllrDQ"
+      },
+      {
+        "title": "Super Eagles Midfielder Onyeka Shares Key to Nigerias Winning Run",
+        "url": "https://www.thenigerianvoice.com/sports/362047/super-eagles-midfielder-onyeka-shares-key-to-nigerias-winni.html",
+        "source": "The Nigerian Voice",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ8xHnCgUDcT-6arbdWsa9X5nChE0FCvId9GwY1QNnDK6hTjozNyZQ877lpr0"
+      },
+      {
+        "title": "AFCON: Nigeria defender Osayi-Samuel targets DR Congo revenge",
+        "url": "https://www.panafricafootball.com/post/afcon-nigeria-osayi-samuel-dr-congo/",
+        "source": "Pan Africa Football",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJSE5kO_76USKw73a97hnIHZ_w-WRUnYb3aB5vuXZE0h4m0tKuWg-dDhzXAFM"
+      }
+    ],
+    "regions": [
+      "England"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "irish cup",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T08:00:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-OGv2f2DwBzv5T1KqLAwngg7WhcZ_W8YVuJW2gYB6ROAuS8E3llZWVBYWIIM",
+    "news": [
+      {
+        "title": "Draw made for Irish Cup sixth round",
+        "url": "https://www.bbc.co.uk/sport/articles/ckgvek1w004o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-OGv2f2DwBzv5T1KqLAwngg7WhcZ_W8YVuJW2gYB6ROAuS8E3llZWVBYWIIM"
+      },
+      {
+        "title": "Irish Cup holders Dungannon face derby clash in Sixth Round while Amateur League outfit land dream draw",
+        "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/irish-cup-holders-dungannon-face-derby-clash-in-sixth-round-while-amateur-league-outfit-land-dream-draw/a334204800.html",
+        "source": "Belfast Telegraph",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlj5VMxrRHbS7gmaW19gmIH3mYmMrxoYhPznFNIOHYuXUzVM5yo0Aswn9TkyA"
+      },
+      {
+        "title": "Glentoran set for possible Drumaness Mills tie in Irish Cup Sixth Round",
+        "url": "https://www.glentoran.com/news/glentoran-set-for-possible-drumaness-mills-tie-in-irish-cup-sixth-round/",
+        "source": "Glentoran",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDCsCH9rfk2K0XgviXqUxnKPWiHh89O3oc1nxlfGhpqCRMMXzSodVp-JyNgR8"
       }
     ],
     "regions": [
@@ -660,36 +660,6 @@
     "country": "United Kingdom"
   },
   {
-    "title": "irish cup",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T08:00:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKdwp2fH3IyaATNby7yZrsehDkxwBWvsniuYnvvEU2C2Hb5jJHrTL5skqQFqg",
-    "news": [
-      {
-        "title": "Coleraine 4-0 Crusaders: Bannsiders breeze through in Irish Cup",
-        "url": "https://www.bbc.co.uk/sport/football/live/c62l2npr9l5t",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKdwp2fH3IyaATNby7yZrsehDkxwBWvsniuYnvvEU2C2Hb5jJHrTL5skqQFqg"
-      },
-      {
-        "title": "Irish Cup: Higgins praises 'professional' Coleraine display",
-        "url": "https://www.bbc.com/sport/articles/c86vjl04675o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdblxv-6st9l89sV2K3RQAIFTW_X8lokfN76gb_oQmQ4s1H_MDakBwmYUdTr8"
-      },
-      {
-        "title": "Coleraine first side into Irish Cup sixth round draw after putting 10-man Crusaders to second half sword",
-        "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/coleraine-first-side-into-irish-cup-sixth-round-draw-after-putting-10-man-crusaders-to-second-half-sword/a1758900388.html",
-        "source": "Belfast Telegraph",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiPc1A0UiKGbA55nKRwY__3qTFZTOdZxNxCMqcvxw6B_wssnqhfKOSy-1xuZE"
-      }
-    ],
-    "regions": [
-      "Northern Ireland"
-    ],
-    "country": "United Kingdom"
-  },
-  {
     "title": "linfield fc",
     "traffic_num": 100,
     "pub_date": "2026-01-10T08:00:00-08:00",
@@ -702,16 +672,16 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn_Tj1rpv_HocHDvqAaR48QKWirj4dqNOQS_bQxZKBGBW0TnppqlEj6CcvuEQ"
       },
       {
-        "title": "Watch: Dominant Linfield ease past Bangor at Windsor",
-        "url": "https://www.bbc.co.uk/sport/football/live/c8jwjkwrwezt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5yuN74Auo25Ca7FXmnV8e57WPzK4pVmeVGVYR1SRgTG2e5xj00zGqTvgH6kc"
+        "title": "Ballymena United boss Oran Kearney eyes move for Linfield duo",
+        "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/ballymena-united-boss-oran-kearney-eyes-move-for-linfield-duo/a1631946382.html",
+        "source": "Belfast Telegraph",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzEotZgvwcht1GMPXZUAx-fztwJTdcDSrplqWUW4AD8NOovLv_zFNZ0yfMeFo"
       },
       {
-        "title": "David Healy’s stark message to Linfield players: Go out and play as if your next game may be your last… it could well be",
-        "url": "https://www.belfasttelegraph.co.uk/sport/football/irish-league/david-healys-stark-message-to-linfield-players-go-out-and-play-as-if-your-next-game-may-be-your-last-it-could-well-be/a1190150418.html",
-        "source": "Belfast Telegraph",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV4KyAPvZDrMQ_C3meYOh1L0j9T_N5PSmOUwdy-bUpzg6EeM3KqwcvXUZYayM"
+        "title": "Great Scott! Jack’s a Port",
+        "url": "https://portadownfc.co.uk/2026/01/08/great-scott-jacks-a-port/",
+        "source": "Portadown Football Club",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FduwvbmB4M9LCnlr_L5PbB_XEkpPNpPARbPP3XTpFfbZB8BQEUxUlA9QRUE"
       }
     ],
     "regions": [
@@ -721,15 +691,15 @@
   },
   {
     "title": "newcastle vs bournemouth",
-    "traffic_num": 500,
+    "traffic_num": 1000,
     "pub_date": "2026-01-10T07:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWHr5qbGYntQjLNBgM8CXz4b2TNw3A0P7O5pyF9HeREz0BdAudE6JSXaIpSf4",
     "news": [
       {
-        "title": "Newcastle United vs AFC Bournemouth: FA Cup stats & head-to-head",
+        "title": "Newcastle 3-3 (7-6 pens) Bournemouth: Aaron Ramsdale saves three penalties in shootout win",
         "url": "https://www.bbc.co.uk/sport/football/live/cm2xejwpg17t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWHr5qbGYntQjLNBgM8CXz4b2TNw3A0P7O5pyF9HeREz0BdAudE6JSXaIpSf4"
       },
       {
         "title": "Latest. Confirmed line-up: Changes for Cherries",
@@ -738,10 +708,10 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3b7Y_ZfOdTqCe4Ne5Kg_sHmNDZIEJzSzk1ecw4_90KKpc6QB53GnsLO9dIeo"
       },
       {
-        "title": "Livestream FA Cup Soccer: Watch Newcastle vs. Bournemouth From Anywhere",
-        "url": "https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-newcastle-vs-bournemouth/",
-        "source": "CNET",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZx8cXzZei8epx1SpV2fixxwuWImclWH8NmEQ5pBcTqbwxaZ8RvfuknAvS8MU"
+        "title": "FA Cup third round: Scores and latest updates as City score 10 after Palace exit",
+        "url": "https://www.telegraph.co.uk/football/2026/01/10/fa-cup-third-round-live-scores-latest-updates-watch/",
+        "source": "The Telegraph",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTneKPiM8_d_Idm_ZkRW4i-bb75TtkD1PY9eOC_uibFjLNOhI3yRDUGmr_9jhI"
       }
     ],
     "regions": [
@@ -753,25 +723,25 @@
     "title": "celtic vs dundee united",
     "traffic_num": 1000,
     "pub_date": "2026-01-10T06:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS37aRCUnT6AocBKzHssnNTaOcgl-8EdVHreIFwT4WyGCWXbono2NV6T0cbuLM",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhu5LzXemZ1knEIITgHqLPbeEQ9F1CkaNSeUkODMaswFJiXl6Y4eN1qxqB82s",
     "news": [
       {
-        "title": "Scottish Premiership LIVE - radio, text, team news, build up, updates, reaction & stats",
-        "url": "https://www.bbc.co.uk/sport/football/live/cn8jxj54d1mt",
+        "title": "Celtic vs Dundee United LIVE: Scottish Premiership radio, text updates, team news, stats, match report, reaction",
+        "url": "https://www.bbc.co.uk/sport/football/live/c7v0ey8yd40t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS37aRCUnT6AocBKzHssnNTaOcgl-8EdVHreIFwT4WyGCWXbono2NV6T0cbuLM"
-      },
-      {
-        "title": "Live Commentary - Celtic vs Dundee Utd | 10.01.2026",
-        "url": "https://www.skysports.com/football/celtic-vs-dundee-united/live/531854",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdOHTBGvQASalc1oBdfxidArhBK63v1WO77cqtbqMSKxlCoLo76tfBwNeXLpw"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhu5LzXemZ1knEIITgHqLPbeEQ9F1CkaNSeUkODMaswFJiXl6Y4eN1qxqB82s"
       },
       {
         "title": "Julian Araujo ‘s first start in the Hoops today",
         "url": "https://www.celticfc.com/news/2026/january/10/julian-araujo--s-first-start-in-the-hoops-today/",
         "source": "Celtic FC",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAkSFLHYhJgOeQ4eZ9uHZaIcsRht8oGSsSEVg9PA5kf1vffwat5QfNhi354w"
+      },
+      {
+        "title": "Jim Goodwin recalls damning Martin O’Neill verdict as Dundee United boss aims to wreck Celtic legend’s return",
+        "url": "https://www.thecourier.co.uk/fp/sport/football/dundee-united/5406814/jim-goodwin-martin-oneill-celtic-dundee-united/",
+        "source": "The Courier",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQszQjP-zAG_gSQTWt0VnE3ElZBYg57apd3s0h66_FhkU6w69CqMHMaD8fe42M"
       }
     ],
     "regions": [
@@ -792,16 +762,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXrgsxJAAC-WI2OSTsroh9hBUiGesm_1iIL-VnKM1LBsDZdXs9vFRqp8d1lhs"
       },
       {
-        "title": "Manchester City 10-1 Exeter, Newcastle v Bournemouth, and more: FA Cup third round – live",
-        "url": "https://www.theguardian.com/football/live/2026/jan/10/manchester-city-v-exeter-sheffield-wednesday-v-brentford-and-more-fa-cup-third-round-live",
+        "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
+        "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPDyDMyUc5VP8hhHOSGPOE9Wg3vYGvAXKYAZEPtkyp0k1xYgPmeMvN2l4wCoE"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k"
       },
       {
-        "title": "Man City score 10 as Antoine Semenyo marks debut with goal in Exeter rout",
-        "url": "https://www.independent.co.uk/sport/football/antoine-semenyo-exeter-burton-rodri-league-one-b2898104.html",
-        "source": "The Independent",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFUVpxrs-FBiRlVHjXZB2bXfwbGkbzh1iI6pxZN2RxEcLxxWZa1olehR16Ow"
+        "title": "Pep underlines FA Cup importance to City",
+        "url": "https://www.mancity.com/news/mens/city-v-exeter-city-pep-guardiola-embargoed-preview-63903565",
+        "source": "Manchester City FC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHjZvwVaC5bHL935w53H_uv_7Xs5ZburkCpjIc2DCYPycZlUIDsidP3JCTzLE"
       }
     ],
     "regions": [
@@ -813,13 +783,13 @@
     "title": "moderate wind warning",
     "traffic_num": 100,
     "pub_date": "2026-01-10T06:30:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbm7kM-qT7sFBNdjCEEO7vQ-0QVkNAnJuHkHPF7AcJ-W0ITaZlJcB59lWgzgY",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTHk3BC3xHYk6GVQbOkTSXSCEVaJxO5wFLthEx7tFceFc4jqWBfHdSHNLwJCs",
     "news": [
       {
-        "title": "Major damage across Cornwall and Devon due to Storm Goretti",
-        "url": "https://www.bbc.co.uk/news/articles/cjrzyp09x19o",
+        "title": "Storm Goretti live: Fresh snow and ice warnings as Storm Goretti leaves tens of thousands without power",
+        "url": "https://www.bbc.co.uk/news/live/c70le643x50t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbm7kM-qT7sFBNdjCEEO7vQ-0QVkNAnJuHkHPF7AcJ-W0ITaZlJcB59lWgzgY"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTHk3BC3xHYk6GVQbOkTSXSCEVaJxO5wFLthEx7tFceFc4jqWBfHdSHNLwJCs"
       },
       {
         "title": "Storm Goretti batters UK with heavy winds and snow",
@@ -828,10 +798,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdMgq6IKrU80sstQOGQFo0-UB2ES3_K8zZZFazlCyDmrJLgBwHZBWOuVOEpI"
       },
       {
-        "title": "More warnings for snow and ice - as tens of thousands without power",
-        "url": "https://news.sky.com/story/more-warnings-for-snow-and-ice-over-the-weekend-13492579",
-        "source": "Sky News",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouy3KdT32WzbOI3_P8scvYRTyP0lGmEjuZ7jc49C8vl1A_JFYJufdG4yKOM4"
+        "title": "Further snow and ice forecast following Storm Goretti",
+        "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/further-snow-and-ice-forecast-following-storm-goretti",
+        "source": "Met Office",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3s3DfvvJPNJRfuLFkNp4v8ALR_axjWL5nVrU82ikdkzpGUFZmKTvfjbzmzw"
       }
     ],
     "regions": [
@@ -858,10 +828,40 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFnGS7qSdOmwHX8ZcgwYEmuhChDF9D9P5ZmTf4p8Auvr03OTtEa6-cWslbrk"
       },
       {
-        "title": "FA Cup highlights: Wolverhampton Wanderers 6-1 Shrewsbury",
-        "url": "https://www.bbc.com/sport/football/videos/ce3evnq1z9no",
+        "title": "Wolves 6-1 Shrewsbury Town: What Rob Edwards said",
+        "url": "https://www.bbc.com/sport/football/articles/c4gr8k6n7ddo",
         "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF9GNnQFZ7EG5RaU3UUESuKEV6bicPAWz4XMMa1Q990h0vzmTqfbYofXo0IkI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYC3WWDNNpg4blGlzccKr2sUBDaP03-8kAiZLPqR_rsuRy5wm8HpSsHumiD_k"
+      }
+    ],
+    "regions": [
+      "Northern Ireland"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "macclesfield fc",
+    "traffic_num": 2000,
+    "pub_date": "2026-01-10T04:50:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv4xbmhWQOZhSlsgrbZph-tSbYERplidIiO7UV6r9kGHDhpnqdqJKVJu7lUoc",
+    "news": [
+      {
+        "title": "'He is here with us' - Macclesfield make FA Cup history on emotional day",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy8yqj8jd6yo",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv4xbmhWQOZhSlsgrbZph-tSbYERplidIiO7UV6r9kGHDhpnqdqJKVJu7lUoc"
+      },
+      {
+        "title": "Macclesfield beat Crystal Palace in FA Cup: Oliver Glasner fumes after shock third-round exit",
+        "url": "https://www.skysports.com/football/news/11706/13492855/macclesfield-beat-crystal-palace-in-fa-cup-oliver-glasner-fumes-after-shock-third-round-exit",
+        "source": "Sky Sports",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqo_DwPea-j-WYcH83xiX3-pjM0ceLPz3oa8TkgG37LneRhFeM1sP-CNQWetM"
+      },
+      {
+        "title": "Wayne Rooney is left in tears and fans flood the pitch as Macclesfield FC pull off historic giant-killing to knock FA Cup holders out - before paying tribute to young star who died in a tragic car accident just weeks ago",
+        "url": "https://www.dailymail.co.uk/sport/football/article-15451729/Macclesfield-biggest-shock-FA-Cup-history-non-league-holders-Crystal-Palace.html",
+        "source": "Daily Mail",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTmU1rySAiWBBzNM0au2k2RUtYCpDeBaEfm1-_X99_RfznKvo795v5irvKTbM"
       }
     ],
     "regions": [
@@ -873,19 +873,19 @@
     "title": "everton vs sunderland",
     "traffic_num": 1000,
     "pub_date": "2026-01-10T04:10:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4DiVA7EZbRZQEt5T_BGWsdk4khg36bSFf_2J97Onl0J-YzZuYpXIdw1UOZEM",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_rWMf6ury45GEyNdbsUiAdq0wXrMjBUQgQvlBhKDxDoXROSLSHPxefCB1E4",
     "news": [
       {
-        "title": "Everton 1-1 Sunderland (0-3 on penalties): Robin Roefs saves three in shootout for Black Cats",
-        "url": "https://www.bbc.co.uk/sport/football/live/c5y2gz98zl3t",
+        "title": "FA Cup: Sunderland v Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cy4g8y2engpo",
         "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4DiVA7EZbRZQEt5T_BGWsdk4khg36bSFf_2J97Onl0J-YzZuYpXIdw1UOZEM"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_rWMf6ury45GEyNdbsUiAdq0wXrMjBUQgQvlBhKDxDoXROSLSHPxefCB1E4"
       },
       {
-        "title": "Everton 1-1 Sunderland AET (0-3 on pens): Robin Roefs saves every penalty in shootout to steer Black Cats through",
-        "url": "https://www.skysports.com/football/everton-vs-sunderland/report/550860",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuanCtt8-AXZZTIdWEvKXFO5jAwtGVB3QKvUjk5bwsxajzzbUUU3k55xDTduQ"
+        "title": "FA Cup roundup: Sunderland beat Everton on penalties as Strand Larsen hits treble for Wolves",
+        "url": "https://www.theguardian.com/football/2026/jan/10/fa-cup-sunderland-everton-penalties-wolves-newcastle-bournemouth",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShZ5nxABYK455h9hzCMPAmaFNN1khcy5nhOKTkMTbqmur85K0_ccPGzy-llHM"
       },
       {
         "title": "Where To Go For Live Show, Coverage & Highlights Of Everton v Sunderland",
@@ -900,28 +900,88 @@
     "country": "United Kingdom"
   },
   {
-    "title": "tottenham vs aston villa",
+    "title": "love island",
     "traffic_num": 200,
-    "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY",
+    "pub_date": "2026-01-10T09:50:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoj6GJQLsZZ3PdgZGVsOpZSLLgk_wdNQg7waQUJINDxGyBGFwqXwZroTEWQjo",
     "news": [
+      {
+        "title": "Love Island: All Stars season 3 delayed indefinitely after production team is evacuated from villa",
+        "url": "https://www.digitalspy.com/tv/reality-tv/a69963994/love-island-all-stars-season-3-delay-production-evacuated/",
+        "source": "Digital Spy",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoj6GJQLsZZ3PdgZGVsOpZSLLgk_wdNQg7waQUJINDxGyBGFwqXwZroTEWQjo"
+      },
+      {
+        "title": "Love Island villa evacuated and filming postponed due to wildfires",
+        "url": "https://www.standard.co.uk/showbiz/celebrity-news/itv-love-island-instagram-ronan-keating-south-africa-b1265904.html",
+        "source": "London Evening Standard",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzxc3GzGU4fQ0lYzzvlBKDRauFmc4kzk3diQjh1zbgZhbFnbGSCFlWOX6_wAI"
+      },
+      {
+        "title": "BREAKING Love Island All Stars won't air on Monday as producers issue bombshell statement",
+        "url": "https://www.dailystar.co.uk/showbiz/breaking-love-island-stars-wont-36531069",
+        "source": "Daily Star",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-K3pTzAF1f5fzhZ-0G8fpuUSl-GZvFQANueBJAqVGF0Ae-Ij8eXGk9HRhei0"
+      }
+    ],
+    "regions": [
+      "Scotland"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "palestine action",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T09:30:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQA3p99siWiz8UabVhMAVM6UG8I3xKe6IV3r2yA0CWIYN_egBCk0Biezitp_Q",
+    "news": [
+      {
+        "title": "Palestine Action activist on hunger strike for nearly 70 days 'deteriorating'",
+        "url": "https://news.sky.com/story/palestine-action-activist-on-hunger-strike-for-nearly-70-days-deteriorating-13492488",
+        "source": "Sky News",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQA3p99siWiz8UabVhMAVM6UG8I3xKe6IV3r2yA0CWIYN_egBCk0Biezitp_Q"
+      },
+      {
+        "title": "Palestinian Action hunger striker ‘deteriorating’ after losing 10kg in 69 day starvation protest",
+        "url": "https://www.independent.co.uk/news/uk/home-news/palestine-action-hunger-strikes-heba-muraisi-b2898008.html",
+        "source": "The Independent",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrkWzQpLJkCjaF3VWvBBF_zVpEFKNEPiDt7gPAzdSyi2ODy0kXtjNzbDDVFwQ"
+      },
+      {
+        "title": "Palestine Action hunger strikers near death ‘intent’ on continuing protests",
+        "url": "https://www.aljazeera.com/news/2026/1/8/palestine-action-hunger-strikers-near-death-intent-on-continuing-protests",
+        "source": "Al Jazeera",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUYEIRFXR-e_C5hlrWSPN9w_nn9D5ojnmtHEBCEWVgYGnBtqNHpfT8NmTBN0"
+      }
+    ],
+    "regions": [
+      "Scotland"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "title": "tottenham vs aston villa",
+    "traffic_num": 2000,
+    "pub_date": "2026-01-10T09:00:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbxgm-6_CCrzRvc6J44AwyD9y_v-4_QpxbEqlAXfo5FNiSAE8pwwn_5PbENAE",
+    "news": [
+      {
+        "title": "FA Cup LIVE: Build-up, team-news, live text and score updates from the third round of the FA Cup",
+        "url": "https://www.bbc.co.uk/sport/football/live/cvg8m2rmldjt",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbxgm-6_CCrzRvc6J44AwyD9y_v-4_QpxbEqlAXfo5FNiSAE8pwwn_5PbENAE"
+      },
+      {
+        "title": "Tottenham v Aston Villa: FA Cup third round – live",
+        "url": "https://www.theguardian.com/football/live/2026/jan/10/tottenham-v-aston-villa-fa-cup-third-round-live",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbkYZ9nmYz4L1qC8qoQ0IUc6y6Tb6aA-FLz6piGGDGSFOjgSmAUrCv9JBDKa8"
+      },
       {
         "title": "Confirmed line-ups: Spurs vs Aston Villa",
         "url": "https://www.tottenhamhotspur.com/news/2026/january/confirmed-line-ups-spurs-vs-aston-villa-fa-cup-tottenham-hotspur/",
         "source": "Tottenham Hotspur",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY"
-      },
-      {
-        "title": "Why Frank may need more than FA Cup magic to save his Tottenham job",
-        "url": "https://www.standard.co.uk/sport/football/tottenham-frank-sack-fa-cup-b1265741.html",
-        "source": "London Evening Standard",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCTPWlgj5LsJUKCFRdhyOBgAC0MTTWUcxEBpqrp-Sw9W0_o-EG-svv_4OBSPQ"
-      },
-      {
-        "title": "Team news for Spurs FA Cup tie",
-        "url": "https://www.avfc.co.uk/news/2026/january/09/prematch-team-news-for-spurs-tie/",
-        "source": "Aston Villa Football Club",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGIEP-sXDm0Yijn0TgAFtY8jYPOt-wJoe1AOpt7BIWy5suC9AtvxZ-trTmaw8"
       }
     ],
     "regions": [
@@ -961,27 +1021,27 @@
   },
   {
     "title": "lorraine kelly",
-    "traffic_num": 200,
+    "traffic_num": 500,
     "pub_date": "2026-01-10T08:30:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlIZ6aL8leGbuRJBBQSKADRRIYOcXXjqQR1Asl4vPHWZhCSJaS-Td5EYPkmwM",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPPCwKxi-FEncRVcGzDzlwwiVQGpE-ZUOjJctaBz51bI1kpCuuBZdyJWqmhkQ",
     "news": [
       {
-        "title": "Lorraine Kelly announces ‘shock’ death of her father aged 84",
+        "title": "Lorraine Kelly's heartache as she announces dad's ‘shock’ death aged 84 and shares emotional memories of him",
         "url": "https://www.thesun.co.uk/tvandshowbiz/37871837/lorraine-kelly-dad-death-shock/",
         "source": "The Sun",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlIZ6aL8leGbuRJBBQSKADRRIYOcXXjqQR1Asl4vPHWZhCSJaS-Td5EYPkmwM"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPPCwKxi-FEncRVcGzDzlwwiVQGpE-ZUOjJctaBz51bI1kpCuuBZdyJWqmhkQ"
+      },
+      {
+        "title": "Lorraine Kelly announces dad's death with touching tribute",
+        "url": "https://www.liverpoolecho.co.uk/news/showbiz-news/lorraine-kelly-announces-dads-death-33207164",
+        "source": "Liverpool Echo",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWUJv5ixdlY8dcpD783b8mFWJmcHOUNOk0GpMK679rnVKf2rn4uN_4rVs0d1s"
       },
       {
         "title": "Lorraine Kelly left heartbroken as she announces death of dad after 'poor health'",
         "url": "https://www.dailyrecord.co.uk/news/scottish-news/lorraine-kelly-left-heartbroken-announces-36530992",
         "source": "Daily Record",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDOTLfHsfgpVRS1_w5kq3ZckUan3U5Wf3IZGkzjNH_rTVISMKr2SjOOeZmNKg"
-      },
-      {
-        "title": "Lorraine Kelly heartbroken after dad’s tragic death",
-        "url": "https://www.thescottishsun.co.uk/tv/15784835/lorraine-kelly-heartbroken-dad-death/",
-        "source": "The Scottish Sun",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeKC70FG2mywAV1SlFC2bZmHXkqFsLh1ODY2oTHID3xKLJXW76oV99x_gGVCs"
       }
     ],
     "regions": [
@@ -993,25 +1053,25 @@
     "title": "rangers f.c",
     "traffic_num": 200,
     "pub_date": "2026-01-10T08:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAjliJqxe87si2PTvO7Vozt5tpfJcO1XbA8RTvXGMa6Psru84UHmM0reXmj30",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeRLijfYs6_WkW-SR6NtQMLVCPM3dZFvVCI1FaO976ny2W30506c7qZwYcfwc",
     "news": [
       {
-        "title": "Rangers approach Sunderland over loan move for midfielder and winger",
-        "url": "https://news.stv.tv/sport/rangers-approach-sunderland-over-loan-deals-for-midfielder-dan-neil-and-winger-romaine-mundle",
-        "source": "STV News",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAjliJqxe87si2PTvO7Vozt5tpfJcO1XbA8RTvXGMa6Psru84UHmM0reXmj30"
+        "title": "Celtic linked with Hibs' Kieron Bowie & Miguel Chaiwa - Scottish gossip",
+        "url": "https://www.bbc.co.uk/sport/articles/cgk8gg826z2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeRLijfYs6_WkW-SR6NtQMLVCPM3dZFvVCI1FaO976ny2W30506c7qZwYcfwc"
       },
       {
-        "title": "Rangers approach Premier League club for double transfer raid as Danny Rohl targets title charge",
-        "url": "https://talksport.com/football/3891294/rangers-sunderland-dan-neil-romaine-mundle-danny-rohl-transfers/",
-        "source": "talkSPORT",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSym6eIHpv4AyBSe-VDwUZfHVS-CNN2rZnef54dIwuvSaS3-1eF_6smgmr2taM"
+        "title": "Rangers seek updates on Kieron Bowie Hibs transfer interest",
+        "url": "https://www.heraldscotland.com/sport/football/25754102.rangers-seek-updates-kieron-bowie-hibs-transfer-interest/",
+        "source": "The Herald",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvsomSp-tnUo_bqBHS6HZLGx9qa6sUPWkFNH80skJjyguRZNzHz7jWbyuC6J0"
       },
       {
-        "title": "Sunderland Name Rangers Target In Starting Lineup",
-        "url": "https://insidefutbol.com/2026/01/10/sunderland-name-rangers-target-in-starting-lineup/702954/",
-        "source": "Inside Futbol",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYqxO2DjEm_8t3YNi8amdRTijs1w_ozCzuHnr325lxGxVqsisgyABPS2hU018"
+        "title": "Hibs boss on Kieron Bowie transfer interest as Rangers keep tabs on striker",
+        "url": "https://www.hibsobserver.co.uk/interviews/25754718.hibs-boss-kieron-bowie-interest-amid-rangers-link/",
+        "source": "Hibs Observer",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf9o6tOYspTsrT6FGCbirG7jB5mKn9TVfv0C7psdWPXpGC8xOGQyNbfDPw438"
       }
     ],
     "regions": [
@@ -1021,15 +1081,15 @@
   },
   {
     "title": "sky tv outages",
-    "traffic_num": 1000,
+    "traffic_num": 2000,
     "pub_date": "2026-01-10T08:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gyJAUm2tisAGbdI-DjxmLlOC9VIFc-7z36MrZPo5ev1bjGceTJx1U2Mzkl4",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpANnMnZLlsfFqWIaQAYmNwy6cfm_Q16ny7UjTOWthDs1QTAxV_CWcEzMilEU",
     "news": [
       {
         "title": "Sky TV down as thousands of viewers report outages across the UK",
         "url": "https://www.independent.co.uk/news/uk/home-news/sky-tv-outage-down-latest-b2898012.html",
         "source": "The Independent",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gyJAUm2tisAGbdI-DjxmLlOC9VIFc-7z36MrZPo5ev1bjGceTJx1U2Mzkl4"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpANnMnZLlsfFqWIaQAYmNwy6cfm_Q16ny7UjTOWthDs1QTAxV_CWcEzMilEU"
       },
       {
         "title": "Sky TV down for thousands of homes as outages reported across UK",
@@ -1038,10 +1098,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKp_CmuwyvX6RNoTowMpuN-h3gQZiX6wSSdNXKfpqVCYIaOhqpTr2R9sKEumI"
       },
       {
-        "title": "Is Sky TV down? Thousands reporting outages with television service",
-        "url": "https://www.thecomet.net/news/national/uk-today/25755073.sky-tv-thousands-reporting-television-outages/",
-        "source": "The Comet",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRULo85tdn6DGhn0fSnRpFsUaR_T2ENehCr3kJQftLsrmXHbqG0ZpMOZOm2Rc"
+        "title": "Is Sky TV down? Downdetector maps show outages across UK",
+        "url": "https://www.geo.tv/latest/644341-is-sky-tv-down-downdetector-maps-show-outages-across-uk",
+        "source": "Geo News",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzFrvtJn2eY2VZNze6FeeXQQGx9gGbnrmWAWbQLMDfOaz7myq7jdEtf2cbZIM"
       }
     ],
     "regions": [
@@ -1053,25 +1113,25 @@
     "title": "fulham vs middlesbrough",
     "traffic_num": 200,
     "pub_date": "2026-01-10T08:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeglI3i8L5SJLP2oN2NYBIgGpqk57wnzbOzLk1f3LgHr45NOpbCSnXhpXdBB8",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqg9KLHJCZF67Zb6UIyKFE5YoGVgmFOYeQ8wTBP0ZLsOdPhFJ0befPr9O3JiA",
     "news": [
       {
-        "title": "Fulham v Middlesbrough predictions: Chris Sutton on FA Cup game",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1dk4xvzy52o",
+        "title": "Fulham 3-1 Middlesbrough: Fulham hit back to see off Middlesbrough in FA Cup",
+        "url": "https://www.bbc.co.uk/sport/football/live/c0417yg2k39t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeglI3i8L5SJLP2oN2NYBIgGpqk57wnzbOzLk1f3LgHr45NOpbCSnXhpXdBB8"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqg9KLHJCZF67Zb6UIyKFE5YoGVgmFOYeQ8wTBP0ZLsOdPhFJ0befPr9O3JiA"
+      },
+      {
+        "title": "Fulham 3-1 Middlesbrough: Harry Wilson shines to save Marco Silva's blushes in FA Cup win",
+        "url": "https://www.bbc.com/sport/football/articles/cdxjg45zyzgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx6vvmvH1AH8XWH2anvVrP2cOto56DHHqe7NaGSfnuf3QuqwwbLNv8nUPxns"
       },
       {
         "title": "Pre-Boro Press Conference",
         "url": "https://www.fulhamfc.com/news/2026/january/09/pre-boro-press-conference/",
         "source": "Fulham FC",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHgtHaNOJfB0CexFAyxeCMhHN4W6XqjHWACCcY-ShWYs9WI3lZwrXeKHgoQ9Y"
-      },
-      {
-        "title": "Middlesbrough paid the ultimate compliment as Fulham come from behind to win FA Cup tie",
-        "url": "https://www.gazettelive.co.uk/sport/football/match-reports/middlesbrough-paid-ultimate-compliment-fulham-33206453",
-        "source": "Teesside Live",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6t6SrpPT_W2fyEvUwAwq5nFubpOU4eWhnmpijj5Ehh1vfYQ3SbjkyIEHJxYM"
       }
     ],
     "regions": [
@@ -1081,15 +1141,15 @@
   },
   {
     "title": "clermont auvergne vs glasgow warriors",
-    "traffic_num": 200,
+    "traffic_num": 500,
     "pub_date": "2026-01-10T07:50:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAwGQKHaIXNv6k8cBTfY7pRfER8HdtyWv4v5UsC9S-maa3N68G8nF5KjzNwFc",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uQK9LGOURf7Gq9Yk5qF3D-taFoLix_4ftfzdeAOoaay6lLCd0-0ZxlJ7wkw",
     "news": [
       {
-        "title": "Champions Cup: Glasgow lead but down to 13 against Clermont",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/live/cx2pq8wjl18t",
+        "title": "Champions Cup: Glasgow book last-16 spot with bonus-point win over Clermont",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y250717v8o",
         "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAwGQKHaIXNv6k8cBTfY7pRfER8HdtyWv4v5UsC9S-maa3N68G8nF5KjzNwFc"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0uQK9LGOURf7Gq9Yk5qF3D-taFoLix_4ftfzdeAOoaay6lLCd0-0ZxlJ7wkw"
       },
       {
         "title": "Champions Cup: Franco Smith hails Huw Jones return as Glasgow Warriors battle on two fronts",
@@ -1110,88 +1170,28 @@
     "country": "United Kingdom"
   },
   {
-    "title": "celtic score",
-    "traffic_num": 5000,
-    "pub_date": "2026-01-10T07:30:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS37aRCUnT6AocBKzHssnNTaOcgl-8EdVHreIFwT4WyGCWXbono2NV6T0cbuLM",
-    "news": [
-      {
-        "title": "Scottish Premiership LIVE - radio, text, team news, build up, updates, reaction & stats",
-        "url": "https://www.bbc.co.uk/sport/football/live/cn8jxj54d1mt",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS37aRCUnT6AocBKzHssnNTaOcgl-8EdVHreIFwT4WyGCWXbono2NV6T0cbuLM"
-      },
-      {
-        "title": "Live Commentary - Celtic vs Dundee Utd | 10.01.2026",
-        "url": "https://www.skysports.com/football/celtic-vs-dundee-united/live/531854",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdOHTBGvQASalc1oBdfxidArhBK63v1WO77cqtbqMSKxlCoLo76tfBwNeXLpw"
-      },
-      {
-        "title": "Julian Araujo ‘s first start in the Hoops today",
-        "url": "https://www.celticfc.com/news/2026/january/10/julian-araujo--s-first-start-in-the-hoops-today/",
-        "source": "Celtic FC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAkSFLHYhJgOeQ4eZ9uHZaIcsRht8oGSsSEVg9PA5kf1vffwat5QfNhi354w"
-      }
-    ],
-    "regions": [
-      "Scotland"
-    ],
-    "country": "United Kingdom"
-  },
-  {
     "title": "algeria vs nigeria",
-    "traffic_num": 1000,
+    "traffic_num": 2000,
     "pub_date": "2026-01-10T07:30:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOEENGMtMlEDKdgH3pOXQu_U3rpu1WC3Js1WURWNIBUaMe2-CHEufVtMmKOM",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlvdyUJpkQR4PLaHTqBvuIty2jZ9O6AY6t7IeSRt14X9ZBVuLr1BKP5cZ2M-M",
     "news": [
       {
         "title": "Algeria v Nigeria: Africa Cup of Nations 2025 quarter-final – live",
         "url": "https://www.theguardian.com/football/live/2026/jan/10/algeria-v-nigeria-africa-cup-of-nations-2025-quarter-final-live",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOEENGMtMlEDKdgH3pOXQu_U3rpu1WC3Js1WURWNIBUaMe2-CHEufVtMmKOM"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlvdyUJpkQR4PLaHTqBvuIty2jZ9O6AY6t7IeSRt14X9ZBVuLr1BKP5cZ2M-M"
       },
       {
-        "title": "Nigeria have an AFCON quarterfinal rep to protect despite off field antics",
-        "url": "https://www.espn.co.uk/espn/story/_/id/47558358/nigeria-vs-algeria-super-eagles-afcon-quarterfinal-rep-protect-field-antics",
-        "source": "ESPN",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-jF4CmA2AkGeNbo2m1GtDQMY5yWx0byiK4vuU6hL6Hms5RrQgEYQGRmesNs"
+        "title": "LIVE: AFCON 2025 - Rolling updates of today’s action - Algeria 0-2 Nigeria and Egypt v Cote d'Ivoire",
+        "url": "https://www.cafonline.com/afcon2025/news/live-afcon-2025-rolling-updates-of-today-s-action-algeria-0-2-nigeria-and-egypt-v-cote-divoire/",
+        "source": "Confédération Africaine de Football",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShQZJ2nP2vK63__AOwJogsho5Ykdr7XXbKk1ed8D5vKItt5koELf1K-N8bZEE"
       },
       {
-        "title": "LIVE: Nigeria vs Algeria – AFCON 2025 quarterfinal",
+        "title": "Osimhen shines as Nigeria beat Algeria to reach AFCON semifinals – updates",
         "url": "https://www.aljazeera.com/sports/liveblog/2026/1/10/live-algeria-vs-nigeria-afcon-2025-quarterfinal",
         "source": "Al Jazeera",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLyxqLBj250pCUVSaBEO89HzhPoCM1pSQjbP1FivGfNYQkln1WM5VagVsFeII"
-      }
-    ],
-    "regions": [
-      "Scotland"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "title": "celtic score today live",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T07:30:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfpv3WnSip_CLBurDUgqCCVloaqxk1RxVjEj1X8jR0rkr5ynsrj5e2I3MNNVI",
-    "news": [
-      {
-        "title": "Celtic: Kyogo Furuhashi 'probably unlikely' to return from Birmingham City",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8x94rwlen5o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfpv3WnSip_CLBurDUgqCCVloaqxk1RxVjEj1X8jR0rkr5ynsrj5e2I3MNNVI"
-      },
-      {
-        "title": "Kyogo Furuhashi: Celtic 'unlikely' to re-sign striker in January transfer window, says Martin O'Neill",
-        "url": "https://www.skysports.com/football/news/11787/13492486/kyogo-furuhashi-celtic-unlikely-to-re-sign-striker-in-january-transfer-window-says-martin-oneill",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc9T070SDgkbUVtqALH-ZUhxooFf7jqLCCa4FK9B1joPCZvLqAwIUjMp2r6b8"
-      },
-      {
-        "title": "Celtic hero Kyogo to make stunning return as O'Neill looks to bolster attack",
-        "url": "https://www.thescottishsun.co.uk/sport/15775222/celtic-transfer-target-kyogo-furuhashi-birmingham-city/",
-        "source": "The Scottish Sun",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY-xsLyO-eBiocGNKzcFekQEsppL4WNBXiOlEvEoB1RS3ro9dNfjr3oTLAMLU"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT72RMO-8fOCr5-0CkJcK1s-ziAe14gbCRwDU3ZoF4L1ukpYq2xw8ssNoRcPfw"
       }
     ],
     "regions": [
@@ -1201,27 +1201,27 @@
   },
   {
     "title": "algeria vs nigeria",
-    "traffic_num": 500,
+    "traffic_num": 200,
     "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOEENGMtMlEDKdgH3pOXQu_U3rpu1WC3Js1WURWNIBUaMe2-CHEufVtMmKOM",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlvdyUJpkQR4PLaHTqBvuIty2jZ9O6AY6t7IeSRt14X9ZBVuLr1BKP5cZ2M-M",
     "news": [
       {
         "title": "Algeria v Nigeria: Africa Cup of Nations 2025 quarter-final – live",
         "url": "https://www.theguardian.com/football/live/2026/jan/10/algeria-v-nigeria-africa-cup-of-nations-2025-quarter-final-live",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOEENGMtMlEDKdgH3pOXQu_U3rpu1WC3Js1WURWNIBUaMe2-CHEufVtMmKOM"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlvdyUJpkQR4PLaHTqBvuIty2jZ9O6AY6t7IeSRt14X9ZBVuLr1BKP5cZ2M-M"
       },
       {
-        "title": "Nigeria have an AFCON quarterfinal rep to protect despite off field antics",
-        "url": "https://www.espn.co.uk/espn/story/_/id/47558358/nigeria-vs-algeria-super-eagles-afcon-quarterfinal-rep-protect-field-antics",
-        "source": "ESPN",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-jF4CmA2AkGeNbo2m1GtDQMY5yWx0byiK4vuU6hL6Hms5RrQgEYQGRmesNs"
+        "title": "LIVE: AFCON 2025 - Rolling updates of today’s action - Algeria 0-2 Nigeria and Egypt v Cote d'Ivoire",
+        "url": "https://www.cafonline.com/afcon2025/news/live-afcon-2025-rolling-updates-of-today-s-action-algeria-0-2-nigeria-and-egypt-v-cote-divoire/",
+        "source": "Confédération Africaine de Football",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShQZJ2nP2vK63__AOwJogsho5Ykdr7XXbKk1ed8D5vKItt5koELf1K-N8bZEE"
       },
       {
-        "title": "LIVE: Nigeria vs Algeria – AFCON 2025 quarterfinal",
+        "title": "Osimhen shines as Nigeria beat Algeria to reach AFCON semifinals – updates",
         "url": "https://www.aljazeera.com/sports/liveblog/2026/1/10/live-algeria-vs-nigeria-afcon-2025-quarterfinal",
         "source": "Al Jazeera",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLyxqLBj250pCUVSaBEO89HzhPoCM1pSQjbP1FivGfNYQkln1WM5VagVsFeII"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT72RMO-8fOCr5-0CkJcK1s-ziAe14gbCRwDU3ZoF4L1ukpYq2xw8ssNoRcPfw"
       }
     ],
     "regions": [
@@ -1231,27 +1231,27 @@
   },
   {
     "title": "tottenham vs aston villa",
-    "traffic_num": 500,
+    "traffic_num": 2000,
     "pub_date": "2026-01-10T09:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbxgm-6_CCrzRvc6J44AwyD9y_v-4_QpxbEqlAXfo5FNiSAE8pwwn_5PbENAE",
     "news": [
+      {
+        "title": "FA Cup LIVE: Build-up, team-news, live text and score updates from the third round of the FA Cup",
+        "url": "https://www.bbc.co.uk/sport/football/live/cvg8m2rmldjt",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbxgm-6_CCrzRvc6J44AwyD9y_v-4_QpxbEqlAXfo5FNiSAE8pwwn_5PbENAE"
+      },
+      {
+        "title": "Tottenham v Aston Villa: FA Cup third round – live",
+        "url": "https://www.theguardian.com/football/live/2026/jan/10/tottenham-v-aston-villa-fa-cup-third-round-live",
+        "source": "The Guardian",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbkYZ9nmYz4L1qC8qoQ0IUc6y6Tb6aA-FLz6piGGDGSFOjgSmAUrCv9JBDKa8"
+      },
       {
         "title": "Confirmed line-ups: Spurs vs Aston Villa",
         "url": "https://www.tottenhamhotspur.com/news/2026/january/confirmed-line-ups-spurs-vs-aston-villa-fa-cup-tottenham-hotspur/",
         "source": "Tottenham Hotspur",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMDkfyLwZn_mvSpbCb0KWpR1TqOgNqSrKdFX9bXQGWYXqBJWpJOZW5SV4H9qY"
-      },
-      {
-        "title": "Why Frank may need more than FA Cup magic to save his Tottenham job",
-        "url": "https://www.standard.co.uk/sport/football/tottenham-frank-sack-fa-cup-b1265741.html",
-        "source": "London Evening Standard",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCTPWlgj5LsJUKCFRdhyOBgAC0MTTWUcxEBpqrp-Sw9W0_o-EG-svv_4OBSPQ"
-      },
-      {
-        "title": "Team news for Spurs FA Cup tie",
-        "url": "https://www.avfc.co.uk/news/2026/january/09/prematch-team-news-for-spurs-tie/",
-        "source": "Aston Villa Football Club",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGIEP-sXDm0Yijn0TgAFtY8jYPOt-wJoe1AOpt7BIWy5suC9AtvxZ-trTmaw8"
       }
     ],
     "regions": [
@@ -1261,15 +1261,15 @@
   },
   {
     "title": "sky tv outages",
-    "traffic_num": 500,
+    "traffic_num": 1000,
     "pub_date": "2026-01-10T08:50:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gyJAUm2tisAGbdI-DjxmLlOC9VIFc-7z36MrZPo5ev1bjGceTJx1U2Mzkl4",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpANnMnZLlsfFqWIaQAYmNwy6cfm_Q16ny7UjTOWthDs1QTAxV_CWcEzMilEU",
     "news": [
       {
         "title": "Sky TV down as thousands of viewers report outages across the UK",
         "url": "https://www.independent.co.uk/news/uk/home-news/sky-tv-outage-down-latest-b2898012.html",
         "source": "The Independent",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8gyJAUm2tisAGbdI-DjxmLlOC9VIFc-7z36MrZPo5ev1bjGceTJx1U2Mzkl4"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpANnMnZLlsfFqWIaQAYmNwy6cfm_Q16ny7UjTOWthDs1QTAxV_CWcEzMilEU"
       },
       {
         "title": "Sky TV down for thousands of homes as outages reported across UK",
@@ -1278,10 +1278,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKp_CmuwyvX6RNoTowMpuN-h3gQZiX6wSSdNXKfpqVCYIaOhqpTr2R9sKEumI"
       },
       {
-        "title": "Is Sky TV down? Thousands reporting outages with television service",
-        "url": "https://www.thecomet.net/news/national/uk-today/25755073.sky-tv-thousands-reporting-television-outages/",
-        "source": "The Comet",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRULo85tdn6DGhn0fSnRpFsUaR_T2ENehCr3kJQftLsrmXHbqG0ZpMOZOm2Rc"
+        "title": "Is Sky TV down? Downdetector maps show outages across UK",
+        "url": "https://www.geo.tv/latest/644341-is-sky-tv-down-downdetector-maps-show-outages-across-uk",
+        "source": "Geo News",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzFrvtJn2eY2VZNze6FeeXQQGx9gGbnrmWAWbQLMDfOaz7myq7jdEtf2cbZIM"
       }
     ],
     "regions": [
@@ -1293,25 +1293,25 @@
     "title": "fulham vs middlesbrough",
     "traffic_num": 100,
     "pub_date": "2026-01-10T08:20:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeglI3i8L5SJLP2oN2NYBIgGpqk57wnzbOzLk1f3LgHr45NOpbCSnXhpXdBB8",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqg9KLHJCZF67Zb6UIyKFE5YoGVgmFOYeQ8wTBP0ZLsOdPhFJ0befPr9O3JiA",
     "news": [
       {
-        "title": "Fulham v Middlesbrough predictions: Chris Sutton on FA Cup game",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1dk4xvzy52o",
+        "title": "Fulham 3-1 Middlesbrough: Fulham hit back to see off Middlesbrough in FA Cup",
+        "url": "https://www.bbc.co.uk/sport/football/live/c0417yg2k39t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeglI3i8L5SJLP2oN2NYBIgGpqk57wnzbOzLk1f3LgHr45NOpbCSnXhpXdBB8"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqg9KLHJCZF67Zb6UIyKFE5YoGVgmFOYeQ8wTBP0ZLsOdPhFJ0befPr9O3JiA"
+      },
+      {
+        "title": "Fulham 3-1 Middlesbrough: Harry Wilson shines to save Marco Silva's blushes in FA Cup win",
+        "url": "https://www.bbc.com/sport/football/articles/cdxjg45zyzgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx6vvmvH1AH8XWH2anvVrP2cOto56DHHqe7NaGSfnuf3QuqwwbLNv8nUPxns"
       },
       {
         "title": "Pre-Boro Press Conference",
         "url": "https://www.fulhamfc.com/news/2026/january/09/pre-boro-press-conference/",
         "source": "Fulham FC",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHgtHaNOJfB0CexFAyxeCMhHN4W6XqjHWACCcY-ShWYs9WI3lZwrXeKHgoQ9Y"
-      },
-      {
-        "title": "Middlesbrough paid the ultimate compliment as Fulham come from behind to win FA Cup tie",
-        "url": "https://www.gazettelive.co.uk/sport/football/match-reports/middlesbrough-paid-ultimate-compliment-fulham-33206453",
-        "source": "Teesside Live",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6t6SrpPT_W2fyEvUwAwq5nFubpOU4eWhnmpijj5Ehh1vfYQ3SbjkyIEHJxYM"
       }
     ],
     "regions": [
@@ -1323,13 +1323,13 @@
     "title": "cardiff rugby vs racing 92",
     "traffic_num": 1000,
     "pub_date": "2026-01-10T07:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTVYjXocbXBDxm2pKHVbfYQIIkuDPeDY2v9HnAyiKxEE4_zw57WpRGXJ70xHc",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Sg4JMSCLFZi7srH8Rzelv-_h8fQSVzC6Z8ZdIZDcFGSV9b4yOa9nu2VFwWE",
     "news": [
       {
-        "title": "Challenge Cup: Cardiff 32-13 Racing 92 - Welsh side on brink of European knockouts",
-        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3edvn3pwzvo",
+        "title": "Challenge Cup LIVE: Benetton face Dragons after Cardiff beat Racing 92 - listen & text updates",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/live/c0q4wwn1g8wt",
         "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTVYjXocbXBDxm2pKHVbfYQIIkuDPeDY2v9HnAyiKxEE4_zw57WpRGXJ70xHc"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5Sg4JMSCLFZi7srH8Rzelv-_h8fQSVzC6Z8ZdIZDcFGSV9b4yOa9nu2VFwWE"
       },
       {
         "title": "Cardiff make eight changes for return to European action",
@@ -1341,7 +1341,7 @@
         "title": "Cardiff Rugby v Racing 92 LIVE: Kick-off time, TV channel and score updates",
         "url": "https://www.walesonline.co.uk/sport/rugby/rugby-news/cardiff-rugby-v-racing-92-33205954",
         "source": "Wales Online",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSakwFPMxzs0B5CaycBsHwsqxINqB34-BXqDWmS9Htw5OlPfF-g5UY_EDMiZZM"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHVkmR1-BlhYi0ut4z0WJ3t57GWEuMO3QJObI6vksvPGaESIqLId8W2MvdZ3E"
       }
     ],
     "regions": [
@@ -1353,25 +1353,25 @@
     "title": "leyton orient vs cardiff city",
     "traffic_num": 2000,
     "pub_date": "2026-01-10T06:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtsfgCtXSecjwAOlPEqGc0di2WpJfL42QRNgCIe_MXz9hQ-87a9TRNNuKr0_s",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRptic_NCBPHhoeeqDEJxpo2qxBgLsBuBjS2XGR2Jc-R7WrgQSsAi5IyHvt4U",
     "news": [
       {
         "title": "Leyton Orient 1-1 Cardiff City: Bluebirds frustrated in east London",
         "url": "https://www.bbc.co.uk/sport/football/live/c98p326r8gpt",
         "source": "BBC",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtsfgCtXSecjwAOlPEqGc0di2WpJfL42QRNgCIe_MXz9hQ-87a9TRNNuKr0_s"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRptic_NCBPHhoeeqDEJxpo2qxBgLsBuBjS2XGR2Jc-R7WrgQSsAi5IyHvt4U"
       },
       {
-        "title": "Expert EFL predictions and free football tips from Dan Childs: Bluebirds look set for capital gains",
-        "url": "https://www.racingpost.com/sport/football-tips/efl/expert-efl-predictions-and-free-football-tips-from-dan-childs-a9wDR2Y7sL7E/",
+        "title": "Team News | Leyton Orient vs. Cardiff City",
+        "url": "https://www.cardiffcityfc.co.uk/news/team-news-leyton-orient-vs-cardiff-city",
+        "source": "Cardiff City",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5k863HpTA0QSxHrHYgeLy_fKwYVLwX9BxC9_qhIpDc3L5RyvnbD4b9o2rqkI"
+      },
+      {
+        "title": "Dan Childs fancies League One leaders Cardiff to show their class against Leyton Orient",
+        "url": "https://www.racingpost.com/sport/football-tips/efl/dan-childs-fancies-league-one-leaders-cardiff-to-show-their-class-against-leyton-orient-a7bEx2L7TU2s/",
         "source": "Racing Post",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGS06c1ZlNuE8hEjqxpC7BX_3QxxzeXUVNX3F0zvW5dNLq_UPvnnam_I_mqKU"
-      },
-      {
-        "title": "Match Preview: Cardiff City (H)",
-        "url": "https://www.leytonorient.com/news/2026/january/09/match-preview--cardiff-city--h-/",
-        "source": "Leyton Orient FC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4GQflspBNeuo0Cr_AFINDU_y7OOG34j1FFTmnsNpZZqYoMshTbKFQPyOPaM"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiF2vTUneFaA5bdVvX1NGppX6b3-nXf0ZkQz36TLOHs84je6S6MOPyisubOKM"
       }
     ],
     "regions": [
@@ -1381,15 +1381,15 @@
   },
   {
     "title": "newcastle vs bournemouth",
-    "traffic_num": 1000,
+    "traffic_num": 2000,
     "pub_date": "2026-01-10T06:40:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWHr5qbGYntQjLNBgM8CXz4b2TNw3A0P7O5pyF9HeREz0BdAudE6JSXaIpSf4",
     "news": [
       {
-        "title": "Newcastle United vs AFC Bournemouth: FA Cup stats & head-to-head",
+        "title": "Newcastle 3-3 (7-6 pens) Bournemouth: Aaron Ramsdale saves three penalties in shootout win",
         "url": "https://www.bbc.co.uk/sport/football/live/cm2xejwpg17t",
         "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjaU8clsqY5eCJLX9lMxFM58bR4TT6jMldd1H9U6r7ZFZCryfgWOkeWiDio8"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWHr5qbGYntQjLNBgM8CXz4b2TNw3A0P7O5pyF9HeREz0BdAudE6JSXaIpSf4"
       },
       {
         "title": "Latest. Confirmed line-up: Changes for Cherries",
@@ -1398,10 +1398,10 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3b7Y_ZfOdTqCe4Ne5Kg_sHmNDZIEJzSzk1ecw4_90KKpc6QB53GnsLO9dIeo"
       },
       {
-        "title": "Livestream FA Cup Soccer: Watch Newcastle vs. Bournemouth From Anywhere",
-        "url": "https://www.cnet.com/tech/services-and-software/fa-cup-soccer-2026-newcastle-vs-bournemouth/",
-        "source": "CNET",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZx8cXzZei8epx1SpV2fixxwuWImclWH8NmEQ5pBcTqbwxaZ8RvfuknAvS8MU"
+        "title": "FA Cup third round: Scores and latest updates as City score 10 after Palace exit",
+        "url": "https://www.telegraph.co.uk/football/2026/01/10/fa-cup-third-round-live-scores-latest-updates-watch/",
+        "source": "The Telegraph",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTneKPiM8_d_Idm_ZkRW4i-bb75TtkD1PY9eOC_uibFjLNOhI3yRDUGmr_9jhI"
       }
     ],
     "regions": [
@@ -1422,16 +1422,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXrgsxJAAC-WI2OSTsroh9hBUiGesm_1iIL-VnKM1LBsDZdXs9vFRqp8d1lhs"
       },
       {
-        "title": "Manchester City 10-1 Exeter, Newcastle v Bournemouth, and more: FA Cup third round – live",
-        "url": "https://www.theguardian.com/football/live/2026/jan/10/manchester-city-v-exeter-sheffield-wednesday-v-brentford-and-more-fa-cup-third-round-live",
+        "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
+        "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
         "source": "The Guardian",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPDyDMyUc5VP8hhHOSGPOE9Wg3vYGvAXKYAZEPtkyp0k1xYgPmeMvN2l4wCoE"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k"
       },
       {
-        "title": "Man City score 10 as Antoine Semenyo marks debut with goal in Exeter rout",
-        "url": "https://www.independent.co.uk/sport/football/antoine-semenyo-exeter-burton-rodri-league-one-b2898104.html",
-        "source": "The Independent",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFUVpxrs-FBiRlVHjXZB2bXfwbGkbzh1iI6pxZN2RxEcLxxWZa1olehR16Ow"
+        "title": "Pep underlines FA Cup importance to City",
+        "url": "https://www.mancity.com/news/mens/city-v-exeter-city-pep-guardiola-embargoed-preview-63903565",
+        "source": "Manchester City FC",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHjZvwVaC5bHL935w53H_uv_7Xs5ZburkCpjIc2DCYPycZlUIDsidP3JCTzLE"
       }
     ],
     "regions": [
@@ -1443,25 +1443,25 @@
     "title": "fa cup games",
     "traffic_num": 200,
     "pub_date": "2026-01-10T06:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMmYB_BDS41I0vhJzME9yR1Cbp2K90-nXC0Fe-wh-adXgFqVB7D94ts_bL0CM",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5ZXG9SM59ks4edG2YLlgBgqFU1zoMIUn1eyLUyEI1g_q2cLNn2FaWDHHxKyU",
     "news": [
       {
-        "title": "FA Cup third round LIVE! Match updates, score, match report as Premier League teams enter the competition",
-        "url": "https://www.skysports.com/football/live-blog/11095/13492543/fa-cup-third-round-live-match-updates-score-match-report-as-premier-league-teams-enter-the-competition",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMmYB_BDS41I0vhJzME9yR1Cbp2K90-nXC0Fe-wh-adXgFqVB7D94ts_bL0CM"
+        "title": "Emirates FA Cup third round tie at Salford City rescheduled",
+        "url": "https://www.swindontownfc.co.uk/news/2026/january/09/emirates-fa-cup-third-round-tie-at-salford-city-rescheduled/",
+        "source": "Swindon Town Football Club",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5ZXG9SM59ks4edG2YLlgBgqFU1zoMIUn1eyLUyEI1g_q2cLNn2FaWDHHxKyU"
       },
       {
-        "title": "Sutton's FA Cup third-round predictions v DJ & producer Shadow Child - and AI",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg5ldyz606o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqlI7pi0WcknJQajjPW5yra8xFDswJ9M7lBlo6bXO08xU-fK71i1quiE4rBTM"
+        "title": "Salford City Home Fixture Postponed",
+        "url": "https://gtfc.co.uk/salford-city-home-fixture-postponed/",
+        "source": "Grimsby Town Football Club",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK-DtLFwasGimW_peUdp9cadqpt10Mqe39N-qEjbSyqpw5-IaMr5SF9XsdYaU"
       },
       {
-        "title": "FA Cup third round, Rosenior’s bow, Stanway to leave Bayern and more – as it happened",
-        "url": "https://www.theguardian.com/football/live/2026/jan/10/fa-cup-third-round-buildup-afcon-latest-and-more-matchday-live",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQis8-yt5gUW1aB3kUR36ccdo6Pz09-6JEOgo9je-CdUKGVocV61xHj-Zx0ms8"
+        "title": "Every game called off this weekend as FA Cup third round, League One and League Two clashes postponed",
+        "url": "https://www.mirror.co.uk/sport/football/news/fa-cup-postponed-storm-goretti-36526860",
+        "source": "The Mirror",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSl1Mexlx-TfKb_gTySyrT0i5bXENTy4jJv7I0ZwELMlSXeQs__NNuUVkrIE"
       }
     ],
     "regions": [
@@ -1488,10 +1488,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOFnGS7qSdOmwHX8ZcgwYEmuhChDF9D9P5ZmTf4p8Auvr03OTtEa6-cWslbrk"
       },
       {
-        "title": "FA Cup highlights: Wolverhampton Wanderers 6-1 Shrewsbury",
-        "url": "https://www.bbc.com/sport/football/videos/ce3evnq1z9no",
+        "title": "Wolves 6-1 Shrewsbury Town: What Rob Edwards said",
+        "url": "https://www.bbc.com/sport/football/articles/c4gr8k6n7ddo",
         "source": "BBC",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF9GNnQFZ7EG5RaU3UUESuKEV6bicPAWz4XMMa1Q990h0vzmTqfbYofXo0IkI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYC3WWDNNpg4blGlzccKr2sUBDaP03-8kAiZLPqR_rsuRy5wm8HpSsHumiD_k"
       }
     ],
     "regions": [
