@@ -13,6 +13,14 @@ import urllib.request
 
 # 模型供应商列表
 MODEL_PROVIDERS = [
+        {
+        "name": "17chuhai",
+        "endpoint": "https://api.17chuhai.top/v1",
+        "models_endpoint": "/models",
+        "default_models": [],
+        "api_key_required": True,
+        "description": "17ChuHai API"
+    },
     {
         "name": "OpenAI",
         "endpoint": "https://api.openai.com/v1",
