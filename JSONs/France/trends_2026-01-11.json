@@ -1,5 +1,125 @@
 [
   {
+    "title": "bayeux",
+    "traffic_num": 500,
+    "pub_date": "2026-01-11T02:10:00-08:00",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeYlmJB_3fP6AG0Mx1y8qn3zYx26JTB9Dz6_y4z4kjQTyoUiXudDYLWZe5zHA",
+    "news": [
+      {
+        "title": "Coupe de France. Bayeux en 16e de finale : les Petit, Enyedi, Jarry, Noirmont, Hervé resteront à jamais les premiers",
+        "url": "https://www.ouest-france.fr/sport/football/bayeux-fc/coupe-de-france-bayeux-en-16e-de-finale-les-petit-enyedi-jarry-noirmont-herve-resteront-a-jamais-les-premiers-b63185dc-ebb4-11f0-bb7c-fe9a962cb15d",
+        "source": "Ouest-France",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeYlmJB_3fP6AG0Mx1y8qn3zYx26JTB9Dz6_y4z4kjQTyoUiXudDYLWZe5zHA"
+      },
+      {
+        "title": "OM : supporter marseillais et plombier dans la vie, l'interview d'Eric Fouda, l'entraîneur de Bayeux",
+        "url": "https://www.laprovence.com/article/om/2947436149280915/om-supporter-marseillais-et-plombier-dans-la-vie-linterview-deric-fouda-lentraineur-de-bayeux",
+        "source": "La Provence",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd4KI4C-OLvOb1QsJPt0Xr5b1edd5Cl-RJUqTX7hpC6hiB0OH7ubI_5Vos_U"
+      },
+      {
+        "title": "Coupe de France : L'entraîneur de Bayeux est « un fervent supporter de l'OM » : Sports - Orange",
+        "url": "https://sports.orange.fr/football/coupe-de-france/article/coupe-de-france-l-entraineur-de-bayeux-est-un-fervent-supporter-de-l-om-exclu-CNT000002myV3U.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIufZljltfYu-taeeNS-Qh8uEE0Isrmxg5W6r6ay7PBPpmLMAv9TbqqxIHmcM"
+      }
+    ],
+    "regions": [
+      "France(all regions)"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "ferrari",
+    "traffic_num": 100,
+    "pub_date": "2026-01-11T02:10:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5Qt3JC8mZ4QH4MvYZZaiR7dS6tq4nlzugTOzaLnJ55leOr74d3onttdi-MSo",
+    "news": [
+      {
+        "title": "RDV moto : Motos électriques pour permis B, des « bécanes » + fun qu’un scoot !",
+        "url": "https://www.tf1.fr/tf1/auto-moto/videos/rdv-moto-motos-electriques-pour-permis-b-des-becanes-fun-quun-scoot-34117701.html",
+        "source": "TF1+",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5Qt3JC8mZ4QH4MvYZZaiR7dS6tq4nlzugTOzaLnJ55leOr74d3onttdi-MSo"
+      },
+      {
+        "title": "Comment Shell et Ferrari préparent les carburants durables de la F1 de 2026",
+        "url": "https://motorsport.nextgen-auto.com/fr/formule-1/comment-shell-et-ferrari-preparent-les-carburants-durables-de-la-f1-de-2026,205276.html",
+        "source": "Nextgen-Auto.com",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewYj3EavedFYRKudhi4zyckuLDp0i3q6eRJXb4nVOC3euELIQouL1DXeKnzo"
+      },
+      {
+        "title": "Occasion – Ferrari 430 Scuderia : une icône du cheval cabré à la cote qui flambe",
+        "url": "https://www.sportauto.fr/ferrari/occasion-ferrari-430-scuderia-icone-cheval-cabre-cote-flambe-445788.html",
+        "source": "Sport Auto",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU5Q-7ouyzavumubR2tCCrHcc0gm_hgNXq4zD7TTbmToLenKdlmLScYI5M1s0"
+      }
+    ],
+    "regions": [
+      "France(all regions)"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "laurent duporge",
+    "traffic_num": 200,
+    "pub_date": "2026-01-11T02:00:00-08:00",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbFR92y6dsBXFfnAxuC6DwD0_NOdDhN451QceD8UTg2VCCcf20EQoSZAT1LM",
+    "news": [
+      {
+        "title": "Stupeur à Liévin après le retrait annoncé de Laurent Duporge : retour sur un séisme politique",
+        "url": "https://www.lavoixdunord.fr/1663779/article/2026-01-10/stupeur-lievin-apres-le-retrait-annonce-de-laurent-duporge-retour-sur-un-seisme",
+        "source": "La Voix du Nord",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzbFR92y6dsBXFfnAxuC6DwD0_NOdDhN451QceD8UTg2VCCcf20EQoSZAT1LM"
+      },
+      {
+        "title": "Liévin : Laurent Duporge ne sera pas candidat aux prochaines municipales",
+        "url": "https://www.horizonactu.fr/actualite-46418-lievin-laurent-duporge-ne-sera-pas-candidat-aux-prochaines-municipales",
+        "source": "horizonactu.fr",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaTTSV4oq50Vvsv8Pwd7HnexD1K1qW54r9jOGftREE0ItovVyJDD5Zf86Ic_4"
+      },
+      {
+        "title": "Laurent Duporge a-t-il tenu ses promesses à la tête de Liévin, « la jumelle de Lens » ?",
+        "url": "https://www.lavoixdunord.fr/1663482/article/2026-01-09/laurent-duporge-t-il-tenu-ses-promesses-la-tete-de-lievin-la-jumelle-de-lens",
+        "source": "La Voix du Nord",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpzRVD-FVJ9sehYwsmn84o2ucUnKT13pjp7d0oUh_0iNfEbWqZAv0ceGgcgSQ"
+      }
+    ],
+    "regions": [
+      "France(all regions)"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "jim jarmusch",
+    "traffic_num": 200,
+    "pub_date": "2026-01-11T02:00:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGwnu38yjIJ1xFACiaeJJC5vwdz9piAgoXTmfBgwM0C7WDHjIrzUKthHcU_BI",
+    "news": [
+      {
+        "title": "CRITIQUE l \"Father Mother Sister Mother\", \"Ma Frère\", “Anaconda”, quels films aller voir au cinéma cette semaine ?",
+        "url": "https://www.radiofrance.fr/franceinter/podcasts/le-masque-et-la-plume/le-masque-et-la-plume-du-dimanche-11-janvier-2026-1802932",
+        "source": "Radio France",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGwnu38yjIJ1xFACiaeJJC5vwdz9piAgoXTmfBgwM0C7WDHjIrzUKthHcU_BI"
+      },
+      {
+        "title": "Jim Jarmusch et son amour pour Paris : “On voulait montrer la ville qu’on aime, aux antipodes d’une attraction touristique”",
+        "url": "https://www.nouvelobs.com/cinema/20260110.OBS111384/jim-jarmusch-et-son-amour-pour-paris-on-voulait-montrer-la-ville-qu-on-aime-aux-antipodes-d-une-attraction-touristique.html",
+        "source": "Le Nouvel Obs",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpm1BkpKLgIMtXlaRl5uApYA4uYUEkiwkHdH3wrTjouS4yE2ubFnGT1yMMO7E"
+      },
+      {
+        "title": "Film de la semaine : 'Father Mother Sister Brother', la famille compte",
+        "url": "https://fr.euronews.com/culture/2026/01/09/le-film-de-la-semaine-deuronews-culture-father-mother-sister-brother-lion-dor-de-jarmusch",
+        "source": "Euronews.com",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNqJmtCdDfQ3RnuxLW9no7_mgUtjpcXwSocpb9vcOE4N0HJS6JkpE5GM2u7E"
+      }
+    ],
+    "regions": [
+      "France(all regions)"
+    ],
+    "country": "France"
+  },
+  {
     "title": "jack black",
     "traffic_num": 500,
     "pub_date": "2026-01-11T01:40:00-08:00",
@@ -12,16 +132,46 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJnOyj4R9V8xEtLkZF5uNCzjR5BR3lvTso3Is_iml8o2wL6nSnGpY7tRSqLOY"
       },
       {
+        "title": "Anaconda (2025) review: Paul Rudd and Jack Black's comedy reboot is a regurgitated mess",
+        "url": "https://www.empireonline.com/movies/reviews/anaconda-2025/",
+        "source": "Empire",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMyBhvQGw7VOvEXrG43d7H0TYBlagf5VfDxE-E7W0Lu2q_mSjPgecMeqKiGQc"
+      },
+      {
         "title": "‘Anaconda’ Sinks Its Teeth Into the Worst Stephen King Movie of the Decade at the Box Office",
         "url": "https://collider.com/anaconda-overtakes-the-dark-tower-box-office-50-million/",
         "source": "Collider",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvbWV3zgK00QNjzaG928xHZkizpG4cWoCh0pr1a4yl2c77c-yZisNA5kXmNBU"
+      }
+    ],
+    "regions": [
+      "France(all regions)"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "oberhof",
+    "traffic_num": 10000,
+    "pub_date": "2026-01-11T01:20:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw",
+    "news": [
+      {
+        "title": "EN DIRECT Biathlon : Le duel avec la Norvège est lancé, est-ce qu'il va enf…",
+        "url": "https://www.20minutes.fr/sport/biathlon/4195130-20260111-direct-biathlon-fois-bleus-veulent-croquer-norvege-suivez-relais-hommes",
+        "source": "20 Minutes",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw"
       },
       {
-        "title": "Black and Rudd ‘Crush It’",
-        "url": "https://www.winchesternewsgazette.com/entertainment/black-and-rudd-crush-it/article_fc621207-dbbe-4d60-88b5-c98e36db83e7.html",
-        "source": "Winchester News Gazette",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdYjHvRWQ-LayIIU_amUE3bAt9-YX8p4NnDwFqti2vr2tEzoA-TmDfrRL21jQ"
+        "title": "Tommaso Giacomel gagne la poursuite avec 6 fautes : un exploit rare mais pas inédit - Biathlon - Coupe du monde (H)",
+        "url": "https://sports.orange.fr/videos/plus-de-sport/sports-hiver/tommaso-giacomel-gagne-la-poursuite-avec-6-fautes-un-exploit-rare-mais-pas-inedit-biathlon-coupe-du-monde-h-CNT000002mzwS4.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShcZCWCUCEt3yBNjFP0pv41_8ZL6iFlCoiZMnOJwLY7RHpdzFo2wlwzyJDejU"
+      },
+      {
+        "title": "Biathlon, sprint d’Oberhof : à un mois des Jeux, Julia Simon signe son premier podium depuis son retour de suspension",
+        "url": "https://www.leparisien.fr/sports/ski/biathlon-sprint-doberhof-a-un-mois-des-jeux-julia-simon-signe-son-premier-podium-depuis-son-retour-de-suspension-08-01-2026-UGCOW3QBYFCMJGQBMQ56I77MPU.php",
+        "source": "Le Parisien",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQA-AjpsxAzAQAUpph0878QGQ7mYsHRNYoa2F-xn_vlNl6SMPBLCkJFdO2Qgk"
       }
     ],
     "regions": [
@@ -60,68 +210,8 @@
     "country": "France"
   },
   {
-    "title": "clémentine autain",
-    "traffic_num": 500,
-    "pub_date": "2026-01-11T01:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqL1IBrXtMh1NhL5RMzoaaDmv1zRW37XGKGrBb-8eLbnvXBKEVbZtd2dy7Hus",
-    "news": [
-      {
-        "title": "Reza Pahlavi, l’homme qui attise la révolte en Iran",
-        "url": "https://www.lemonde.fr/international/article/2026/01/11/reza-pahlavi-l-homme-qui-attise-la-revolte-en-iran_6661339_3210.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqL1IBrXtMh1NhL5RMzoaaDmv1zRW37XGKGrBb-8eLbnvXBKEVbZtd2dy7Hus"
-      },
-      {
-        "title": "Manifestations en Iran : la police annonce d'\"importantes\" arrestations, le président du Parlement menace les États-Unis de représailles en cas d'attaque",
-        "url": "https://www.rtl.fr/actu/international/manifestations-en-iran-la-police-annonce-d-importantes-arrestations-le-president-du-parlement-menace-les-etats-unis-de-represailles-en-cas-d-attaque-7900587389",
-        "source": "RTL.fr",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJqSaJ2if2bFgZz2zG8XnSl0pUg6OQwamgJdmDSQxtw2-kRSrF9pV38ip2NY"
-      },
-      {
-        "title": "Face aux craintes d’une répression féroce, Trump briefé pour frapper l’Iran",
-        "url": "https://www.20minutes.fr/monde/etats-unis/4195391-20260111-face-craintes-repression-sanglante-trump-briefe-frapper-iran",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgCShmZ-AY4EDXASOm0ldVv_yUzRK5oqC1WY3K6_i9UWjbN3ncBTkn34zz9M"
-      }
-    ],
-    "regions": [
-      "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "oberhof",
-    "traffic_num": 10000,
-    "pub_date": "2026-01-11T01:20:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw",
-    "news": [
-      {
-        "title": "EN DIRECT Biathlon : Cette fois, les Bleus veulent croquer la Norvège... Suivez le relais hommes avec nous",
-        "url": "https://www.20minutes.fr/sport/biathlon/4195130-20260111-direct-biathlon-fois-bleus-veulent-croquer-norvege-suivez-relais-hommes",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw"
-      },
-      {
-        "title": "Tommaso Giacomel gagne la poursuite avec 6 fautes : un exploit rare mais pas inédit - Biathlon - Coupe du monde (H)",
-        "url": "https://sports.orange.fr/videos/plus-de-sport/sports-hiver/tommaso-giacomel-gagne-la-poursuite-avec-6-fautes-un-exploit-rare-mais-pas-inedit-biathlon-coupe-du-monde-h-CNT000002mzwS4.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShcZCWCUCEt3yBNjFP0pv41_8ZL6iFlCoiZMnOJwLY7RHpdzFo2wlwzyJDejU"
-      },
-      {
-        "title": "Biathlon, sprint d’Oberhof : à un mois des Jeux, Julia Simon signe son premier podium depuis son retour de suspension",
-        "url": "https://www.leparisien.fr/sports/ski/biathlon-sprint-doberhof-a-un-mois-des-jeux-julia-simon-signe-son-premier-podium-depuis-son-retour-de-suspension-08-01-2026-UGCOW3QBYFCMJGQBMQ56I77MPU.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQA-AjpsxAzAQAUpph0878QGQ7mYsHRNYoa2F-xn_vlNl6SMPBLCkJFdO2Qgk"
-      }
-    ],
-    "regions": [
-      "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
     "title": "daniil medvedev",
-    "traffic_num": 200,
+    "traffic_num": 500,
     "pub_date": "2026-01-11T01:20:00-08:00",
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFfSuh8c7DLSZgeChCWouyHdJ0IZ7_2JbhNgB_ihggG7PCoTazPOzVemhytE",
     "news": [
@@ -150,88 +240,28 @@
     "country": "France"
   },
   {
-    "title": "musetti",
-    "traffic_num": 100,
-    "pub_date": "2026-01-11T01:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTIT1JuOgJPURvR9OFWdTAhC7rwImFFXYsWVLPvVAWMMREKI6l5oTANp8l7BQ",
-    "news": [
-      {
-        "title": "Une finale alléchante sur le papier : Lorenzo Musetti et Alexander Bublik vont se disputer le titre à Hong Kong",
-        "url": "https://www.lequipe.fr/Tennis/Actualites/Une-finale-allechante-sur-le-papier-lorenzo-musetti-et-alexander-bublik-vont-se-disputer-le-titre-a-hong-kong/1632527",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTIT1JuOgJPURvR9OFWdTAhC7rwImFFXYsWVLPvVAWMMREKI6l5oTANp8l7BQ"
-      },
-      {
-        "title": "ATP Hong Kong - LIVE - Les résultats - Une belle finale attendue entre Lorenzo Musetti et Alexander Bublik",
-        "url": "https://www.ski-nordique.net/atp-hong-kong-live-les-resultats-une-belle-finale-attendue-entre-lorenzo-musetti-et-alexander-bublik.6737267-72348.html",
-        "source": "ski-nordique.net",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevXBzyoFkTZK4DD0yqzmrUbd6Hx7Wqxf3QgvWUp7UEpe7hHUsRzpOpcsgNc8"
-      },
-      {
-        "title": "Tennis : ATP - Hong Kong - Deux cadors ont pris rendez-vous en demies : les résultats",
-        "url": "https://www.msn.com/fr-fr/sport/tennis/tennis-atp-hong-kong-deux-cadors-ont-pris-rendez-vous-en-demies-les-r%C3%A9sultats/ar-AA1TSqAZ",
-        "source": "MSN",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRve0jHP7vxOaSjQOwGLc62gD5Ao-x9Q0H38mW0dwRFOg5u2HtD6uzfsE01p6I"
-      }
-    ],
-    "regions": [
-      "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
     "title": "bublik",
-    "traffic_num": 500,
+    "traffic_num": 1000,
     "pub_date": "2026-01-11T01:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQuW3TldGibA0a2Vxqq_E2WnqXwKHuidY_xHawM9Z00ev46nKXVj8-31wtnsw",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKkpWvW740OBTj42du7ZHrs833Rgcny2MGqkUgR_Lh6PPnEyu-sT3BAMJQ41A",
     "news": [
       {
-        "title": "Extended Highlights: Musetti, Bublik rally into Hong Kong 2026 final",
-        "url": "https://www.atptour.com/en/video/extended-highlights-musetti-bublik-rally-into-hong-kong-2026-final",
-        "source": "ATP Tour",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQuW3TldGibA0a2Vxqq_E2WnqXwKHuidY_xHawM9Z00ev46nKXVj8-31wtnsw"
-      },
-      {
-        "title": "Video : Lorenzo Musetti defeats Coleman Wong at Hong Kong 2026 – Quarter-Final",
-        "url": "https://en.tennistemple.com/video/lorenzo-musetti-defeats-coleman-wong-at/GEh",
-        "source": "Tennis Temple - Live tennis",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4Cwdho7SF_xghJtT8CNm5iV3513Q_ECeKeDacDVa0CjFcuOAQsXr9wel9H0k"
-      },
-      {
-        "title": "In pics: men's singles semifinal match at ATP Hong Kong Open tennis tournament",
-        "url": "https://english.news.cn/20260110/cc80d250d96240aebc79577a11c156b6/c.html",
-        "source": "Xinhua",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFGUo6f7DpkiKboKMXnHQKN-tA7ZGnOK_wI6Z3GmKJrCzaC99LBksSijoE0qI"
-      }
-    ],
-    "regions": [
-      "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "real madrid barcelone",
-    "traffic_num": 200,
-    "pub_date": "2026-01-11T00:50:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaZg5EowXRfozKMgCF_GaH5EwVkGUTRie93a3-GVYxKUiqoTi7MuQ3zAd7Zwg",
-    "news": [
-      {
-        "title": "Joan Laporta évoque ses rapports avec la direction madrilène avant le Clasico : « Nos relations sont totalement rompues »",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-president-du-barca-joan-laporta-evoque-ses-rapports-avec-la-direction-madrilene-avant-le-clasico-les-relations-sont-rompues/1632691",
+        "title": "Alexander Bublik domine Lorenzo Musetti en finale à Hongkong et va intégrer le top 10 du classement ATP",
+        "url": "https://www.lequipe.fr/Tennis/Actualites/Alexander-bublik-domine-lorenzo-musetti-en-finale-a-hongkong-et-va-integrer-le-top-10-du-classement-atp/1632692",
         "source": "L'Équipe",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaZg5EowXRfozKMgCF_GaH5EwVkGUTRie93a3-GVYxKUiqoTi7MuQ3zAd7Zwg"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKkpWvW740OBTj42du7ZHrs833Rgcny2MGqkUgR_Lh6PPnEyu-sT3BAMJQ41A"
       },
       {
-        "title": "Supercoupe d'Espagne : Suivez FC Barcelone - Real Madrid en direct à partir de 20h00",
-        "url": "https://sports.orange.fr/football/espagne/live/supercoupe-d-espagne-suivez-fc-barcelone-real-madrid-en-direct-a-partir-de-20h00-CNT000002mzYlA.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaX-zH5llaPj-BpwUvCV53QjTF3FinH35s9rw2GiaRMNAabreHW24Y1-nBip4"
+        "title": "ATP 250 Hong-Kong │Quarts de finale │ Le turbo avant le diesel : Alexander Bublik contient Shang Juncheng (6-1, 7-6) et file en demi-finale",
+        "url": "https://www.eurosport.fr/tennis/hong-kong/2026/atp-250-hong-kong-quarts-de-finale-le-turbo-avant-le-diesel-alexander-bublik-contient-shang-juncheng-6-1-7-6-et-file-en-demi-finale_vid60045198/video.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1yuP_s7VXf12PqRigzcaLiOyDnoVGKRVa5zknEkhgatci2mep0wNBsMbpaJY"
       },
       {
-        "title": "Comment voir Barça - Real Madrid en finale de Supercoupe (chaîne TV, heure)",
-        "url": "https://www.20minutes.fr/sport/football/4195371-20260111-fc-barcelone-real-madrid-chaine-heure-voir-finale-supercoupe-espagne",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtePfPyVAH9exWCRxbjVDK-C6xD_aIhvQoytUONZdCDk_S4Gk05CuFjEfJwk"
+        "title": "Tennis. Alexander Bublik confirme son excellente forme et remporte le 9e titre de sa carrière à Hong Kong",
+        "url": "https://www.ouest-france.fr/sport/tennis/atp/tennis-alexander-bublik-confirme-son-excellente-forme-et-remporte-le-9e-titre-de-sa-carriere-a-hong-kong-6158397c-eed2-11f0-a051-5e965463f148",
+        "source": "Ouest-France",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYeSuYDAKk1XkQLU6YkpqKB4XaIuwvUyPVd3bm53Q1_bRQV-5rnhf4kFnp3kg"
       }
     ],
     "regions": [
@@ -266,66 +296,6 @@
     ],
     "regions": [
       "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "recette frangipane",
-    "traffic_num": 1000,
-    "pub_date": "2026-01-11T00:30:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMEnz-LWMPSq_7GUieT7P2neuOoaoUsxV9PpNmTkLivt2wwWaSNRquGu62Lws",
-    "news": [
-      {
-        "title": "La recette de CL : nos bons conseils pour devenir le roi de la pâte feuilletée",
-        "url": "https://www.charentelibre.fr/gastronomie/la-recette-de-cl-nos-bons-conseils-pour-devenir-le-roi-de-la-pate-feuilletee-27335016.php",
-        "source": "Charente Libre",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMEnz-LWMPSq_7GUieT7P2neuOoaoUsxV9PpNmTkLivt2wwWaSNRquGu62Lws"
-      },
-      {
-        "title": "La galette des rois qui s’effrite : l’erreur fatale à éviter avec la pâte feuilletée",
-        "url": "https://www.24matins.fr/la-galette-des-rois-qui-seffrite-lerreur-fatale-a-eviter-avec-la-pate-feuilletee-1401234",
-        "source": "24matins",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMbif5OSSMz5goARlrbVOig650hKSk7X9aYL2gCtRNMZYWqll2S-4SBd42Xbc"
-      },
-      {
-        "title": "Gueugnon. Qu’est-ce qui, selon ces boulangers, fait la recette d’une bonne galette ?",
-        "url": "https://www.lejsl.com/economie/2026/01/11/qu-est-ce-qui-selon-ces-boulangers-fait-la-recette-d-une-bonne-galette",
-        "source": "Le JSL",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxDWQYh-t8C7siWAmvLEvKqwqo7k1OKx1MPffjpf63KfPPfiGCePvXfdvmok8"
-      }
-    ],
-    "regions": [
-      "France(all regions)"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "impots gouv",
-    "traffic_num": 200,
-    "pub_date": "2026-01-11T00:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0",
-    "news": [
-      {
-        "title": "Un virement de 600 euros arrive sur les comptes en banque de 9 millions de Français : certains devront rembourser",
-        "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1547007-hf1-virement-impot-remboursement/",
-        "source": "JDN",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0"
-      },
-      {
-        "title": "Crédit d’impôts : faites-vous partie des 9 millions de contribuables qui recevront un virement du fisc la semaine prochaine ?",
-        "url": "https://www.sudouest.fr/economie/mon-argent/credit-d-impots-faites-vous-partie-des-9-millions-de-contribuables-qui-recevront-un-virement-du-fisc-la-semaine-prochaine-27332997.php",
-        "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRI8Jzv1Wx7B3CaxzAXXptVoTKNA3ywrCoDs9jaC7izyxlmgSmptyS9ECadJs"
-      },
-      {
-        "title": "Réductions d’impôt - Recevrez-vous une avance le 15 janvier 2026 ? - Actualité",
-        "url": "https://www.quechoisir.org/actualite-reductions-d-impot-recevrez-vous-une-avance-le-15-janvier-2026-n173582/",
-        "source": "UFC-Que Choisir",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Jx5Ic5xGSn7LPLoZXGS9lwm_9PIGAsKiMb-DwqULkhAFbiTY84_xCnTbemo"
-      }
-    ],
-    "regions": [
-      "Alsace"
     ],
     "country": "France"
   },
@@ -372,16 +342,46 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
+      }
+    ],
+    "regions": [
+      "Alsace"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "virement impots",
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T13:50:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0",
+    "news": [
+      {
+        "title": "Un virement de 600 euros arrive sur les comptes en banque de 9 millions de Français : certains devront rembourser",
+        "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1547007-hf1-virement-impot-remboursement/",
+        "source": "JDN",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0"
+      },
+      {
+        "title": "Crédit d’impôts : faites-vous partie des 9 millions de contribuables qui recevront un virement du fisc la semaine prochaine ?",
+        "url": "https://www.sudouest.fr/economie/mon-argent/credit-d-impots-faites-vous-partie-des-9-millions-de-contribuables-qui-recevront-un-virement-du-fisc-la-semaine-prochaine-27332997.php",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRI8Jzv1Wx7B3CaxzAXXptVoTKNA3ywrCoDs9jaC7izyxlmgSmptyS9ECadJs"
+      },
+      {
+        "title": "Réductions d’impôt - Recevrez-vous une avance le 15 janvier 2026 ? - Actualité",
+        "url": "https://www.quechoisir.org/actualite-reductions-d-impot-recevrez-vous-une-avance-le-15-janvier-2026-n173582/",
+        "source": "UFC-Que Choisir",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Jx5Ic5xGSn7LPLoZXGS9lwm_9PIGAsKiMb-DwqULkhAFbiTY84_xCnTbemo"
       }
     ],
     "regions": [
@@ -441,13 +441,13 @@
     "title": "helene fischer",
     "traffic_num": 200,
     "pub_date": "2026-01-10T13:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaywbIchCEx_tyMt6sB2HdVvnk7mq8aNwPNiUleLcd6QVAY8GUUVTmRBmwNXs",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtT6uYL3uZ2PnIETnnrs_1MfR9DXsikvFaM8upg-TkYdArSlp3ekS-kXrjAQ",
     "news": [
       {
         "title": "Vorschau: Schlagerchampions - Das große Fest der Besten • Florian Silbereisen präsentiert die Stars des Jahres",
         "url": "https://www.ardmediathek.de/tv-programm/692d688743063db461d5c819",
         "source": "ARD Mediathek",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaywbIchCEx_tyMt6sB2HdVvnk7mq8aNwPNiUleLcd6QVAY8GUUVTmRBmwNXs"
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtT6uYL3uZ2PnIETnnrs_1MfR9DXsikvFaM8upg-TkYdArSlp3ekS-kXrjAQ"
       },
       {
         "title": "Helene Fischer rockt Bühnen-Comeback bei Silbereisen",
@@ -456,10 +456,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9XseqNnUuM5nxMjZIU_hsoSgt7Xu9pdgnFjYigASyf5l0oHQnKeKU33TlTxk"
       },
       {
-        "title": "\"Schlagerchampions\": Helene Fischer verlässt Show von Florian Silbereisen vorzeitig",
-        "url": "https://www.t-online.de/unterhaltung/tv/shows-von-florian-silbereisen/id_101077194/helene-fischer-sie-verlaesst-ard-show-von-florian-silbereisen-vorzeitig.html",
+        "title": "\"Schlagerchampions\": Dieser Schlagerstar stahl Helene Fischer die Show",
+        "url": "https://www.t-online.de/unterhaltung/tv/shows-von-florian-silbereisen/id_101077192/-schlagerchampions-dieser-schlagerstar-stahl-helene-fischer-die-show.html",
         "source": "T-Online",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTrS6HYCcG8oa-vfLfyr5pbTnxcG_QDMjK8VHpAXJqo67G9YYKdE2r1UVewY"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLMiMM99bkDTIbb9nzJuyR0Gju-5JR5Vx7pUyIaVnPwm7W6lekzU-ugEmqIw8"
       }
     ],
     "regions": [
@@ -486,10 +486,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
       },
       {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
+        "title": "FA Cup - Liam Rosenior réussit sa première avec Chelsea contre Charlton au troisième tour (5-1)",
+        "url": "https://www.eurosport.fr/football/the-emirates-fa-cup/2025-2026/fa-cup-liam-rosenior-reussit-sa-premiere-avec-chelsea-contre-charlton-au-troisieme-tour-5-1_sto23257762/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNLvXhxK4vl8gIIGn1yQKDkiJ1w_Qbi1ksI6yqRxp8lon6yHhE2i1PDd5rlc"
       }
     ],
     "regions": [
@@ -582,16 +582,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPv8bV4JLjDj3FUJqR2KapyoXdrFgXBPzZMmddTN7hrWEUZV0TZjdaixPkA9s"
       },
       {
-        "title": "« Star Academy » : « Ça a changé ma vie »… Anouk, très émue, éliminée aux portes des demi-finales",
-        "url": "https://www.20minutes.fr/arts-stars/television/4195398-20260111-star-academy-ca-change-vie-anouk-tres-emue-eliminee-portes-demi-finales",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPCda6egNe6UqUFxxbOdi0rA16CD0eqmE3D0YIMc_Kf2W-8AUmkzYB_CQKRA"
-      },
-      {
         "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
         "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
         "source": "TF1 Info",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
+      },
+      {
+        "title": "\"Nous entrons dans la dernière ligne droite\" : ce message de la production de la Star Academy aux téléspectateurs, quelques semaines avant la finale de l’émission",
+        "url": "https://www.purepeople.com/article/nous-entrons-dans-la-derniere-ligne-droite-ce-message-de-la-production-de-la-star-academy-aux-telespectateurs-quelques-semaines-avant-la-finale-de-l-emission_a546300/1",
+        "source": "Purepeople",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMR_zcn1pkjB5LM85qG5Fm0MKetUzPZMBDZJEVQjnjxhVDnYT4qNTmZs8eu-8"
       }
     ],
     "regions": [
@@ -648,10 +648,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -693,25 +693,25 @@
     "title": "julie bourges",
     "traffic_num": 200,
     "pub_date": "2026-01-10T16:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E",
     "news": [
       {
         "title": "Incendie mortel à Crans-Montana : porte verrouillée, mousse acoustique… Qu’a raconté le gérant du bar aux enquêteurs ?",
         "url": "https://www.sudouest.fr/faits-divers/incendie-mortel-a-crans-montana-porte-verrouillee-mousse-acoustique-qu-a-raconte-le-gerant-du-bar-aux-enqueteurs-27367892.php",
         "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E"
       },
       {
-        "title": "Incendie à Crans-Montana : \"C’est le drame de ma vie\", ce que les propriétaires du bar Le Constellation ont confié aux enquêteurs juste après le drame",
-        "url": "https://www.midilibre.fr/2026/01/11/incendie-a-crans-montana-cest-le-drame-de-ma-vie-ce-que-les-proprietaires-du-bar-le-constellation-ont-confie-aux-enqueteurs-juste-apres-le-drame-13155620.php",
-        "source": "Midi Libre",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv1CnBOCmWpBOGFyYa9UQXahDBWBbSAsu9d5A7pOSQ0NR7nnYFuN2COlBrRNc"
+        "title": "\"Ça fait dix ans que nous faisons cela\" : Jacques Moretti se confie sur l'utilisation des feux de Bengale après l'incendire de Crans-Montana",
+        "url": "https://fr.style.yahoo.com/%C3%A7a-fait-dix-ans-faisons-090751089.html",
+        "source": "Yahoo Life France",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwrHbeCDz0ze7jsV_IiAEeDoZvG7v9fD2fMVGxbfwMt4iMT-23_ITPDuQnpL4"
       },
       {
-        "title": "Le patron du Constellation a confirmé que la porte de service du rez-de-chaussée était verrouillée",
-        "url": "https://www.rts.ch/info/regions/valais/2026/article/incendie-du-constellation-patron-confirme-porte-de-secours-verrouillee-29114171.html",
-        "source": "rts.ch",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiz0hKgcINA7WZWjvHmqoS7W41Q2pPwx6-7m95ezc7cCiyN1TDrc0tZBRrouM"
+        "title": "Banditisme, patrimoine : ces zones d'ombre autour du gérant du bar incendié à Crans-Montana",
+        "url": "https://www.marianne.net/societe/police-et-justice/banditisme-patrimoine-ces-zones-d-ombre-autour-du-gerant-du-bar-incendie-a-crans-montana",
+        "source": "Marianne",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSShM_j4BhRqtuuubIQNBV9oOCMrs6qA9ZzrYScPRqSC5yn6kLB1_wWL5aMUi8"
       }
     ],
     "regions": [
@@ -792,16 +792,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -870,16 +870,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPv8bV4JLjDj3FUJqR2KapyoXdrFgXBPzZMmddTN7hrWEUZV0TZjdaixPkA9s"
       },
       {
-        "title": "« Star Academy » : « Ça a changé ma vie »… Anouk, très émue, éliminée aux portes des demi-finales",
-        "url": "https://www.20minutes.fr/arts-stars/television/4195398-20260111-star-academy-ca-change-vie-anouk-tres-emue-eliminee-portes-demi-finales",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPCda6egNe6UqUFxxbOdi0rA16CD0eqmE3D0YIMc_Kf2W-8AUmkzYB_CQKRA"
-      },
-      {
         "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
         "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
         "source": "TF1 Info",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
+      },
+      {
+        "title": "\"Nous entrons dans la dernière ligne droite\" : ce message de la production de la Star Academy aux téléspectateurs, quelques semaines avant la finale de l’émission",
+        "url": "https://www.purepeople.com/article/nous-entrons-dans-la-derniere-ligne-droite-ce-message-de-la-production-de-la-star-academy-aux-telespectateurs-quelques-semaines-avant-la-finale-de-l-emission_a546300/1",
+        "source": "Purepeople",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMR_zcn1pkjB5LM85qG5Fm0MKetUzPZMBDZJEVQjnjxhVDnYT4qNTmZs8eu-8"
       }
     ],
     "regions": [
@@ -900,16 +900,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -972,16 +972,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -1026,10 +1026,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSVnxPJmov28Ew0YyWp2Th7XWj3lthvKG47vRFxcHjb8yv8cAB0iGNZmzeuRc"
       },
       {
-        "title": "Le Puy Football 43 Auvergne - Stade de Reims en direct - Coupe de France : Football Scores & Résultats - 10/01/2026",
-        "url": "https://www.eurosport.fr/football/coupe-de-france/2025-2026/live-le-puy-football-43-auvergne-stade-de-reims_mtc1649591/live.shtml",
-        "source": "Eurosport",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9WatTNNDMA1d5AlTI2V6yLq27_RTJo4_lmDwvrxdTavFKk05xspImqfNFA1E"
+        "title": "Coupe de France : Quand le point de penalty est impossible à trouver : Sports - Orange",
+        "url": "https://sports.orange.fr/football/coupe-de-france/article/coupe-de-france-quand-le-point-de-penalty-est-impossible-a-trouver-exclu-CNT000002mA7BZ.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTikwo1HdxWBQ2e-n8RLkkiO68BTSRFHvXfmb0TWh20HpyzlR00gRpdd49AaHI"
       },
       {
         "title": "Pourquoi l'unité Grimp des pompiers est intervenue en plein match de Coupe de France entre Le Puy Foot et Reims",
@@ -1047,25 +1047,25 @@
     "title": "coupe de france",
     "traffic_num": 1000,
     "pub_date": "2026-01-10T08:20:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_9_ebjV1kWt_lFBVXmXa656zY47ZEwhP-767WFKgtR1wOqWgyagFRQuNF_-g",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg4BL4Vxe04aBSBYZkl2A7Fj62NKpYg2opMF3wE16--zoKXedmRP3I0y39QA",
     "news": [
       {
-        "title": "Fin de vigilance, match Sochaux-Lens, réouverture des routes… À quoi faut-il s’attendre ce dimanche ?",
-        "url": "https://www.estrepublicain.fr/environnement/2026/01/11/fin-de-vigilance-match-sochaux-lens-reouverture-des-routes-a-quoi-faut-il-s-attendre-ce-dimanche",
+        "title": "Coupe de France : Sochaux-Lens se jouera en présence du public",
+        "url": "https://www.lequipe.fr/Football/Actualites/Coupe-de-france-sochaux-lens-se-jouera-en-presence-du-public/1632695",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg4BL4Vxe04aBSBYZkl2A7Fj62NKpYg2opMF3wE16--zoKXedmRP3I0y39QA"
+      },
+      {
+        "title": "Football. Cette fois c’est sûr, Sochaux - Lens se jouera en public ce dimanche",
+        "url": "https://www.estrepublicain.fr/sport/2026/01/11/cette-fois-c-est-sur-sochaux-lens-se-jouera-en-public-ce-dimanche-a-14-h",
         "source": "L'Est Républicain",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_9_ebjV1kWt_lFBVXmXa656zY47ZEwhP-767WFKgtR1wOqWgyagFRQuNF_-g"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKINGk19LIIgg4oQa5hUGp6uiCGPTNIV46nTXW7rq8TMCoOZME3QIFFcz67A"
       },
       {
         "title": "\"On va encore passer pour des baltringues dans le monde entier\": la grosse colère des supporters de Lens après le report du match de Coupe de France à Sochaux",
         "url": "https://rmcsport.bfmtv.com/football/coupe-de-france/on-va-encore-passer-pour-des-baltringues-dans-le-monde-entier-la-grosse-colere-des-supporters-de-lens-apres-le-report-du-match-de-coupe-de-france-a-sochaux_AN-202601110110.html",
         "source": "RMC Sport",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqxCwLpPnWi66M5LRHlAa7W_uziu7flRTcYpFqXH7mEOeCa2o0vSnqnrgTuEE"
-      },
-      {
-        "title": "Reporté à cause de la neige, le 16e de finale de Coupe de France entre Sochaux et Lens se jouera dimanche à 14 heures",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-16e-de-finale-de-coupe-de-france-entre-sochaux-et-lens-reporte/1632510",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqNfIrhd3R2qjwdxsT4sFeS28sP4JUBjjoerMJecqSgX_xvbLlyBs6Dj5kHsk"
       }
     ],
     "regions": [
@@ -1077,8 +1077,14 @@
     "title": "manchester city – exeter city",
     "traffic_num": 200,
     "pub_date": "2026-01-10T08:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ",
     "news": [
+      {
+        "title": "'Humble' Semenyo steals show in FA Cup mauling",
+        "url": "https://www.bbc.com/sport/football/articles/c5y24vw1vd2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ"
+      },
       {
         "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
         "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
@@ -1090,12 +1096,6 @@
         "url": "https://www.mancity.com/news/mens/city-v-exeter-fa-cup-third-round-63903652",
         "source": "Manchester City FC",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_5cHzJ88kOuFtQDLzSPp3IXwvKtWNmE8aWrZiEDiTai7wXTlZWN9T_7Ctck"
-      },
-      {
-        "title": "Semenyo nets on debut as City fires 10 past Exeter",
-        "url": "https://www.beinsports.com/en-au/football/fa-cup/articles-video/semenyo-nets-on-debut-as-city-fires-10-past-exeter-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQ4i8cmULPo1CoRHtG9qoWjrnHTIJ7-sCO02xTIIRdfwvMHgvCPRbUzZDokA"
       }
     ],
     "regions": [
@@ -1116,10 +1116,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCqxOsgZAbP_uUhX3SiHPSdcTmCnGeiRnaxuIpExnYUWdYKpNRElXNZlf5C1Q"
       },
       {
-        "title": "CAN 2025 : Arbitre escorté et poursuivi jusqu’aux vestiaires, déclarations amères… l’Algérie ne décolère pas et cible l’arbitrage",
-        "url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/arbitre-escorte-et-poursuivi-jusquaux-vestiaires-declarations-ameres-lalgerie-ne-decolere-pas-et-cible-larbitrage-11-01-2026-HOUFU7VBBNGCDHVA3VWHTQXLYE.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20hhu62VOOl9w5-9khZTduoxjz5wrGyaVjssWFnNdO7-ptKxekXlenwMBaU8"
+        "title": "Algérie: entre un \"océan de médiocrité\" et des \"interrogations sur l’arbitrage\", la presse algérienne dépitée après l’élimination des Fennecs à la CAN 2025",
+        "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/algerie-entre-un-ocean-de-mediocrite-et-des-interrogations-sur-l-arbitrage-la-presse-algerienne-depitee-apres-l-elimination-des-fennecs-a-la-can-2025_AV-202601110149.html",
+        "source": "RMC Sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMiykD5dE1EgjquVHAlUJuKham5nDF5Qy4GIvXBOgCbxUqawQri1QlyKCE2Q"
       },
       {
         "title": "«Il faudra plus d’une soirée pour s’en remettre» : à Strasbourg, les supporteurs de l’Algérie encaissent la défaite à la CAN et se projettent sur le Mondial",
@@ -1137,14 +1137,8 @@
     "title": "france travail",
     "traffic_num": 200,
     "pub_date": "2026-01-11T00:50:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl3PI87lX1BmXW4LIsA6y1o3SrFROxo3DAuYL4z9nJUtu1bTvZ4T0sCuaS1Rk",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxIm8iyZ6Czm-lPtuz-Mfla1Qm6Sb5Ky7rPpLgDVIcKUskijHCO-o9yu2z8o",
     "news": [
-      {
-        "title": "La Cour des comptes tire un bilan plutôt positif du recours à l’IA par France Travail",
-        "url": "https://www.lemonde.fr/politique/article/2026/01/07/la-cour-des-comptes-tire-un-bilan-plutot-positif-du-recours-a-l-ia-par-france-travail_6660929_823448.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl3PI87lX1BmXW4LIsA6y1o3SrFROxo3DAuYL4z9nJUtu1bTvZ4T0sCuaS1Rk"
-      },
       {
         "title": "Intelligence artificielle : la Cour des comptes donne un bon point à France Travail",
         "url": "https://www.lesechos.fr/economie-france/social/intelligence-artificielle-la-cour-des-comptes-donne-un-bon-point-a-france-travail-2208308",
@@ -1156,6 +1150,12 @@
         "url": "https://www.lefigaro.fr/economie/utilisation-de-l-ia-a-france-travail-peut-mieux-faire-selon-la-cour-des-comptes-20260108",
         "source": "Le Figaro",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVkEaxpov9dQ1AYBMKuvD0XPJ-Y2sjprP9BnkowaJDL_t_fI07Hs_-rY0INcE"
+      },
+      {
+        "title": "Derrière les algorithmes et l'IA de France Travail, des zones d'ombre qui inquiètent la Cour des comptes",
+        "url": "https://www.clubic.com/actualite-594448-derriere-les-algorithmes-et-l-ia-de-france-travail-des-zones-d-ombre-qui-inquietent-la-cour-des-comptes.html",
+        "source": "Clubic",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4FxvO6NR7dHSKhSw_VKl9xfeOPgGF2Oy1JF-qbwHj79Fs2CGSioGlYsuCrT8"
       }
     ],
     "regions": [
@@ -1176,16 +1176,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPv8bV4JLjDj3FUJqR2KapyoXdrFgXBPzZMmddTN7hrWEUZV0TZjdaixPkA9s"
       },
       {
-        "title": "« Star Academy » : « Ça a changé ma vie »… Anouk, très émue, éliminée aux portes des demi-finales",
-        "url": "https://www.20minutes.fr/arts-stars/television/4195398-20260111-star-academy-ca-change-vie-anouk-tres-emue-eliminee-portes-demi-finales",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPCda6egNe6UqUFxxbOdi0rA16CD0eqmE3D0YIMc_Kf2W-8AUmkzYB_CQKRA"
-      },
-      {
         "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
         "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
         "source": "TF1 Info",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
+      },
+      {
+        "title": "\"Nous entrons dans la dernière ligne droite\" : ce message de la production de la Star Academy aux téléspectateurs, quelques semaines avant la finale de l’émission",
+        "url": "https://www.purepeople.com/article/nous-entrons-dans-la-derniere-ligne-droite-ce-message-de-la-production-de-la-star-academy-aux-telespectateurs-quelques-semaines-avant-la-finale-de-l-emission_a546300/1",
+        "source": "Purepeople",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMR_zcn1pkjB5LM85qG5Fm0MKetUzPZMBDZJEVQjnjxhVDnYT4qNTmZs8eu-8"
       }
     ],
     "regions": [
@@ -1206,16 +1206,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -1332,16 +1332,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -1410,6 +1410,36 @@
     "country": "France"
   },
   {
+    "title": "galette des rois",
+    "traffic_num": 200,
+    "pub_date": "2026-01-11T02:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMiQzlgKkaoaSO2YtW7ndGh6HEge6wA13fY3aDLpfqO-RfS-nWhHFbzmcC2Z4",
+    "news": [
+      {
+        "title": "Château-Thierry : trois bonnes raisons d’acheter une galette des rois chez nos commerçants locaux",
+        "url": "https://www.lunion.fr/id777762/article/2026-01-10/chateau-thierry-trois-bonnes-raisons-dacheter-une-galette-des-rois-chez-nos",
+        "source": "L'Union",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMiQzlgKkaoaSO2YtW7ndGh6HEge6wA13fY3aDLpfqO-RfS-nWhHFbzmcC2Z4"
+      },
+      {
+        "title": "Annemasse. Valentin Robert : « Nous avons déjà vendu près de 500 galettes des Rois »",
+        "url": "https://www.ledauphine.com/culture-loisirs/2026/01/11/valentin-robert-nous-avons-deja-vendu-pres-de-500-galettes-des-rois",
+        "source": "Le Dauphiné Libéré",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHsKV2GIPK8gia4N5s6PeEkEkTPh7eHvxTdSuWx_NnC5dLttWwYxFVZ0BnAU"
+      },
+      {
+        "title": "\"Les galettes, c’est un délire, on attend ça avec impatience\" : à Orléans, la popularité de la galette des rois ne se dément pas",
+        "url": "https://www.larep.fr/orleans-45000/loisirs/les-galettes-cest-un-delire-on-attend-ca-avec-impatience-a-orleans-la-popularite-de-la-galette-des-rois-ne-se-dement-pas_14811116/",
+        "source": "La République du Centre",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1OQI-xVZ-v75Cp8KE2I8a41DntQ5C3QSkOX8-P34clMyefm8NS3pZ1bJSGRk"
+      }
+    ],
+    "regions": [
+      "Brittany"
+    ],
+    "country": "France"
+  },
+  {
     "title": "impots gouv",
     "traffic_num": 1000,
     "pub_date": "2026-01-11T00:00:00-08:00",
@@ -1452,16 +1482,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
       },
       {
-        "title": "Star Academy : quel élève a décroché sa place pour les demi-finales lors du prime diffusé samedi 10 janvier",
-        "url": "https://www.voici.fr/tele-realite/star-academy-quel-eleve-a-decroche-sa-place-pour-les-demi-finales-lors-du-prime-diffuse-samedi-10-janvier-817655",
-        "source": "Voici",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl8-RHNrQjFZlcx8m319_OXEBMXtfCV7R4T1wDTELm8qQkDctyWfUqV128GMs"
-      },
-      {
         "title": "« Star Academy » : « C’est une masterclass », nos tops et flops de ce treizième prime",
         "url": "https://www.lavoixdunord.fr/1663856/article/2026-01-11/star-academy-c-est-une-masterclass-nos-tops-et-flops-de-ce-treizieme-prime",
         "source": "La Voix du Nord",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Z68jVITPSnz6yOeICfy-PdjWobXzEOWA1_88rXl44DFAoeVTBZr56e2bCdg"
+      },
+      {
+        "title": "Star Academy : Sarah \"bien boycottée\" durant le prime ? Ce détail n'a pas échappé aux internautes",
+        "url": "https://www.allocine.fr/tvactu/articles/article-1000184614.html",
+        "source": "AlloCiné",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfgBXcjX4OgyyDgdVjr-4hYwqIM3lDYSwJzy5We-e9zThmurLnigY025Avqs"
       }
     ],
     "regions": [
@@ -1488,10 +1518,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -1602,16 +1632,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -1668,36 +1698,6 @@
     "country": "France"
   },
   {
-    "title": "charlton – chelsea",
-    "traffic_num": 200,
-    "pub_date": "2026-01-10T13:40:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7_xQVD0hEqqPCoTlqMOLax6IDbU-XW70Q-q44Lq6RbCt4SEdpnNdVMki2Xqk",
-    "news": [
-      {
-        "title": "FA Cup (32es de finale) : Premier succès pour Rosenior sur le banc de Chelsea : Sports - Orange",
-        "url": "https://sports.orange.fr/football/angleterre/article/fa-cup-32es-de-finale-premier-succes-pour-rosenior-sur-le-banc-de-chelsea-CNT000002mzzYK.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7_xQVD0hEqqPCoTlqMOLax6IDbU-XW70Q-q44Lq6RbCt4SEdpnNdVMki2Xqk"
-      },
-      {
-        "title": "Première réussie pour Liam Rosenior avec Chelsea, qui corrige Charlton en Cup",
-        "url": "https://www.lequipe.fr/Football/Actualites/Premiere-reussie-pour-liam-rosenior-avec-chelsea-qui-corrige-charlton-en-cup/1632672",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
-      },
-      {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
-      }
-    ],
-    "regions": [
-      "Brittany"
-    ],
-    "country": "France"
-  },
-  {
     "title": "celtics – spurs",
     "traffic_num": 100,
     "pub_date": "2026-01-10T23:30:00-08:00",
@@ -1716,10 +1716,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -1770,16 +1770,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -1806,10 +1806,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
       },
       {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
+        "title": "FA Cup - Liam Rosenior réussit sa première avec Chelsea contre Charlton au troisième tour (5-1)",
+        "url": "https://www.eurosport.fr/football/the-emirates-fa-cup/2025-2026/fa-cup-liam-rosenior-reussit-sa-premiere-avec-chelsea-contre-charlton-au-troisieme-tour-5-1_sto23257762/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNLvXhxK4vl8gIIGn1yQKDkiJ1w_Qbi1ksI6yqRxp8lon6yHhE2i1PDd5rlc"
       }
     ],
     "regions": [
@@ -1878,10 +1878,10 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJyFOEBDlFEn6RCn37vHVe0wcGXcDhfzRauRvVOacGC_r81GINrLHKN7sNWFg"
       },
       {
-        "title": "XRP Stalls Despite Bullish Developments and Ripple’s Institutional Momentum",
-        "url": "https://news.bitcoin.com/xrp-stalls-despite-bullish-developments-and-ripples-institutional-momentum/",
+        "title": "It’s Happening: Ripple Says XRP Is the Heartbeat of the Internet of Value",
+        "url": "https://news.bitcoin.com/its-happening-ripple-says-xrp-is-the-heartbeat-of-the-internet-of-value/",
         "source": "Bitcoin.com News",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5MaBGB1cPdAPz6I3vL2PSn68-BLH0opquYFnNk9QDnToYcfLmYgS86qpGW_k"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu35un-qBxkN-soivbwvCYV3fTkMVYPfZdPhPusmKCF15OfXlCvCwAh8zvFT4"
       },
       {
         "title": "XRP’s RWA Tokenization Surged 2,200% in 2025—Can It 10x Again in 2026?",
@@ -2028,16 +2028,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -2124,16 +2124,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -2154,10 +2154,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSVnxPJmov28Ew0YyWp2Th7XWj3lthvKG47vRFxcHjb8yv8cAB0iGNZmzeuRc"
       },
       {
-        "title": "Le Puy Football 43 Auvergne - Stade de Reims en direct - Coupe de France : Football Scores & Résultats - 10/01/2026",
-        "url": "https://www.eurosport.fr/football/coupe-de-france/2025-2026/live-le-puy-football-43-auvergne-stade-de-reims_mtc1649591/live.shtml",
-        "source": "Eurosport",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9WatTNNDMA1d5AlTI2V6yLq27_RTJo4_lmDwvrxdTavFKk05xspImqfNFA1E"
+        "title": "Coupe de France : Quand le point de penalty est impossible à trouver : Sports - Orange",
+        "url": "https://sports.orange.fr/football/coupe-de-france/article/coupe-de-france-quand-le-point-de-penalty-est-impossible-a-trouver-exclu-CNT000002mA7BZ.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTikwo1HdxWBQ2e-n8RLkkiO68BTSRFHvXfmb0TWh20HpyzlR00gRpdd49AaHI"
       },
       {
         "title": "Pourquoi l'unité Grimp des pompiers est intervenue en plein match de Coupe de France entre Le Puy Foot et Reims",
@@ -2175,8 +2175,14 @@
     "title": "manchester city – exeter city",
     "traffic_num": 500,
     "pub_date": "2026-01-10T07:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ",
     "news": [
+      {
+        "title": "'Humble' Semenyo steals show in FA Cup mauling",
+        "url": "https://www.bbc.com/sport/football/articles/c5y24vw1vd2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ"
+      },
       {
         "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
         "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
@@ -2188,12 +2194,6 @@
         "url": "https://www.mancity.com/news/mens/city-v-exeter-fa-cup-third-round-63903652",
         "source": "Manchester City FC",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_5cHzJ88kOuFtQDLzSPp3IXwvKtWNmE8aWrZiEDiTai7wXTlZWN9T_7Ctck"
-      },
-      {
-        "title": "Semenyo nets on debut as City fires 10 past Exeter",
-        "url": "https://www.beinsports.com/en-au/football/fa-cup/articles-video/semenyo-nets-on-debut-as-city-fires-10-past-exeter-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQ4i8cmULPo1CoRHtG9qoWjrnHTIJ7-sCO02xTIIRdfwvMHgvCPRbUzZDokA"
       }
     ],
     "regions": [
@@ -2214,10 +2214,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCqxOsgZAbP_uUhX3SiHPSdcTmCnGeiRnaxuIpExnYUWdYKpNRElXNZlf5C1Q"
       },
       {
-        "title": "CAN 2025 : Arbitre escorté et poursuivi jusqu’aux vestiaires, déclarations amères… l’Algérie ne décolère pas et cible l’arbitrage",
-        "url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/arbitre-escorte-et-poursuivi-jusquaux-vestiaires-declarations-ameres-lalgerie-ne-decolere-pas-et-cible-larbitrage-11-01-2026-HOUFU7VBBNGCDHVA3VWHTQXLYE.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20hhu62VOOl9w5-9khZTduoxjz5wrGyaVjssWFnNdO7-ptKxekXlenwMBaU8"
+        "title": "Algérie: entre un \"océan de médiocrité\" et des \"interrogations sur l’arbitrage\", la presse algérienne dépitée après l’élimination des Fennecs à la CAN 2025",
+        "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/algerie-entre-un-ocean-de-mediocrite-et-des-interrogations-sur-l-arbitrage-la-presse-algerienne-depitee-apres-l-elimination-des-fennecs-a-la-can-2025_AV-202601110149.html",
+        "source": "RMC Sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMiykD5dE1EgjquVHAlUJuKham5nDF5Qy4GIvXBOgCbxUqawQri1QlyKCE2Q"
       },
       {
         "title": "«Il faudra plus d’une soirée pour s’en remettre» : à Strasbourg, les supporteurs de l’Algérie encaissent la défaite à la CAN et se projettent sur le Mondial",
@@ -2235,19 +2235,19 @@
     "title": "bastia – troyes",
     "traffic_num": 1000,
     "pub_date": "2026-01-10T06:30:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvdNzKZiggeuGSYFbx4wMGEoodwnfoBt3XMo0CGqvy5PkDST6ePhqjLFzplQ",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4a4Wmd1iXimWkqhUCcwvXCY5fEliUMGLl-CN9SMk-m0PDFGPn8XuTSao5-Ds",
     "news": [
+      {
+        "title": "Coupe de France : entre le SC Bastia et Troyes, une classe d'écart",
+        "url": "https://www.corsematin.com/article/sports/2904486156451115/coupe-de-france-entre-le-sc-bastia-et-troyes-une-classe-decart",
+        "source": "Corse Matin",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4a4Wmd1iXimWkqhUCcwvXCY5fEliUMGLl-CN9SMk-m0PDFGPn8XuTSao5-Ds"
+      },
       {
         "title": "L’Estac obtient son ticket pour les 8es de finale de Coupe de France à Bastia, sans perdre aucun joueur",
         "url": "https://www.lest-eclair.fr/id777871/article/2026-01-10/lestac-obtient-son-ticket-pour-les-8es-de-finale-de-coupe-de-france-bastia-sans",
         "source": "L'Est éclair",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvdNzKZiggeuGSYFbx4wMGEoodwnfoBt3XMo0CGqvy5PkDST6ePhqjLFzplQ"
-      },
-      {
-        "title": "Coupe de France : Troyes fait respecter la logique à Bastia",
-        "url": "https://sports.orange.fr/videos/plus-de-sport/basket/coupe-de-france-troyes-fait-respecter-la-logique-a-bastia-CNT000002mzxWT.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5XlmsqDQETBaLe0V75NvLRI532aGeiZubaK0UODyJ9_yGFXMIurTTTofXPcU"
       },
       {
         "title": "VIDÉOS. Football : Les clubs corses et les 16es de finale de la Coupe de France",
@@ -2274,10 +2274,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCqxOsgZAbP_uUhX3SiHPSdcTmCnGeiRnaxuIpExnYUWdYKpNRElXNZlf5C1Q"
       },
       {
-        "title": "CAN 2025 : Arbitre escorté et poursuivi jusqu’aux vestiaires, déclarations amères… l’Algérie ne décolère pas et cible l’arbitrage",
-        "url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/arbitre-escorte-et-poursuivi-jusquaux-vestiaires-declarations-ameres-lalgerie-ne-decolere-pas-et-cible-larbitrage-11-01-2026-HOUFU7VBBNGCDHVA3VWHTQXLYE.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20hhu62VOOl9w5-9khZTduoxjz5wrGyaVjssWFnNdO7-ptKxekXlenwMBaU8"
+        "title": "Algérie: entre un \"océan de médiocrité\" et des \"interrogations sur l’arbitrage\", la presse algérienne dépitée après l’élimination des Fennecs à la CAN 2025",
+        "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/algerie-entre-un-ocean-de-mediocrite-et-des-interrogations-sur-l-arbitrage-la-presse-algerienne-depitee-apres-l-elimination-des-fennecs-a-la-can-2025_AV-202601110149.html",
+        "source": "RMC Sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMiykD5dE1EgjquVHAlUJuKham5nDF5Qy4GIvXBOgCbxUqawQri1QlyKCE2Q"
       },
       {
         "title": "«Il faudra plus d’une soirée pour s’en remettre» : à Strasbourg, les supporteurs de l’Algérie encaissent la défaite à la CAN et se projettent sur le Mondial",
@@ -2310,10 +2310,10 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa9QbtClaUt9OihkVMLS2Hox2s1tIx-MyzOn40L9swnklU5J-GmZ_FsxurUlI"
       },
       {
-        "title": "Coupe de France | \"Trois jours assez fous\" : le nouvel entraîneur de Strasbourg Gary O'Neil a réussi son baptême",
-        "url": "https://www.eurosport.fr/football/coupe-de-france/2025-2026/coupe-de-france-trois-jours-assez-fous-le-nouvel-entraineur-de-strasbourg-gary-oneil-a-reussi-son-bapteme_sto23257754/story.shtml",
-        "source": "Eurosport",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtYn2EGtPRSFWe0LsEcVFchvoAh6pbYEdD8o8tY-IpbpDWLxYesZYuJ4ZavTI"
+        "title": "Strasbourg, première réussie pour O'Neil",
+        "url": "https://www.sports.fr/football/coupe-de-france/strasbourg-premiere-reussie-pour-oneil-980881.html",
+        "source": "Sports.fr",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRkE0_SKjUN4B0AvZ1vGM-IofXhwNt3xrPog4k9aQuZGMIowy-ThYUrr3Yenk"
       }
     ],
     "regions": [
@@ -2334,16 +2334,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRj3Ysw4ig_rDp1dhlIDXkAp3jsPoW7WMTL7ICryXXj5ltsKxD7zhhT5AS2ssI"
       },
       {
-        "title": "L’Estac obtient son ticket pour les 8es de finale de Coupe de France à Bastia, sans perdre aucun joueur",
-        "url": "https://www.lest-eclair.fr/id777871/article/2026-01-10/lestac-obtient-son-ticket-pour-les-8es-de-finale-de-coupe-de-france-bastia-sans",
-        "source": "L'Est éclair",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvdNzKZiggeuGSYFbx4wMGEoodwnfoBt3XMo0CGqvy5PkDST6ePhqjLFzplQ"
+        "title": "Coupe de France : entre le SC Bastia et Troyes, une classe d'écart",
+        "url": "https://www.corsematin.com/article/sports/2904486156451115/coupe-de-france-entre-le-sc-bastia-et-troyes-une-classe-decart",
+        "source": "Corse Matin",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4a4Wmd1iXimWkqhUCcwvXCY5fEliUMGLl-CN9SMk-m0PDFGPn8XuTSao5-Ds"
       },
       {
-        "title": "Coupe de France - 16èmes de finale : défait 2 à 0 contre Troyes, le Sporting Club de Bastia doit passer à autre chose",
-        "url": "https://www.francebleu.fr/sports/football/coupe-de-france-16emes-de-finale-defait-2-a-0-contre-troyes-le-sporting-club-de-bastia-doit-passer-a-autre-chose-9802016",
-        "source": "France Bleu",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ18Ae_u2VHdGLsEK1QionxRX-BL5tr8zY6RWesQ-FNonzrQCf_uoOQZTdW8Js"
+        "title": "Bastia – Estac (0-2) : Martin Adeline, notre homme du match (+ notes des joueurs)",
+        "url": "https://www.lest-eclair.fr/id777875/article/2026-01-10/bastia-estac-0-2-martin-adeline-notre-homme-du-match-notes-des-joueurs",
+        "source": "L'Est éclair",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2gK3NlBQWtz520vkenJkGuj67A_AT1t0afl0jvCcXqaltHyWFkBOvIqWHPc"
       }
     ],
     "regions": [
@@ -2355,8 +2355,14 @@
     "title": "bastia – troyes",
     "traffic_num": 500,
     "pub_date": "2026-01-10T06:30:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvdNzKZiggeuGSYFbx4wMGEoodwnfoBt3XMo0CGqvy5PkDST6ePhqjLFzplQ",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4a4Wmd1iXimWkqhUCcwvXCY5fEliUMGLl-CN9SMk-m0PDFGPn8XuTSao5-Ds",
     "news": [
+      {
+        "title": "Coupe de France : entre le SC Bastia et Troyes, une classe d'écart",
+        "url": "https://www.corsematin.com/article/sports/2904486156451115/coupe-de-france-entre-le-sc-bastia-et-troyes-une-classe-decart",
+        "source": "Corse Matin",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4a4Wmd1iXimWkqhUCcwvXCY5fEliUMGLl-CN9SMk-m0PDFGPn8XuTSao5-Ds"
+      },
       {
         "title": "L’Estac obtient son ticket pour les 8es de finale de Coupe de France à Bastia, sans perdre aucun joueur",
         "url": "https://www.lest-eclair.fr/id777871/article/2026-01-10/lestac-obtient-son-ticket-pour-les-8es-de-finale-de-coupe-de-france-bastia-sans",
@@ -2368,12 +2374,6 @@
         "url": "https://www.canalplus.com/sport/sc-bastia-troyes/h/30684484_50009",
         "source": "CANAL+",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe62Ldbx7KzySRG6WWfZkUDnx9fLFpgHeotDwB94ZM7BZ11fBq7BAJZdnblZw"
-      },
-      {
-        "title": "Coupe de France : Troyes fait respecter la logique à Bastia",
-        "url": "https://sports.orange.fr/videos/plus-de-sport/basket/coupe-de-france-troyes-fait-respecter-la-logique-a-bastia-CNT000002mzxWT.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5XlmsqDQETBaLe0V75NvLRI532aGeiZubaK0UODyJ9_yGFXMIurTTTofXPcU"
       }
     ],
     "regions": [
@@ -2394,16 +2394,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -2448,16 +2448,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -2499,8 +2499,14 @@
     "title": "manchester city – exeter city",
     "traffic_num": 500,
     "pub_date": "2026-01-10T07:50:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ",
     "news": [
+      {
+        "title": "'Humble' Semenyo steals show in FA Cup mauling",
+        "url": "https://www.bbc.com/sport/football/articles/c5y24vw1vd2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ"
+      },
       {
         "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
         "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
@@ -2512,12 +2518,6 @@
         "url": "https://www.mancity.com/news/mens/city-v-exeter-fa-cup-third-round-63903652",
         "source": "Manchester City FC",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_5cHzJ88kOuFtQDLzSPp3IXwvKtWNmE8aWrZiEDiTai7wXTlZWN9T_7Ctck"
-      },
-      {
-        "title": "Semenyo nets on debut as City fires 10 past Exeter",
-        "url": "https://www.beinsports.com/en-au/football/fa-cup/articles-video/semenyo-nets-on-debut-as-city-fires-10-past-exeter-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQ4i8cmULPo1CoRHtG9qoWjrnHTIJ7-sCO02xTIIRdfwvMHgvCPRbUzZDokA"
       }
     ],
     "regions": [
@@ -2526,28 +2526,28 @@
     "country": "France"
   },
   {
-    "title": "sochaux lens",
+    "title": "coupe de france",
     "traffic_num": 2000,
-    "pub_date": "2026-01-10T02:10:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_9_ebjV1kWt_lFBVXmXa656zY47ZEwhP-767WFKgtR1wOqWgyagFRQuNF_-g",
+    "pub_date": "2026-01-10T07:00:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg4BL4Vxe04aBSBYZkl2A7Fj62NKpYg2opMF3wE16--zoKXedmRP3I0y39QA",
     "news": [
       {
-        "title": "Fin de vigilance, match Sochaux-Lens, réouverture des routes… À quoi faut-il s’attendre ce dimanche ?",
-        "url": "https://www.estrepublicain.fr/environnement/2026/01/11/fin-de-vigilance-match-sochaux-lens-reouverture-des-routes-a-quoi-faut-il-s-attendre-ce-dimanche",
+        "title": "Coupe de France : Sochaux-Lens se jouera en présence du public",
+        "url": "https://www.lequipe.fr/Football/Actualites/Coupe-de-france-sochaux-lens-se-jouera-en-presence-du-public/1632695",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOg4BL4Vxe04aBSBYZkl2A7Fj62NKpYg2opMF3wE16--zoKXedmRP3I0y39QA"
+      },
+      {
+        "title": "Football. Cette fois c’est sûr, Sochaux - Lens se jouera en public ce dimanche",
+        "url": "https://www.estrepublicain.fr/sport/2026/01/11/cette-fois-c-est-sur-sochaux-lens-se-jouera-en-public-ce-dimanche-a-14-h",
         "source": "L'Est Républicain",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_9_ebjV1kWt_lFBVXmXa656zY47ZEwhP-767WFKgtR1wOqWgyagFRQuNF_-g"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPKINGk19LIIgg4oQa5hUGp6uiCGPTNIV46nTXW7rq8TMCoOZME3QIFFcz67A"
       },
       {
         "title": "\"On va encore passer pour des baltringues dans le monde entier\": la grosse colère des supporters de Lens après le report du match de Coupe de France à Sochaux",
         "url": "https://rmcsport.bfmtv.com/football/coupe-de-france/on-va-encore-passer-pour-des-baltringues-dans-le-monde-entier-la-grosse-colere-des-supporters-de-lens-apres-le-report-du-match-de-coupe-de-france-a-sochaux_AN-202601110110.html",
         "source": "RMC Sport",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqxCwLpPnWi66M5LRHlAa7W_uziu7flRTcYpFqXH7mEOeCa2o0vSnqnrgTuEE"
-      },
-      {
-        "title": "Reporté à cause de la neige, le 16e de finale de Coupe de France entre Sochaux et Lens se jouera dimanche à 14 heures",
-        "url": "https://www.lequipe.fr/Football/Actualites/Le-16e-de-finale-de-coupe-de-france-entre-sochaux-et-lens-reporte/1632510",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqNfIrhd3R2qjwdxsT4sFeS28sP4JUBjjoerMJecqSgX_xvbLlyBs6Dj5kHsk"
       }
     ],
     "regions": [
@@ -2568,16 +2568,46 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJnOyj4R9V8xEtLkZF5uNCzjR5BR3lvTso3Is_iml8o2wL6nSnGpY7tRSqLOY"
       },
       {
+        "title": "Anaconda (2025) review: Paul Rudd and Jack Black's comedy reboot is a regurgitated mess",
+        "url": "https://www.empireonline.com/movies/reviews/anaconda-2025/",
+        "source": "Empire",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMyBhvQGw7VOvEXrG43d7H0TYBlagf5VfDxE-E7W0Lu2q_mSjPgecMeqKiGQc"
+      },
+      {
         "title": "‘Anaconda’ Sinks Its Teeth Into the Worst Stephen King Movie of the Decade at the Box Office",
         "url": "https://collider.com/anaconda-overtakes-the-dark-tower-box-office-50-million/",
         "source": "Collider",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvbWV3zgK00QNjzaG928xHZkizpG4cWoCh0pr1a4yl2c77c-yZisNA5kXmNBU"
+      }
+    ],
+    "regions": [
+      "Ile-de-France"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "star academy prime",
+    "traffic_num": 10000,
+    "pub_date": "2026-01-11T01:30:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM",
+    "news": [
+      {
+        "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
+        "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
+        "source": "TF1 Info",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
       },
       {
-        "title": "Black and Rudd ‘Crush It’",
-        "url": "https://www.winchesternewsgazette.com/entertainment/black-and-rudd-crush-it/article_fc621207-dbbe-4d60-88b5-c98e36db83e7.html",
-        "source": "Winchester News Gazette",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdYjHvRWQ-LayIIU_amUE3bAt9-YX8p4NnDwFqti2vr2tEzoA-TmDfrRL21jQ"
+        "title": "« Star Academy » : « C’est une masterclass », nos tops et flops de ce treizième prime",
+        "url": "https://www.lavoixdunord.fr/1663856/article/2026-01-11/star-academy-c-est-une-masterclass-nos-tops-et-flops-de-ce-treizieme-prime",
+        "source": "La Voix du Nord",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Z68jVITPSnz6yOeICfy-PdjWobXzEOWA1_88rXl44DFAoeVTBZr56e2bCdg"
+      },
+      {
+        "title": "Star Academy : Sarah \"bien boycottée\" durant le prime ? Ce détail n'a pas échappé aux internautes",
+        "url": "https://www.allocine.fr/tvactu/articles/article-1000184614.html",
+        "source": "AlloCiné",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfgBXcjX4OgyyDgdVjr-4hYwqIM3lDYSwJzy5We-e9zThmurLnigY025Avqs"
       }
     ],
     "regions": [
@@ -2587,27 +2617,27 @@
   },
   {
     "title": "biathlon programme",
-    "traffic_num": 100,
+    "traffic_num": 2000,
     "pub_date": "2026-01-11T00:30:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkMc8m8gb8VjxbWs3LGA_aK5cL0WBDTuyrlKhOZKPIGulqESzzSWc4zcBpouo",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrqdOgusWezUYSTyvE58_nz9z-RlDjrArs5SREl1qa2WZ7xVJT0ka61HWCuY",
     "news": [
       {
-        "title": "Biathlon | Ski nordique : le programme du dimanche 11 janvier",
-        "url": "https://www.nordicmag.info/biathlon-ski-nordique-le-programme-du-dimanche-11-janvier-0111/",
-        "source": "Nordic Mag",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkMc8m8gb8VjxbWs3LGA_aK5cL0WBDTuyrlKhOZKPIGulqESzzSWc4zcBpouo"
+        "title": "Coupe du monde 2025-2026 (Oberhof) de Biathlon, relais (H) en direct",
+        "url": "https://www.lequipe.fr/Biathlon/epreuve-en-direct/coupe-du-monde-oberhof-2026/relais-h-live/500000000085940",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrqdOgusWezUYSTyvE58_nz9z-RlDjrArs5SREl1qa2WZ7xVJT0ka61HWCuY"
       },
       {
-        "title": "Biathlon | Ski nordique : le programme du samedi 10 janvier",
-        "url": "https://www.nordicmag.info/biathlon-ski-nordique-le-programme-du-samedi-10-janvier-0110/",
-        "source": "Nordic Mag",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkMc8m8gb8VjxbWs3LGA_aK5cL0WBDTuyrlKhOZKPIGulqESzzSWc4zcBpouo"
+        "title": "EN DIRECT Biathlon : Le duel avec la Norvège est lancé, est-ce qu'il va enf…",
+        "url": "https://www.20minutes.fr/sport/biathlon/4195130-20260111-direct-biathlon-fois-bleus-veulent-croquer-norvege-suivez-relais-hommes",
+        "source": "20 Minutes",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw"
       },
       {
-        "title": "Biathlon | Ski nordique : le programme complet de la semaine nordique (8-11 janvier)",
-        "url": "https://www.nordicmag.info/biathlon-ski-nordique-le-programme-complet-de-la-semaine-nordique-8-11-janvier-0108/",
-        "source": "Nordic Mag",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQu2hpIM12PFMrcMLYtZAYGeEREmZkZgkToZ7aojq6psTp80MYyMdKbpvXZrBg"
+        "title": "Défaite de La Rochelle et de Bayonne, victoire de Pau, tensions après la défaite de l’Algérie à la CAN... Revivez les temps forts sportifs de ce samedi",
+        "url": "https://www.sudouest.fr/sport/rugby/coupe-d-europe-de-rugby/direct-la-rochelle-pau-et-bayonne-en-champions-cup-quarts-de-finale-de-la-can-coupe-de-france-biathlon-suivez-les-temps-forts-sportifs-de-ce-samedi-10-janvier-27363108.php",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy3bBePeq1qj0qxU-L_PB0_QCoLpMmb8IhgO6U0HYglipvZKsRuIEpJOlQ884"
       }
     ],
     "regions": [
@@ -2628,16 +2658,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWZUZfo3WO8jS1RLGmnOFvzMQcaZI_xA72dgzdnuiihXOVmodNRmQNCQxTN6c"
       },
       {
-        "title": "You’re in the game if you’re thinking ahead of batter: Arshdeep on bowlers’ approach",
-        "url": "https://ianslive.in/youre-in-the-game-if-youre-thinking-ahead-of-batter-arshdeep-on-bowlers-approach--20260111143217",
-        "source": "IANS LIVE",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQ0Lba_YXIgaENWYILskxVK9ezTP9aIkB_y8JT2WN2OPXOApidZY186hIKXE"
-      },
-      {
         "title": "Shreyas Iyer Back, Arshdeep Singh Dropped: India's Playing XI For 1st ODI Against New Zealand",
         "url": "https://www.news18.com/cricket/shreyas-iyer-back-arshdeep-singh-dropped-indias-playing-xi-for-1st-odi-against-new-zealand-ws-l-9823287.html",
         "source": "News18",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqDFIUQRet8tTpXPzzDIlsv1cpJZzh3TwZcX14Ljru9Lovzr3O5pj6iAyaKfE"
+      },
+      {
+        "title": "India vs New Zealand 2026 cricket series live streams: How to watch 1st ODI from anywhere",
+        "url": "https://www.techradar.com/how-to-watch/cricket/india-vs-new-zealand-2026-cricket-odi-series-free",
+        "source": "TechRadar",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCuqadFJ_mytv0HpktDiMb3Wugk2ruEHjHTgwZKmaioEcusCmzSkOHN94_EYY"
       }
     ],
     "regions": [
@@ -2718,16 +2748,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8x55ddE-MAXmIw5I4dR_fKV7rlbBC-aVzBtGDmRjunGO10BT43u6gJTZvZZo"
       },
       {
-        "title": "Trop puissante pour Marta Kostyuk en finale à Brisbane, Aryna Sabalenka débute sa saison par un titre",
-        "url": "https://www.lequipe.fr/Tennis/Actualites/Trop-puissante-pour-marta-kostyuk-en-finale-a-brisbane-aryna-sabalenka-debute-sa-saison-par-un-titre/1632689",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQljIsBnl78vfze6zptGDV6P-c9QWyi4OcvpdRXkopmSK-7Se1ycCGoSRjffow"
+        "title": "Aryna Sabalenka jouera contre Marta Kostyuk sa troisième finale à Brisbane",
+        "url": "https://www.eurosport.fr/tennis/brisbane/2026/aryna-sabalenka-jouera-contre-marta-kostyuk-sa-troisieme-finale-a-brisbane_sto23257477/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvXwPUbkBD4s9sGpMNzj6Ib1mkihlbl_Dv9DUhCKDl7bdQZOL51VAA3B-Qndo"
       },
       {
-        "title": "WTA : Sabalenka et Svitolina premières gagnantes de la saison",
+        "title": "WTA : Sabalenka et Svitolina premières gagnantes de la saison : Sports - Orange",
         "url": "https://sports.orange.fr/tennis/wta/article/wta-sabalenka-et-svitolina-premieres-gagnantes-de-la-saison-CNT000002mA3vP.html",
         "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULlAdqhFD_vz4eSymiARJaGytR3waQUOoET9p-WKn5Qsv4TfJng5zGRYxyF8"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQG153Gn1QwSc0xLZn6-51tMD1zLHVANM_fLzj6EUgitX4jHr6qFc6MKxfmY0"
       }
     ],
     "regions": [
@@ -2739,13 +2769,13 @@
     "title": "bob weir",
     "traffic_num": 500,
     "pub_date": "2026-01-10T22:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn16fb4XNhcy8DlW_Wym1JU1IW6y0C8w_PKYdA6ZkoaIhLOAmvJYodTNojshU",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ3EXTYTsCJRLAMTGS9xQR4DgYFZPcJARQKRZ9cMxD-wWYGPacetlnlZlO5c",
     "news": [
       {
-        "title": "Bob Weir, co-founder of rock group the Grateful Dead, dies at age 78",
-        "url": "https://www.theguardian.com/us-news/2026/jan/10/bob-weir-grateful-dead-dies-78",
-        "source": "The Guardian",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn16fb4XNhcy8DlW_Wym1JU1IW6y0C8w_PKYdA6ZkoaIhLOAmvJYodTNojshU"
+        "title": "Bob Weir, Grateful Dead co-founder, dies aged 78",
+        "url": "https://www.bbc.com/news/articles/cly95x9qe4ko",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIZ3EXTYTsCJRLAMTGS9xQR4DgYFZPcJARQKRZ9cMxD-wWYGPacetlnlZlO5c"
       },
       {
         "title": "Bob Weir, Grateful Dead guitarist, dies at 78",
@@ -2826,32 +2856,32 @@
     "country": "France"
   },
   {
-    "title": "spurs",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T19:20:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBf4nY33Hg06WnZoGN8D2FO_JPDk-54eUBC96TCYpNRq_Hp8DVm_UP1ve3jw",
+    "title": "impots gouv",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T23:50:00-08:00",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0",
     "news": [
       {
-        "title": "Thomas Frank: How long can Spurs head coach survive after FA Cup loss to Aston Villa?",
-        "url": "https://www.bbc.com/sport/football/articles/cvg1p1vgvg3o",
-        "source": "BBC",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBf4nY33Hg06WnZoGN8D2FO_JPDk-54eUBC96TCYpNRq_Hp8DVm_UP1ve3jw"
+        "title": "Un virement de 600 euros arrive sur les comptes en banque de 9 millions de Français : certains devront rembourser",
+        "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1547007-hf1-virement-impot-remboursement/",
+        "source": "JDN",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0"
       },
       {
-        "title": "Tottenham 1-2 Aston Villa: Thomas Frank's side booed off as second half comeback falls short leading to FA Cup exit",
-        "url": "https://www.skysports.com/football/news/11095/13492589/tottenham-1-2-aston-villa-thomas-franks-side-booed-off-as-second-half-comeback-falls-short-leading-to-fa-cup-exit",
-        "source": "Sky Sports",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_C0AzmZgaSr32AXqctw86slhlQ5OWgVwAVNlXxQK0hhU44oxO9Q-giJuwgk"
+        "title": "Crédit d’impôts : faites-vous partie des 9 millions de contribuables qui recevront un virement du fisc la semaine prochaine ?",
+        "url": "https://www.sudouest.fr/economie/mon-argent/credit-d-impots-faites-vous-partie-des-9-millions-de-contribuables-qui-recevront-un-virement-du-fisc-la-semaine-prochaine-27332997.php",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRI8Jzv1Wx7B3CaxzAXXptVoTKNA3ywrCoDs9jaC7izyxlmgSmptyS9ECadJs"
       },
       {
-        "title": "Emery hails Villa's 'fantastic' mentality after reaching FA Cup fourth round",
-        "url": "https://www.beinsports.com/en-asia/football/fa-cup/articles/emery-hails-villas-fantastic-mentality-after-reaching-fa-cup-fourth-round-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0fdAaKfrzA3LiNrNxj0CfrHR3mqGlpBKw29G699Gm_jl49EMJcFABDhK3RG0"
+        "title": "Réductions d’impôt - Recevrez-vous une avance le 15 janvier 2026 ? - Actualité",
+        "url": "https://www.quechoisir.org/actualite-reductions-d-impot-recevrez-vous-une-avance-le-15-janvier-2026-n173582/",
+        "source": "UFC-Que Choisir",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Jx5Ic5xGSn7LPLoZXGS9lwm_9PIGAsKiMb-DwqULkhAFbiTY84_xCnTbemo"
       }
     ],
     "regions": [
-      "Ile-de-France"
+      "Languedoc-Roussillon"
     ],
     "country": "France"
   },
@@ -2868,16 +2898,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -2926,36 +2956,6 @@
         "url": "https://www.programme-tv.net/news/musique/395610-je-ne-vois-pas-le-rapport-nadiya-revele-pourquoi-elle-a-failli-passer-a-cote-de-son-duo-a-succes-avec-enrique-iglesias/",
         "source": "Télé-Loisirs",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk4D--L7ezu3GA29RNL9rWFG3scZyY_D0GHl3UaqhSCvOKmYFA3yYnKuZDGgY"
-      }
-    ],
-    "regions": [
-      "Languedoc-Roussillon"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "virement impots",
-    "traffic_num": 500,
-    "pub_date": "2026-01-10T13:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0",
-    "news": [
-      {
-        "title": "Un virement de 600 euros arrive sur les comptes en banque de 9 millions de Français : certains devront rembourser",
-        "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1547007-hf1-virement-impot-remboursement/",
-        "source": "JDN",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUOPOr8AXGuqSnYtNewiW-_sEL3DmZVrMx3TG_-bs5k6zrr8ci5S1Pw01J2W0"
-      },
-      {
-        "title": "Crédit d’impôts : faites-vous partie des 9 millions de contribuables qui recevront un virement du fisc la semaine prochaine ?",
-        "url": "https://www.sudouest.fr/economie/mon-argent/credit-d-impots-faites-vous-partie-des-9-millions-de-contribuables-qui-recevront-un-virement-du-fisc-la-semaine-prochaine-27332997.php",
-        "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRI8Jzv1Wx7B3CaxzAXXptVoTKNA3ywrCoDs9jaC7izyxlmgSmptyS9ECadJs"
-      },
-      {
-        "title": "Réductions d’impôt - Recevrez-vous une avance le 15 janvier 2026 ? - Actualité",
-        "url": "https://www.quechoisir.org/actualite-reductions-d-impot-recevrez-vous-une-avance-le-15-janvier-2026-n173582/",
-        "source": "UFC-Que Choisir",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6Jx5Ic5xGSn7LPLoZXGS9lwm_9PIGAsKiMb-DwqULkhAFbiTY84_xCnTbemo"
       }
     ],
     "regions": [
@@ -3165,8 +3165,14 @@
     "title": "manchester city – exeter city",
     "traffic_num": 100,
     "pub_date": "2026-01-10T09:20:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ",
     "news": [
+      {
+        "title": "'Humble' Semenyo steals show in FA Cup mauling",
+        "url": "https://www.bbc.com/sport/football/articles/c5y24vw1vd2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ"
+      },
       {
         "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
         "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
@@ -3178,12 +3184,6 @@
         "url": "https://www.mancity.com/news/mens/city-v-exeter-fa-cup-third-round-63903652",
         "source": "Manchester City FC",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_5cHzJ88kOuFtQDLzSPp3IXwvKtWNmE8aWrZiEDiTai7wXTlZWN9T_7Ctck"
-      },
-      {
-        "title": "Semenyo nets on debut as City fires 10 past Exeter",
-        "url": "https://www.beinsports.com/en-au/football/fa-cup/articles-video/semenyo-nets-on-debut-as-city-fires-10-past-exeter-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQ4i8cmULPo1CoRHtG9qoWjrnHTIJ7-sCO02xTIIRdfwvMHgvCPRbUzZDokA"
       }
     ],
     "regions": [
@@ -3204,10 +3204,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCqxOsgZAbP_uUhX3SiHPSdcTmCnGeiRnaxuIpExnYUWdYKpNRElXNZlf5C1Q"
       },
       {
-        "title": "CAN 2025 : Arbitre escorté et poursuivi jusqu’aux vestiaires, déclarations amères… l’Algérie ne décolère pas et cible l’arbitrage",
-        "url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/arbitre-escorte-et-poursuivi-jusquaux-vestiaires-declarations-ameres-lalgerie-ne-decolere-pas-et-cible-larbitrage-11-01-2026-HOUFU7VBBNGCDHVA3VWHTQXLYE.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20hhu62VOOl9w5-9khZTduoxjz5wrGyaVjssWFnNdO7-ptKxekXlenwMBaU8"
+        "title": "Algérie: entre un \"océan de médiocrité\" et des \"interrogations sur l’arbitrage\", la presse algérienne dépitée après l’élimination des Fennecs à la CAN 2025",
+        "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/algerie-entre-un-ocean-de-mediocrite-et-des-interrogations-sur-l-arbitrage-la-presse-algerienne-depitee-apres-l-elimination-des-fennecs-a-la-can-2025_AV-202601110149.html",
+        "source": "RMC Sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMiykD5dE1EgjquVHAlUJuKham5nDF5Qy4GIvXBOgCbxUqawQri1QlyKCE2Q"
       },
       {
         "title": "«Il faudra plus d’une soirée pour s’en remettre» : à Strasbourg, les supporteurs de l’Algérie encaissent la défaite à la CAN et se projettent sur le Mondial",
@@ -3294,16 +3294,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -3480,16 +3480,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -3516,10 +3516,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -3531,25 +3531,25 @@
     "title": "la dépêche",
     "traffic_num": 200,
     "pub_date": "2026-01-10T22:40:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZP8Ie4rNh3W6LGtD2U9FhTG5IyrxWggFFbOX8KzVrj8BzskmfYNIG1KkgYDY",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScXD-EdGQ9fykHESjqsi_raAXMA9fGC32kQn2FyzjCpTGar-3f70pqYLLOCYg",
     "news": [
       {
-        "title": "INFO LA DEPECHE. Il surprend les cambrioleurs, leur tire dessus, en blesse un et se retrouve en garde à vue",
-        "url": "https://www.ladepeche.fr/2026/01/10/il-surprend-les-cambrioleurs-leur-tire-dessus-en-blesse-un-et-se-retrouve-en-garde-a-vue-13154677.php",
-        "source": "ladepeche.fr",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZP8Ie4rNh3W6LGtD2U9FhTG5IyrxWggFFbOX8KzVrj8BzskmfYNIG1KkgYDY"
-      },
-      {
-        "title": "Un enfant de 11 ans et son grand-père découvrent un trésor de 450 000 ans dans leur terrain familial",
+        "title": "Un enfant de 11 ans et son grand-père découvrent un trésor de 450 000 ans dans leur terrain familial près de Toulouse",
         "url": "https://www.ladepeche.fr/2026/01/11/un-enfant-de-11-ans-et-son-grand-pere-decouvrent-un-tresor-de-450-000-ans-dans-leur-terrain-familial-a-proximite-de-toulouse-13153093.php",
         "source": "ladepeche.fr",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLAK4t7CqBrPaBW5mtBZ3FFYMJAVX5UM88tqOp-04sl8GpNatqNMuSfMBbwuI"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScXD-EdGQ9fykHESjqsi_raAXMA9fGC32kQn2FyzjCpTGar-3f70pqYLLOCYg"
       },
       {
-        "title": "\"Beaucoup de facteurs m’ont fait penser que c’était sûr\" : emportée par une avalanche, une skieuse filme sa chute de plusieurs centaines de mètres",
-        "url": "https://www.ladepeche.fr/2026/01/11/beaucoup-de-facteurs-mont-fait-penser-que-cetait-sur-emportee-par-une-avalanche-une-skieuse-filme-sa-chute-de-plusieurs-centaines-de-metres-13155633.php",
+        "title": "Il facturait 20 à 30 patients pour une heure et demie de visite à l’Ehpad : un kiné condamné à un an de prison avec sursis",
+        "url": "https://www.midilibre.fr/2026/01/10/les-actes-etaient-bien-factures-mais-ils-navaient-pas-ete-effectues-12-mois-de-prison-avec-sursis-pour-le-kine-qui-escroquait-un-ehpad-13154792.php",
+        "source": "Midi Libre",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoRjJhpxlU4Tmb_AY0GVZpx90V8t5AdFpmSbSt7q0_IESM4aQj0HqGbFZsGxc"
+      },
+      {
+        "title": "Un kiné facturait jusqu’à 30 séances en 1h30 sans voir tous les patients de l’Ehpad : \"C’est techniquement impossible\"",
+        "url": "https://www.ladepeche.fr/2026/01/11/le-kine-facturait-pres-de-30-patients-en-1h30-de-visite-a-lehpad-sans-tous-les-voir-13155639.php",
         "source": "ladepeche.fr",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeOOdv5UimSRNHkePFQMGdky5Kf5QCPwBn7N1QPD0qPI-n26DCOgydcZ7arM"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT---Eru1zKc_I_ibiNAf6tm3Cl13qxJWUnT5h0LQDnA20F8pyN4plzf4wSo2g"
       }
     ],
     "regions": [
@@ -3630,16 +3630,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -3798,16 +3798,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
       },
       {
-        "title": "Star Academy : quel élève a décroché sa place pour les demi-finales lors du prime diffusé samedi 10 janvier",
-        "url": "https://www.voici.fr/tele-realite/star-academy-quel-eleve-a-decroche-sa-place-pour-les-demi-finales-lors-du-prime-diffuse-samedi-10-janvier-817655",
-        "source": "Voici",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl8-RHNrQjFZlcx8m319_OXEBMXtfCV7R4T1wDTELm8qQkDctyWfUqV128GMs"
-      },
-      {
         "title": "« Star Academy » : « C’est une masterclass », nos tops et flops de ce treizième prime",
         "url": "https://www.lavoixdunord.fr/1663856/article/2026-01-11/star-academy-c-est-une-masterclass-nos-tops-et-flops-de-ce-treizieme-prime",
         "source": "La Voix du Nord",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Z68jVITPSnz6yOeICfy-PdjWobXzEOWA1_88rXl44DFAoeVTBZr56e2bCdg"
+      },
+      {
+        "title": "Star Academy : Sarah \"bien boycottée\" durant le prime ? Ce détail n'a pas échappé aux internautes",
+        "url": "https://www.allocine.fr/tvactu/articles/article-1000184614.html",
+        "source": "AlloCiné",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfgBXcjX4OgyyDgdVjr-4hYwqIM3lDYSwJzy5We-e9zThmurLnigY025Avqs"
       }
     ],
     "regions": [
@@ -3864,10 +3864,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -3918,16 +3918,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -4062,10 +4062,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
       },
       {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
+        "title": "FA Cup - Liam Rosenior réussit sa première avec Chelsea contre Charlton au troisième tour (5-1)",
+        "url": "https://www.eurosport.fr/football/the-emirates-fa-cup/2025-2026/fa-cup-liam-rosenior-reussit-sa-premiere-avec-chelsea-contre-charlton-au-troisieme-tour-5-1_sto23257762/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNLvXhxK4vl8gIIGn1yQKDkiJ1w_Qbi1ksI6yqRxp8lon6yHhE2i1PDd5rlc"
       }
     ],
     "regions": [
@@ -4086,16 +4086,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -4164,16 +4164,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -4278,10 +4278,10 @@
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa9QbtClaUt9OihkVMLS2Hox2s1tIx-MyzOn40L9swnklU5J-GmZ_FsxurUlI"
       },
       {
-        "title": "Coupe de France | \"Trois jours assez fous\" : le nouvel entraîneur de Strasbourg Gary O'Neil a réussi son baptême",
-        "url": "https://www.eurosport.fr/football/coupe-de-france/2025-2026/coupe-de-france-trois-jours-assez-fous-le-nouvel-entraineur-de-strasbourg-gary-oneil-a-reussi-son-bapteme_sto23257754/story.shtml",
-        "source": "Eurosport",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtYn2EGtPRSFWe0LsEcVFchvoAh6pbYEdD8o8tY-IpbpDWLxYesZYuJ4ZavTI"
+        "title": "Strasbourg, première réussie pour O'Neil",
+        "url": "https://www.sports.fr/football/coupe-de-france/strasbourg-premiere-reussie-pour-oneil-980881.html",
+        "source": "Sports.fr",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRkE0_SKjUN4B0AvZ1vGM-IofXhwNt3xrPog4k9aQuZGMIowy-ThYUrr3Yenk"
       }
     ],
     "regions": [
@@ -4302,10 +4302,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCqxOsgZAbP_uUhX3SiHPSdcTmCnGeiRnaxuIpExnYUWdYKpNRElXNZlf5C1Q"
       },
       {
-        "title": "CAN 2025 : Arbitre escorté et poursuivi jusqu’aux vestiaires, déclarations amères… l’Algérie ne décolère pas et cible l’arbitrage",
-        "url": "https://www.leparisien.fr/sports/football/coupe-d-afrique-des-nations/arbitre-escorte-et-poursuivi-jusquaux-vestiaires-declarations-ameres-lalgerie-ne-decolere-pas-et-cible-larbitrage-11-01-2026-HOUFU7VBBNGCDHVA3VWHTQXLYE.php",
-        "source": "Le Parisien",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20hhu62VOOl9w5-9khZTduoxjz5wrGyaVjssWFnNdO7-ptKxekXlenwMBaU8"
+        "title": "Algérie: entre un \"océan de médiocrité\" et des \"interrogations sur l’arbitrage\", la presse algérienne dépitée après l’élimination des Fennecs à la CAN 2025",
+        "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/algerie-entre-un-ocean-de-mediocrite-et-des-interrogations-sur-l-arbitrage-la-presse-algerienne-depitee-apres-l-elimination-des-fennecs-a-la-can-2025_AV-202601110149.html",
+        "source": "RMC Sport",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNMiykD5dE1EgjquVHAlUJuKham5nDF5Qy4GIvXBOgCbxUqawQri1QlyKCE2Q"
       },
       {
         "title": "«Il faudra plus d’une soirée pour s’en remettre» : à Strasbourg, les supporteurs de l’Algérie encaissent la défaite à la CAN et se projettent sur le Mondial",
@@ -4323,8 +4323,14 @@
     "title": "manchester city – exeter city",
     "traffic_num": 500,
     "pub_date": "2026-01-10T08:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMR0zyWDpGYTV87932BjOy7cZjzoVjdpD3ZUhkLsmrytXch461Upl9eykT53k",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ",
     "news": [
+      {
+        "title": "'Humble' Semenyo steals show in FA Cup mauling",
+        "url": "https://www.bbc.com/sport/football/articles/c5y24vw1vd2o",
+        "source": "BBC",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKC9fHw2b2bwyMBJdZ4q14tCK3NDXlrqWDqpo636Jm8aY5Ub2x51EdB3T4mPQ"
+      },
       {
         "title": "Antoine Semenyo’s debut goal helps Manchester City rout Exeter 10-1 in FA Cup",
         "url": "https://www.theguardian.com/football/2026/jan/10/manchester-city-exeter-fa-cup-match-report",
@@ -4336,12 +4342,6 @@
         "url": "https://www.mancity.com/news/mens/city-v-exeter-fa-cup-third-round-63903652",
         "source": "Manchester City FC",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTW_5cHzJ88kOuFtQDLzSPp3IXwvKtWNmE8aWrZiEDiTai7wXTlZWN9T_7Ctck"
-      },
-      {
-        "title": "Semenyo nets on debut as City fires 10 past Exeter",
-        "url": "https://www.beinsports.com/en-au/football/fa-cup/articles-video/semenyo-nets-on-debut-as-city-fires-10-past-exeter-2026-01-10",
-        "source": "beIN SPORTS",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfQ4i8cmULPo1CoRHtG9qoWjrnHTIJ7-sCO02xTIIRdfwvMHgvCPRbUzZDokA"
       }
     ],
     "regions": [
@@ -4362,16 +4362,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -4429,7 +4429,37 @@
   },
   {
     "title": "matt pokora",
-    "traffic_num": 500,
+    "traffic_num": 200,
+    "pub_date": "2026-01-10T13:10:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs75j0e1zLDUtRl_Kvf6jra66dwX9_09NxZHV3b3Hh34jyDaxE0gQ-NduaNTg",
+    "news": [
+      {
+        "title": "Quand Jonathan Jenvrin (Star Academy) rencontre Matt Pokora…. on voit double : la preuve en photo !",
+        "url": "https://www.gala.fr/l_actu/news_de_stars/quand-jonathan-jenvrin-star-academy-rencontre-matt-pokora-on-voit-double-la-preuve-en-photo-20260111",
+        "source": "Gala",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs75j0e1zLDUtRl_Kvf6jra66dwX9_09NxZHV3b3Hh34jyDaxE0gQ-NduaNTg"
+      },
+      {
+        "title": "Jonathan Jenvrin, le danseur surdoué et nouveau professeur de la Star Academy révèle ses ambitions: \"Je suis bluffé par leurs prestations\"",
+        "url": "https://www.parismatch.be/culture/medias/2026/01/10/jonathan-jenvrin-le-danseur-surdoue-et-nouveau-professeur-de-la-star-academy-revele-ses-ambitions-je-suis-bluffe-par-leurs-prestations-BCFYP2HCGRHHBAHUDZWVNM2EMU/",
+        "source": "parismatch.be",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAfOlMWdgmClvzRdmAuhC61uKrzpufWOtSQj2414uY-RujuzG6kYWL7JBIoIU"
+      },
+      {
+        "title": "Star Academy 2025 - Le défi de Jon : le tableau de Bastiaan sur « Blinding Lights » de The Weeknd",
+        "url": "https://www.tf1.fr/tf1/star-academy/videos/star-academy-2025-le-defi-de-jon-le-tableau-de-bastiaan-sur-blinding-lights-de-the-weeknd-72665791.html",
+        "source": "TF1+",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWtRh0Bgi1PnP5qz2YwCgKmJOsQntuZttpuguonjOxJJJn3vYSFS40s06odL4"
+      }
+    ],
+    "regions": [
+      "Lower Normandy"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "jonathan jenvrin",
+    "traffic_num": 200,
     "pub_date": "2026-01-10T13:10:00-08:00",
     "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWtRh0Bgi1PnP5qz2YwCgKmJOsQntuZttpuguonjOxJJJn3vYSFS40s06odL4",
     "news": [
@@ -4596,36 +4626,6 @@
     "country": "France"
   },
   {
-    "title": "angers – toulouse",
-    "traffic_num": 100,
-    "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmu13zwmfmcnIYJx1At3PsarVrZxmWnlSmIz2JRo7uT-ds0KJVP7QBKaUn21k",
-    "news": [
-      {
-        "title": "ANALYSE. TFC : Haug brille au soleil couchant ! On vous explique pourquoi le gardien toulousain est le héros de la qualification à Angers",
-        "url": "https://www.ladepeche.fr/2026/01/11/analyse-tfc-haug-brille-au-soleil-couchant-on-vous-explique-pourquoi-le-gardien-toulousain-est-le-heros-de-la-qualification-a-angers-13155274.php",
-        "source": "ladepeche.fr",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmu13zwmfmcnIYJx1At3PsarVrZxmWnlSmIz2JRo7uT-ds0KJVP7QBKaUn21k"
-      },
-      {
-        "title": "Toulouse vient à bout d'Angers",
-        "url": "https://www.sports.fr/football/coupe-de-france/toulouse-vient-a-bout-dangers-980854.html",
-        "source": "Sports.fr",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTv196T6-vz_8pyW3kmW5qIOi8FtPyIt6G2dwVT5lrX3rIR_25dWXUk4V1wjnE"
-      },
-      {
-        "title": "Coupe de France. Angers Sco ne méritait ni mieux ni autre chose face à Toulouse",
-        "url": "https://www.ouest-france.fr/sport/football/angers-sco/coupe-de-france-angers-sco-ne-meritait-ni-mieux-ni-autre-chose-face-a-toulouse-3ceb46f2-ee59-11f0-a051-5e965463f148",
-        "source": "Ouest-France",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuz7T7Q01Cd8nLXdVx8rZCBvFyffvRBM78TWXcND1JC7E4-Hf6gWeiwqYO-ro"
-      }
-    ],
-    "regions": [
-      "Lower Normandy"
-    ],
-    "country": "France"
-  },
-  {
     "title": "virement impots",
     "traffic_num": 500,
     "pub_date": "2026-01-10T21:10:00-08:00",
@@ -4674,10 +4674,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -4719,25 +4719,25 @@
     "title": "julie bourges",
     "traffic_num": 100,
     "pub_date": "2026-01-10T16:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E",
     "news": [
       {
         "title": "Incendie mortel à Crans-Montana : porte verrouillée, mousse acoustique… Qu’a raconté le gérant du bar aux enquêteurs ?",
         "url": "https://www.sudouest.fr/faits-divers/incendie-mortel-a-crans-montana-porte-verrouillee-mousse-acoustique-qu-a-raconte-le-gerant-du-bar-aux-enqueteurs-27367892.php",
         "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E"
       },
       {
-        "title": "Incendie à Crans-Montana : \"C’est le drame de ma vie\", ce que les propriétaires du bar Le Constellation ont confié aux enquêteurs juste après le drame",
-        "url": "https://www.midilibre.fr/2026/01/11/incendie-a-crans-montana-cest-le-drame-de-ma-vie-ce-que-les-proprietaires-du-bar-le-constellation-ont-confie-aux-enqueteurs-juste-apres-le-drame-13155620.php",
-        "source": "Midi Libre",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv1CnBOCmWpBOGFyYa9UQXahDBWBbSAsu9d5A7pOSQ0NR7nnYFuN2COlBrRNc"
+        "title": "\"Ça fait dix ans que nous faisons cela\" : Jacques Moretti se confie sur l'utilisation des feux de Bengale après l'incendire de Crans-Montana",
+        "url": "https://fr.style.yahoo.com/%C3%A7a-fait-dix-ans-faisons-090751089.html",
+        "source": "Yahoo Life France",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwrHbeCDz0ze7jsV_IiAEeDoZvG7v9fD2fMVGxbfwMt4iMT-23_ITPDuQnpL4"
       },
       {
-        "title": "Le patron du Constellation a confirmé que la porte de service du rez-de-chaussée était verrouillée",
-        "url": "https://www.rts.ch/info/regions/valais/2026/article/incendie-du-constellation-patron-confirme-porte-de-secours-verrouillee-29114171.html",
-        "source": "rts.ch",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiz0hKgcINA7WZWjvHmqoS7W41Q2pPwx6-7m95ezc7cCiyN1TDrc0tZBRrouM"
+        "title": "Banditisme, patrimoine : ces zones d'ombre autour du gérant du bar incendié à Crans-Montana",
+        "url": "https://www.marianne.net/societe/police-et-justice/banditisme-patrimoine-ces-zones-d-ombre-autour-du-gerant-du-bar-incendie-a-crans-montana",
+        "source": "Marianne",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSShM_j4BhRqtuuubIQNBV9oOCMrs6qA9ZzrYScPRqSC5yn6kLB1_wWL5aMUi8"
       }
     ],
     "regions": [
@@ -4818,16 +4818,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -4902,10 +4902,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
       },
       {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
+        "title": "FA Cup - Liam Rosenior réussit sa première avec Chelsea contre Charlton au troisième tour (5-1)",
+        "url": "https://www.eurosport.fr/football/the-emirates-fa-cup/2025-2026/fa-cup-liam-rosenior-reussit-sa-premiere-avec-chelsea-contre-charlton-au-troisieme-tour-5-1_sto23257762/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNLvXhxK4vl8gIIGn1yQKDkiJ1w_Qbi1ksI6yqRxp8lon6yHhE2i1PDd5rlc"
       }
     ],
     "regions": [
@@ -4926,16 +4926,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -4962,10 +4962,10 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOhFTMwa5b4crDhGFow0JKNw51RU_DWe4jWu0rEYb5yqbEE_KFXtKaB9AIVFY"
       },
       {
-        "title": "FA Cup : Chelsea assure brillamment sa qualification face à Charlton",
-        "url": "https://www.footmercato.net/a2506585288942881528-fa-cup-chelsea-assure-brillamment-sa-qualification-face-a-charlton",
-        "source": "Foot Mercato",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbJy5YT17VXU8_RxJXC_HbqZNdTP0n5Bkljq4mB51dQFlMbp83UWOmAZLSu4s"
+        "title": "FA Cup - Liam Rosenior réussit sa première avec Chelsea contre Charlton au troisième tour (5-1)",
+        "url": "https://www.eurosport.fr/football/the-emirates-fa-cup/2025-2026/fa-cup-liam-rosenior-reussit-sa-premiere-avec-chelsea-contre-charlton-au-troisieme-tour-5-1_sto23257762/story.shtml",
+        "source": "Eurosport",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNLvXhxK4vl8gIIGn1yQKDkiJ1w_Qbi1ksI6yqRxp8lon6yHhE2i1PDd5rlc"
       }
     ],
     "regions": [
@@ -5112,16 +5112,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -5133,13 +5133,13 @@
     "title": "saint-quentin – le portel",
     "traffic_num": 200,
     "pub_date": "2026-01-10T10:00:00-08:00",
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4nye-UekWGkBmXJSsawzXJl8eHvEp87iItrLTPnkShnbFM7sAHKyAx6J2SQ",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyESQZbIRaOqDApcFjk0bO17qZzogtJywbBEL-XKZpvScew-1D0FJfVQWvu1c",
     "news": [
       {
-        "title": "Basket-ball (Betclic Élite) : Cat Barber en feu, le SQBB s’embrase en seconde mi-temps",
-        "url": "https://www.aisnenouvelle.fr/id688231/article/2026-01-10/basket-ball-betclic-elite-cat-barber-en-feu-le-sqbb-sembrase-en-seconde-mi-temps",
+        "title": "Basket-ball (Betclic Élite) : découvrez les réactions après SQBB – Le Portel",
+        "url": "https://www.aisnenouvelle.fr/id688235/article/2026-01-10/basket-ball-betclic-elite-decouvrez-les-reactions-apres-sqbb-le-portel",
         "source": "L'Aisne nouvelle",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4nye-UekWGkBmXJSsawzXJl8eHvEp87iItrLTPnkShnbFM7sAHKyAx6J2SQ"
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyESQZbIRaOqDApcFjk0bO17qZzogtJywbBEL-XKZpvScew-1D0FJfVQWvu1c"
       },
       {
         "title": "Basket-ball (Betclic Élite) : soulagement à Pierre-Ratte, le SQBB respire encore",
@@ -5172,10 +5172,10 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSVnxPJmov28Ew0YyWp2Th7XWj3lthvKG47vRFxcHjb8yv8cAB0iGNZmzeuRc"
       },
       {
-        "title": "Le Puy Football 43 Auvergne - Stade de Reims en direct - Coupe de France : Football Scores & Résultats - 10/01/2026",
-        "url": "https://www.eurosport.fr/football/coupe-de-france/2025-2026/live-le-puy-football-43-auvergne-stade-de-reims_mtc1649591/live.shtml",
-        "source": "Eurosport",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9WatTNNDMA1d5AlTI2V6yLq27_RTJo4_lmDwvrxdTavFKk05xspImqfNFA1E"
+        "title": "Coupe de France : Quand le point de penalty est impossible à trouver : Sports - Orange",
+        "url": "https://sports.orange.fr/football/coupe-de-france/article/coupe-de-france-quand-le-point-de-penalty-est-impossible-a-trouver-exclu-CNT000002mA7BZ.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTikwo1HdxWBQ2e-n8RLkkiO68BTSRFHvXfmb0TWh20HpyzlR00gRpdd49AaHI"
       },
       {
         "title": "Pourquoi l'unité Grimp des pompiers est intervenue en plein match de Coupe de France entre Le Puy Foot et Reims",
@@ -5202,16 +5202,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPv8bV4JLjDj3FUJqR2KapyoXdrFgXBPzZMmddTN7hrWEUZV0TZjdaixPkA9s"
       },
       {
-        "title": "« Star Academy » : « Ça a changé ma vie »… Anouk, très émue, éliminée aux portes des demi-finales",
-        "url": "https://www.20minutes.fr/arts-stars/television/4195398-20260111-star-academy-ca-change-vie-anouk-tres-emue-eliminee-portes-demi-finales",
-        "source": "20 Minutes",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPCda6egNe6UqUFxxbOdi0rA16CD0eqmE3D0YIMc_Kf2W-8AUmkzYB_CQKRA"
-      },
-      {
         "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
         "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
         "source": "TF1 Info",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
+      },
+      {
+        "title": "\"Nous entrons dans la dernière ligne droite\" : ce message de la production de la Star Academy aux téléspectateurs, quelques semaines avant la finale de l’émission",
+        "url": "https://www.purepeople.com/article/nous-entrons-dans-la-derniere-ligne-droite-ce-message-de-la-production-de-la-star-academy-aux-telespectateurs-quelques-semaines-avant-la-finale-de-l-emission_a546300/1",
+        "source": "Purepeople",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMR_zcn1pkjB5LM85qG5Fm0MKetUzPZMBDZJEVQjnjxhVDnYT4qNTmZs8eu-8"
       }
     ],
     "regions": [
@@ -5232,16 +5232,16 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
       }
     ],
     "regions": [
@@ -5364,16 +5364,16 @@
         "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcwroIQcrPrlq3T4s-80gRHvkfMCWvA0jYALkcJuBvLdFaMalu5TRUbDlNRgY"
       },
       {
-        "title": "CAN - Egypte - Salah : « J'attends ce titre » : Sports - Orange",
-        "url": "https://sports.orange.fr/football/can/article/can-egypte-salah-j-attends-ce-titre-exclu-CNT000002mzYBZ.html",
-        "source": "Sports - Orange",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSRZJdHYAtZFRtmibhcQvl7zlL9rym_Bx0xYpbHVFrIONNymdErsCJeOyYN90"
+        "title": "À 5 mois d’affronter les Diables au Mondial, l’Égypte tient enfin son match référence",
+        "url": "https://www.rtbf.be/article/a-5-mois-d-affronter-les-diables-au-mondial-l-egypte-tient-enfin-son-match-reference-11656662",
+        "source": "RTBF",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmut3La3lWn4aMOk8k3uqioephH6Gm-WXi82Gon66WJb7O6NraUW5a2voJmw"
       },
       {
-        "title": "Egypte-Côte d’Ivoire : revivez l’élimination des tenants du titre par les Pharaons de Mohamed, en quarts de finale de la CAN 2025",
-        "url": "https://www.lemonde.fr/afrique/live/2026/01/10/en-direct-egypte-cote-d-ivoire-suivez-le-quart-de-finale-de-la-can-2025_6661314_3212.html",
-        "source": "Le Monde.fr",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBqDBnWGIXSnvnOjDbmRyx7J25-qKhhO-dYihhrxx3LCXMWry3JGkHl5fzWrQ"
+        "title": "CAN 2025 (Quarts de finale) : L'Égypte s'offre la Côte d'Ivoire, tenante du titre : Sports - Orange",
+        "url": "https://sports.orange.fr/football/can/debrief/can-2025-quarts-de-finale-l-egypte-s-offre-la-cote-d-ivoire-tenante-du-titre-CNT000002mzzyt.html",
+        "source": "Sports - Orange",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Mgf5ckAdzoXCGqNXpmzaJbssu4dxmJNxyPs7Ap-R6eJ48SbSXyEsle2xvUE"
       }
     ],
     "regions": [
@@ -5439,8 +5439,14 @@
     "title": "leinster – la rochelle",
     "traffic_num": 5000,
     "pub_date": "2026-01-10T09:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXWF_1um5F8Mi7jjUwpHywLGnzAq2eV6Dbwvia9XBSozLNSXXwGY7ycvymcSk",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz6zhwbb_t9d777AT92NpCY35hrEZHHFw18IwhQ6Fje0Q0bwQu9mKT2_1ETh0",
     "news": [
+      {
+        "title": "Un scénario cruel : La Rochelle s'incline contre le Leinster sur une pénalité à la dernière seconde",
+        "url": "https://www.lequipe.fr/Rugby/Actualites/Un-scenario-cruel-la-rochelle-s-incline-contre-le-leinster-sur-une-penalite-a-la-derniere-seconde/1632616",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz6zhwbb_t9d777AT92NpCY35hrEZHHFw18IwhQ6Fje0Q0bwQu9mKT2_1ETh0"
+      },
       {
         "title": "Champions Cup (J3) : La Rochelle s'incline de peu face au Leinster : Sports - Orange",
         "url": "https://sports.orange.fr/rugby/coupes-europe/champions-cup/article/champions-cup-j3-la-rochelle-s-incline-de-peu-face-au-leinster-CNT000002mzyTP.html",
@@ -5448,50 +5454,14 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXWF_1um5F8Mi7jjUwpHywLGnzAq2eV6Dbwvia9XBSozLNSXXwGY7ycvymcSk"
       },
       {
-        "title": "Leinster 25-24 La Rochelle : \"De la fierté mais pas de satisfaction\" pour Alldritt après la défaite rochelaise",
-        "url": "https://rmcsport.bfmtv.com/rugby/video-leinster-25-24-la-rochelle-de-la-fierte-mais-pas-de-satisfaction-pour-alldritt-apres-la-defaite-rochelaise_VN-202601110114.html",
-        "source": "RMC Sport",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT30KaN4C_uhy9j4E3ms6H-a5uE2aHka7v39dtx_mUhHPF5ywZ8Z_fc6FHLk3A"
-      },
-      {
-        "title": "Champions Cup : le Stade Rochelais, brillant et maladroit face au Leinster, ne doit pas dévier de ce chemin",
-        "url": "https://www.sudouest.fr/sport/rugby/stade-rochelais/champions-cup-le-stade-rochelais-brillant-et-maladroit-face-au-leinster-ne-doit-pas-devier-de-ce-chemin-27365107.php",
+        "title": "« On n’a pas perdu un titre ce soir » : Grégory Alldritt et les Rochelais ne sont ni abattus, ni satisfaits après leur défaite face au Leinster",
+        "url": "https://www.sudouest.fr/sport/rugby/stade-rochelais/on-n-a-pas-perdu-un-titre-ce-soir-gregory-alldritt-et-les-rochelais-ne-sont-ni-abattus-ni-satisfaits-apres-leur-defaite-face-au-leinster-27365182.php",
         "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp0Gc01csrR-8kWyDPhUmuLP1ooXr7ZKZenTIabaeI-XUKyxqJroeAmZ4edpg"
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFHVEWTwS9K_HZhldqK6gAAOZ-EqjZCFlmsnDYTYtzSoQE_GLsCt_nDo0SgFI"
       }
     ],
     "regions": [
       "Poitou-Charentes"
-    ],
-    "country": "France"
-  },
-  {
-    "title": "qui est parti star academy",
-    "traffic_num": 2000,
-    "pub_date": "2026-01-10T23:20:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM",
-    "news": [
-      {
-        "title": "REVIVEZ - \"Star Academy\" : Victor ou Anouk ? Découvrez le verdict choc !",
-        "url": "https://www.tf1info.fr/culture/video-streaming-gratuit-programme-tv-tf1-en-direct-prime-star-academy-qui-de-anouk-ou-victor-va-quitter-l-aventure-2417887.html",
-        "source": "TF1 Info",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
-      },
-      {
-        "title": "Star Academy : quel élève a décroché sa place pour les demi-finales lors du prime diffusé samedi 10 janvier",
-        "url": "https://www.voici.fr/tele-realite/star-academy-quel-eleve-a-decroche-sa-place-pour-les-demi-finales-lors-du-prime-diffuse-samedi-10-janvier-817655",
-        "source": "Voici",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl8-RHNrQjFZlcx8m319_OXEBMXtfCV7R4T1wDTELm8qQkDctyWfUqV128GMs"
-      },
-      {
-        "title": "« Star Academy » : « C’est une masterclass », nos tops et flops de ce treizième prime",
-        "url": "https://www.lavoixdunord.fr/1663856/article/2026-01-11/star-academy-c-est-une-masterclass-nos-tops-et-flops-de-ce-treizieme-prime",
-        "source": "La Voix du Nord",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Z68jVITPSnz6yOeICfy-PdjWobXzEOWA1_88rXl44DFAoeVTBZr56e2bCdg"
-      }
-    ],
-    "regions": [
-      "Provence-Alpes-Cote dAzur"
     ],
     "country": "France"
   },
@@ -5604,10 +5574,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [
@@ -5649,13 +5619,13 @@
     "title": "julie bourges",
     "traffic_num": 200,
     "pub_date": "2026-01-10T15:40:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E",
     "news": [
       {
         "title": "Incendie mortel à Crans-Montana : porte verrouillée, mousse acoustique… Qu’a raconté le gérant du bar aux enquêteurs ?",
         "url": "https://www.sudouest.fr/faits-divers/incendie-mortel-a-crans-montana-porte-verrouillee-mousse-acoustique-qu-a-raconte-le-gerant-du-bar-aux-enqueteurs-27367892.php",
         "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E"
       },
       {
         "title": "Banditisme, patrimoine : ces zones d'ombre autour du gérant du bar incendié à Crans-Montana",
@@ -5748,16 +5718,34 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpF6kRrMy_KzfnCiOZIrcxGBQxASqP1o6dUPWrYIkDDCDnTwcSmzJZViGk-AQ"
       },
       {
-        "title": "Francis Huster envahi par l’émotion face aux mots bouleversants de Pierre Arditi : “On a les mêmes larmes”",
-        "url": "https://www.gala.fr/culture/television/francis-huster-envahi-par-l-emotion-face-aux-mots-bouleversants-de-pierre-arditi-on-a-les-memes-larmes-20260111",
-        "source": "Gala",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrDc5W7qXxTukUCaFjmWnSG4QaEqZeGeNiva35AgBcBv2210ZlG5wUTIj4Gu8"
+        "title": "L'anecdote scotchante de Francis Huster sur Brigitte Bardot dans Quelle époque !",
+        "url": "https://www.sudouest.fr/diverto-tv/videos/2026/01/11/35x33sz",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9eV_1ER47uFnPAT38iLjruWPqy2YECIcYZ78QBc4WWQCiXHe3zEet2_IP2Ws"
       },
       {
-        "title": "Pierre ARDITI en dédicace à Rennes",
-        "url": "https://abp.bzh/pierre-arditi-en-dedicace-a-rennes--73022",
-        "source": "Agence Bretagne Presse",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuyAHU_chGbidI4AP6GLLHPV_pa7OXfrbXdwQbfeLfBnegpoLJCG0CxRE7mo"
+        "title": "Quelle époque : \"J'avais tellement peur d'être ridicule\" l'anecdote scotchante de Francis Huster sur Brigitte Bardot",
+        "url": "https://www.diverto.tv/actualites/tele/quelle-epoque-j-avais-tellement-peur-d-etre-ridicule-l-anecdote-scotchante-de-francis-huster-sur-brigitte-bardot",
+        "source": "Diverto",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdduqoiDV4inpQ7_AUDgE3-JD9MqSOxOTCjN70aalaepEju4AxPeUstqEsFj4"
+      }
+    ],
+    "regions": [
+      "Provence-Alpes-Cote dAzur"
+    ],
+    "country": "France"
+  },
+  {
+    "title": "nadiya",
+    "traffic_num": 1000,
+    "pub_date": "2026-01-10T13:40:00-08:00",
+    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk4D--L7ezu3GA29RNL9rWFG3scZyY_D0GHl3UaqhSCvOKmYFA3yYnKuZDGgY",
+    "news": [
+      {
+        "title": "\"Je ne vois pas le rapport\" : Nâdiya révèle pourquoi elle a failli passer à côté de son duo à succès avec Enrique Iglesias",
+        "url": "https://www.programme-tv.net/news/musique/395610-je-ne-vois-pas-le-rapport-nadiya-revele-pourquoi-elle-a-failli-passer-a-cote-de-son-duo-a-succes-avec-enrique-iglesias/",
+        "source": "Télé-Loisirs",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk4D--L7ezu3GA29RNL9rWFG3scZyY_D0GHl3UaqhSCvOKmYFA3yYnKuZDGgY"
       }
     ],
     "regions": [
@@ -5767,27 +5755,27 @@
   },
   {
     "title": "biathlon programme",
-    "traffic_num": 500,
+    "traffic_num": 1000,
     "pub_date": "2026-01-11T00:10:00-08:00",
-    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI8ld9_QhbU2C6NyTfDMPbnX7lyksX_dow-jUZK1_5YLL-rzfdFB0ttggo0lc",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrqdOgusWezUYSTyvE58_nz9z-RlDjrArs5SREl1qa2WZ7xVJT0ka61HWCuY",
     "news": [
       {
-        "title": "DIRECT. Biathlon : suivez le relais hommes de la manche de Coupe du monde d’Oberhof en live",
-        "url": "https://www.ouest-france.fr/sport/biathlon/direct-biathlon-suivez-le-relais-hommes-de-la-manche-de-coupe-du-monde-doberhof-en-live-2202f71b-964d-4a91-89a6-5e7ec03eb536",
-        "source": "Ouest-France",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI8ld9_QhbU2C6NyTfDMPbnX7lyksX_dow-jUZK1_5YLL-rzfdFB0ttggo0lc"
+        "title": "Coupe du monde 2025-2026 (Oberhof) de Biathlon, relais (H) en direct",
+        "url": "https://www.lequipe.fr/Biathlon/epreuve-en-direct/coupe-du-monde-oberhof-2026/relais-h-live/500000000085940",
+        "source": "L'Équipe",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNrqdOgusWezUYSTyvE58_nz9z-RlDjrArs5SREl1qa2WZ7xVJT0ka61HWCuY"
       },
       {
-        "title": "EN DIRECT Biathlon : Cette fois, les Bleus veulent croquer la Norvège... Suivez le relais hommes avec nous",
+        "title": "EN DIRECT Biathlon : Le duel avec la Norvège est lancé, est-ce qu'il va enf…",
         "url": "https://www.20minutes.fr/sport/biathlon/4195130-20260111-direct-biathlon-fois-bleus-veulent-croquer-norvege-suivez-relais-hommes",
         "source": "20 Minutes",
         "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc3Yfp93VQBZp5luHcVknaFwqYJrgFzwurmD8G9GG5sywEWL9mzIxwzL2AaZw"
       },
       {
-        "title": "Les Françaises écrasent le relais à Oberhof pour la première sélection de Julia Simon depuis son retour de suspension",
-        "url": "https://www.lequipe.fr/Biathlon/Actualites/Les-francaises-ecrasent-le-relais-a-oberhof-pour-la-premiere-selection-de-julia-simon-depuis-son-retour-de-suspension/1632519",
-        "source": "L'Équipe",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2oAE_L_XwaZRlzk0XRD4u5Gr-56ptjfTAFDgOXViJ8K4NGXTXZZmxVB_JvjY"
+        "title": "Défaite de La Rochelle et de Bayonne, victoire de Pau, tensions après la défaite de l’Algérie à la CAN... Revivez les temps forts sportifs de ce samedi",
+        "url": "https://www.sudouest.fr/sport/rugby/coupe-d-europe-de-rugby/direct-la-rochelle-pau-et-bayonne-en-champions-cup-quarts-de-finale-de-la-can-coupe-de-france-biathlon-suivez-les-temps-forts-sportifs-de-ce-samedi-10-janvier-27363108.php",
+        "source": "Sud Ouest",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy3bBePeq1qj0qxU-L_PB0_QCoLpMmb8IhgO6U0HYglipvZKsRuIEpJOlQ884"
       }
     ],
     "regions": [
@@ -5913,13 +5901,13 @@
     "title": "val thorens",
     "traffic_num": 100,
     "pub_date": "2026-01-10T22:30:00-08:00",
-    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIRfOiI7OF1x-3Qxvx4qeez74e53BHk1l6ziN0AEo7ad6GckgcitwqwkXV5N8",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4b3A5s-ls-_c6FssHqXhQBm__1LPD4K6Nc6znT8HvhUVaZaa5Rs5fIjOLTg",
     "news": [
       {
-        "title": "Neige et verglas dans l'est jusqu'en plaine",
-        "url": "https://actualite.lachainemeteo.com/alerte-meteo/9039-neige-et-verglas-dans-l-est-jusqu-en-plaine",
-        "source": "La Chaîne Météo",
-        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIRfOiI7OF1x-3Qxvx4qeez74e53BHk1l6ziN0AEo7ad6GckgcitwqwkXV5N8"
+        "title": "En Savoie, 800 personnes mises à l’abri dans des centres d’hébergement pour la nuit à cause des bouchons",
+        "url": "https://www.franceinfo.fr/france/auvergne-rhone-alpes/savoie/en-savoie-800-personnes-mises-a-l-abri-dans-des-centres-d-hebergement-pour-la-nuit-a-cause-des-bouchons_7734481.html",
+        "source": "France Info",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4b3A5s-ls-_c6FssHqXhQBm__1LPD4K6Nc6znT8HvhUVaZaa5Rs5fIjOLTg"
       },
       {
         "title": "Savoie. Plus de 800 naufragés de la route accueillis à Moûtiers : tous sont repartis",
@@ -5928,10 +5916,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPf4gfd41dXIV-DT8u4W_pIOGCynbsbjJXh2Wvc9y72tb6C0Gu2GR6RwyWqs"
       },
       {
-        "title": "400 personnes à héberger en urgence : une très longue soirée pour les \"naufragés de la neige\"",
-        "url": "https://www.midilibre.fr/2026/01/10/400-personnes-a-heberger-en-urgence-une-tres-longue-soiree-pour-les-naufrages-de-la-neige-13154631.php",
-        "source": "Midi Libre",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFhwQfijUULlNbMZiqS8pzG8wqfqG57qGpFbvF81ZVmUmG3chJvDbwcH0PeVw"
+        "title": "Neige et verglas dans l'est jusqu'en plaine",
+        "url": "https://actualite.lachainemeteo.com/alerte-meteo/9039-neige-et-verglas-dans-l-est-jusqu-en-plaine",
+        "source": "La Chaîne Météo",
+        "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIRfOiI7OF1x-3Qxvx4qeez74e53BHk1l6ziN0AEo7ad6GckgcitwqwkXV5N8"
       }
     ],
     "regions": [
@@ -5952,16 +5940,16 @@
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtU4_dvDc-qPhJxWgmRCEI8q7m-B_7yTRLjkipPbzlmLipEYMTTfC5xmv2xGM"
       },
       {
-        "title": "Star Academy : quel élève a décroché sa place pour les demi-finales lors du prime diffusé samedi 10 janvier",
-        "url": "https://www.voici.fr/tele-realite/star-academy-quel-eleve-a-decroche-sa-place-pour-les-demi-finales-lors-du-prime-diffuse-samedi-10-janvier-817655",
-        "source": "Voici",
-        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl8-RHNrQjFZlcx8m319_OXEBMXtfCV7R4T1wDTELm8qQkDctyWfUqV128GMs"
-      },
-      {
         "title": "« Star Academy » : « C’est une masterclass », nos tops et flops de ce treizième prime",
         "url": "https://www.lavoixdunord.fr/1663856/article/2026-01-11/star-academy-c-est-une-masterclass-nos-tops-et-flops-de-ce-treizieme-prime",
         "source": "La Voix du Nord",
         "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9Z68jVITPSnz6yOeICfy-PdjWobXzEOWA1_88rXl44DFAoeVTBZr56e2bCdg"
+      },
+      {
+        "title": "Star Academy : Sarah \"bien boycottée\" durant le prime ? Ce détail n'a pas échappé aux internautes",
+        "url": "https://www.allocine.fr/tvactu/articles/article-1000184614.html",
+        "source": "AlloCiné",
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgfgBXcjX4OgyyDgdVjr-4hYwqIM3lDYSwJzy5We-e9zThmurLnigY025Avqs"
       }
     ],
     "regions": [
@@ -6003,13 +5991,13 @@
     "title": "jessica moretti",
     "traffic_num": 500,
     "pub_date": "2026-01-10T21:00:00-08:00",
-    "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI",
+    "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E",
     "news": [
       {
         "title": "Incendie mortel à Crans-Montana : porte verrouillée, mousse acoustique… Qu’a raconté le gérant du bar aux enquêteurs ?",
         "url": "https://www.sudouest.fr/faits-divers/incendie-mortel-a-crans-montana-porte-verrouillee-mousse-acoustique-qu-a-raconte-le-gerant-du-bar-aux-enqueteurs-27367892.php",
         "source": "Sud Ouest",
-        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy8A95hhKx-F6jCiZ5VSEWNTyltUD0hXmgZISlVi7TrEMNzD9FyvrsdyxfuiI"
+        "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVD3zwAspDEwhdEDkze8Jqaom97L-NlHlVAYwsp9kzlkc5QkCh2CJPI7-sU5E"
       },
       {
         "title": "Banditisme, patrimoine : ces zones d'ombre autour du gérant du bar incendié à Crans-Montana",
@@ -6048,10 +6036,10 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDMXdR34dI7uozLExldTE-11TErLdNivxQgtskwaIjtStQWjqG9DJr0g7FuIY"
       },
       {
-        "title": "Victor Wembanyama trop fort pour les Celtics !",
-        "url": "https://www.basketusa.com/news/804226/victor-wembanyama-trop-fort-pour-les-celtics/",
-        "source": "Basket USA",
-        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sTaso76FkRiQuAby6cbenIfuX5AIigYC1rTyTqaNay0qj-LW-Yd2yciu0sk"
+        "title": "Dennis Schroder suspendu 3 matchs par la NBA pour avoir tenté de frapper Luka Doncic",
+        "url": "https://trashtalk.co/2026/01/11/dennis-schroder-suspendu-3-matchs-par-la-nba-pour-avoir-tente-de-frapper-un-autre-joueur/",
+        "source": "TrashTalk",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvDLx5-B2Qt1Ao36gJ_f0DwAAHh3CFQ7QgEIvuYmwmuQxhq3dJguzZlIYGvo"
       }
     ],
     "regions": [

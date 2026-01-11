@@ -13279,3 +13279,107 @@
 2026-01-11 17:32:05,217 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-11.json，共 46 个条目
 2026-01-11 17:32:05,217 - INFO - 国家 Malaysia 的数据抓取和保存完成
 2026-01-11 17:32:05,218 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 23:00:00 +08)" executed successfully
+2026-01-11 18:00:00,015 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 11:30:00 CET)" (scheduled at 2026-01-11 11:00:00+01:00)
+2026-01-11 18:00:00,017 - INFO - Running job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:00:00 +07)" (scheduled at 2026-01-11 17:00:00+07:00)
+2026-01-11 18:00:00,020 - INFO - 开始抓取国家: France 的数据
+2026-01-11 18:00:00,023 - INFO - 开始抓取国家: Thailand 的数据
+2026-01-11 18:00:00,025 - INFO - Running job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:30:00 +07)" (scheduled at 2026-01-11 17:00:00+07:00)
+2026-01-11 18:00:00,029 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:00:00,034 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:00:00,040 - INFO - 开始抓取国家: Vietnam 的数据
+2026-01-11 18:00:00,043 - INFO - 开始拉取 France 的数据...
+2026-01-11 18:00:00,046 - INFO - 开始拉取 Thailand 的数据...
+2026-01-11 18:00:00,049 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:00:00,051 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-11 18:00:00,052 - INFO - 正在拉取 Thailand(all region) (TH) 的数据... (尝试 1/3)
+2026-01-11 18:00:00,055 - INFO - 开始拉取 Vietnam 的数据...
+2026-01-11 18:00:00,086 - INFO - 正在拉取 Vietnam(all regions) (VN) 的数据... (尝试 1/3)
+2026-01-11 18:00:05,209 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:00:05,217 - INFO - 总共拉取到 10 个新条目
+2026-01-11 18:00:05,223 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:00:05,224 - INFO - 国家 Vietnam 的数据抓取和保存完成
+2026-01-11 18:00:05,225 - INFO - Job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:30:00 +07)" executed successfully
+2026-01-11 18:00:05,995 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:00:06,003 - INFO - 总共拉取到 10 个新条目
+2026-01-11 18:00:06,003 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-11 18:00:06,017 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:00:06,019 - INFO - 国家 Thailand 的数据抓取和保存完成
+2026-01-11 18:00:06,023 - INFO - Job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:30:00 +07)" executed successfully
+2026-01-11 18:00:09,939 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-11 18:00:12,571 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-11 18:00:14,737 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-11 18:00:17,300 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-11 18:00:19,791 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-11 18:00:22,083 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-11 18:00:24,464 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-11 18:00:27,667 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-11 18:00:30,100 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-11 18:00:32,830 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-11 18:00:36,287 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-11 18:00:38,775 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-11 18:00:42,212 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-11 18:00:44,814 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-11 18:00:47,264 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-11 18:00:49,796 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-11 18:00:52,432 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-11 18:00:54,665 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-11 18:00:57,923 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-11 18:01:00,808 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-11 18:01:04,658 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-11 18:01:07,753 - INFO - 数据已保存到 JSONs\France\trends_2026-01-11.json，共 213 个条目
+2026-01-11 18:01:07,757 - INFO - 总共拉取到 213 个新条目
+2026-01-11 18:01:07,790 - INFO - 数据已保存到 JSONs\France\trends_2026-01-11.json，共 213 个条目
+2026-01-11 18:01:07,791 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-11 18:01:07,792 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 11:30:00 CET)" executed successfully
+2026-01-11 18:30:00,010 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:00:00 CET)" (scheduled at 2026-01-11 11:30:00+01:00)
+2026-01-11 18:30:00,011 - INFO - Running job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 23:00:00 +07)" (scheduled at 2026-01-11 17:30:00+07:00)
+2026-01-11 18:30:00,011 - INFO - Running job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 23:00:00 +07)" (scheduled at 2026-01-11 17:30:00+07:00)
+2026-01-11 18:30:00,015 - INFO - 开始抓取国家: France 的数据
+2026-01-11 18:30:00,017 - INFO - 开始抓取国家: Thailand 的数据
+2026-01-11 18:30:00,022 - INFO - 开始抓取国家: Vietnam 的数据
+2026-01-11 18:30:00,044 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:30:00,049 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:30:00,055 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-11 18:30:00,060 - INFO - 开始拉取 France 的数据...
+2026-01-11 18:30:00,074 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-11 18:30:00,108 - INFO - 开始拉取 Vietnam 的数据...
+2026-01-11 18:30:00,113 - INFO - 开始拉取 Thailand 的数据...
+2026-01-11 18:30:00,121 - INFO - 正在拉取 Vietnam(all regions) (VN) 的数据... (尝试 1/3)
+2026-01-11 18:30:00,122 - INFO - 正在拉取 Thailand(all region) (TH) 的数据... (尝试 1/3)
+2026-01-11 18:30:06,484 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:30:06,489 - INFO - 总共拉取到 10 个新条目
+2026-01-11 18:30:06,496 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:30:06,497 - INFO - 国家 Vietnam 的数据抓取和保存完成
+2026-01-11 18:30:06,498 - INFO - Job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 23:00:00 +07)" executed successfully
+2026-01-11 18:30:07,324 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-11 18:30:07,618 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:30:07,623 - INFO - 总共拉取到 10 个新条目
+2026-01-11 18:30:07,628 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-11.json，共 10 个条目
+2026-01-11 18:30:07,631 - INFO - 国家 Thailand 的数据抓取和保存完成
+2026-01-11 18:30:07,632 - INFO - Job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 23:00:00 +07)" executed successfully
+2026-01-11 18:30:11,142 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-11 18:30:14,770 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-11 18:30:17,932 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-11 18:30:20,464 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-11 18:30:23,469 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-11 18:30:25,787 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-11 18:30:30,499 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-11 18:30:33,252 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-11 18:30:35,741 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-11 18:30:38,409 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-11 18:30:41,001 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-11 18:30:44,388 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-11 18:30:47,621 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-11 18:30:50,647 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-11 18:30:53,349 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-11 18:30:55,692 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-11 18:30:58,080 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-11 18:31:00,650 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-11 18:31:03,752 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-11 18:31:06,635 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-11 18:31:09,061 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-11 18:31:12,025 - INFO - 数据已保存到 JSONs\France\trends_2026-01-11.json，共 213 个条目
+2026-01-11 18:31:12,031 - INFO - 总共拉取到 213 个新条目
+2026-01-11 18:31:12,075 - INFO - 数据已保存到 JSONs\France\trends_2026-01-11.json，共 213 个条目
+2026-01-11 18:31:12,076 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-11 18:31:12,078 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-11 17:00:00 CET)" executed successfully
