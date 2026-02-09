@@ -20,6 +20,9 @@ streamlit>=1.30.0
 tiktoken>=0.5.0
 openai>=1.10.0
 
+ison-py
+isonantic 
+
 # 版本兼容性说明
 # - requests 2.31.0+ 兼容 urllib3 2.1.0+
 # - pandas 2.2.0+ 兼容 matplotlib 3.8.0+ 和 seaborn 0.13.0+
