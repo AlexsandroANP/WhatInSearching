@@ -22611,3 +22611,1177 @@
 2026-01-17 14:30:14,223 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-17.json，共 40 个条目
 2026-01-17 14:30:14,224 - INFO - 国家 Australia 的数据抓取和保存完成
 2026-01-17 14:30:14,225 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 AEDT)" executed successfully
+2026-01-17 17:00:00,017 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 +08)" (scheduled at 2026-01-17 17:00:00+08:00)
+2026-01-17 17:00:00,019 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-17 17:00:00,020 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 17:00:00,020 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-17 17:00:00,020 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-17 17:00:04,749 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-17 17:00:05,217 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:00:07,193 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:00:08,194 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-17 17:00:08,846 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:00:09,861 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:00:11,862 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-17 17:00:12,963 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:00:14,095 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-17 17:00:15,894 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-17 17:00:16,333 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:00:18,201 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:00:19,203 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-17 17:00:19,628 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:00:20,967 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:00:22,968 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-17 17:00:23,404 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:00:25,044 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-17 17:00:26,999 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-17 17:00:27,418 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:00:28,493 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:00:29,495 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-17 17:00:29,923 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:00:31,684 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:00:33,685 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-17 17:00:34,338 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:00:35,410 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-17 17:00:37,061 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-17 17:00:37,477 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:00:39,427 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:00:40,428 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-17 17:00:40,854 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:00:41,903 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:00:43,904 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-17 17:00:44,327 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:00:46,128 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-17 17:00:47,713 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-17 17:00:48,138 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:00:49,670 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:00:50,670 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-17 17:00:51,102 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:00:52,424 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:00:54,426 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-17 17:00:54,847 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:00:56,366 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-17 17:00:58,204 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-17 17:00:58,857 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:01:00,311 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:01:01,313 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-17 17:01:02,356 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:01:03,888 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:01:05,889 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-17 17:01:06,558 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:01:07,624 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-17 17:01:09,079 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-17 17:01:09,503 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:01:11,130 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:01:12,131 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-17 17:01:12,781 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:01:14,000 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:01:16,001 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-17 17:01:16,426 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:01:18,424 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-17 17:01:19,940 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-17 17:01:20,372 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:01:21,845 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:01:22,846 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-17 17:01:23,893 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:01:25,152 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:01:27,153 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-17 17:01:27,802 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:01:29,481 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-17 17:01:31,208 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-17 17:01:31,629 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:01:33,599 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:01:34,600 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-17 17:01:35,021 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:01:36,135 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:01:38,136 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-17 17:01:38,557 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:01:40,535 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-17 17:01:42,386 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-17 17:01:45,041 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-17 17:01:47,413 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-17 17:01:50,155 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-17 17:01:52,671 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-17 17:01:54,736 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-17 17:01:57,152 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-17 17:01:59,210 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-17.json，共 41 个条目
+2026-01-17 17:01:59,212 - INFO - 总共拉取到 41 个新条目
+2026-01-17 17:01:59,221 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-17.json，共 41 个条目
+2026-01-17 17:01:59,221 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-17 17:01:59,221 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 +08)" executed successfully
+2026-01-17 17:30:00,006 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +08)" (scheduled at 2026-01-17 17:30:00+08:00)
+2026-01-17 17:30:00,008 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-17 17:30:00,011 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 17:30:00,013 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-17 17:30:00,015 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-17 17:30:05,492 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-17 17:30:05,960 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:30:07,920 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:30:08,921 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-17 17:30:09,363 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:30:10,389 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:30:12,390 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-17 17:30:12,829 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-17 17:30:14,665 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-17 17:30:16,271 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-17 17:30:16,711 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:30:18,439 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:30:19,440 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-17 17:30:19,873 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:30:21,717 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:30:23,721 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-17 17:30:24,160 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-17 17:30:25,477 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-17 17:30:27,452 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-17 17:30:27,885 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:30:29,386 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:30:30,386 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-17 17:30:30,827 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:30:32,496 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:30:34,498 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-17 17:30:34,939 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-17 17:30:36,045 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-17 17:30:37,639 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-17 17:30:38,076 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:30:39,331 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:30:40,333 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-17 17:30:40,768 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:30:42,392 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:30:44,393 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-17 17:30:44,825 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-17 17:30:46,639 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-17 17:30:48,074 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-17 17:30:48,501 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:30:50,025 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:30:51,026 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-17 17:30:51,468 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:30:53,449 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:30:55,450 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-17 17:30:55,881 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-17 17:30:57,687 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-17 17:30:59,581 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-17 17:31:00,019 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:31:01,530 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:31:02,530 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-17 17:31:02,965 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:31:04,888 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:31:06,889 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-17 17:31:07,316 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-17 17:31:09,122 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-17 17:31:11,115 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-17 17:31:11,546 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:31:12,554 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:31:13,555 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-17 17:31:13,991 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:31:15,853 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:31:17,854 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-17 17:31:18,935 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-17 17:31:20,537 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-17 17:31:22,047 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-17 17:31:22,488 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:31:23,911 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:31:24,912 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-17 17:31:25,345 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:31:26,965 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:31:28,965 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-17 17:31:29,641 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-17 17:31:31,385 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-17 17:31:33,021 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-17 17:31:33,462 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:31:34,761 - INFO - 等待 1.00 秒后重试...
+2026-01-17 17:31:35,761 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-17 17:31:36,200 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:31:37,708 - INFO - 等待 2.00 秒后重试...
+2026-01-17 17:31:39,708 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-17 17:31:40,146 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-17 17:31:41,355 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-17 17:31:43,092 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-17 17:31:45,461 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-17 17:31:47,497 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-17 17:31:49,286 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-17 17:31:50,988 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-17 17:31:53,474 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-17 17:31:55,876 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-17 17:31:58,703 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 17:31:58,706 - INFO - 总共拉取到 40 个新条目
+2026-01-17 17:31:58,714 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 17:31:58,715 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-17 17:31:58,716 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +08)" executed successfully
+2026-01-17 18:00:00,017 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 11:30:00 CET)" (scheduled at 2026-01-17 11:00:00+01:00)
+2026-01-17 18:00:00,018 - INFO - Running job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 +07)" (scheduled at 2026-01-17 17:00:00+07:00)
+2026-01-17 18:00:00,020 - INFO - 开始抓取国家: France 的数据
+2026-01-17 18:00:00,021 - INFO - 开始抓取国家: Thailand 的数据
+2026-01-17 18:00:00,024 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:00:00,025 - INFO - Running job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 +07)" (scheduled at 2026-01-17 17:00:00+07:00)
+2026-01-17 18:00:00,026 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:00:00,026 - INFO - 开始拉取 France 的数据...
+2026-01-17 18:00:00,027 - INFO - 开始抓取国家: Vietnam 的数据
+2026-01-17 18:00:00,029 - INFO - 开始拉取 Thailand 的数据...
+2026-01-17 18:00:00,029 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-17 18:00:00,030 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:00:00,030 - INFO - 正在拉取 Thailand(all region) (TH) 的数据... (尝试 1/3)
+2026-01-17 18:00:00,035 - INFO - 开始拉取 Vietnam 的数据...
+2026-01-17 18:00:00,036 - INFO - 正在拉取 Vietnam(all regions) (VN) 的数据... (尝试 1/3)
+2026-01-17 18:00:04,347 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:00:04,351 - INFO - 总共拉取到 10 个新条目
+2026-01-17 18:00:04,357 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:00:04,357 - INFO - 国家 Vietnam 的数据抓取和保存完成
+2026-01-17 18:00:04,358 - INFO - Job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 +07)" executed successfully
+2026-01-17 18:00:04,552 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-17 18:00:04,781 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:00:04,784 - INFO - 总共拉取到 10 个新条目
+2026-01-17 18:00:04,790 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:00:04,790 - INFO - 国家 Thailand 的数据抓取和保存完成
+2026-01-17 18:00:04,791 - INFO - Job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 +07)" executed successfully
+2026-01-17 18:00:06,758 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-17 18:00:08,873 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-17 18:00:11,227 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-17 18:00:13,839 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-17 18:00:16,414 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-17 18:00:18,661 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-17 18:00:21,331 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-17 18:00:23,238 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-17 18:00:25,089 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-17 18:00:27,767 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-17 18:00:30,340 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-17 18:00:31,946 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-17 18:00:34,986 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-17 18:00:37,114 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-17 18:00:39,176 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-17 18:00:41,338 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-17 18:00:43,392 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-17 18:00:45,595 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-17 18:00:47,540 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-17 18:00:49,276 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-17 18:00:51,596 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-17 18:00:53,735 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 216 个条目
+2026-01-17 18:00:53,738 - INFO - 总共拉取到 216 个新条目
+2026-01-17 18:00:53,772 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 216 个条目
+2026-01-17 18:00:53,772 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-17 18:00:53,773 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 11:30:00 CET)" executed successfully
+2026-01-17 18:30:00,009 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 CET)" (scheduled at 2026-01-17 11:30:00+01:00)
+2026-01-17 18:30:00,010 - INFO - Running job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +07)" (scheduled at 2026-01-17 17:30:00+07:00)
+2026-01-17 18:30:00,010 - INFO - Running job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +07)" (scheduled at 2026-01-17 17:30:00+07:00)
+2026-01-17 18:30:00,011 - INFO - 开始抓取国家: France 的数据
+2026-01-17 18:30:00,011 - INFO - 开始抓取国家: Vietnam 的数据
+2026-01-17 18:30:00,012 - INFO - 开始抓取国家: Thailand 的数据
+2026-01-17 18:30:00,012 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:30:00,013 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:30:00,014 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 18:30:00,015 - INFO - 开始拉取 France 的数据...
+2026-01-17 18:30:00,015 - INFO - 开始拉取 Vietnam 的数据...
+2026-01-17 18:30:00,016 - INFO - 开始拉取 Thailand 的数据...
+2026-01-17 18:30:00,016 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-17 18:30:00,017 - INFO - 正在拉取 Vietnam(all regions) (VN) 的数据... (尝试 1/3)
+2026-01-17 18:30:00,018 - INFO - 正在拉取 Thailand(all region) (TH) 的数据... (尝试 1/3)
+2026-01-17 18:30:03,796 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:30:03,799 - INFO - 总共拉取到 10 个新条目
+2026-01-17 18:30:03,802 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:30:03,802 - INFO - 国家 Vietnam 的数据抓取和保存完成
+2026-01-17 18:30:03,802 - INFO - Job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +07)" executed successfully
+2026-01-17 18:30:03,906 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:30:03,909 - INFO - 总共拉取到 10 个新条目
+2026-01-17 18:30:03,912 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-17.json，共 10 个条目
+2026-01-17 18:30:03,912 - INFO - 国家 Thailand 的数据抓取和保存完成
+2026-01-17 18:30:03,912 - INFO - Job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 +07)" executed successfully
+2026-01-17 18:30:04,461 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-17 18:30:06,917 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-17 18:30:09,030 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-17 18:30:11,732 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-17 18:30:13,991 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-17 18:30:16,591 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-17 18:30:18,570 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-17 18:30:21,077 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-17 18:30:23,641 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-17 18:30:25,590 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-17 18:30:28,242 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-17 18:30:30,293 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-17 18:30:32,672 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-17 18:30:35,272 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-17 18:30:37,922 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-17 18:30:40,308 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-17 18:30:42,818 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-17 18:30:44,800 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-17 18:30:46,949 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-17 18:30:49,291 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-17 18:30:51,034 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-17 18:30:53,422 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-17 18:30:55,786 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 215 个条目
+2026-01-17 18:30:55,789 - INFO - 总共拉取到 215 个新条目
+2026-01-17 18:30:55,814 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 215 个条目
+2026-01-17 18:30:55,814 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-17 18:30:55,815 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 CET)" executed successfully
+2026-01-17 19:00:00,010 - INFO - Running job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 11:30:00 GMT)" (scheduled at 2026-01-17 11:00:00+00:00)
+2026-01-17 19:00:00,011 - INFO - 开始抓取国家: United Kingdom 的数据
+2026-01-17 19:00:00,012 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 19:00:00,014 - INFO - 开始拉取 United Kingdom 的数据...
+2026-01-17 19:00:00,015 - INFO - 正在拉取 United Kingdom(ALL Regions) (GB) 的数据... (尝试 1/3)
+2026-01-17 19:00:04,743 - INFO - 正在拉取 England (GB-ENG) 的数据... (尝试 1/3)
+2026-01-17 19:00:07,089 - INFO - 正在拉取 Northern Ireland (GB-NIR) 的数据... (尝试 1/3)
+2026-01-17 19:00:08,907 - INFO - 正在拉取 Scotland (GB-SCT) 的数据... (尝试 1/3)
+2026-01-17 19:00:11,809 - INFO - 正在拉取 Wales (GB-WLS) 的数据... (尝试 1/3)
+2026-01-17 19:00:14,365 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-17 19:00:14,369 - INFO - 总共拉取到 50 个新条目
+2026-01-17 19:00:14,380 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-17 19:00:14,380 - INFO - 国家 United Kingdom 的数据抓取和保存完成
+2026-01-17 19:00:14,380 - INFO - Job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 11:30:00 GMT)" executed successfully
+2026-01-17 19:30:00,014 - INFO - Running job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 IST)" (scheduled at 2026-01-17 17:00:00+05:30)
+2026-01-17 19:30:00,014 - INFO - Running job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 GMT)" (scheduled at 2026-01-17 11:30:00+00:00)
+2026-01-17 19:30:00,015 - INFO - 开始抓取国家: India 的数据
+2026-01-17 19:30:00,016 - INFO - 开始抓取国家: United Kingdom 的数据
+2026-01-17 19:30:00,017 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 19:30:00,018 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 19:30:00,018 - INFO - 开始拉取 India 的数据...
+2026-01-17 19:30:00,019 - INFO - 开始拉取 United Kingdom 的数据...
+2026-01-17 19:30:00,021 - INFO - 正在拉取 United Kingdom(ALL Regions) (GB) 的数据... (尝试 1/3)
+2026-01-17 19:30:00,022 - INFO - 正在拉取 Rajasthan (IN-RJ) 的数据... (尝试 1/3)
+2026-01-17 19:30:04,069 - INFO - 正在拉取 Delhi (IN-DL) 的数据... (尝试 1/3)
+2026-01-17 19:30:04,509 - INFO - 正在拉取 England (GB-ENG) 的数据... (尝试 1/3)
+2026-01-17 19:30:06,098 - INFO - 正在拉取 Maharashtra (IN-MH) 的数据... (尝试 1/3)
+2026-01-17 19:30:07,558 - INFO - 正在拉取 Northern Ireland (GB-NIR) 的数据... (尝试 1/3)
+2026-01-17 19:30:09,078 - INFO - 正在拉取 Tamil Nadu (IN-TN) 的数据... (尝试 1/3)
+2026-01-17 19:30:09,408 - INFO - 正在拉取 Scotland (GB-SCT) 的数据... (尝试 1/3)
+2026-01-17 19:30:11,523 - INFO - 正在拉取 Uttar Pradesh (IN-UP) 的数据... (尝试 1/3)
+2026-01-17 19:30:11,999 - INFO - 正在拉取 Wales (GB-WLS) 的数据... (尝试 1/3)
+2026-01-17 19:30:14,184 - INFO - 正在拉取 Andhra Pradesh (IN-AP) 的数据... (尝试 1/3)
+2026-01-17 19:30:14,445 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-17 19:30:14,447 - INFO - 总共拉取到 50 个新条目
+2026-01-17 19:30:14,455 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-17 19:30:14,455 - INFO - 国家 United Kingdom 的数据抓取和保存完成
+2026-01-17 19:30:14,456 - INFO - Job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 GMT)" executed successfully
+2026-01-17 19:30:16,910 - INFO - 正在拉取 Assam (IN-AS) 的数据... (尝试 1/3)
+2026-01-17 19:30:19,341 - INFO - 正在拉取 Karnataka (IN-KA) 的数据... (尝试 1/3)
+2026-01-17 19:30:21,050 - INFO - 正在拉取 Bihar (IN-BR) 的数据... (尝试 1/3)
+2026-01-17 19:30:23,218 - INFO - 正在拉取 Chhattisgarh (IN-CT) 的数据... (尝试 1/3)
+2026-01-17 19:30:25,138 - INFO - 正在拉取 Gujarat (IN-GJ) 的数据... (尝试 1/3)
+2026-01-17 19:30:27,587 - INFO - 正在拉取 Haryana (IN-HR) 的数据... (尝试 1/3)
+2026-01-17 19:30:29,792 - INFO - 正在拉取 Telangana (IN-TG) 的数据... (尝试 1/3)
+2026-01-17 19:30:31,799 - INFO - 正在拉取 Jharkhand (IN-JH) 的数据... (尝试 1/3)
+2026-01-17 19:30:34,241 - INFO - 正在拉取 Kerala (IN-KL) 的数据... (尝试 1/3)
+2026-01-17 19:30:37,140 - INFO - 正在拉取 West Bengal (IN-WB) 的数据... (尝试 1/3)
+2026-01-17 19:30:39,799 - INFO - 正在拉取 Madhya Pradesh (IN-MP) 的数据... (尝试 1/3)
+2026-01-17 19:30:42,017 - INFO - 正在拉取 Odisha (IN-OR) 的数据... (尝试 1/3)
+2026-01-17 19:30:43,713 - INFO - 正在拉取 Punjab (IN-PB) 的数据... (尝试 1/3)
+2026-01-17 19:30:46,232 - INFO - 正在拉取 Uttarakhand (IN-UT) 的数据... (尝试 1/3)
+2026-01-17 19:30:48,135 - INFO - 正在拉取 India(ALL Regions) (IN) 的数据... (尝试 1/3)
+2026-01-17 19:30:49,826 - INFO - 正在拉取 Chandigarh (IN-CH) 的数据... (尝试 1/3)
+2026-01-17 19:30:51,818 - INFO - 数据已保存到 JSONs\India\trends_2026-01-17.json，共 212 个条目
+2026-01-17 19:30:51,821 - INFO - 总共拉取到 212 个新条目
+2026-01-17 19:30:51,844 - INFO - 数据已保存到 JSONs\India\trends_2026-01-17.json，共 212 个条目
+2026-01-17 19:30:51,845 - INFO - 国家 India 的数据抓取和保存完成
+2026-01-17 19:30:51,845 - INFO - Job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 IST)" executed successfully
+2026-01-17 20:00:00,019 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 AEDT)" (scheduled at 2026-01-17 23:00:00+11:00)
+2026-01-17 20:00:00,020 - INFO - Running job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 IST)" (scheduled at 2026-01-17 17:30:00+05:30)
+2026-01-17 20:00:00,022 - INFO - 开始抓取国家: Australia 的数据
+2026-01-17 20:00:00,023 - INFO - 开始抓取国家: India 的数据
+2026-01-17 20:00:00,024 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 20:00:00,028 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 20:00:00,029 - INFO - 开始拉取 Australia 的数据...
+2026-01-17 20:00:00,029 - INFO - 开始拉取 India 的数据...
+2026-01-17 20:00:00,030 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-17 20:00:00,031 - INFO - 正在拉取 Rajasthan (IN-RJ) 的数据... (尝试 1/3)
+2026-01-17 20:00:05,377 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-17 20:00:05,844 - INFO - 正在拉取 Delhi (IN-DL) 的数据... (尝试 1/3)
+2026-01-17 20:00:07,435 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-17 20:00:09,140 - INFO - 正在拉取 Maharashtra (IN-MH) 的数据... (尝试 1/3)
+2026-01-17 20:00:10,217 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-17 20:00:12,143 - INFO - 正在拉取 Tamil Nadu (IN-TN) 的数据... (尝试 1/3)
+2026-01-17 20:00:12,177 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 20:00:12,180 - INFO - 总共拉取到 40 个新条目
+2026-01-17 20:00:12,189 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 20:00:12,191 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-17 20:00:12,192 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 AEDT)" executed successfully
+2026-01-17 20:00:15,231 - INFO - 正在拉取 Uttar Pradesh (IN-UP) 的数据... (尝试 1/3)
+2026-01-17 20:00:17,991 - INFO - 正在拉取 Andhra Pradesh (IN-AP) 的数据... (尝试 1/3)
+2026-01-17 20:00:21,233 - INFO - 正在拉取 Assam (IN-AS) 的数据... (尝试 1/3)
+2026-01-17 20:00:24,033 - INFO - 正在拉取 Karnataka (IN-KA) 的数据... (尝试 1/3)
+2026-01-17 20:00:26,334 - INFO - 正在拉取 Bihar (IN-BR) 的数据... (尝试 1/3)
+2026-01-17 20:00:29,115 - INFO - 正在拉取 Chhattisgarh (IN-CT) 的数据... (尝试 1/3)
+2026-01-17 20:00:31,732 - INFO - 正在拉取 Gujarat (IN-GJ) 的数据... (尝试 1/3)
+2026-01-17 20:00:34,001 - INFO - 正在拉取 Haryana (IN-HR) 的数据... (尝试 1/3)
+2026-01-17 20:00:37,314 - INFO - 正在拉取 Telangana (IN-TG) 的数据... (尝试 1/3)
+2026-01-17 20:00:39,343 - INFO - 正在拉取 Jharkhand (IN-JH) 的数据... (尝试 1/3)
+2026-01-17 20:00:42,302 - INFO - 正在拉取 Kerala (IN-KL) 的数据... (尝试 1/3)
+2026-01-17 20:00:44,618 - INFO - 正在拉取 West Bengal (IN-WB) 的数据... (尝试 1/3)
+2026-01-17 20:00:46,866 - INFO - 正在拉取 Madhya Pradesh (IN-MP) 的数据... (尝试 1/3)
+2026-01-17 20:00:49,797 - INFO - 正在拉取 Odisha (IN-OR) 的数据... (尝试 1/3)
+2026-01-17 20:00:52,203 - INFO - 正在拉取 Punjab (IN-PB) 的数据... (尝试 1/3)
+2026-01-17 20:00:54,621 - INFO - 正在拉取 Uttarakhand (IN-UT) 的数据... (尝试 1/3)
+2026-01-17 20:00:58,401 - INFO - 正在拉取 India(ALL Regions) (IN) 的数据... (尝试 1/3)
+2026-01-17 20:01:01,114 - INFO - 正在拉取 Chandigarh (IN-CH) 的数据... (尝试 1/3)
+2026-01-17 20:01:03,749 - INFO - 数据已保存到 JSONs\India\trends_2026-01-17.json，共 212 个条目
+2026-01-17 20:01:03,753 - INFO - 总共拉取到 212 个新条目
+2026-01-17 20:01:03,791 - INFO - 数据已保存到 JSONs\India\trends_2026-01-17.json，共 212 个条目
+2026-01-17 20:01:03,792 - INFO - 国家 India 的数据抓取和保存完成
+2026-01-17 20:01:03,793 - INFO - Job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 IST)" executed successfully
+2026-01-17 20:30:00,002 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 AEDT)" (scheduled at 2026-01-17 23:30:00+11:00)
+2026-01-17 20:30:00,004 - INFO - 开始抓取国家: Australia 的数据
+2026-01-17 20:30:00,008 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-17 20:30:00,010 - INFO - 开始拉取 Australia 的数据...
+2026-01-17 20:30:00,013 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-17 20:30:06,516 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-17 20:30:09,128 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-17 20:30:11,415 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-17 20:30:13,423 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 20:30:13,427 - INFO - 总共拉取到 40 个新条目
+2026-01-17 20:30:13,437 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-17.json，共 40 个条目
+2026-01-17 20:30:13,438 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-17 20:30:13,439 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 AEDT)" executed successfully
+2026-01-18 05:23:09,988 - WARNING - Run time of job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 +08)" was missed by 5:53:09.988506
+2026-01-18 05:23:09,989 - WARNING - Run time of job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 CET)" was missed by 4:53:09.989475
+2026-01-18 05:23:09,989 - WARNING - Run time of job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 +07)" was missed by 4:53:09.989893
+2026-01-18 05:23:09,990 - WARNING - Run time of job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:00:00 EST)" was missed by 4:53:09.990395
+2026-01-18 05:23:09,992 - WARNING - Run time of job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 +07)" was missed by 4:53:09.992455
+2026-01-18 05:23:09,996 - WARNING - Run time of job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 GMT)" was missed by 3:53:09.996482
+2026-01-18 05:23:09,997 - WARNING - Run time of job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 IST)" was missed by 3:23:09.996985
+2026-01-18 06:00:00,014 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 CET)" (scheduled at 2026-01-17 23:00:00+01:00)
+2026-01-18 06:00:00,015 - INFO - Running job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 EST)" (scheduled at 2026-01-17 17:00:00-05:00)
+2026-01-18 06:00:00,017 - INFO - 开始抓取国家: France 的数据
+2026-01-18 06:00:00,020 - INFO - 开始抓取国家: United States 的数据
+2026-01-18 06:00:00,021 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 06:00:00,024 - INFO - 开始拉取 United States 的数据...
+2026-01-18 06:00:00,025 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 06:00:00,026 - INFO - 正在拉取 United States(all regions) (US) 的数据... (尝试 1/3)
+2026-01-18 06:00:00,029 - INFO - 开始拉取 France 的数据...
+2026-01-18 06:00:00,030 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-18 06:00:04,406 - INFO - 正在拉取 Alabama (US-AL) 的数据... (尝试 1/3)
+2026-01-18 06:00:04,505 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-18 06:00:06,618 - INFO - 正在拉取 California (US-CA) 的数据... (尝试 1/3)
+2026-01-18 06:00:07,228 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-18 06:00:08,555 - INFO - 正在拉取 Texas (US-TX) 的数据... (尝试 1/3)
+2026-01-18 06:00:09,689 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-18 06:00:10,790 - INFO - 正在拉取 Florida (US-FL) 的数据... (尝试 1/3)
+2026-01-18 06:00:12,411 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-18 06:00:12,534 - INFO - 正在拉取 New York (US-NY) 的数据... (尝试 1/3)
+2026-01-18 06:00:14,671 - INFO - 正在拉取 Pennsylvania (US-PA) 的数据... (尝试 1/3)
+2026-01-18 06:00:15,084 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-18 06:00:17,103 - INFO - 正在拉取 Illinois (US-IL) 的数据... (尝试 1/3)
+2026-01-18 06:00:17,706 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-18 06:00:18,951 - INFO - 正在拉取 Ohio (US-OH) 的数据... (尝试 1/3)
+2026-01-18 06:00:20,452 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-18 06:00:20,755 - INFO - 正在拉取 Georgia (US-GA) 的数据... (尝试 1/3)
+2026-01-18 06:00:22,676 - INFO - 正在拉取 North Carolina (US-NC) 的数据... (尝试 1/3)
+2026-01-18 06:00:22,978 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-18 06:00:24,853 - INFO - 正在拉取 Michigan (US-MI) 的数据... (尝试 1/3)
+2026-01-18 06:00:25,756 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-18 06:00:27,032 - INFO - 正在拉取 New Jersey (US-NJ) 的数据... (尝试 1/3)
+2026-01-18 06:00:27,752 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-18 06:00:29,296 - INFO - 正在拉取 Virginia (US-VA) 的数据... (尝试 1/3)
+2026-01-18 06:00:30,036 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-18 06:00:31,746 - INFO - 正在拉取 Washington (US-WA) 的数据... (尝试 1/3)
+2026-01-18 06:00:32,016 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-18 06:00:34,092 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-18 06:00:34,398 - INFO - 正在拉取 Arizona (US-AZ) 的数据... (尝试 1/3)
+2026-01-18 06:00:36,245 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-18 06:00:36,923 - INFO - 正在拉取 Massachusetts (US-MA) 的数据... (尝试 1/3)
+2026-01-18 06:00:38,964 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-18 06:00:39,140 - INFO - 正在拉取 Tennessee (US-TN) 的数据... (尝试 1/3)
+2026-01-18 06:00:41,126 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-18 06:00:41,565 - INFO - 正在拉取 Indiana (US-IN) 的数据... (尝试 1/3)
+2026-01-18 06:00:43,744 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-18 06:00:43,783 - INFO - 正在拉取 Maryland (US-MD) 的数据... (尝试 1/3)
+2026-01-18 06:00:45,560 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-18 06:00:46,078 - INFO - 正在拉取 Missouri (US-MO) 的数据... (尝试 1/3)
+2026-01-18 06:00:47,504 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-18 06:00:48,233 - INFO - 正在拉取 Wisconsin (US-WI) 的数据... (尝试 1/3)
+2026-01-18 06:00:49,698 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-18 06:00:50,334 - INFO - 正在拉取 Colorado (US-CO) 的数据... (尝试 1/3)
+2026-01-18 06:00:52,242 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-18 06:00:52,891 - INFO - 正在拉取 Minnesota (US-MN) 的数据... (尝试 1/3)
+2026-01-18 06:00:54,302 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-18 06:00:54,683 - INFO - 正在拉取 South Carolina (US-SC) 的数据... (尝试 1/3)
+2026-01-18 06:00:56,475 - INFO - 正在拉取 Louisiana (US-LA) 的数据... (尝试 1/3)
+2026-01-18 06:00:56,610 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 218 个条目
+2026-01-18 06:00:56,613 - INFO - 总共拉取到 218 个新条目
+2026-01-18 06:00:56,644 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 218 个条目
+2026-01-18 06:00:56,645 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-18 06:00:56,646 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 CET)" executed successfully
+2026-01-18 06:00:58,731 - INFO - 正在拉取 Kentucky (US-KY) 的数据... (尝试 1/3)
+2026-01-18 06:01:01,376 - INFO - 正在拉取 Oregon (US-OR) 的数据... (尝试 1/3)
+2026-01-18 06:01:03,154 - INFO - 正在拉取 Oklahoma (US-OK) 的数据... (尝试 1/3)
+2026-01-18 06:01:04,941 - INFO - 正在拉取 Connecticut (US-CT) 的数据... (尝试 1/3)
+2026-01-18 06:01:07,456 - INFO - 正在拉取 Utah (US-UT) 的数据... (尝试 1/3)
+2026-01-18 06:01:09,857 - INFO - 正在拉取 Iowa (US-IA) 的数据... (尝试 1/3)
+2026-01-18 06:01:11,800 - INFO - 正在拉取 Nevada (US-NV) 的数据... (尝试 1/3)
+2026-01-18 06:01:13,431 - INFO - 正在拉取 Arkansas (US-AR) 的数据... (尝试 1/3)
+2026-01-18 06:01:15,683 - INFO - 正在拉取 Mississippi (US-MS) 的数据... (尝试 1/3)
+2026-01-18 06:01:18,015 - INFO - 正在拉取 Kansas (US-KS) 的数据... (尝试 1/3)
+2026-01-18 06:01:19,877 - INFO - 正在拉取 New Mexico (US-NM) 的数据... (尝试 1/3)
+2026-01-18 06:01:22,174 - INFO - 正在拉取 Nebraska (US-NE) 的数据... (尝试 1/3)
+2026-01-18 06:01:24,325 - INFO - 正在拉取 Idaho (US-ID) 的数据... (尝试 1/3)
+2026-01-18 06:01:26,714 - INFO - 正在拉取 West Virginia (US-WV) 的数据... (尝试 1/3)
+2026-01-18 06:01:28,453 - INFO - 正在拉取 Hawaii (US-HI) 的数据... (尝试 1/3)
+2026-01-18 06:01:31,013 - INFO - 正在拉取 New Hampshire (US-NH) 的数据... (尝试 1/3)
+2026-01-18 06:01:33,726 - INFO - 正在拉取 Maine (US-ME) 的数据... (尝试 1/3)
+2026-01-18 06:01:35,413 - INFO - 正在拉取 Rhode Island (US-RI) 的数据... (尝试 1/3)
+2026-01-18 06:01:37,977 - INFO - 正在拉取 Montana (US-MT) 的数据... (尝试 1/3)
+2026-01-18 06:01:39,692 - INFO - 正在拉取 Delaware (US-DE) 的数据... (尝试 1/3)
+2026-01-18 06:01:41,255 - INFO - 正在拉取 South Dakota (US-SD) 的数据... (尝试 1/3)
+2026-01-18 06:01:43,752 - INFO - 正在拉取 North Dakota (US-ND) 的数据... (尝试 1/3)
+2026-01-18 06:01:46,360 - INFO - 正在拉取 Alaska (US-AK) 的数据... (尝试 1/3)
+2026-01-18 06:01:48,373 - INFO - 正在拉取 Vermont (US-VT) 的数据... (尝试 1/3)
+2026-01-18 06:01:50,608 - INFO - 正在拉取 Wyoming (US-WY) 的数据... (尝试 1/3)
+2026-01-18 06:01:52,555 - INFO - 数据已保存到 JSONs\United States\trends_2026-01-17.json，共 443 个条目
+2026-01-18 06:01:52,559 - INFO - 总共拉取到 443 个新条目
+2026-01-18 06:01:52,614 - INFO - 数据已保存到 JSONs\United States\trends_2026-01-17.json，共 443 个条目
+2026-01-18 06:01:52,615 - INFO - 国家 United States 的数据抓取和保存完成
+2026-01-18 06:01:52,616 - INFO - Job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 17:30:00 EST)" executed successfully
+2026-01-18 06:30:00,009 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 CET)" (scheduled at 2026-01-17 23:30:00+01:00)
+2026-01-18 06:30:00,009 - INFO - Running job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 EST)" (scheduled at 2026-01-17 17:30:00-05:00)
+2026-01-18 06:30:00,010 - INFO - 开始抓取国家: France 的数据
+2026-01-18 06:30:00,011 - INFO - 开始抓取国家: United States 的数据
+2026-01-18 06:30:00,014 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 06:30:00,014 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 06:30:00,015 - INFO - 开始拉取 France 的数据...
+2026-01-18 06:30:00,015 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-18 06:30:00,016 - INFO - 开始拉取 United States 的数据...
+2026-01-18 06:30:00,018 - INFO - 正在拉取 United States(all regions) (US) 的数据... (尝试 1/3)
+2026-01-18 06:30:04,164 - INFO - 正在拉取 Alabama (US-AL) 的数据... (尝试 1/3)
+2026-01-18 06:30:04,843 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-18 06:30:05,997 - INFO - 正在拉取 California (US-CA) 的数据... (尝试 1/3)
+2026-01-18 06:30:07,380 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-18 06:30:08,415 - INFO - 正在拉取 Texas (US-TX) 的数据... (尝试 1/3)
+2026-01-18 06:30:09,274 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-18 06:30:10,846 - INFO - 正在拉取 Florida (US-FL) 的数据... (尝试 1/3)
+2026-01-18 06:30:12,088 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-18 06:30:13,661 - INFO - 正在拉取 New York (US-NY) 的数据... (尝试 1/3)
+2026-01-18 06:30:14,259 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-18 06:30:15,866 - INFO - 正在拉取 Pennsylvania (US-PA) 的数据... (尝试 1/3)
+2026-01-18 06:30:16,450 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-18 06:30:18,590 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-18 06:30:18,733 - INFO - 正在拉取 Illinois (US-IL) 的数据... (尝试 1/3)
+2026-01-18 06:30:20,700 - INFO - 正在拉取 Ohio (US-OH) 的数据... (尝试 1/3)
+2026-01-18 06:30:20,910 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-18 06:30:22,839 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-18 06:30:23,352 - INFO - 正在拉取 Georgia (US-GA) 的数据... (尝试 1/3)
+2026-01-18 06:30:25,205 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-18 06:30:25,483 - INFO - 正在拉取 North Carolina (US-NC) 的数据... (尝试 1/3)
+2026-01-18 06:30:27,855 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-18 06:30:28,131 - INFO - 正在拉取 Michigan (US-MI) 的数据... (尝试 1/3)
+2026-01-18 06:30:30,186 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-18 06:30:30,268 - INFO - 正在拉取 New Jersey (US-NJ) 的数据... (尝试 1/3)
+2026-01-18 06:30:32,235 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-18 06:30:32,278 - INFO - 正在拉取 Virginia (US-VA) 的数据... (尝试 1/3)
+2026-01-18 06:30:34,188 - INFO - 正在拉取 Washington (US-WA) 的数据... (尝试 1/3)
+2026-01-18 06:30:34,581 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-18 06:30:36,128 - INFO - 正在拉取 Arizona (US-AZ) 的数据... (尝试 1/3)
+2026-01-18 06:30:36,394 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-18 06:30:38,276 - INFO - 正在拉取 Massachusetts (US-MA) 的数据... (尝试 1/3)
+2026-01-18 06:30:38,561 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-18 06:30:40,380 - INFO - 正在拉取 Tennessee (US-TN) 的数据... (尝试 1/3)
+2026-01-18 06:30:40,577 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-18 06:30:42,609 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-18 06:30:43,008 - INFO - 正在拉取 Indiana (US-IN) 的数据... (尝试 1/3)
+2026-01-18 06:30:44,363 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-18 06:30:45,243 - INFO - 正在拉取 Maryland (US-MD) 的数据... (尝试 1/3)
+2026-01-18 06:30:46,345 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-18 06:30:47,382 - INFO - 正在拉取 Missouri (US-MO) 的数据... (尝试 1/3)
+2026-01-18 06:30:48,988 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-18 06:30:50,072 - INFO - 正在拉取 Wisconsin (US-WI) 的数据... (尝试 1/3)
+2026-01-18 06:30:50,933 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-18 06:30:51,929 - INFO - 正在拉取 Colorado (US-CO) 的数据... (尝试 1/3)
+2026-01-18 06:30:53,039 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 217 个条目
+2026-01-18 06:30:53,043 - INFO - 总共拉取到 217 个新条目
+2026-01-18 06:30:53,081 - INFO - 数据已保存到 JSONs\France\trends_2026-01-17.json，共 217 个条目
+2026-01-18 06:30:53,082 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-18 06:30:53,083 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 CET)" executed successfully
+2026-01-18 06:30:54,819 - INFO - 正在拉取 Minnesota (US-MN) 的数据... (尝试 1/3)
+2026-01-18 06:30:56,872 - INFO - 正在拉取 South Carolina (US-SC) 的数据... (尝试 1/3)
+2026-01-18 06:30:59,022 - INFO - 正在拉取 Louisiana (US-LA) 的数据... (尝试 1/3)
+2026-01-18 06:31:01,035 - INFO - 正在拉取 Kentucky (US-KY) 的数据... (尝试 1/3)
+2026-01-18 06:31:03,135 - INFO - 正在拉取 Oregon (US-OR) 的数据... (尝试 1/3)
+2026-01-18 06:31:05,221 - INFO - 正在拉取 Oklahoma (US-OK) 的数据... (尝试 1/3)
+2026-01-18 06:31:07,357 - INFO - 正在拉取 Connecticut (US-CT) 的数据... (尝试 1/3)
+2026-01-18 06:31:09,938 - INFO - 正在拉取 Utah (US-UT) 的数据... (尝试 1/3)
+2026-01-18 06:31:12,405 - INFO - 正在拉取 Iowa (US-IA) 的数据... (尝试 1/3)
+2026-01-18 06:31:14,344 - INFO - 正在拉取 Nevada (US-NV) 的数据... (尝试 1/3)
+2026-01-18 06:31:16,421 - INFO - 正在拉取 Arkansas (US-AR) 的数据... (尝试 1/3)
+2026-01-18 06:31:18,983 - INFO - 正在拉取 Mississippi (US-MS) 的数据... (尝试 1/3)
+2026-01-18 06:31:21,310 - INFO - 正在拉取 Kansas (US-KS) 的数据... (尝试 1/3)
+2026-01-18 06:31:23,128 - INFO - 正在拉取 New Mexico (US-NM) 的数据... (尝试 1/3)
+2026-01-18 06:31:25,181 - INFO - 正在拉取 Nebraska (US-NE) 的数据... (尝试 1/3)
+2026-01-18 06:31:27,319 - INFO - 正在拉取 Idaho (US-ID) 的数据... (尝试 1/3)
+2026-01-18 06:31:29,014 - INFO - 正在拉取 West Virginia (US-WV) 的数据... (尝试 1/3)
+2026-01-18 06:31:32,031 - INFO - 正在拉取 Hawaii (US-HI) 的数据... (尝试 1/3)
+2026-01-18 06:31:34,547 - INFO - 正在拉取 New Hampshire (US-NH) 的数据... (尝试 1/3)
+2026-01-18 06:31:37,269 - INFO - 正在拉取 Maine (US-ME) 的数据... (尝试 1/3)
+2026-01-18 06:31:39,844 - INFO - 正在拉取 Rhode Island (US-RI) 的数据... (尝试 1/3)
+2026-01-18 06:31:42,199 - INFO - 正在拉取 Montana (US-MT) 的数据... (尝试 1/3)
+2026-01-18 06:31:44,145 - INFO - 正在拉取 Delaware (US-DE) 的数据... (尝试 1/3)
+2026-01-18 06:31:46,765 - INFO - 正在拉取 South Dakota (US-SD) 的数据... (尝试 1/3)
+2026-01-18 06:31:48,754 - INFO - 正在拉取 North Dakota (US-ND) 的数据... (尝试 1/3)
+2026-01-18 06:31:51,443 - INFO - 正在拉取 Alaska (US-AK) 的数据... (尝试 1/3)
+2026-01-18 06:31:53,261 - INFO - 正在拉取 Vermont (US-VT) 的数据... (尝试 1/3)
+2026-01-18 06:31:55,642 - INFO - 正在拉取 Wyoming (US-WY) 的数据... (尝试 1/3)
+2026-01-18 06:31:57,596 - INFO - 数据已保存到 JSONs\United States\trends_2026-01-17.json，共 447 个条目
+2026-01-18 06:31:57,600 - INFO - 总共拉取到 447 个新条目
+2026-01-18 06:31:57,658 - INFO - 数据已保存到 JSONs\United States\trends_2026-01-17.json，共 447 个条目
+2026-01-18 06:31:57,658 - INFO - 国家 United States 的数据抓取和保存完成
+2026-01-18 06:31:57,660 - INFO - Job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:00:00 EST)" executed successfully
+2026-01-18 07:00:00,009 - INFO - Running job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 GMT)" (scheduled at 2026-01-17 23:00:00+00:00)
+2026-01-18 07:00:00,011 - INFO - 开始抓取国家: United Kingdom 的数据
+2026-01-18 07:00:00,012 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 07:00:00,013 - INFO - 开始拉取 United Kingdom 的数据...
+2026-01-18 07:00:00,015 - INFO - 正在拉取 United Kingdom(ALL Regions) (GB) 的数据... (尝试 1/3)
+2026-01-18 07:00:04,998 - INFO - 正在拉取 England (GB-ENG) 的数据... (尝试 1/3)
+2026-01-18 07:00:07,431 - INFO - 正在拉取 Northern Ireland (GB-NIR) 的数据... (尝试 1/3)
+2026-01-18 07:00:09,598 - INFO - 正在拉取 Scotland (GB-SCT) 的数据... (尝试 1/3)
+2026-01-18 07:00:12,412 - INFO - 正在拉取 Wales (GB-WLS) 的数据... (尝试 1/3)
+2026-01-18 07:00:15,428 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-18 07:00:15,432 - INFO - 总共拉取到 50 个新条目
+2026-01-18 07:00:15,443 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-18 07:00:15,443 - INFO - 国家 United Kingdom 的数据抓取和保存完成
+2026-01-18 07:00:15,444 - INFO - Job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-17 23:30:00 GMT)" executed successfully
+2026-01-18 07:30:00,004 - INFO - Running job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 GMT)" (scheduled at 2026-01-17 23:30:00+00:00)
+2026-01-18 07:30:00,007 - INFO - 开始抓取国家: United Kingdom 的数据
+2026-01-18 07:30:00,009 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 07:30:00,010 - INFO - 开始拉取 United Kingdom 的数据...
+2026-01-18 07:30:00,013 - INFO - 正在拉取 United Kingdom(ALL Regions) (GB) 的数据... (尝试 1/3)
+2026-01-18 07:30:03,728 - INFO - 正在拉取 England (GB-ENG) 的数据... (尝试 1/3)
+2026-01-18 07:30:05,737 - INFO - 正在拉取 Northern Ireland (GB-NIR) 的数据... (尝试 1/3)
+2026-01-18 07:30:08,427 - INFO - 正在拉取 Scotland (GB-SCT) 的数据... (尝试 1/3)
+2026-01-18 07:30:10,942 - INFO - 正在拉取 Wales (GB-WLS) 的数据... (尝试 1/3)
+2026-01-18 07:30:13,038 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-18 07:30:13,042 - INFO - 总共拉取到 50 个新条目
+2026-01-18 07:30:13,052 - INFO - 数据已保存到 JSONs\United Kingdom\trends_2026-01-17.json，共 50 个条目
+2026-01-18 07:30:13,055 - INFO - 国家 United Kingdom 的数据抓取和保存完成
+2026-01-18 07:30:13,056 - INFO - Job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 GMT)" executed successfully
+2026-01-18 08:00:00,004 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 AEDT)" (scheduled at 2026-01-18 11:00:00+11:00)
+2026-01-18 08:00:00,008 - INFO - 开始抓取国家: Australia 的数据
+2026-01-18 08:00:00,012 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 08:00:00,015 - INFO - 开始拉取 Australia 的数据...
+2026-01-18 08:00:00,019 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-18 08:00:03,881 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-18 08:00:06,018 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-18 08:00:08,741 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-18 08:00:11,254 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 08:00:11,259 - INFO - 总共拉取到 40 个新条目
+2026-01-18 08:00:11,269 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 08:00:11,270 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-18 08:00:11,270 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 AEDT)" executed successfully
+2026-01-18 08:30:00,016 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 AEDT)" (scheduled at 2026-01-18 11:30:00+11:00)
+2026-01-18 08:30:00,018 - INFO - 开始抓取国家: Australia 的数据
+2026-01-18 08:30:00,019 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 08:30:00,020 - INFO - 开始拉取 Australia 的数据...
+2026-01-18 08:30:00,020 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-18 08:30:05,408 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-18 08:30:07,548 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-18 08:30:10,310 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-18 08:30:13,272 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 08:30:13,277 - INFO - 总共拉取到 40 个新条目
+2026-01-18 08:30:13,284 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 08:30:13,285 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-18 08:30:13,285 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 AEDT)" executed successfully
+2026-01-18 11:00:00,004 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 +08)" (scheduled at 2026-01-18 11:00:00+08:00)
+2026-01-18 11:00:00,006 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-18 11:00:00,007 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 11:00:00,008 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-18 11:00:00,009 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-18 11:00:04,314 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-18 11:00:05,002 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 11:00:06,533 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:00:07,534 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-18 11:00:08,376 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 11:00:09,568 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:00:11,569 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-18 11:00:11,997 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 11:00:13,372 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-18 11:00:15,221 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-18 11:00:16,319 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 11:00:17,401 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:00:18,403 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-18 11:00:19,490 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 11:00:21,019 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:00:23,020 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-18 11:00:23,666 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 11:00:25,383 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-18 11:00:27,201 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-18 11:00:27,619 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 11:00:28,983 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:00:29,984 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-18 11:00:30,410 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 11:00:31,879 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:00:33,880 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-18 11:00:34,939 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 11:00:36,273 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-18 11:00:37,412 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-18 11:00:38,065 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 11:00:39,516 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:00:40,517 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-18 11:00:40,934 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 11:00:42,859 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:00:44,862 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-18 11:00:45,532 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 11:00:46,812 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-18 11:00:48,352 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-18 11:00:49,424 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 11:00:51,174 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:00:52,175 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-18 11:00:52,615 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 11:00:53,930 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:00:55,932 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-18 11:00:56,991 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 11:00:58,691 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-18 11:00:59,924 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-18 11:01:00,986 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 11:01:02,708 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:01:03,710 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-18 11:01:04,135 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 11:01:05,158 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:01:07,159 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-18 11:01:07,574 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 11:01:08,734 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-18 11:01:10,413 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-18 11:01:11,072 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 11:01:12,765 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:01:13,767 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-18 11:01:14,830 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 11:01:16,538 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:01:18,539 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-18 11:01:18,964 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 11:01:20,556 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-18 11:01:22,088 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-18 11:01:23,338 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 11:01:24,685 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:01:25,687 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-18 11:01:26,119 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 11:01:27,368 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:01:29,370 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-18 11:01:30,051 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 11:01:31,929 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-18 11:01:33,394 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-18 11:01:33,842 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 11:01:35,017 - INFO - 等待 1.00 秒后重试...
+2026-01-18 11:01:36,019 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-18 11:01:36,442 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 11:01:38,179 - INFO - 等待 2.00 秒后重试...
+2026-01-18 11:01:40,181 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-18 11:01:40,607 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 11:01:42,535 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-18 11:01:43,601 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-18 11:01:48,762 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-18 11:01:51,059 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-18 11:01:53,664 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-18 11:01:55,519 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-18 11:01:58,466 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-18 11:02:00,817 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-18 11:02:03,270 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 57 个条目
+2026-01-18 11:02:03,274 - INFO - 总共拉取到 57 个新条目
+2026-01-18 11:02:03,285 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 57 个条目
+2026-01-18 11:02:03,288 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-18 11:02:03,288 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 +08)" executed successfully
+2026-01-18 13:57:10,745 - WARNING - Run time of job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 +07)" was missed by 1:27:10.745161
+2026-01-18 13:57:10,746 - WARNING - Run time of job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 +07)" was missed by 1:27:10.746253
+2026-01-18 13:57:10,747 - WARNING - Run time of job "Fetch Google Trends Data - United States (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:00:00 EST)" was missed by 1:27:10.747040
+2026-01-18 13:57:10,747 - WARNING - Run time of job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 +08)" was missed by 2:27:10.747535
+2026-01-18 13:57:10,752 - WARNING - Run time of job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 IST)" was missed by 0:27:10.752604
+2026-01-18 14:00:00,010 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 AEDT)" (scheduled at 2026-01-18 17:00:00+11:00)
+2026-01-18 14:00:00,012 - INFO - Running job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 IST)" (scheduled at 2026-01-18 11:30:00+05:30)
+2026-01-18 14:00:00,013 - INFO - 开始抓取国家: Australia 的数据
+2026-01-18 14:00:00,014 - INFO - 开始抓取国家: India 的数据
+2026-01-18 14:00:00,015 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 14:00:00,016 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 14:00:00,019 - INFO - 开始拉取 Australia 的数据...
+2026-01-18 14:00:00,020 - INFO - 开始拉取 India 的数据...
+2026-01-18 14:00:00,021 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-18 14:00:00,021 - INFO - 正在拉取 Rajasthan (IN-RJ) 的数据... (尝试 1/3)
+2026-01-18 14:00:04,772 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-18 14:00:05,149 - INFO - 正在拉取 Delhi (IN-DL) 的数据... (尝试 1/3)
+2026-01-18 14:00:07,125 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-18 14:00:07,552 - INFO - 正在拉取 Maharashtra (IN-MH) 的数据... (尝试 1/3)
+2026-01-18 14:00:09,256 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-18 14:00:09,826 - INFO - 正在拉取 Tamil Nadu (IN-TN) 的数据... (尝试 1/3)
+2026-01-18 14:00:11,771 - INFO - 正在拉取 Uttar Pradesh (IN-UP) 的数据... (尝试 1/3)
+2026-01-18 14:00:11,839 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 14:00:11,842 - INFO - 总共拉取到 40 个新条目
+2026-01-18 14:00:11,852 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 14:00:11,853 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-18 14:00:11,855 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 AEDT)" executed successfully
+2026-01-18 14:00:13,946 - INFO - 正在拉取 Andhra Pradesh (IN-AP) 的数据... (尝试 1/3)
+2026-01-18 14:00:15,953 - INFO - 正在拉取 Assam (IN-AS) 的数据... (尝试 1/3)
+2026-01-18 14:00:18,563 - INFO - 正在拉取 Karnataka (IN-KA) 的数据... (尝试 1/3)
+2026-01-18 14:00:21,062 - INFO - 正在拉取 Bihar (IN-BR) 的数据... (尝试 1/3)
+2026-01-18 14:00:22,889 - INFO - 正在拉取 Chhattisgarh (IN-CT) 的数据... (尝试 1/3)
+2026-01-18 14:00:26,150 - INFO - 正在拉取 Gujarat (IN-GJ) 的数据... (尝试 1/3)
+2026-01-18 14:00:28,107 - INFO - 正在拉取 Haryana (IN-HR) 的数据... (尝试 1/3)
+2026-01-18 14:00:30,766 - INFO - 正在拉取 Telangana (IN-TG) 的数据... (尝试 1/3)
+2026-01-18 14:00:33,718 - INFO - 正在拉取 Jharkhand (IN-JH) 的数据... (尝试 1/3)
+2026-01-18 14:00:37,122 - INFO - 正在拉取 Kerala (IN-KL) 的数据... (尝试 1/3)
+2026-01-18 14:00:40,296 - INFO - 正在拉取 West Bengal (IN-WB) 的数据... (尝试 1/3)
+2026-01-18 14:00:42,805 - INFO - 正在拉取 Madhya Pradesh (IN-MP) 的数据... (尝试 1/3)
+2026-01-18 14:00:45,155 - INFO - 正在拉取 Odisha (IN-OR) 的数据... (尝试 1/3)
+2026-01-18 14:00:47,950 - INFO - 正在拉取 Punjab (IN-PB) 的数据... (尝试 1/3)
+2026-01-18 14:00:50,426 - INFO - 正在拉取 Uttarakhand (IN-UT) 的数据... (尝试 1/3)
+2026-01-18 14:00:53,093 - INFO - 正在拉取 India(ALL Regions) (IN) 的数据... (尝试 1/3)
+2026-01-18 14:00:55,402 - INFO - 正在拉取 Chandigarh (IN-CH) 的数据... (尝试 1/3)
+2026-01-18 14:00:58,304 - INFO - 数据已保存到 JSONs\India\trends_2026-01-18.json，共 215 个条目
+2026-01-18 14:00:58,307 - INFO - 总共拉取到 215 个新条目
+2026-01-18 14:00:58,349 - INFO - 数据已保存到 JSONs\India\trends_2026-01-18.json，共 215 个条目
+2026-01-18 14:00:58,351 - INFO - 国家 India 的数据抓取和保存完成
+2026-01-18 14:00:58,352 - INFO - Job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 IST)" executed successfully
+2026-01-18 14:30:00,006 - INFO - Running job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 AEDT)" (scheduled at 2026-01-18 17:30:00+11:00)
+2026-01-18 14:30:00,007 - INFO - 开始抓取国家: Australia 的数据
+2026-01-18 14:30:00,009 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 14:30:00,009 - INFO - 开始拉取 Australia 的数据...
+2026-01-18 14:30:00,010 - INFO - 正在拉取 Australia(all region) (AU) 的数据... (尝试 1/3)
+2026-01-18 14:30:05,064 - INFO - 正在拉取 New South Wales (AU-NSW) 的数据... (尝试 1/3)
+2026-01-18 14:30:07,845 - INFO - 正在拉取 Queensland (AU-QLD) 的数据... (尝试 1/3)
+2026-01-18 14:30:10,107 - INFO - 正在拉取 Victoria (AU-VIC) 的数据... (尝试 1/3)
+2026-01-18 14:30:12,828 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 14:30:12,830 - INFO - 总共拉取到 40 个新条目
+2026-01-18 14:30:12,838 - INFO - 数据已保存到 JSONs\Australia\trends_2026-01-18.json，共 40 个条目
+2026-01-18 14:30:12,841 - INFO - 国家 Australia 的数据抓取和保存完成
+2026-01-18 14:30:12,842 - INFO - Job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 AEDT)" executed successfully
+2026-01-18 17:00:00,012 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +08)" (scheduled at 2026-01-18 17:00:00+08:00)
+2026-01-18 17:00:00,015 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-18 17:00:00,016 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 17:00:00,022 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-18 17:00:00,024 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-18 17:00:04,301 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-18 17:00:04,762 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:00:06,568 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:00:07,569 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-18 17:00:08,016 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:00:09,141 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:00:11,144 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-18 17:00:11,823 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:00:13,192 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-18 17:00:14,617 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-18 17:00:15,295 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:00:17,224 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:00:18,226 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-18 17:00:18,659 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:00:19,946 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:00:21,947 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-18 17:00:22,373 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:00:24,285 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-18 17:00:26,023 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-18 17:00:26,452 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:00:28,249 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:00:29,251 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-18 17:00:29,690 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:00:31,641 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:00:33,643 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-18 17:00:34,060 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:00:35,947 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-18 17:00:37,496 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-18 17:00:38,178 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:00:39,381 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:00:40,383 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-18 17:00:40,804 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:00:42,713 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:00:44,715 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-18 17:00:45,162 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:00:46,642 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-18 17:00:48,183 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-18 17:00:48,616 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:00:49,989 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:00:50,991 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-18 17:00:51,422 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:00:52,569 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:00:54,571 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-18 17:00:55,015 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:00:56,711 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-18 17:00:58,206 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-18 17:00:58,637 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:01:00,315 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:01:01,317 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-18 17:01:01,749 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:01:03,682 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:01:05,684 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-18 17:01:06,118 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:01:07,702 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-18 17:01:09,692 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-18 17:01:10,130 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:01:11,659 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:01:12,663 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-18 17:01:13,112 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:01:14,333 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:01:16,335 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-18 17:01:16,768 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:01:18,729 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-18 17:01:19,734 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-18 17:01:20,166 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:01:21,242 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:01:22,244 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-18 17:01:22,679 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:01:24,283 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:01:26,289 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-18 17:01:26,722 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:01:28,440 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-18 17:01:30,142 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-18 17:01:30,582 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:01:32,336 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:01:33,338 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-18 17:01:33,764 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:01:35,243 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:01:37,244 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-18 17:01:37,684 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:01:38,971 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-18 17:01:40,006 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-18 17:01:42,074 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-18 17:01:44,468 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-18 17:01:48,230 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-18 17:01:50,625 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-18 17:01:52,978 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-18 17:01:55,435 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-18 17:01:58,417 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 56 个条目
+2026-01-18 17:01:58,420 - INFO - 总共拉取到 56 个新条目
+2026-01-18 17:01:58,428 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 56 个条目
+2026-01-18 17:01:58,428 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-18 17:01:58,429 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +08)" executed successfully
+2026-01-18 17:30:00,005 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 +08)" (scheduled at 2026-01-18 17:30:00+08:00)
+2026-01-18 17:30:00,008 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-18 17:30:00,009 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 17:30:00,010 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-18 17:30:00,013 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-18 17:30:03,689 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-18 17:30:04,142 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:30:05,312 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:06,317 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-18 17:30:06,973 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:30:08,338 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:30:10,346 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-18 17:30:10,785 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 17:30:12,765 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-18 17:30:13,775 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-18 17:30:14,426 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:30:16,265 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:17,274 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-18 17:30:17,698 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:30:19,467 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:30:21,471 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-18 17:30:21,898 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 17:30:23,498 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-18 17:30:25,255 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-18 17:30:25,685 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:30:26,778 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:27,780 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-18 17:30:28,201 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:30:30,139 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:30:32,141 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-18 17:30:32,791 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 17:30:34,677 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-18 17:30:35,918 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-18 17:30:36,337 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:30:37,735 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:38,738 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-18 17:30:39,162 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:30:40,226 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:30:42,228 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-18 17:30:42,659 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 17:30:44,540 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-18 17:30:46,522 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-18 17:30:47,174 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:30:48,791 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:49,793 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-18 17:30:50,220 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:30:51,364 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:30:53,365 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-18 17:30:53,791 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 17:30:55,051 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-18 17:30:56,453 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-18 17:30:57,484 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:30:58,690 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:30:59,692 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-18 17:31:00,127 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:31:01,392 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:31:03,394 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-18 17:31:03,824 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 17:31:04,950 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-18 17:31:06,169 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-18 17:31:06,597 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:31:08,088 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:31:09,090 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-18 17:31:09,507 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:31:10,538 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:31:12,540 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-18 17:31:12,963 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 17:31:14,388 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-18 17:31:15,903 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-18 17:31:16,321 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:31:17,693 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:31:18,695 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-18 17:31:19,114 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:31:21,007 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:31:23,009 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-18 17:31:23,428 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 17:31:24,606 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-18 17:31:25,700 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-18 17:31:26,127 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:31:27,516 - INFO - 等待 1.00 秒后重试...
+2026-01-18 17:31:28,519 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-18 17:31:29,550 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:31:30,915 - INFO - 等待 2.00 秒后重试...
+2026-01-18 17:31:32,916 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-18 17:31:33,339 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 17:31:34,693 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-18 17:31:36,502 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-18 17:31:38,676 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-18 17:31:40,865 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-18 17:31:43,532 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-18 17:31:45,972 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-18 17:31:48,397 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-18 17:31:50,899 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-18 17:31:52,759 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 56 个条目
+2026-01-18 17:31:52,762 - INFO - 总共拉取到 56 个新条目
+2026-01-18 17:31:52,773 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 56 个条目
+2026-01-18 17:31:52,774 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-18 17:31:52,774 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 +08)" executed successfully
+2026-01-18 18:00:00,018 - INFO - Running job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 CET)" (scheduled at 2026-01-18 11:00:00+01:00)
+2026-01-18 18:00:00,018 - INFO - Running job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +07)" (scheduled at 2026-01-18 17:00:00+07:00)
+2026-01-18 18:00:00,019 - INFO - Running job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +07)" (scheduled at 2026-01-18 17:00:00+07:00)
+2026-01-18 18:00:00,020 - INFO - 开始抓取国家: France 的数据
+2026-01-18 18:00:00,021 - INFO - 开始抓取国家: Thailand 的数据
+2026-01-18 18:00:00,022 - INFO - 开始抓取国家: Vietnam 的数据
+2026-01-18 18:00:00,023 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 18:00:00,024 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 18:00:00,025 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 18:00:00,025 - INFO - 开始拉取 France 的数据...
+2026-01-18 18:00:00,026 - INFO - 开始拉取 Thailand 的数据...
+2026-01-18 18:00:00,026 - INFO - 开始拉取 Vietnam 的数据...
+2026-01-18 18:00:00,027 - INFO - 正在拉取 France(all regions) (FR) 的数据... (尝试 1/3)
+2026-01-18 18:00:00,027 - INFO - 正在拉取 Thailand(all region) (TH) 的数据... (尝试 1/3)
+2026-01-18 18:00:00,029 - INFO - 正在拉取 Vietnam(all regions) (VN) 的数据... (尝试 1/3)
+2026-01-18 18:00:04,091 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-18.json，共 10 个条目
+2026-01-18 18:00:04,094 - INFO - 总共拉取到 10 个新条目
+2026-01-18 18:00:04,098 - INFO - 数据已保存到 JSONs\Vietnam\trends_2026-01-18.json，共 10 个条目
+2026-01-18 18:00:04,099 - INFO - 国家 Vietnam 的数据抓取和保存完成
+2026-01-18 18:00:04,100 - INFO - Job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +07)" executed successfully
+2026-01-18 18:00:04,582 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-18.json，共 10 个条目
+2026-01-18 18:00:04,585 - INFO - 总共拉取到 10 个新条目
+2026-01-18 18:00:04,589 - INFO - 数据已保存到 JSONs\Thailand\trends_2026-01-18.json，共 10 个条目
+2026-01-18 18:00:04,591 - INFO - 国家 Thailand 的数据抓取和保存完成
+2026-01-18 18:00:04,592 - INFO - Job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:30:00 +07)" executed successfully
+2026-01-18 18:00:04,676 - INFO - 正在拉取 Alsace (FR-A) 的数据... (尝试 1/3)
+2026-01-18 18:00:08,008 - INFO - 正在拉取 Aquitaine (FR-B) 的数据... (尝试 1/3)
+2026-01-18 18:00:09,962 - INFO - 正在拉取 Auvergne (FR-C) 的数据... (尝试 1/3)
+2026-01-18 18:00:12,187 - INFO - 正在拉取 Burgundy (FR-D) 的数据... (尝试 1/3)
+2026-01-18 18:00:14,498 - INFO - 正在拉取 Brittany (FR-E) 的数据... (尝试 1/3)
+2026-01-18 18:00:16,981 - INFO - 正在拉取 Centre-Val de Loire (FR-F) 的数据... (尝试 1/3)
+2026-01-18 18:00:19,697 - INFO - 正在拉取 Champagne-Ardenne (FR-G) 的数据... (尝试 1/3)
+2026-01-18 18:00:21,505 - INFO - 正在拉取 Corsica (FR-H) 的数据... (尝试 1/3)
+2026-01-18 18:00:24,249 - INFO - 正在拉取 Franche-Comte (FR-I) 的数据... (尝试 1/3)
+2026-01-18 18:00:26,443 - INFO - 正在拉取 Ile-de-France (FR-J) 的数据... (尝试 1/3)
+2026-01-18 18:00:28,798 - INFO - 正在拉取 Languedoc-Roussillon (FR-K) 的数据... (尝试 1/3)
+2026-01-18 18:00:31,271 - INFO - 正在拉取 Limousin (FR-L) 的数据... (尝试 1/3)
+2026-01-18 18:00:33,546 - INFO - 正在拉取 Lorraine (FR-M) 的数据... (尝试 1/3)
+2026-01-18 18:00:35,445 - INFO - 正在拉取 Midi-Pyrenees (FR-N) 的数据... (尝试 1/3)
+2026-01-18 18:00:37,292 - INFO - 正在拉取 Nord-Pas-de-Calais (FR-O) 的数据... (尝试 1/3)
+2026-01-18 18:00:39,386 - INFO - 正在拉取 Lower Normandy (FR-P) 的数据... (尝试 1/3)
+2026-01-18 18:00:41,215 - INFO - 正在拉取 Lower Normandy (FR-Q) 的数据... (尝试 1/3)
+2026-01-18 18:00:43,665 - INFO - 正在拉取 Pays de la Loire (FR-R) 的数据... (尝试 1/3)
+2026-01-18 18:00:46,554 - INFO - 正在拉取 Picardy (FR-S) 的数据... (尝试 1/3)
+2026-01-18 18:00:49,368 - INFO - 正在拉取 Poitou-Charentes (FR-T) 的数据... (尝试 1/3)
+2026-01-18 18:00:51,184 - INFO - 正在拉取 Provence-Alpes-Cote dAzur (FR-U) 的数据... (尝试 1/3)
+2026-01-18 18:00:53,548 - INFO - 正在拉取 Rhone-Alpes (FR-V) 的数据... (尝试 1/3)
+2026-01-18 18:00:56,339 - INFO - 数据已保存到 JSONs\France\trends_2026-01-18.json，共 220 个条目
+2026-01-18 18:00:56,343 - INFO - 总共拉取到 220 个新条目
+2026-01-18 18:00:56,375 - INFO - 数据已保存到 JSONs\France\trends_2026-01-18.json，共 220 个条目
+2026-01-18 18:00:56,376 - INFO - 国家 France 的数据抓取和保存完成
+2026-01-18 18:00:56,377 - INFO - Job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 11:30:00 CET)" executed successfully
+2026-01-18 23:14:47,225 - WARNING - Run time of job "Fetch Google Trends Data - France (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 CET)" was missed by 4:44:47.225035
+2026-01-18 23:14:47,225 - WARNING - Run time of job "Fetch Google Trends Data - Thailand (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 +07)" was missed by 4:44:47.225410
+2026-01-18 23:14:47,225 - WARNING - Run time of job "Fetch Google Trends Data - United Kingdom (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 17:00:00 GMT)" was missed by 3:44:47.225648
+2026-01-18 23:14:47,225 - WARNING - Run time of job "Fetch Google Trends Data - Australia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-19 11:00:00 AEDT)" was missed by 2:44:47.225811
+2026-01-18 23:14:47,227 - WARNING - Run time of job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:30:00 +08)" was missed by 0:14:47.227146
+2026-01-18 23:14:47,227 - WARNING - Run time of job "Fetch Google Trends Data - India (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 IST)" was missed by 3:14:47.227370
+2026-01-18 23:14:47,227 - WARNING - Run time of job "Fetch Google Trends Data - Vietnam (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-18 23:00:00 +07)" was missed by 4:44:47.227487
+2026-01-18 23:30:00,006 - INFO - Running job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-19 11:00:00 +08)" (scheduled at 2026-01-18 23:30:00+08:00)
+2026-01-18 23:30:00,011 - INFO - 开始抓取国家: Malaysia 的数据
+2026-01-18 23:30:00,014 - INFO - 已启用代理: http://127.0.0.1:10808
+2026-01-18 23:30:00,016 - INFO - 开始拉取 Malaysia 的数据...
+2026-01-18 23:30:00,019 - INFO - 正在拉取 Malaysia(all region) (MY) 的数据... (尝试 1/3)
+2026-01-18 23:30:05,290 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 1/3)
+2026-01-18 23:30:09,691 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 23:30:11,047 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:30:12,049 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 2/3)
+2026-01-18 23:30:12,505 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 23:30:13,696 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:30:15,698 - INFO - 正在拉取 Johor (MY-1) 的数据... (尝试 3/3)
+2026-01-18 23:30:16,157 - WARNING - 拉取 Johor 数据失败，状态码: 400
+2026-01-18 23:30:17,889 - ERROR - 拉取 Johor 数据失败 (已重试 3 次)
+2026-01-18 23:30:19,802 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 1/3)
+2026-01-18 23:30:20,255 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 23:30:21,449 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:30:22,451 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 2/3)
+2026-01-18 23:30:22,904 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 23:30:24,224 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:30:26,227 - INFO - 正在拉取 Kedah (MY-2) 的数据... (尝试 3/3)
+2026-01-18 23:30:28,435 - WARNING - 拉取 Kedah 数据失败，状态码: 400
+2026-01-18 23:30:29,599 - ERROR - 拉取 Kedah 数据失败 (已重试 3 次)
+2026-01-18 23:30:30,717 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 1/3)
+2026-01-18 23:30:31,467 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 23:30:32,950 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:30:33,952 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 2/3)
+2026-01-18 23:30:34,395 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 23:30:35,449 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:30:37,452 - INFO - 正在拉取 Kelantan (MY-3) 的数据... (尝试 3/3)
+2026-01-18 23:30:37,896 - WARNING - 拉取 Kelantan 数据失败，状态码: 400
+2026-01-18 23:30:39,838 - ERROR - 拉取 Kelantan 数据失败 (已重试 3 次)
+2026-01-18 23:30:41,248 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 1/3)
+2026-01-18 23:30:41,689 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 23:30:43,265 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:30:44,266 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 2/3)
+2026-01-18 23:30:44,721 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 23:30:46,066 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:30:48,067 - INFO - 正在拉取 Malacca (MY-4) 的数据... (尝试 3/3)
+2026-01-18 23:30:49,373 - WARNING - 拉取 Malacca 数据失败，状态码: 400
+2026-01-18 23:30:50,734 - ERROR - 拉取 Malacca 数据失败 (已重试 3 次)
+2026-01-18 23:30:52,520 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 1/3)
+2026-01-18 23:30:52,981 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 23:30:54,305 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:30:55,306 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 2/3)
+2026-01-18 23:30:56,009 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 23:30:57,293 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:30:59,294 - INFO - 正在拉取 Negeri Sembilan (MY-5) 的数据... (尝试 3/3)
+2026-01-18 23:31:00,403 - WARNING - 拉取 Negeri Sembilan 数据失败，状态码: 400
+2026-01-18 23:31:02,299 - ERROR - 拉取 Negeri Sembilan 数据失败 (已重试 3 次)
+2026-01-18 23:31:04,216 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 1/3)
+2026-01-18 23:31:05,487 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 23:31:07,132 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:31:08,133 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 2/3)
+2026-01-18 23:31:08,605 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 23:31:09,613 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:31:11,614 - INFO - 正在拉取 Pahang (MY-6) 的数据... (尝试 3/3)
+2026-01-18 23:31:12,066 - WARNING - 拉取 Pahang 数据失败，状态码: 400
+2026-01-18 23:31:13,479 - ERROR - 拉取 Pahang 数据失败 (已重试 3 次)
+2026-01-18 23:31:15,326 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 1/3)
+2026-01-18 23:31:15,775 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 23:31:17,069 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:31:18,071 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 2/3)
+2026-01-18 23:31:18,518 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 23:31:20,441 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:31:22,444 - INFO - 正在拉取 Penang (MY-7) 的数据... (尝试 3/3)
+2026-01-18 23:31:22,918 - WARNING - 拉取 Penang 数据失败，状态码: 400
+2026-01-18 23:31:24,560 - ERROR - 拉取 Penang 数据失败 (已重试 3 次)
+2026-01-18 23:31:25,689 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 1/3)
+2026-01-18 23:31:26,597 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 23:31:28,022 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:31:29,023 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 2/3)
+2026-01-18 23:31:29,482 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 23:31:30,875 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:31:32,877 - INFO - 正在拉取 Perak (MY-8) 的数据... (尝试 3/3)
+2026-01-18 23:31:33,326 - WARNING - 拉取 Perak 数据失败，状态码: 400
+2026-01-18 23:31:34,671 - ERROR - 拉取 Perak 数据失败 (已重试 3 次)
+2026-01-18 23:31:35,954 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 1/3)
+2026-01-18 23:31:36,665 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 23:31:38,405 - INFO - 等待 1.00 秒后重试...
+2026-01-18 23:31:39,406 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 2/3)
+2026-01-18 23:31:40,363 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 23:31:41,504 - INFO - 等待 2.00 秒后重试...
+2026-01-18 23:31:43,508 - INFO - 正在拉取 Perlis (MY-9) 的数据... (尝试 3/3)
+2026-01-18 23:31:44,209 - WARNING - 拉取 Perlis 数据失败，状态码: 400
+2026-01-18 23:31:45,926 - ERROR - 拉取 Perlis 数据失败 (已重试 3 次)
+2026-01-18 23:31:47,884 - INFO - 正在拉取 Selangor (MY-10) 的数据... (尝试 1/3)
+2026-01-18 23:31:50,256 - INFO - 正在拉取 Terengganu (MY-11) 的数据... (尝试 1/3)
+2026-01-18 23:31:53,034 - INFO - 正在拉取 Sabah (MY-12) 的数据... (尝试 1/3)
+2026-01-18 23:31:56,493 - INFO - 正在拉取 Sarawak (MY-13) 的数据... (尝试 1/3)
+2026-01-18 23:31:58,858 - INFO - 正在拉取 Federal Territory of Kuala Lumpur (MY-14) 的数据... (尝试 1/3)
+2026-01-18 23:32:01,522 - INFO - 正在拉取 Labuan Federal Territory (MY-15) 的数据... (尝试 1/3)
+2026-01-18 23:32:04,177 - INFO - 正在拉取 Putrajaya (MY-16) 的数据... (尝试 1/3)
+2026-01-18 23:32:06,479 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 51 个条目
+2026-01-18 23:32:06,485 - INFO - 总共拉取到 51 个新条目
+2026-01-18 23:32:06,500 - INFO - 数据已保存到 JSONs\Malaysia\trends_2026-01-18.json，共 51 个条目
+2026-01-18 23:32:06,501 - INFO - 国家 Malaysia 的数据抓取和保存完成
+2026-01-18 23:32:06,502 - INFO - Job "Fetch Google Trends Data - Malaysia (trigger: cron[month='*', day='*', day_of_week='*', hour='11,17,23', minute='0,30'], next run at: 2026-01-19 11:00:00 +08)" executed successfully
